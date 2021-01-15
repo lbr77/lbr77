@@ -9,3 +9,8 @@
 
 Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
 
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
