@@ -59,4 +59,7 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
 <!--END_SECTION:top-followers-->
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
