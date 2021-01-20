@@ -45,6 +45,7 @@
 - [genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [TileBeautify](https://github.com/BluePointLilac/TileBeautify) - win10磁贴美化工具
 - [BMCL](https://github.com/bangbang93/BMCL) - Bangbang93's Minecraft Launcher
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 ## C++ 
 
@@ -58,7 +59,6 @@
 - [MusicDownloader](https://github.com/z52c/MusicDownloader) - /20190405凉了，有空再弄/(无损又回来啦)支持Mac系统，下载QQ音乐歌曲，下载单曲，下载歌单所有歌曲，下载专辑所有歌曲，(下载网易云音乐单曲/歌单)付费/高清/无损应该都可以(又活过来了)原qqMusicDownloader，已改名MusicDownloader，代码已重写
 - [LeetCode](https://github.com/liuchuo/LeetCode) - 🍡 LeetCode Online Judge刷题题解(Java/C++/Python/Ruby/Swift)
 - [baiduCDP](https://github.com/cool2528/baiduCDP) - 百度网盘下载神器
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 ## CSS 
 
