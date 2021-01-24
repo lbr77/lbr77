@@ -99,12 +99,14 @@
 
 ## Java 
 
+- [minecraft-python](https://github.com/Macuyiko/minecraft-python) - A Jython driven plugin and interpreter system for Minecraft (on top of Spigot)
 - [BilibiliTask](https://github.com/srcrs/BilibiliTask) - 哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。
 - [BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) - B站，哔哩哔哩（Bilibili）自动签到投币工具，每天轻松获取65经验值，支持每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能。呐！赶快和我一起成为Lv6吧！
 - [HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 
 ## JavaScript 
 
+- [OI-Wiki-export](https://github.com/OI-wiki/OI-Wiki-export) - 将 OI-Wiki 导出为印刷质量的 pdf 的工具
 - [travellings](https://github.com/volfclub/travellings) - 开往-友链接力
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Luogu-Painter](https://github.com/Early0v0/Luogu-Painter) - 洛谷「冬日绘版」自动 Paint 姬
