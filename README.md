@@ -62,8 +62,8 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
 
 <!--START_SECTION:waka-->
 ```text
-C++      1 hr 48 mins    ██████████████░░░░░░░░░░░   55.57 % 
-Python   1 hr 25 mins    ███████████░░░░░░░░░░░░░░   43.63 % 
-Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python   47 mins         ███████████████████████░░   91.98 % 
+C++      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 <!--END_SECTION:waka-->
