@@ -49,6 +49,7 @@
 
 ## C++ 
 
+- [mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [x64vcpu](https://github.com/mcfx0/x64vcpu) - 64-bit x86 CPU emulation and sandboxing.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -62,6 +63,7 @@
 
 ## CSS 
 
+- [hexo-theme-argon](https://github.com/solstice23/hexo-theme-argon) - Argon-Theme 的 Hexo 移植版
 - [Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme :  SimpleMemory
 - [hexo-theme-materialized](https://github.com/theme-materialized/hexo-theme-materialized) - A cool materialized theme for Hexo
 
@@ -152,6 +154,7 @@
 
 ## Others 
 
+- [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [chromium-win64](https://github.com/Hibbiki/chromium-win64) - Chromium builds for Windows x64
 - [key-book](https://github.com/datawhalechina/key-book) - 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：https://datawhalechina.github.io/key-book/
 - [ShameCom](https://github.com/ShameCom/ShameCom) - 收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！
@@ -173,6 +176,7 @@
 
 ## PHP 
 
+- [argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 - [DriveDirectLink](https://github.com/Kimiato/DriveDirectLink) - DriveDirectLink 网盘直链下载，支持谷歌, 蓝奏云,360云盘
 - [iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
 
@@ -212,6 +216,7 @@
 
 ## Shell 
 
+- [docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
 - [W2ray](https://github.com/0xHJK/W2ray) - 一键部署基于Docker的CDN+Websocket+SSL伪装的V2ray
 - [Shell](https://github.com/XIU2/Shell) - 🔧 自用的一些乱七八糟 Linux 脚本
