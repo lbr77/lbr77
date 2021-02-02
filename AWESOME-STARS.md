@@ -102,6 +102,7 @@
 
 ## Java 
 
+- [e5](https://github.com/luoye663/e5) - e5续订
 - [minecraft-python](https://github.com/Macuyiko/minecraft-python) - A Jython driven plugin and interpreter system for Minecraft (on top of Spigot)
 - [BilibiliTask](https://github.com/srcrs/BilibiliTask) - 哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。
 - [BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) - B站，哔哩哔哩（Bilibili）自动签到投币工具，每天轻松获取65经验值，支持每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能。呐！赶快和我一起成为Lv6吧！
@@ -109,6 +110,9 @@
 
 ## JavaScript 
 
+- [Valine-Admin](https://github.com/ComicAuthor/Valine-Admin) - 对Valin-Admin的二次开发。源作者https://github.com/DesertsP/Valine-Admin
+- [MixMusicApi](https://github.com/jsososo/MixMusicApi) - https://jsososo.github.io/MixMusicApi
+- [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
 - [vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
 - [OI-Wiki-export](https://github.com/OI-wiki/OI-Wiki-export) - 将 OI-Wiki 导出为印刷质量的 pdf 的工具
@@ -188,10 +192,12 @@
 
 ## PowerShell 
 
+- [winget-pkgs](https://github.com/oxygen-dioxide/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 
 ## Python 
 
+- [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77](https://github.com/lbr77/lbr77) - 
 - [ouuan](https://github.com/ouuan/ouuan) - Hey, ouuan here! :wave: | GitHub Actions | Top Followers | WakaTime Stats | Awesome Stars
