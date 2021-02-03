@@ -85,6 +85,7 @@
 
 ## HTML 
 
+- [Valine-Admin-Server](https://github.com/Dreamy-TZK/Valine-Admin-Server) - 自用Valine-admin。基于valine-admin的二次开发。增加了微信提醒、qq提醒、关键词屏蔽等功能。
 - [fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
 - [my-chrome-plugin](https://github.com/827652549/my-chrome-plugin) - 自定义谷歌插件
 - [Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
@@ -110,6 +111,12 @@
 
 ## JavaScript 
 
+- [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+- [material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
+- [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
+- [GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
+- [Valine-Admin](https://github.com/DesertsP/Valine-Admin) - A simple comment system based on LeanCloud and Valine. 👉
+- [promises-book](https://github.com/liubin/promises-book) - JavaScript Promise迷你书
 - [Valine-Admin](https://github.com/ComicAuthor/Valine-Admin) - 对Valin-Admin的二次开发。源作者https://github.com/DesertsP/Valine-Admin
 - [MixMusicApi](https://github.com/jsososo/MixMusicApi) - https://jsososo.github.io/MixMusicApi
 - [node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
