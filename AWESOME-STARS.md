@@ -42,6 +42,7 @@
 
 ## C# # 
 
+- [UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool) - 📃 UAC 白名单小工具！
 - [genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [TileBeautify](https://github.com/BluePointLilac/TileBeautify) - win10磁贴美化工具
 - [BMCL](https://github.com/bangbang93/BMCL) - Bangbang93's Minecraft Launcher
@@ -111,6 +112,7 @@
 
 ## JavaScript 
 
+- [twikoo](https://github.com/imaegoo/twikoo) - 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
 - [layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
@@ -247,6 +249,7 @@
 
 ## TeX 
 
+- [CardProblem](https://github.com/AllenOris/CardProblem) - “支付宝春节集五福”抽卡问题分析
 - [libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 
 ## TypeScript 
