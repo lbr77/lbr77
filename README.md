@@ -49,13 +49,6 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
       <br />
       <a href="https://github.com/chengliyi">礼仪</a>
     </td>
-    <td align="center">
-      <a href="https://github.com/bossbaby2005">
-        <img src="https://avatars2.githubusercontent.com/u/34993620" width="100px;" alt="bossbaby2005"/>
-      </a>
-      <br />
-      <a href="https://github.com/bossbaby2005">bossbaby2005</a>
-    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
