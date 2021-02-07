@@ -43,6 +43,7 @@
 
 ## C# # 
 
+- [ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - Windows右键菜单管理程序
 - [UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool) - 📃 UAC 白名单小工具！
 - [genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [TileBeautify](https://github.com/BluePointLilac/TileBeautify) - win10磁贴美化工具
@@ -113,6 +114,7 @@
 
 ## JavaScript 
 
+- [NodeMail](https://github.com/Vincedream/NodeMail) - 💗 用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件
 - [twikoo](https://github.com/imaegoo/twikoo) - 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
