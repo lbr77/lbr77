@@ -114,6 +114,7 @@
 
 ## JavaScript 
 
+- [HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:无服务器Hexo后端,支持文章编辑,自带图床功能.目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说、Twikoo加强版、阅读量统计【尚未完成】
 - [NodeMail](https://github.com/Vincedream/NodeMail) - 💗 用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件
 - [twikoo](https://github.com/imaegoo/twikoo) - 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -172,6 +173,7 @@
 
 ## Others 
 
+- [1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [chromium-win64](https://github.com/Hibbiki/chromium-win64) - Chromium builds for Windows x64
 - [key-book](https://github.com/datawhalechina/key-book) - 《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：https://datawhalechina.github.io/key-book/
@@ -209,6 +211,9 @@
 
 ## Python 
 
+- [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic) - ✨Valine/MiniValine/Waline自定义表情列表，为你的表情库“喜加亿”
+- [FODI](https://github.com/vcheckzen/FODI) - Fast OneDrive Index，OneDrive 秒级列表程序
+- [tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
 - [Anime-API](https://github.com/zaxtyson/Anime-API) - 通过本地 Web 接口获取第三方网站的动漫和弹幕资源, 支持扩展
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
