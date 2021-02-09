@@ -114,6 +114,7 @@
 
 ## JavaScript 
 
+- [OwO](https://github.com/DIYgod/OwO) - :lollipop: Lovely Emoticon and Emoji Keyboard for input
 - [HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:无服务器Hexo后端,支持文章编辑,自带图床功能.目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说、Twikoo加强版、阅读量统计【尚未完成】
 - [NodeMail](https://github.com/Vincedream/NodeMail) - 💗 用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件
 - [twikoo](https://github.com/imaegoo/twikoo) - 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
@@ -173,6 +174,8 @@
 
 ## Others 
 
+- [____-help-me-download](https://github.com/ChenYFan-Tester/____-help-me-download) - 利用各类集成部署下载任意文件
+- [CloudFlare2Vercel](https://github.com/HexoPlusPlus/CloudFlare2Vercel) - :zap:Vercel中继CloudFlareWorker脚本
 - [1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [chromium-win64](https://github.com/Hibbiki/chromium-win64) - Chromium builds for Windows x64
@@ -196,6 +199,7 @@
 
 ## PHP 
 
+- [typecho-theme-sagiri](https://github.com/shiyiya/typecho-theme-sagiri) - 🍰 As lovely as sagiri
 - [argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 - [DriveDirectLink](https://github.com/Kimiato/DriveDirectLink) - DriveDirectLink 网盘直链下载，支持谷歌, 蓝奏云,360云盘
 - [iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API) - API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封面图获取api✎12.千图网58pic无水印解析下载api✎13.喜马拉雅主播FM数据采集api✎14.网易云音乐api✎15.CCTV央视网视频解析api✎16.微信运动刷步数api✎17.皮皮搞笑APP短视频无水印解析api✎18.皮皮虾短视频去水印解析✎19.蓝奏云直链解析✎20.千库网无水印解析✎21.17素材网免VIP解析✎22.快手短视频去水印解析✎23.微视短视频去水印解析)
@@ -211,6 +215,7 @@
 
 ## Python 
 
+- [Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表
 - [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic) - ✨Valine/MiniValine/Waline自定义表情列表，为你的表情库“喜加亿”
 - [FODI](https://github.com/vcheckzen/FODI) - Fast OneDrive Index，OneDrive 秒级列表程序
 - [tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
@@ -279,6 +284,7 @@
 
 ## Vue 
 
+- [picx](https://github.com/XPoet/picx) - 基于 GitHub API 搭建的图床神器，图片外链使用 jsDelivr 进行 CDN 加速，免下载安装，打开网站即可使用。免费、稳定、高效。
 - [color-manager](https://github.com/xiaou66/color-manager) - uTools 颜色插件
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
 - [NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
