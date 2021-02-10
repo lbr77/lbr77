@@ -66,6 +66,7 @@
 
 ## CSS 
 
+- [hexo-theme-icarus](https://github.com/qwqcode/hexo-theme-icarus) - 二次开发 Hexo 主题
 - [hexo-theme-argon](https://github.com/solstice23/hexo-theme-argon) - Argon-Theme 的 Hexo 移植版
 - [Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme :  SimpleMemory
 - [hexo-theme-materialized](https://github.com/theme-materialized/hexo-theme-materialized) - A cool materialized theme for Hexo
@@ -88,6 +89,7 @@
 
 ## HTML 
 
+- [2X-ercha.github.io](https://github.com/2X-ercha/2X-ercha.github.io) - ercha's blog
 - [Valine-Admin-Server](https://github.com/Dreamy-TZK/Valine-Admin-Server) - 自用Valine-admin。基于valine-admin的二次开发。增加了微信提醒、qq提醒、关键词屏蔽等功能。
 - [fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
 - [my-chrome-plugin](https://github.com/827652549/my-chrome-plugin) - 自定义谷歌插件
@@ -115,7 +117,7 @@
 ## JavaScript 
 
 - [OwO](https://github.com/DIYgod/OwO) - :lollipop: Lovely Emoticon and Emoji Keyboard for input
-- [HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:无服务器Hexo后端,支持文章编辑,自带图床功能.目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说、Twikoo加强版、阅读量统计【尚未完成】
+- [HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说、Twikoo加强版、阅读量统计【尚未完成】]
 - [NodeMail](https://github.com/Vincedream/NodeMail) - 💗 用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件
 - [twikoo](https://github.com/imaegoo/twikoo) - 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -174,6 +176,8 @@
 
 ## Others 
 
+- [hexo-theme-icarus-1](https://github.com/lbr77/hexo-theme-icarus-1) - 二次开发 Hexo 主题
+- [PanList](https://github.com/ChenYFan/PanList) - ☁️ A netdisk Directory Index, built with CloudFlare Workers.
 - [____-help-me-download](https://github.com/ChenYFan-Tester/____-help-me-download) - 利用各类集成部署下载任意文件
 - [CloudFlare2Vercel](https://github.com/HexoPlusPlus/CloudFlare2Vercel) - :zap:Vercel中继CloudFlareWorker脚本
 - [1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
@@ -199,6 +203,7 @@
 
 ## PHP 
 
+- [OLAINDEX](https://github.com/WangNingkai/OLAINDEX) - ✨ Another OneDrive Directory Index
 - [typecho-theme-sagiri](https://github.com/shiyiya/typecho-theme-sagiri) - 🍰 As lovely as sagiri
 - [argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 - [DriveDirectLink](https://github.com/Kimiato/DriveDirectLink) - DriveDirectLink 网盘直链下载，支持谷歌, 蓝奏云,360云盘
@@ -215,6 +220,7 @@
 
 ## Python 
 
+- [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
 - [Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表
 - [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic) - ✨Valine/MiniValine/Waline自定义表情列表，为你的表情库“喜加亿”
 - [FODI](https://github.com/vcheckzen/FODI) - Fast OneDrive Index，OneDrive 秒级列表程序
