@@ -176,6 +176,8 @@
 
 ## Others 
 
+- [BurpSuite-collections](https://github.com/Prodject/BurpSuite-collections) - BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程，欢迎添砖加瓦---burpsuite-pro burpsuite-extender burpsuite cracked-version hackbar hacktools fuzzing fuzz-testing burp-plugin burp-extensions bapp-store brute-force-attacks brute-force-passwords waf sqlmap jar
+- [BurpSuiteCn](https://github.com/funkyoummp/BurpSuiteCn) - Burp Suite  汉化 中文
 - [hexo-theme-icarus-1](https://github.com/lbr77/hexo-theme-icarus-1) - 二次开发 Hexo 主题
 - [PanList](https://github.com/ChenYFan/PanList) - ☁️ A netdisk Directory Index, built with CloudFlare Workers.
 - [____-help-me-download](https://github.com/ChenYFan-Tester/____-help-me-download) - 利用各类集成部署下载任意文件
@@ -229,7 +231,7 @@
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan](https://github.com/ouuan/ouuan) - Hey, ouuan here! :wave: | GitHub Actions | Top Followers | WakaTime Stats | Awesome Stars
+- [ouuan](https://github.com/ouuan/ouuan) - If you are forking, star it :star:
 - [TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
