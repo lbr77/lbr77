@@ -29,6 +29,13 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
       <a href="https://github.com/unhappychoice">Yuji Ueki</a>
     </td>
     <td align="center">
+      <a href="https://github.com/miano-kamuru">
+        <img src="https://avatars2.githubusercontent.com/u/63651644" width="100px;" alt="miano-kamuru"/>
+      </a>
+      <br />
+      <a href="https://github.com/miano-kamuru">miano kamuru</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/2X-ercha">
         <img src="https://avatars2.githubusercontent.com/u/72645310" width="100px;" alt="2X-ercha"/>
       </a>
