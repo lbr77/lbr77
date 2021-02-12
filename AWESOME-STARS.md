@@ -91,6 +91,7 @@
 
 - [2X-ercha.github.io](https://github.com/2X-ercha/2X-ercha.github.io) - ercha's blog
 - [Valine-Admin-Server](https://github.com/Dreamy-TZK/Valine-Admin-Server) - 自用Valine-admin。基于valine-admin的二次开发。增加了微信提醒、qq提醒、关键词屏蔽等功能。
+- [travellings](https://github.com/volfclub/travellings) - 开往-友链接力
 - [fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
 - [my-chrome-plugin](https://github.com/827652549/my-chrome-plugin) - 自定义谷歌插件
 - [Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
@@ -132,7 +133,6 @@
 - [goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
 - [vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
 - [OI-Wiki-export](https://github.com/OI-wiki/OI-Wiki-export) - 将 OI-Wiki 导出为印刷质量的 pdf 的工具
-- [travellings](https://github.com/volfclub/travellings) - 开往-友链接力
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Luogu-Painter](https://github.com/Early0v0/Luogu-Painter) - 洛谷「冬日绘版」自动 Paint 姬
 - [cloudworker](https://github.com/dollarshaveclub/cloudworker) - Run Cloudflare Worker scripts locally
@@ -222,6 +222,7 @@
 
 ## Python 
 
+- [hexo-circle-of-friends](https://github.com/Zfour/hexo-circle-of-friends) - 
 - [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
 - [Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表
 - [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic) - ✨Valine/MiniValine/Waline自定义表情列表，为你的表情库“喜加亿”
@@ -255,6 +256,7 @@
 
 ## Shell 
 
+- [Onekey-Open-BT-panel-ssl-with-domain](https://github.com/Mr-xn/Onekey-Open-BT-panel-ssl-with-domain) - 宝塔(bt.cn)面板开启域名登录并且使用域名证书,解决浏览器信任证书问题,强迫症福音@_@
 - [docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
 - [W2ray](https://github.com/0xHJK/W2ray) - 一键部署基于Docker的CDN+Websocket+SSL伪装的V2ray
