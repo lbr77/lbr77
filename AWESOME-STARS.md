@@ -11,6 +11,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
   - [Go](#go)
   - [HTML](#html)
   - [Java](#java)
@@ -74,6 +75,10 @@
 ## CoffeeScript 
 
 - [shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku) - 一键部署 Free Shadowsocks-Heroku
+
+## Dart 
+
+- [DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
 
 ## Go 
 
@@ -222,7 +227,9 @@
 
 ## Python 
 
-- [hexo-circle-of-friends](https://github.com/Zfour/hexo-circle-of-friends) - 
+- [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
+- [XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
+- [hexo-circle-of-friends](https://github.com/Zfour/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
 - [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
 - [Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表
 - [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic) - ✨Valine/MiniValine/Waline自定义表情列表，为你的表情库“喜加亿”
@@ -256,6 +263,7 @@
 
 ## Shell 
 
+- [CheckSSL](https://github.com/SukkaW/CheckSSL) - :lock:Check your site's SSL status using curl & bash
 - [Onekey-Open-BT-panel-ssl-with-domain](https://github.com/Mr-xn/Onekey-Open-BT-panel-ssl-with-domain) - 宝塔(bt.cn)面板开启域名登录并且使用域名证书,解决浏览器信任证书问题,强迫症福音@_@
 - [docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - Build OpenWrt using GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
