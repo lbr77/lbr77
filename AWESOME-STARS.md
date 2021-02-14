@@ -82,6 +82,7 @@
 
 ## Go 
 
+- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩 测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！⭐++
 - [gorched](https://github.com/zladovan/gorched) - Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
 - [FastestBilibiliDownloader](https://github.com/sodaling/FastestBilibiliDownloader) - B站视频极速批量下载器|The fastest Bilibili video downloader
 - [BaiduPCS-Go](https://github.com/felixonmars/BaiduPCS-Go) - Re-upload of iikira/BaiduPCS-Go
@@ -181,6 +182,7 @@
 
 ## Others 
 
+- [genshin-impact.loader](https://github.com/leeza007/genshin-impact.loader) - 💉 Genshin Impact - Loader: Easily inject into miHoYo's Genshin Impact
 - [BurpSuite-collections](https://github.com/Prodject/BurpSuite-collections) - BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程，欢迎添砖加瓦---burpsuite-pro burpsuite-extender burpsuite cracked-version hackbar hacktools fuzzing fuzz-testing burp-plugin burp-extensions bapp-store brute-force-attacks brute-force-passwords waf sqlmap jar
 - [BurpSuiteCn](https://github.com/funkyoummp/BurpSuiteCn) - Burp Suite  汉化 中文
 - [hexo-theme-icarus-1](https://github.com/lbr77/hexo-theme-icarus-1) - 二次开发 Hexo 主题
