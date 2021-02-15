@@ -43,6 +43,13 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
       <a href="https://github.com/2X-ercha">noionion</a>
     </td>
     <td align="center">
+      <a href="https://github.com/wayne0926">
+        <img src="https://avatars2.githubusercontent.com/u/63389859" width="100px;" alt="wayne0926"/>
+      </a>
+      <br />
+      <a href="https://github.com/wayne0926">时过境迁Wayne</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/frank1221">
         <img src="https://avatars2.githubusercontent.com/u/67230058" width="100px;" alt="frank1221"/>
       </a>
@@ -56,6 +63,8 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
       <br />
       <a href="https://github.com/leisiyu1">leisiyu1</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/chengliyi">
         <img src="https://avatars2.githubusercontent.com/u/42287615" width="100px;" alt="chengliyi"/>
