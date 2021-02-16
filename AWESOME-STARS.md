@@ -229,6 +229,7 @@
 
 ## Python 
 
+- [EUserv_extend](https://github.com/CokeMine/EUserv_extend) - A simple Python Script help you renew free EUserv IPv6 VPS
 - [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [hexo-circle-of-friends](https://github.com/Zfour/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
