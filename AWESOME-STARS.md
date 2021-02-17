@@ -82,6 +82,7 @@
 
 ## Go 
 
+- [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩 测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！⭐++
 - [gorched](https://github.com/zladovan/gorched) - Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
 - [FastestBilibiliDownloader](https://github.com/sodaling/FastestBilibiliDownloader) - B站视频极速批量下载器|The fastest Bilibili video downloader
@@ -229,6 +230,7 @@
 
 ## Python 
 
+- [CTFCrackTools](https://github.com/Acmesec/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
 - [EUserv_extend](https://github.com/CokeMine/EUserv_extend) - A simple Python Script help you renew free EUserv IPv6 VPS
 - [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
@@ -242,7 +244,7 @@
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan](https://github.com/ouuan/ouuan) - If you are forking, star it :star:
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome profile README
 - [TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
