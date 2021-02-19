@@ -25,6 +25,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Shell](#shell)
+  - [Standard ML](#standard-ml)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -82,6 +83,7 @@
 
 ## Go 
 
+- [E5SubBot](https://github.com/iyear/E5SubBot) - A Simple Telebot for E5 Renewal
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩 测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！⭐++
 - [gorched](https://github.com/zladovan/gorched) - Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
@@ -124,6 +126,9 @@
 
 ## JavaScript 
 
+- [clean-css](https://github.com/jakubpawlowicz/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
+- [genshin-impact-card](https://github.com/journey-ad/genshin-impact-card) - 原神玩家信息卡片生成工具
+- [hexo-theme-icarus](https://github.com/imaegoo/hexo-theme-icarus) - 魔改版 Hexo Icarus 主题
 - [OwO](https://github.com/DIYgod/OwO) - :lollipop: Lovely Emoticon and Emoji Keyboard for input
 - [HexoPlusPlus](https://github.com/HexoPlusPlus/HexoPlusPlus) - :gift:基于CloudFlareWorker的无服务器Hexo后端,目标:解决静态博客所有痛点[文章编辑、图片上传、博主活跃信息统计、博主说说、Twikoo加强版、阅读量统计【尚未完成】]
 - [NodeMail](https://github.com/Vincedream/NodeMail) - 💗 用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件
@@ -213,6 +218,8 @@
 
 ## PHP 
 
+- [freenom](https://github.com/luolongfei/freenom) - Freenom域名自动续期。Freenom domain name renews automatically.
+- [Pigeon](https://github.com/kasuganosoras/Pigeon) - 💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
 - [OLAINDEX](https://github.com/WangNingkai/OLAINDEX) - ✨ Another OneDrive Directory Index
 - [typecho-theme-sagiri](https://github.com/shiyiya/typecho-theme-sagiri) - 🍰 As lovely as sagiri
 - [argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
@@ -236,7 +243,7 @@
 - [XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [hexo-circle-of-friends](https://github.com/Zfour/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
 - [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
-- [Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表
+- [Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
 - [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic) - ✨Valine/MiniValine/Waline自定义表情列表，为你的表情库“喜加亿”
 - [FODI](https://github.com/vcheckzen/FODI) - Fast OneDrive Index，OneDrive 秒级列表程序
 - [tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
@@ -244,7 +251,7 @@
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome profile README
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 25 stars and 51 forks.
 - [TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
@@ -279,6 +286,10 @@
 - [jsproxy](https://github.com/EtherDream/jsproxy) - 一个基于浏览器端 JS 实现的在线代理
 - [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) - GRUB2-based file manager
 - [v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray Websocket，本项目不宜做为长期使用之对策。
+
+## Standard ML 
+
+- [Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
 ## Swift 
 
