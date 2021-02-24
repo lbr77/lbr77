@@ -129,7 +129,7 @@
 ## JavaScript 
 
 - [Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [This-Repo-Has-1301-Stars](https://github.com/RealPeha/This-Repo-Has-1301-Stars) - Yes, it's true :orange_heart:
+- [This-Repo-Has-1401-Stars](https://github.com/RealPeha/This-Repo-Has-1401-Stars) - Yes, it's true :orange_heart:
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://volantis.js.org
