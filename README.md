@@ -85,10 +85,10 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
 
 <!--START_SECTION:waka-->
 ```text
-YAML         10 hrs 33 mins  ████████▓░░░░░░░░░░░░░░░░   34.19 % 
-JavaScript   6 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-C++          4 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-JSX          1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Python       1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+YAML         10 hrs 30 mins  ████████░░░░░░░░░░░░░░░░░   32.17 % 
+JavaScript   7 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.69 % 
+C++          5 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Python       1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+JSON         1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 <!--END_SECTION:waka-->
