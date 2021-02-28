@@ -103,7 +103,7 @@
 ## HTML 
 
 - [2X-ercha.github.io](https://github.com/2X-ercha/2X-ercha.github.io) - ercha's blog
-- [Valine-Admin-Server](https://github.com/Dreamy-TZK/Valine-Admin-Server) - 自用Valine-admin。基于valine-admin的二次开发。增加了微信提醒、qq提醒、关键词屏蔽等功能。
+- [Valine-Admin-Server](https://github.com/DreamyTZK/Valine-Admin-Server) - 自用Valine-admin。基于valine-admin的二次开发。增加了微信提醒、qq提醒、关键词屏蔽等功能。
 - [fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
 - [my-chrome-plugin](https://github.com/827652549/my-chrome-plugin) - 自定义谷歌插件
 - [Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
@@ -132,7 +132,7 @@
 - [cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
 - [Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [This-Repo-Has-1499-Stars](https://github.com/RealPeha/This-Repo-Has-1499-Stars) - Yes, it's true :orange_heart:
+- [This-Repo-Has-1528-Stars](https://github.com/RealPeha/This-Repo-Has-1528-Stars) - Yes, it's true :purple_heart:
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://volantis.js.org
