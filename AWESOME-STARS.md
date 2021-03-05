@@ -129,10 +129,11 @@
 
 ## JavaScript 
 
+- [friend-spider](https://github.com/DreamyTZK/friend-spider) - 一个用于爬取GitHub/gitee等平台中issue友链的项目。
 - [cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
 - [Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [This-Repo-Has-1572-Stars](https://github.com/RealPeha/This-Repo-Has-1572-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1582-Stars](https://github.com/RealPeha/This-Repo-Has-1582-Stars) - Yes, it's true :purple_heart:
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://volantis.js.org
@@ -251,6 +252,7 @@
 
 ## Python 
 
+- [baidu-url-submit-by-using-sitemap](https://github.com/jalenchuh/baidu-url-submit-by-using-sitemap) - 🚀 自动提取 sitemap 中的链接，并利用百度 API 进行推送，提升网站收录速度。
 - [cyaron](https://github.com/luogu-dev/cyaron) - CYaRon: Yet Another Random Olympic-iNformatics test data generator
 - [CTFCrackTools](https://github.com/Acmesec/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
 - [EUserv_extend](https://github.com/CokeMine/EUserv_extend) - A simple Python Script help you renew free EUserv IPv6 VPS
@@ -290,6 +292,7 @@
 
 ## Shell 
 
+- [Aria2-Pro-Core](https://github.com/P3TERX/Aria2-Pro-Core) - Aria2 static binaries for GNU/Linux with some powerful feature patches. |  破解无限线程 防掉线程优化 静态编译 二进制文件 增强版
 - [dotfiles](https://github.com/SukkaW/dotfiles) - 🔧 My development environment and config
 - [CheckSSL](https://github.com/SukkaW/CheckSSL) - :lock:Check your site's SSL status using curl & bash
 - [Onekey-Open-BT-panel-ssl-with-domain](https://github.com/Mr-xn/Onekey-Open-BT-panel-ssl-with-domain) - 宝塔(bt.cn)面板开启域名登录并且使用域名证书,解决浏览器信任证书问题,强迫症福音@_@
@@ -338,6 +341,7 @@
 
 ## Vue 
 
+- [gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog) - A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
 - [picx](https://github.com/XPoet/picx) - 基于 GitHub API 搭建的图床神器，图片外链使用 jsDelivr 进行 CDN 加速，免下载安装，打开网站即可使用。免费、稳定、高效。
 - [color-manager](https://github.com/xiaou66/color-manager) - uTools 颜色插件
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 150k+ developers. https://hoppscotch.io
