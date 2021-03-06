@@ -29,6 +29,13 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
       <a href="https://github.com/unhappychoice">Yuji Ueki</a>
     </td>
     <td align="center">
+      <a href="https://github.com/DeSireFire">
+        <img src="https://avatars2.githubusercontent.com/u/18726905" width="100px;" alt="DeSireFire"/>
+      </a>
+      <br />
+      <a href="https://github.com/DeSireFire">RaXianch</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/miano-kamuru">
         <img src="https://avatars2.githubusercontent.com/u/63651644" width="100px;" alt="miano-kamuru"/>
       </a>
@@ -56,6 +63,8 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
       <br />
       <a href="https://github.com/wayne0926">时过境迁Wayne</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/frank1221">
         <img src="https://avatars2.githubusercontent.com/u/67230058" width="100px;" alt="frank1221"/>
@@ -63,8 +72,6 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
       <br />
       <a href="https://github.com/frank1221">frank1221</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/leisiyu1">
         <img src="https://avatars2.githubusercontent.com/u/53390868" width="100px;" alt="leisiyu1"/>
