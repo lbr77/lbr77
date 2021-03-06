@@ -129,11 +129,15 @@
 
 ## JavaScript 
 
+- [iSpeak-spider](https://github.com/DreamyTZK/iSpeak-spider) - 小康的speak，GitHub版
+- [oicq](https://github.com/takayama-lily/oicq) - Node.js实现的安卓协议QQ机器人
+- [luogu-stats-card](https://github.com/wao3/luogu-stats-card) - 动态生成洛谷个人练习数据卡片
+- [stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [friend-spider](https://github.com/DreamyTZK/friend-spider) - 一个用于爬取GitHub/gitee等平台中issue友链的项目。
 - [cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
 - [Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [This-Repo-Has-1582-Stars](https://github.com/RealPeha/This-Repo-Has-1582-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1591-Stars](https://github.com/RealPeha/This-Repo-Has-1591-Stars) - Yes, it's true :purple_heart:
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://volantis.js.org
@@ -252,13 +256,13 @@
 
 ## Python 
 
-- [baidu-url-submit-by-using-sitemap](https://github.com/jalenchuh/baidu-url-submit-by-using-sitemap) - 🚀 自动提取 sitemap 中的链接，并利用百度 API 进行推送，提升网站收录速度。
+- [url-submit](https://github.com/jalenchuh/url-submit) - 🚀 自动提取 sitemap 中的链接，并利用 API 进行推送，提升网站收录速度。
 - [cyaron](https://github.com/luogu-dev/cyaron) - CYaRon: Yet Another Random Olympic-iNformatics test data generator
 - [CTFCrackTools](https://github.com/Acmesec/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
 - [EUserv_extend](https://github.com/CokeMine/EUserv_extend) - A simple Python Script help you renew free EUserv IPv6 VPS
 - [dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-- [hexo-circle-of-friends](https://github.com/Zfour/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
+- [hexo-circle-of-friends](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
 - [YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
 - [Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
 - [Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic) - ✨Valine/MiniValine/Waline自定义表情列表，为你的表情库“喜加亿”
