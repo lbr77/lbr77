@@ -87,6 +87,7 @@
 
 ## Go 
 
+- [dandanplay-resource-service](https://github.com/LussacZheng/dandanplay-resource-service) - 弹弹play 资源搜索节点 API 实现，基于 Cloudflare Workers 或 Golang 的两种实现。 || API implementations for "dandanplay" resource search service.
 - [E5SubBot](https://github.com/iyear/E5SubBot) - A Simple Telebot for E5 Renewal
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩 测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！⭐++
@@ -137,7 +138,7 @@
 - [cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
 - [Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [This-Repo-Has-1591-Stars](https://github.com/RealPeha/This-Repo-Has-1591-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1592-Stars](https://github.com/RealPeha/This-Repo-Has-1592-Stars) - Yes, it's true :purple_heart:
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://volantis.js.org
