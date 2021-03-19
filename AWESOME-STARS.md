@@ -57,7 +57,7 @@
 ## C++ 
 
 - [mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
-- [x64vcpu](https://github.com/mcfx0/x64vcpu) - 64-bit x86 CPU emulation and sandboxing.
+- [x64vcpu](https://github.com/mcfx/x64vcpu) - 64-bit x86 CPU emulation and sandboxing.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [Code](https://github.com/metaphysis/Code) - Solutions for UVa Online Judge and Programming Challeges. Sample code in my Book.
@@ -131,6 +131,8 @@
 
 ## JavaScript 
 
+- [yuque-hexo](https://github.com/x-cold/yuque-hexo) - 同步语雀的文章到你的 Hexo 项目吧！
+- [cfworker-middware-telegraf](https://github.com/Tsuk1ko/cfworker-middware-telegraf) - Make telegraf (a telegram bot framework) useable in Cloudflare Workers
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [Easy-Hexo](https://github.com/EasyHexo/Easy-Hexo) - 🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
 - [hexo-moments-js](https://github.com/Rock-Candy-Tea/hexo-moments-js) - 通过js加载的轻量化朋友圈网页模板
@@ -244,6 +246,7 @@
 
 ## PHP 
 
+- [typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [freenom](https://github.com/FForeverand/freenom) - 
 - [freenom](https://github.com/luolongfei/freenom) - Freenom域名自动续期。Freenom domain name renews automatically.
 - [Pigeon](https://github.com/kasuganosoras/Pigeon) - 💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
@@ -264,6 +267,7 @@
 
 ## Python 
 
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [url-submit](https://github.com/jalenchuh/url-submit) - 🚀 自动提取 sitemap 中的链接，并利用 API 进行推送，提升网站收录速度。
 - [cyaron](https://github.com/luogu-dev/cyaron) - CYaRon: Yet Another Random Olympic-iNformatics test data generator
 - [CTFCrackTools](https://github.com/Acmesec/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
@@ -280,7 +284,7 @@
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 35 stars and 61 forks.
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 35 stars and 62 forks.
 - [TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
