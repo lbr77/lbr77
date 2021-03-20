@@ -87,6 +87,7 @@
 
 ## Go 
 
+- [goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [dandanplay-resource-service](https://github.com/LussacZheng/dandanplay-resource-service) - 弹弹play 资源搜索节点 API 实现，基于 Cloudflare Workers 或 Golang 的两种实现。 || API implementations for "dandanplay" resource search service.
 - [E5SubBot](https://github.com/iyear/E5SubBot) - A Simple Telebot for E5 Renewal
 - [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
@@ -103,6 +104,7 @@
 
 ## HTML 
 
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [2X-ercha.github.io](https://github.com/2X-ercha/2X-ercha.github.io) - ercha's blog
 - [Valine-Admin-Server](https://github.com/DreamyTZK/Valine-Admin-Server) - 自用Valine-admin。基于valine-admin的二次开发。增加了微信提醒、qq提醒、关键词屏蔽等功能。
 - [fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
@@ -131,6 +133,8 @@
 
 ## JavaScript 
 
+- [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [hexo-theme-aomori](https://github.com/lh1me/hexo-theme-aomori) - A Hexo Theme. Hexo 博客主题
 - [yuque-hexo](https://github.com/x-cold/yuque-hexo) - 同步语雀的文章到你的 Hexo 项目吧！
 - [cfworker-middware-telegraf](https://github.com/Tsuk1ko/cfworker-middware-telegraf) - Make telegraf (a telegram bot framework) useable in Cloudflare Workers
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -146,7 +150,7 @@
 - [cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
 - [Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [This-Repo-Has-1636-Stars](https://github.com/RealPeha/This-Repo-Has-1636-Stars) - Yes, it's true :purple_heart:
+- [This-Repo-Has-1635-Stars](https://github.com/RealPeha/This-Repo-Has-1635-Stars) - Yes, it's true :purple_heart:
 - [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://volantis.js.org
@@ -181,7 +185,6 @@
 - [syzoj](https://github.com/syzoj/syzoj) - 一个用于算法竞赛的在线评测系统。An online judge system for algorithm competition.
 - [uBlock](https://github.com/fang5566/uBlock) - uBlock - 一款支持 Chromium、Firefox 和 Safari 的高效过滤工具，快速且简洁。
 - [onedrive-cf-index](https://github.com/spencerwooo/onedrive-cf-index) - 🏵 Probably the best looking OneDrive Index around! Powered by Cloudflare Workers.
-- [baiduwp](https://github.com/TkzcM/baiduwp) - PanDownload Web, built with CloudFlare Workers
 - [Google-Internet-Assistant](https://github.com/yltx/Google-Internet-Assistant) - 能让您访问谷歌的一个插件。使用方法见Wiki。
 - [hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [funcraft](https://github.com/alibaba/funcraft) - (have) Fun with Serverless(API Gateway & Function Compute)
@@ -267,6 +270,7 @@
 
 ## Python 
 
+- [burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 一个用于伪造ip地址进行爆破的Burp Suite插件
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [url-submit](https://github.com/jalenchuh/url-submit) - 🚀 自动提取 sitemap 中的链接，并利用 API 进行推送，提升网站收录速度。
 - [cyaron](https://github.com/luogu-dev/cyaron) - CYaRon: Yet Another Random Olympic-iNformatics test data generator
@@ -284,7 +288,7 @@
 - [ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 35 stars and 62 forks.
+- [ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 35 stars and 63 forks.
 - [TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
