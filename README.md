@@ -80,6 +80,13 @@ Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
       <a href="https://github.com/frank1221">frank1221</a>
     </td>
     <td align="center">
+      <a href="https://github.com/vologo">
+        <img src="https://avatars2.githubusercontent.com/u/65098722" width="100px;" alt="vologo"/>
+      </a>
+      <br />
+      <a href="https://github.com/vologo">vologo</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/leisiyu1">
         <img src="https://avatars2.githubusercontent.com/u/53390868" width="100px;" alt="leisiyu1"/>
       </a>
