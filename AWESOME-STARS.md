@@ -151,7 +151,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 🤪  😜 阿里招p6/p7 Python Golang | gaojunqi@outlook.com | 上海张江
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1651-Stars](https://github.com/RealPeha/This-Repo-Has-1651-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1653-Stars](https://github.com/RealPeha/This-Repo-Has-1653-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://volantis.js.org
@@ -272,7 +272,7 @@
 ## Python 
 
 - [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 一个用于伪造ip地址进行爆破的Burp Suite插件
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [jalenchuh/url-submit](https://github.com/jalenchuh/url-submit) - 🚀 自动提取 sitemap 中的链接，并利用 API 进行推送，提升网站收录速度。
 - [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron) - CYaRon: Yet Another Random Olympic-iNformatics test data generator
 - [Acmesec/CTFCrackTools](https://github.com/Acmesec/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
@@ -289,7 +289,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 65 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 36 stars and 64 forks.
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
@@ -347,7 +347,7 @@
 ## TypeScript 
 
 - [syzoj/syzoj-ng-app](https://github.com/syzoj/syzoj-ng-app) - The frontend of next-generation SYZOJ
-- [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
+- [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - Hello World
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [syzoj/syzoj-ng](https://github.com/syzoj/syzoj-ng) - The API server of next-generation SYZOJ
@@ -365,7 +365,7 @@
 - [gridsome/gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog) - A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
 - [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API 开发的图床神器，图片外链使用 jsDelivr 进行 CDN 加速。免下载、免安装，打开网站即可直接使用。免费、稳定、高效。
 - [xiaou66/color-manager](https://github.com/xiaou66/color-manager) - uTools 颜色插件
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
 - [cheer-fun/pixivic-pc](https://github.com/cheer-fun/pixivic-pc) - ✨pixivic.com power by vue
 
