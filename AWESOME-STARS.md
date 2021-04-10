@@ -39,6 +39,7 @@
 
 ## C 
 
+- [Echocipher/AUTO-EARN](https://github.com/Echocipher/AUTO-EARN) - 一个利用OneForAll进行子域收集、Shodan API端口扫描、Xray漏洞Fuzz、Server酱的自动化漏洞扫描、即时通知提醒的漏洞挖掘辅助工具
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [LingDong-/magic-square-poems](https://github.com/LingDong-/magic-square-poems) - Discovering magic squares in Tang Dynasty poems
 - [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
@@ -59,6 +60,7 @@
 
 ## C++ 
 
+- [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [mcfx0/x64vcpu](https://github.com/mcfx0/x64vcpu) - 64-bit x86 CPU emulation and sandboxing.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -91,6 +93,7 @@
 
 ## Go 
 
+- [vcheckzen/LSP](https://github.com/vcheckzen/LSP) - [Pixiv、Wikipedia 直连] A local DNS and HTTPS server, using man-in-the-middle approach to bypass SNI based filtering.
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [LussacZheng/dandanplay-resource-service](https://github.com/LussacZheng/dandanplay-resource-service) - 弹弹play 资源搜索节点 API 实现，基于 Cloudflare Workers 或 Golang 的两种实现。 || API implementations for "dandanplay" resource search service.
 - [iyear/E5SubBot](https://github.com/iyear/E5SubBot) - A Simple Telebot for E5 Renewal
@@ -150,7 +153,7 @@
 - [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的纯 JS 插件
 - [ArtitalkJS/Artitalk](https://github.com/ArtitalkJS/Artitalk) - 通过leancloud实现的可实时发布说说的js
 - [DreamyTZK/iSpeak-spider](https://github.com/DreamyTZK/iSpeak-spider) - 小康的speak，GitHub版
-- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Node.js实现的安卓协议QQ机器人
+- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Node.js实现的QQ安卓协议/机器人
 - [wao3/luogu-stats-card](https://github.com/wao3/luogu-stats-card) - 动态生成洛谷个人练习数据卡片
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [DreamyTZK/friend-spider](https://github.com/DreamyTZK/friend-spider) - 一个用于爬取GitHub/gitee等平台中issue友链的项目。
@@ -299,7 +302,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 37 stars and 67 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 38 stars and 67 forks.
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
