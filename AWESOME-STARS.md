@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [vcheckzen/LSP](https://github.com/vcheckzen/LSP) - [Pixiv、Wikipedia 直连] A local DNS and HTTPS server, using man-in-the-middle approach to bypass SNI based filtering.
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
 - [LussacZheng/dandanplay-resource-service](https://github.com/LussacZheng/dandanplay-resource-service) - 弹弹play 资源搜索节点 API 实现，基于 Cloudflare Workers 或 Golang 的两种实现。 || API implementations for "dandanplay" resource search service.
@@ -326,6 +327,7 @@
 
 ## Shell 
 
+- [P3TERX/wireguard-go-builder](https://github.com/P3TERX/wireguard-go-builder) - Compiling the wireguard-go binary from source. With this binary, users are able to create WireGuard sessions without installing the kernel module.
 - [P3TERX/Aria2-Pro-Core](https://github.com/P3TERX/Aria2-Pro-Core) - Aria2 static binaries for GNU/Linux with some powerful feature patches. |  破解无限线程 防掉线程优化 静态编译 二进制文件 增强版
 - [SukkaW/dotfiles](https://github.com/SukkaW/dotfiles) - 🔧 My development environment and config
 - [SukkaW/CheckSSL](https://github.com/SukkaW/CheckSSL) - :lock:Check your site's SSL status using curl & bash
