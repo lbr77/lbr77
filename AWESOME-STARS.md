@@ -303,7 +303,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 38 stars and 68 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 38 stars and 67 forks.
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
@@ -381,7 +381,7 @@
 - [gridsome/gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog) - A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
 - [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API 开发的图床神器，图片外链使用 jsDelivr 进行 CDN 加速。免下载、免安装，打开网站即可直接使用。免费、稳定、高效。
 - [xiaou66/color-manager](https://github.com/xiaou66/color-manager) - uTools 颜色插件
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
 - [cheer-fun/pixivic-pc](https://github.com/cheer-fun/pixivic-pc) - ✨pixivic.com power by vue
 
