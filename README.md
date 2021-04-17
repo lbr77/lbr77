@@ -10,7 +10,8 @@ I'm Just a Student From No.4 Middle School@Chengdu,Sichuan,China
 ![Genshin Impact](https://genshin-card.getloli.com/17/273618005.png)
 
 I'm not good at playing this game. :)
-And I have a time limit for playing the game knowing as teenage-saving project. :(
+
+But I can only play this oncec a week since I studies in an boarding School. :(
 
 #### :sparkles: My followers
 
