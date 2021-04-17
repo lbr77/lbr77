@@ -144,6 +144,7 @@
 
 ## JavaScript 
 
+- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [chitosai/bilimini](https://github.com/chitosai/bilimini) - 藏起来！哔哩哔哩
 - [hvnobug/hexo-external-link](https://github.com/hvnobug/hexo-external-link) - Hexo plugin named `hexo-external-link`
 - [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - 在vscode中用于生成文件头部注释和函数注释的插件，经过多版迭代后，插件：支持所有主流语言,功能强大，灵活方便，文档齐全，食用简单！觉得插件不错的话，点击右上角给个Star⭐️呀~
