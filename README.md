@@ -7,6 +7,11 @@ I'm Just a Student From No.4 Middle School@Chengdu,Sichuan,China
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbr77&layout=compact)
 ---
 
+![Genshin Impact](https://genshin-card.getloli.com/17/273618005.png)
+
+I'm not good at playing this game. :)
+And I have a time limit for playing the game knowing as teenage-saving project. :(
+
 #### :sparkles: My followers
 
 Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
