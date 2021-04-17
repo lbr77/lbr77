@@ -23,6 +23,7 @@
   - [Pascal](#pascal)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
@@ -60,6 +61,7 @@
 
 ## C++ 
 
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 - [mcfx0/x64vcpu](https://github.com/mcfx0/x64vcpu) - 64-bit x86 CPU emulation and sandboxing.
@@ -93,6 +95,7 @@
 
 ## Go 
 
+- [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [vcheckzen/LSP](https://github.com/vcheckzen/LSP) - [Pixiv、Wikipedia 直连] A local DNS and HTTPS server, using man-in-the-middle approach to bypass SNI based filtering.
 - [goproxyio/goproxy](https://github.com/goproxyio/goproxy) - A global proxy for Go modules.
@@ -280,6 +283,7 @@
 
 ## Python 
 
+- [SK-415/HarukaBot](https://github.com/SK-415/HarukaBot) - 将B站UP主的动态和直播信息推送至QQ，基于 NoneBot2 开发
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, eta and very cool animations!
 - [luern0313/WindSong-Lyre-Genshin-Impact](https://github.com/luern0313/WindSong-Lyre-Genshin-Impact) - 【原神】自动演奏风物之诗琴的程序
 - [XiaoMiku01/PaimonBot](https://github.com/XiaoMiku01/PaimonBot) - 
@@ -320,6 +324,10 @@
 - [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 - [QHIO/QHIO-Search](https://github.com/QHIO/QHIO-Search) - 这是一个智能聚合引擎，欢迎参加到项目当中来
 - [0xHJK/Proxies](https://github.com/0xHJK/Proxies) - 100行Python代码快速获得一个代理池，两分钟获得数千个有效代理
+
+## Rich Text Format 
+
+- [enkerewpo/OI-Public-Library](https://github.com/enkerewpo/OI-Public-Library) - OI / ACM essays and learning materials
 
 ## Ruby 
 
