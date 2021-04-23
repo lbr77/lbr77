@@ -13,6 +13,11 @@ I'm not good at playing this game. :D
 
 Because I can only play this oncec a week since I studies in an boarding School. :(
 
+
+#### My Stars
+
+![AWESOME STARS](https://github.com/lbr77/lbr77/blob/master/AWESOME-STARS.md)
+
 #### :sparkles: My followers
 
 Follow me and wait to the second day for the list to update. 
