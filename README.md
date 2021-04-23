@@ -9,13 +9,13 @@ I'm Just a Student From No.4 Middle School@Chengdu,Sichuan,China
 
 ![Genshin Impact](https://genshin-card.getloli.com/17/273618005.png)
 
-I'm not good at playing this game. :)
+I'm not good at playing this game. :D
 
 But I can only play this oncec a week since I studies in an boarding School. :(
 
 #### :sparkles: My followers
 
-Star [lbr77/lbr77](https://github.com/lbr77/lbr77) to update this list.
+Follow me and wait to the second day for the list to update. 
 
 <!--START_SECTION:top-followers-->
 <table>
