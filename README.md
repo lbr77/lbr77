@@ -11,7 +11,7 @@ I'm Just a Student From No.4 Middle School@Chengdu,Sichuan,China
 
 I'm not good at playing this game. :D
 
-But I can only play this oncec a week since I studies in an boarding School. :(
+Because I can only play this oncec a week since I studies in an boarding School. :(
 
 #### :sparkles: My followers
 
