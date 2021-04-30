@@ -131,6 +131,6 @@ Follow me and wait to the second day for the list to update.
 
 <!--START_SECTION:waka-->
 ```text
-C++     2 hrs 13 mins   █████████████████████████   99.45 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
