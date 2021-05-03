@@ -131,6 +131,10 @@ Follow me and wait to the second day for the list to update.
 
 <!--START_SECTION:waka-->
 ```text
-C++     5 mins          ████████████████████████▒   97.54 % 
+C++          3 hrs 35 mins   █████████████████░░░░░░░░   67.91 % 
+JavaScript   46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+YAML         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Other        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+PHP          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 ```
 <!--END_SECTION:waka-->
