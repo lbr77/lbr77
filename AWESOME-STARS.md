@@ -63,6 +63,7 @@
 
 ## C++ 
 
+- [StableAgOH/Codebase-for-AgOH](https://github.com/StableAgOH/Codebase-for-AgOH) - 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
@@ -153,6 +154,8 @@
 
 ## JavaScript 
 
+- [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
+- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
 - [webp-sh/webp_server_node](https://github.com/webp-sh/webp_server_node) - Node version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly,
 - [ix64/unlock-music](https://github.com/ix64/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
@@ -279,6 +282,7 @@
 
 ## PHP 
 
+- [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
 - [hsce/Oneindex](https://github.com/hsce/Oneindex) - Onedrive Directory Index
 - [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform (ZEIT Now)
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
@@ -297,11 +301,15 @@
 
 ## PowerShell 
 
+- [Tsuk1ko/fuck-qq-with-win10-taskbar-on-top](https://github.com/Tsuk1ko/fuck-qq-with-win10-taskbar-on-top) - dddd
 - [oxygen-dioxide/winget-pkgs](https://github.com/oxygen-dioxide/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 
 ## Python 
 
+- [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - An alternative implement of Imjad API | Imjad API 的开源替代
+- [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
+- [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn源代码泄漏和.DS_Store泄漏
 - [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive) - ☁️ 哔哩云，不支持任意文件的全速上传与下载
 - [H4ckForJob/dirmap](https://github.com/H4ckForJob/dirmap) - An advanced web directory & file scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
