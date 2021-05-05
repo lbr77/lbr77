@@ -40,6 +40,7 @@
 
 ## C 
 
+- [ZBar/ZBar](https://github.com/ZBar/ZBar) - Clone of the mercurial repository http://zbar.hg.sourceforge.net:8000/hgroot/zbar/zbar
 - [Echocipher/AUTO-EARN](https://github.com/Echocipher/AUTO-EARN) - 一个利用OneForAll进行子域收集、Shodan API端口扫描、Xray漏洞Fuzz、Server酱的自动化漏洞扫描、即时通知提醒的漏洞挖掘辅助工具
 - [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
 - [LingDong-/magic-square-poems](https://github.com/LingDong-/magic-square-poems) - Discovering magic squares in Tang Dynasty poems
@@ -82,6 +83,7 @@
 
 ## CSS 
 
+- [trinitrotofu/Bubble](https://github.com/trinitrotofu/Bubble) - Typecho 清新风格响应式主题
 - [SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme](https://github.com/SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme) - 以东方Project为主的Hexo主题
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo
@@ -101,6 +103,8 @@
 
 ## Go 
 
+- [Kyomotoi/go-ATRI](https://github.com/Kyomotoi/go-ATRI) - 
+- [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 - [journey-ad/waka-box-go](https://github.com/journey-ad/waka-box-go) - 📊 Update a pinned gist to contain your weekly WakaTime stats. This is a Golang implementation, see the original version https://github.com/matchai/waka-box
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
@@ -154,6 +158,8 @@
 
 ## JavaScript 
 
+- [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
+- [Clansty/C8UI](https://github.com/Clansty/C8UI) - 高三八班用户界面
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
@@ -250,6 +256,9 @@
 
 ## Others 
 
+- [Kyomotoi/AnimeThesaurus](https://github.com/Kyomotoi/AnimeThesaurus) - 好冲鼻受不了了二刺螈D区
+- [P3TERX/IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2) - Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
+- [chian0sen/baiduwp](https://github.com/chian0sen/baiduwp) - PanDownload Web, built with CloudFlare Workers
 - [OpenIPDB/mmdb_china_ip_list](https://github.com/OpenIPDB/mmdb_china_ip_list) - Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [howmanybots/onebot](https://github.com/howmanybots/onebot) - OneBot 标准：一个聊天机器人应用接口标准
@@ -421,6 +430,7 @@
 
 ## Vue 
 
+- [Clansty/electron-qq](https://github.com/Clansty/electron-qq) - 
 - [gridsome/gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog) - A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
 - [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API 开发的图床神器，图片外链使用 jsDelivr 进行 CDN 加速。免下载、免安装，打开网站即可直接使用。免费、稳定、高效。
 - [xiaou66/color-manager](https://github.com/xiaou66/color-manager) - uTools 颜色插件
