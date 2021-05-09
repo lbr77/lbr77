@@ -103,6 +103,7 @@
 
 ## Go 
 
+- [Sakurasan/scf-proxy](https://github.com/Sakurasan/scf-proxy) - 云函数代理服务
 - [Kyomotoi/go-ATRI](https://github.com/Kyomotoi/go-ATRI) - 
 - [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
@@ -136,7 +137,7 @@
 - [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
 - [HeroIsUseless/MyBook](https://github.com/HeroIsUseless/MyBook) - 简约优美的电子书阅读器（支持全平台）
 - [helloxz/ccaa](https://github.com/helloxz/ccaa) - Linux一键安装Aria2 + AriaNg + FileBrowse实现离线下载、文件管理。
-- [zayabighead/Office-User-Auto-Create](https://github.com/zayabighead/Office-User-Auto-Create) - with cloudflare workers
+- [zayabighead/office-user-auto-create](https://github.com/zayabighead/office-user-auto-create) - with cloudflare workers
 - [Closty/duanwangzhi](https://github.com/Closty/duanwangzhi) - Shorten your links without serves because it based on Cloudflare workers function with minimalist style.Hope u like:)
 - [fred913/dpDownload](https://github.com/fred913/dpDownload) - Pandownload倒下，我打算开发&维护一款新的度盘下载器，dpDownload（B站ShengFAN）
 - [AyagawaSeirin/PandownloadFake](https://github.com/AyagawaSeirin/PandownloadFake) - 虚假的Pandownload验证“服务器”
@@ -158,6 +159,7 @@
 
 ## JavaScript 
 
+- [TencentCloudBase/cloudbase-examples](https://github.com/TencentCloudBase/cloudbase-examples) - TCB 案例
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
 - [Clansty/C8UI](https://github.com/Clansty/C8UI) - 高三八班用户界面
 - [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
@@ -291,6 +293,8 @@
 
 ## PHP 
 
+- [wisp-x/lsky-pro](https://github.com/wisp-x/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
+- [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
 - [hsce/Oneindex](https://github.com/hsce/Oneindex) - Onedrive Directory Index
 - [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform (ZEIT Now)
@@ -316,6 +320,8 @@
 
 ## Python 
 
+- [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
+- [Ailitonia/omega-miya](https://github.com/Ailitonia/omega-miya) - 基于nonebot2的qq机器人
 - [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - An alternative implement of Imjad API | Imjad API 的开源替代
 - [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
 - [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn源代码泄漏和.DS_Store泄漏
@@ -347,7 +353,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - My awesome GitHub profile README with 41 stars and 74 forks.
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 41 stars and 74 forks
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
@@ -410,6 +416,7 @@
 
 ## TypeScript 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Public Beta 🎉)
 - [juicyfx/vercel-php](https://github.com/juicyfx/vercel-php) - ▲ Vercel PHP runtime  •  vercel-php •  now-php  •  🐘+ λ = ❤
 - [takayama-lily/abot](https://github.com/takayama-lily/abot) - 次世代跨平台插件式QQ机器人框架
 - [woopen/nplayer](https://github.com/woopen/nplayer) - 无任何第三方运行时依赖，兼容 IE11，支持 SSR。高度可定制，可二次开发。和 B 站一样体验的弹幕系统。可以接入任何流媒体，支持直播。
