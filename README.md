@@ -6,7 +6,7 @@ I'm just a Student From No.4 Middle School@Chengdu,Sichuan,China
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lbr77" />
 </a>
 
-![Genshin Impact](https://genshin-card.getloli.com/9/273618005.png)
+<img align="center" src="https://genshin-card.getloli.com/9/273618005.png" />
 
 #### My Stars
 
