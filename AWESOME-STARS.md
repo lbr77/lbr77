@@ -69,6 +69,7 @@
 
 ## C++ 
 
+- [Rratic/Luogu3.0plusplus](https://github.com/Rratic/Luogu3.0plusplus) - Luogu 3.0++ 解释器
 - [Mivik/rin](https://github.com/Mivik/rin) - 
 - [StableAgOH/Codebase-for-AgOH](https://github.com/StableAgOH/Codebase-for-AgOH) - 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
@@ -89,6 +90,7 @@
 
 ## CSS 
 
+- [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
 - [trinitrotofu/Bubble](https://github.com/trinitrotofu/Bubble) - Typecho 清新风格响应式主题
 - [SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme](https://github.com/SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme) - 以东方Project为主的Hexo主题
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
@@ -113,6 +115,7 @@
 
 ## Go 
 
+- [NekoWheel/NekoBox](https://github.com/NekoWheel/NekoBox) - 📫 匿名提问箱 / Anonymous question box
 - [Mrs4s/MiraiGo](https://github.com/Mrs4s/MiraiGo) - qq协议的golang实现, 移植于mirai
 - [Sakurasan/scf-proxy](https://github.com/Sakurasan/scf-proxy) - 云函数代理服务
 - [Kyomotoi/go-ATRI](https://github.com/Kyomotoi/go-ATRI) - 
@@ -281,7 +284,7 @@
 - [chian0sen/baiduwp](https://github.com/chian0sen/baiduwp) - PanDownload Web, built with CloudFlare Workers
 - [OpenIPDB/mmdb_china_ip_list](https://github.com/OpenIPDB/mmdb_china_ip_list) - Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
-- [howmanybots/onebot](https://github.com/howmanybots/onebot) - OneBot 标准：一个聊天机器人应用接口标准
+- [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot 标准：一个聊天机器人应用接口标准
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
 - [leeza007/genshin-impact.loader](https://github.com/leeza007/genshin-impact.loader) - 💉 Genshin Impact - Loader: Easily inject into miHoYo's Genshin Impact
 - [Prodject/BurpSuite-collections](https://github.com/Prodject/BurpSuite-collections) - BurpSuite收集：包括不限于 Burp 文章、破解版、插件(非BApp Store)、汉化等相关教程，欢迎添砖加瓦---burpsuite-pro burpsuite-extender burpsuite cracked-version hackbar hacktools fuzzing fuzz-testing burp-plugin burp-extensions bapp-store brute-force-attacks brute-force-passwords waf sqlmap jar
