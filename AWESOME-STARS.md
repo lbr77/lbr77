@@ -56,6 +56,7 @@
 
 ## C# # 
 
+- [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - Query genshin impact palyer info by uid. 识破云玩家 根据原神游戏内uid查询其他玩家详情(基础数据、角色详情&命座&装备、深境螺旋战绩&阵容等)
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision WWW/HTTPS Hiding & Debugging Extension Popup
 - [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 - [ludoux/LrcHelper](https://github.com/ludoux/LrcHelper) - 从网易云音乐下载带翻译的歌词 Walkman 适配
@@ -177,6 +178,9 @@
 
 ## JavaScript 
 
+- [HCLonely/auto-task](https://github.com/HCLonely/auto-task) - 自动完成赠key站任务 | Automatically complete giveaway tasks
+- [YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat) - A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。
+- [MannyCooper/hexo-theme-candy](https://github.com/MannyCooper/hexo-theme-candy) - 基于 Icarus 主题的个人修改。
 - [MiniValine/MiniValine](https://github.com/MiniValine/MiniValine) - A simple and minimalist comment system.
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [NeverBehave/Tweet2Telegram](https://github.com/NeverBehave/Tweet2Telegram) - Liked Tweets to Telegram
@@ -210,7 +214,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1672-Stars](https://github.com/RealPeha/This-Repo-Has-1672-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://vlts.cc
@@ -279,6 +283,7 @@
 
 ## Others 
 
+- [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
 - [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - 给微信公众号生成 RSS 订阅源
 - [lbr77/CDN](https://github.com/lbr77/CDN) - 
 - [zyzmzyz/free-nodes](https://github.com/zyzmzyz/free-nodes) - 自由之梦资源组翻墙节点
@@ -384,7 +389,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 43 stars and 77 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 43 stars and 78 forks
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
@@ -412,6 +417,7 @@
 
 ## SCSS 
 
+- [awescnb/awescnb](https://github.com/awescnb/awescnb) - 🎨基于 Vite 和 Webpack ，快速构建、安装、切换博客园皮肤
 - [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
 - [lh1me/hexo-theme-aomori](https://github.com/lh1me/hexo-theme-aomori) - A Hexo Theme. Hexo 博客主题
 
