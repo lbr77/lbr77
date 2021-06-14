@@ -151,6 +151,7 @@
 
 ## HTML 
 
+- [awescnb/awescnb](https://github.com/awescnb/awescnb) - 🎨基于 Vite 和 Webpack ，快速构建、安装、切换博客园皮肤
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -220,7 +221,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1672-Stars](https://github.com/RealPeha/This-Repo-Has-1672-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1671-Stars](https://github.com/RealPeha/This-Repo-Has-1671-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://vlts.cc
@@ -396,7 +397,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 43 stars and 77 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 43 stars and 78 forks
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
@@ -424,7 +425,6 @@
 
 ## SCSS 
 
-- [awescnb/awescnb](https://github.com/awescnb/awescnb) - 🎨基于 Vite 和 Webpack ，快速构建、安装、切换博客园皮肤
 - [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
 - [lh1me/hexo-theme-aomori](https://github.com/lh1me/hexo-theme-aomori) - A Hexo Theme. Hexo 博客主题
 
