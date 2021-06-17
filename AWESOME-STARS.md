@@ -151,7 +151,7 @@
 
 ## HTML 
 
-- [awescnb/awescnb](https://github.com/awescnb/awescnb) - 🎨基于 Vite 和 Webpack ，快速构建、安装、切换博客园皮肤
+- [awescnb/awescnb](https://github.com/awescnb/awescnb) - 🎨基于 Vite 和 Webpack5 ，快速构建、安装、切换博客园皮肤
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -286,7 +286,7 @@
 
 ## Kotlin 
 
-- [Leon406/Sub](https://github.com/Leon406/Sub) - 纯kotlin实现, 节点爬取,筛选, 支持Clash,base64订阅解析,定期生成可用的ss, ssr, v2ray, trojan节点
+- [Leon406/Sub](https://github.com/Leon406/Sub) - 纯kotlin实现, 节点爬取,筛选, 支持Clash,base64订阅解析,自动生成可用的ss, ssr, v2ray, trojan节点.
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 
 ## Others 
