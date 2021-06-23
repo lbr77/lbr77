@@ -336,7 +336,7 @@
 - [wisp-x/lsky-pro](https://github.com/wisp-x/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 - [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
-- [oouo/Oneindex](https://github.com/oouo/Oneindex) - Onedrive Directory Index
+- [ailsio/Oneindex](https://github.com/ailsio/Oneindex) - Onedrive Directory Index
 - [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform (ZEIT Now)
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [FForeverand/freenom](https://github.com/FForeverand/freenom) - 
