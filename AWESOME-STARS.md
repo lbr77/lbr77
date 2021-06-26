@@ -186,6 +186,8 @@
 
 ## JavaScript 
 
+- [optimize-2/extend-luogu-LEGACY](https://github.com/optimize-2/extend-luogu-LEGACY) - make Luogu more powerful.
+- [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [overtrue/share.js](https://github.com/overtrue/share.js) - 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等
 - [HCLonely/auto-task](https://github.com/HCLonely/auto-task) - 自动完成赠key站任务 | Automatically complete giveaway tasks
 - [YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat) - A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。
@@ -226,7 +228,7 @@
 - [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
-- [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://vlts.cc
+- [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://vlts.cc  https://volantis.js.org
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo bilibili番剧页
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [SukkaW/kv4cf](https://github.com/SukkaW/kv4cf) - A Modified version of cloudflare/kv-asset-handler, with Non-ASCII URL supported.
@@ -295,7 +297,7 @@
 ## Others 
 
 - [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
-- [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - 给微信公众号生成 RSS 订阅源
+- [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
 - [lbr77/CDN](https://github.com/lbr77/CDN) - 
 - [zyzmzyz/free-nodes](https://github.com/zyzmzyz/free-nodes) - 自由之梦资源组翻墙节点
 - [Kyomotoi/AnimeThesaurus](https://github.com/Kyomotoi/AnimeThesaurus) - 好冲鼻受不了了二刺螈D区
@@ -333,6 +335,7 @@
 
 ## PHP 
 
+- [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
 - [wisp-x/lsky-pro](https://github.com/wisp-x/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 - [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
