@@ -298,7 +298,7 @@
 
 - [francis-zhao/quarklist](https://github.com/francis-zhao/quarklist) - 一款针对国内用户的广告过滤列表，作为 EasyList China 的补充，适用于 Adblock Plus、AdBlock、uBlock Origin 等浏览器扩展。 An advertising filter served as a supplement to EasyList China for users in mainland China, applicable to Adblock Plus, AdBlock and uBlock Origin extensions.
 - [qq1731402057/claim-epic-freebies1](https://github.com/qq1731402057/claim-epic-freebies1) - EpicGames Weekly Giveaway Auto Claimer Workflow
-- [tydaytygx/CSGO-plugins-localization](https://github.com/tydaytygx/CSGO-plugins-localization) - CSGO插件汉化/开服教程 汉化插件仓库用于国内CSGO各开服服主，同时提供Linux端的保姆级开服教程
+- [tydaytygx/CSGO-plugins-localization](https://github.com/tydaytygx/CSGO-plugins-localization) - CSGO插件汉化/CSGO开服教程 汉化插件仓库用于国内CSGO各开服服主，同时提供Linux端的保姆级开服教程
 - [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
 - [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
 - [lbr77/CDN](https://github.com/lbr77/CDN) - 
@@ -406,7 +406,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 44 stars and 82 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 44 stars and 81 forks
 - [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
