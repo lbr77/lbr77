@@ -416,7 +416,6 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
 - [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 44 stars and 81 forks
-- [TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi) - 学习强国 xuexiqiangguo 全网最好用学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，下载地址：https://github.com/TechXueXi/TechXueXi/releases
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -424,7 +423,7 @@
 - [rish-16/gpt2client](https://github.com/rish-16/gpt2client) - ✍🏻 gpt2-client: Easy-to-use TensorFlow Wrapper for GPT-2 117M, 345M, 774M, and 1.5B Transformer Models 🤖 📝
 - [upbit/pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
 - [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
-- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Build interactive, publication-quality documents from Jupyter Notebooks
+- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Build beautiful, publication-quality books and documents from computational content.
 - [abbeyokgo/PyOne](https://github.com/abbeyokgo/PyOne) - PyOne-一款给力的onedrive文件管理、分享程序
 - [Hackxiaoya/CuteOne](https://github.com/Hackxiaoya/CuteOne) - 这大概是最好的onedrive挂载程序了吧，我猜。
 - [Siriussee/sysu-course-selector](https://github.com/Siriussee/sysu-course-selector) - 适用于中山大学(SYSU)新版选课系统的抢课软件
@@ -448,6 +447,7 @@
 
 ## Shell 
 
+- [myfreeer/aria2-build-msys2](https://github.com/myfreeer/aria2-build-msys2) - aria2 build scripts on msys2 with custom patches.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux and ArchlinuxARM Repository for Education
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - （VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装
@@ -515,6 +515,7 @@
 
 ## Vue 
 
+- [YunYouJun/web-resume](https://github.com/YunYouJun/web-resume) - 📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。
 - [Clansty/electron-qq](https://github.com/Clansty/electron-qq) - 
 - [gridsome/gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog) - A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
 - [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API 开发的图床神器，图片外链使用 jsDelivr 进行 CDN 加速。免下载、免安装，打开网站即可直接使用。免费、稳定、高效。
