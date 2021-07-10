@@ -105,6 +105,7 @@
 
 ## CSS 
 
+- [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
 - [trinitrotofu/Bubble](https://github.com/trinitrotofu/Bubble) - Typecho 清新风格响应式主题
 - [SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme](https://github.com/SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme) - 以东方Project为主的Hexo主题
@@ -164,6 +165,7 @@
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
 - [2X-ercha/2X-ercha.github.io](https://github.com/2X-ercha/2X-ercha.github.io) - ercha's blog
 - [DreamyTZK/Valine-Admin-Server](https://github.com/DreamyTZK/Valine-Admin-Server) - 自用Valine-admin。基于valine-admin的二次开发。增加了微信提醒、qq提醒、关键词屏蔽等功能。
 - [ouuan/fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
@@ -194,6 +196,7 @@
 
 ## JavaScript 
 
+- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Tsuk1ko/pxder](https://github.com/Tsuk1ko/pxder) - 🖼 Download illusts from pixiv.net P站插画批量下载器
 - [optimize-2/extend-luogu-LEGACY](https://github.com/optimize-2/extend-luogu-LEGACY) - make Luogu more powerful.
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
@@ -377,6 +380,7 @@
 
 ## Python 
 
+- [KaygoYM/Bilibili_Uploader_Analyze](https://github.com/KaygoYM/Bilibili_Uploader_Analyze) - 🍥Scrape some uploaders' information in Bilibili_Bilibili Up主爬虫
 - [ddgth/cf2dns](https://github.com/ddgth/cf2dns) - 筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [lbr77/Luogu_Checkin_SCF](https://github.com/lbr77/Luogu_Checkin_SCF) - 使用scf云函数打卡洛谷
@@ -408,7 +412,6 @@
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 - [Rock-Candy-Tea/hexo-circle-of-friends](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends) - Python gets the friend's articles from hexo's friend-links
-- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
 - [2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
 - [GamerNoTitle/Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic) - ✨Valine/MiniValine/Waline（已兼容新版写法，直接使用MiniValine同样的链接即可）自定义表情列表，为你的表情库“喜加亿”
 - [vcheckzen/FODI](https://github.com/vcheckzen/FODI) - Fast OneDrive Index，OneDrive 秒级列表程序
