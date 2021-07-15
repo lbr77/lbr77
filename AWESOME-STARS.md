@@ -230,7 +230,7 @@
 - [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
 - [ArtitalkJS/Artitalk](https://github.com/ArtitalkJS/Artitalk) - 通过leancloud实现的可实时发布说说的js
 - [DreamyTZK/iSpeak-spider](https://github.com/DreamyTZK/iSpeak-spider) - 小康的speak，GitHub版
-- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Node.js安卓QQ协议库 / 机器人
+- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - JavaScript安卓QQ协议库 / 机器人
 - [wao3/luogu-stats-card](https://github.com/wao3/luogu-stats-card) - 动态生成洛谷个人练习数据卡片
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [DreamyTZK/friend-spider](https://github.com/DreamyTZK/friend-spider) - 一个用于爬取GitHub/gitee等平台中issue友链的项目。
@@ -452,6 +452,7 @@
 
 ## Shell 
 
+- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP configuration script | Cloudflare WARP 一键配置脚本
 - [myfreeer/aria2-build-msys2](https://github.com/myfreeer/aria2-build-msys2) - aria2 build scripts on msys2 with custom patches.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux and ArchlinuxARM Repository for Education
