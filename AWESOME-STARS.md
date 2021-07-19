@@ -185,6 +185,7 @@
 
 ## Java 
 
+- [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
 - [ferredoxin/QNotified](https://github.com/ferredoxin/QNotified) - 一个旨在使QQ变得更好用的开源Xposed模块
 - [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 一个用于伪造ip地址进行爆破的Burp Suite插件
@@ -197,6 +198,8 @@
 
 ## JavaScript 
 
+- [ant-move/Antmove](https://github.com/ant-move/Antmove) - 小程序转换器，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。
+- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [lbr77/Mihoyo-Signin-SCF](https://github.com/lbr77/Mihoyo-Signin-SCF) - source: https://github.com/jianggaocheng/mihoyo-signin 修改版，可在腾讯云函数上运行
 - [Tsuk1ko/koa-reverse-proxy](https://github.com/Tsuk1ko/koa-reverse-proxy) - 
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -306,12 +309,13 @@
 
 ## Kotlin 
 
-- [Leon406/Sub](https://github.com/Leon406/Sub) - 纯kotlin实现, 节点爬取,筛选, 支持Clash,base64订阅解析,自动生成可用的ss, ssr, v2ray, trojan节点. 已集成Github Action,每天8-24,定时更新.
+- [Leon406/Sub](https://github.com/Leon406/Sub) - 节点爬取,筛选, 支持Clash,base64订阅解析,自动生成可用的ss, ssr, v2ray, trojan节点. 已集成Github Action,每天8-24,定时更新.
 - [ysy950803/FiveGSwitcher](https://github.com/ysy950803/FiveGSwitcher) - 给MIUI开发一个5G快捷开关。
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 
 ## Others 
 
+- [mooseIre/update_miui_ota](https://github.com/mooseIre/update_miui_ota) - 
 - [francis-zhao/quarklist](https://github.com/francis-zhao/quarklist) - 一款针对国内用户的广告过滤列表，作为 EasyList China 的补充，适用于 Adblock Plus、AdBlock、uBlock Origin 等浏览器扩展。 An advertising filter served as a supplement to EasyList China for users in mainland China, applicable to Adblock Plus, AdBlock and uBlock Origin extensions.
 - [qq1731402057/claim-epic-freebies1](https://github.com/qq1731402057/claim-epic-freebies1) - EpicGames Weekly Giveaway Auto Claimer Workflow
 - [tydaytygx/CSGO-plugins-localization](https://github.com/tydaytygx/CSGO-plugins-localization) - CSGO插件汉化/CSGO开服教程 汉化插件仓库用于国内CSGO各开服服主，同时提供Linux端的保姆级开服教程
@@ -501,6 +505,7 @@
 
 ## TypeScript 
 
+- [JuZiSang/picgo-plugin-compress](https://github.com/JuZiSang/picgo-plugin-compress) - Image compression plugin for PicGo
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Yet another-another OneDrive index, powered by Vercel and Next.js
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - 新一代高效强大的信息学在线测评系统
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
