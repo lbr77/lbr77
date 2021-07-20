@@ -135,6 +135,7 @@
 
 ## Go 
 
+- [Xhofe/alist](https://github.com/Xhofe/alist) - 一个阿里云盘列表程序
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
 - [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive/Google Drive.
 - [NekoWheel/NekoBox](https://github.com/NekoWheel/NekoBox) - 📫 匿名提问箱 / Anonymous question box
@@ -198,6 +199,7 @@
 
 ## JavaScript 
 
+- [momocow/node-cq-websocket](https://github.com/momocow/node-cq-websocket) - A Node SDK  for developing QQ chatbots based on WebSocket, which is depending on CoolQ and CQHTTP API plugin.
 - [ant-move/Antmove](https://github.com/ant-move/Antmove) - 小程序转换器，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [lbr77/Mihoyo-Signin-SCF](https://github.com/lbr77/Mihoyo-Signin-SCF) - source: https://github.com/jianggaocheng/mihoyo-signin 修改版，可在腾讯云函数上运行
@@ -315,6 +317,7 @@
 
 ## Others 
 
+- [YoulianBoshi/lantern-vpn](https://github.com/YoulianBoshi/lantern-vpn) - PC蓝灯破解版在这里,重启程序重置500M流量,屏蔽自动更新,永久使用
 - [mooseIre/update_miui_ota](https://github.com/mooseIre/update_miui_ota) - 
 - [francis-zhao/quarklist](https://github.com/francis-zhao/quarklist) - 一款针对国内用户的广告过滤列表，作为 EasyList China 的补充，适用于 Adblock Plus、AdBlock、uBlock Origin 等浏览器扩展。 An advertising filter served as a supplement to EasyList China for users in mainland China, applicable to Adblock Plus, AdBlock and uBlock Origin extensions.
 - [qq1731402057/claim-epic-freebies1](https://github.com/qq1731402057/claim-epic-freebies1) - EpicGames Weekly Giveaway Auto Claimer Workflow
@@ -431,7 +434,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 46 stars and 85 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 46 stars and 84 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
