@@ -318,6 +318,7 @@
 
 ## Others 
 
+- [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [amphineko/amphineko](https://github.com/amphineko/amphineko) - 
 - [YoulianBoshi/lantern-vpn](https://github.com/YoulianBoshi/lantern-vpn) - PC蓝灯破解版在这里,重启程序重置500M流量,屏蔽自动更新,永久使用
 - [mooseIre/update_miui_ota](https://github.com/mooseIre/update_miui_ota) - 
