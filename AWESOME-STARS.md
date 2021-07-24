@@ -200,6 +200,7 @@
 
 ## JavaScript 
 
+- [luogu-dev/markdown-palettes](https://github.com/luogu-dev/markdown-palettes) - Markdown*Palettes: Markdown editor for the modern web.
 - [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot) - Nodejs原生QQ机器人Http-Api(onebot的实现)
 - [jerryc127/butterfly.js.org](https://github.com/jerryc127/butterfly.js.org) - Butterfly 的文檔/ Demo 倉庫
 - [Tsuk1ko/cfworker-url-shortener](https://github.com/Tsuk1ko/cfworker-url-shortener) - 部署在 Cloudflare Workers 的短网址服务
@@ -322,6 +323,7 @@
 
 ## Others 
 
+- [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [amphineko/amphineko](https://github.com/amphineko/amphineko) - 
 - [YoulianBoshi/lantern-vpn](https://github.com/YoulianBoshi/lantern-vpn) - PC蓝灯破解版在这里,重启程序重置500M流量,屏蔽自动更新,永久使用
@@ -398,6 +400,7 @@
 
 ## Python 
 
+- [Henryhaohao/Bilibili_video_download](https://github.com/Henryhaohao/Bilibili_video_download) - :rainbow:Bilibili_video_download-B站视频下载
 - [yellowbins/auto_EUserv](https://github.com/yellowbins/auto_EUserv) - 
 - [the0demiurge/ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) - Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅
 - [KaygoYM/Bilibili_Uploader_Analyze](https://github.com/KaygoYM/Bilibili_Uploader_Analyze) - 🍥Scrape some uploaders' information in Bilibili_Bilibili Up主爬虫
@@ -441,7 +444,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 46 stars and 85 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 46 stars and 87 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -522,7 +525,7 @@
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
-- [Clansty/electron-qq](https://github.com/Clansty/electron-qq) - 
+- [Clansty/Icalingua](https://github.com/Clansty/Icalingua) - 
 - [juicyfx/vercel-php](https://github.com/juicyfx/vercel-php) - ▲ Vercel PHP runtime  •  vercel-php •  now-php  •  🐘+ λ = ❤
 - [takayama-lily/abot](https://github.com/takayama-lily/abot) - 次世代跨平台插件式QQ机器人框架
 - [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
