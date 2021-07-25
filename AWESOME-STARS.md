@@ -36,6 +36,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
+  - [Vim script](#vim-script)
   - [Vue](#vue)
 
 ## ASP 
@@ -68,6 +69,7 @@
 
 ## C# # 
 
+- [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 网易云音乐歌词获取
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！
 - [AmemiyaSigure/CuteChat-CoolQ](https://github.com/AmemiyaSigure/CuteChat-CoolQ) - A CoolQ plugin can connect QQ and Minecraft Server With Fabric.
 - [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - Query genshin impact palyer info by uid. 识破云玩家 根据原神游戏内uid查询其他玩家详情(基础数据、角色详情&命座&装备、深境螺旋战绩&阵容等)
@@ -200,6 +202,7 @@
 
 ## JavaScript 
 
+- [186526/startpage_me](https://github.com/186526/startpage_me) - A Startpage build by snowpack
 - [luogu-dev/markdown-palettes](https://github.com/luogu-dev/markdown-palettes) - Markdown*Palettes: Markdown editor for the modern web.
 - [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot) - Nodejs原生QQ机器人Http-Api(onebot的实现)
 - [jerryc127/butterfly.js.org](https://github.com/jerryc127/butterfly.js.org) - Butterfly 的文檔/ Demo 倉庫
@@ -370,6 +373,7 @@
 
 ## PHP 
 
+- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto (图床)
 - [extend-luogu/luogu-discuss-log](https://github.com/extend-luogu/luogu-discuss-log) - 保存洛谷讨论的工具
 - [Stitch-June/CommentPush](https://github.com/Stitch-June/CommentPush) - 基于Typecho评论推送服务
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
@@ -400,6 +404,8 @@
 
 ## Python 
 
+- [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
+- [ButterAndButterfly/GithubHost](https://github.com/ButterAndButterfly/GithubHost) - 提供最新的GithubHost文件，解决github图片无法访问的问题。
 - [Henryhaohao/Bilibili_video_download](https://github.com/Henryhaohao/Bilibili_video_download) - :rainbow:Bilibili_video_download-B站视频下载
 - [yellowbins/auto_EUserv](https://github.com/yellowbins/auto_EUserv) - 
 - [the0demiurge/ShadowSocksShare](https://github.com/the0demiurge/ShadowSocksShare) - Python爬虫/Flask网站/免费ShadowSocks账号/ssr订阅/json 订阅
@@ -444,7 +450,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 46 stars and 87 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 46 stars and 88 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -452,7 +458,7 @@
 - [rish-16/gpt2client](https://github.com/rish-16/gpt2client) - ✍🏻 gpt2-client: Easy-to-use TensorFlow Wrapper for GPT-2 117M, 345M, 774M, and 1.5B Transformer Models 🤖 📝
 - [upbit/pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
 - [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
-- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Build beautiful, publication-quality books and documents from computational content.
+- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content.
 - [abbeyokgo/PyOne](https://github.com/abbeyokgo/PyOne) - PyOne-一款给力的onedrive文件管理、分享程序
 - [Hackxiaoya/CuteOne](https://github.com/Hackxiaoya/CuteOne) - 这大概是最好的onedrive挂载程序了吧，我猜。
 - [Siriussee/sysu-course-selector](https://github.com/Siriussee/sysu-course-selector) - 适用于中山大学(SYSU)新版选课系统的抢课软件
@@ -545,6 +551,10 @@
 ## Vala 
 
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
+
+## Vim script 
+
+- [bilibili/vim-vide](https://github.com/bilibili/vim-vide) - Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！
 
 ## Vue 
 
