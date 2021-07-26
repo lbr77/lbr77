@@ -88,6 +88,7 @@
 
 ## C++ 
 
+- [zhipeng-jia/project-lemon](https://github.com/zhipeng-jia/project-lemon) - Automatically exported from code.google.com/p/project-lemon
 - [usamoi/algorithm-templates](https://github.com/usamoi/algorithm-templates) - templates for algorithms
 - [Rratic/Luogu3.0plusplus](https://github.com/Rratic/Luogu3.0plusplus) - Luogu 3.0++ 解释器
 - [Mivik/rin](https://github.com/Mivik/rin) - 
@@ -196,7 +197,6 @@
 - [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [luoye663/e5](https://github.com/luoye663/e5) - e5续订
 - [Macuyiko/minecraft-python](https://github.com/Macuyiko/minecraft-python) - A Jython driven plugin and interpreter system for Minecraft (on top of Spigot)
-- [srcrs/BilibiliTask](https://github.com/srcrs/BilibiliTask) - 哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。
 - [JunzhouLiu/BILIBILI-HELPER](https://github.com/JunzhouLiu/BILIBILI-HELPER) - B站，哔哩哔哩（Bilibili）自动签到投币工具，每天轻松获取65经验值，支持每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能。呐！赶快和我一起成为Lv6吧！
 - [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 
@@ -255,7 +255,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://vlts.cc  https://volantis.js.org
@@ -450,7 +450,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 46 stars and 88 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 46 stars and 89 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -531,7 +531,7 @@
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
-- [Clansty/Icalingua](https://github.com/Clansty/Icalingua) - 
+- [Clansty/Icalingua](https://github.com/Clansty/Icalingua) - A Linux client for QQ and more
 - [juicyfx/vercel-php](https://github.com/juicyfx/vercel-php) - ▲ Vercel PHP runtime  •  vercel-php •  now-php  •  🐘+ λ = ❤
 - [takayama-lily/abot](https://github.com/takayama-lily/abot) - 次世代跨平台插件式QQ机器人框架
 - [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
