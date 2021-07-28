@@ -32,6 +32,7 @@
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
   - [Stylus](#stylus)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -69,6 +70,7 @@
 
 ## C# # 
 
+- [kuertianshi/Hitokoto_Desktop](https://github.com/kuertianshi/Hitokoto_Desktop) - 一个来自hitokoto.cn的一言桌面版
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 网易云音乐歌词获取
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！
 - [AmemiyaSigure/CuteChat-CoolQ](https://github.com/AmemiyaSigure/CuteChat-CoolQ) - A CoolQ plugin can connect QQ and Minecraft Server With Fabric.
@@ -191,6 +193,7 @@
 
 ## Java 
 
+- [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
 - [pansong291/XQuickEnergy](https://github.com/pansong291/XQuickEnergy) - 快速收取蚂蚁森林能量
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
@@ -204,6 +207,7 @@
 
 ## JavaScript 
 
+- [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) - 基于Auto.js的蚂蚁森林能量自动收取脚本  Auto.js-based ant forest energy auto-collect script
 - [186526/startpage_me](https://github.com/186526/startpage_me) - A Startpage build by snowpack
 - [luogu-dev/markdown-palettes](https://github.com/luogu-dev/markdown-palettes) - Markdown*Palettes: Markdown editor for the modern web.
 - [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot) - Nodejs原生QQ机器人Http-Api(onebot的实现)
@@ -406,6 +410,7 @@
 
 ## Python 
 
+- [o0oo0ooo0/EUserv_extend](https://github.com/o0oo0ooo0/EUserv_extend) - 使用腾讯云函数自动续期EUserv免费IPv6 VPS脚本
 - [666wcy/ARPT-Bot](https://github.com/666wcy/ARPT-Bot) - 一个基于Python3的Bot。目前支持以Docker的方式部署在vps上。支持Aria2、本子下载、网易云音乐下载、Pixiv榜单下载、Youtue-dl支持、搜图。
 - [ButterAndButterfly/GithubHost](https://github.com/ButterAndButterfly/GithubHost) - 提供最新的GithubHost文件，解决github图片无法访问的问题。
 - [Henryhaohao/Bilibili_video_download](https://github.com/Henryhaohao/Bilibili_video_download) - :rainbow:Bilibili_video_download-B站视频下载
@@ -422,7 +427,7 @@
 - [PeterDing/BaiduPCS-Py](https://github.com/PeterDing/BaiduPCS-Py) - BaiduPCS API & App 百度网盘客户端
 - [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
 - [Ailitonia/omega-miya](https://github.com/Ailitonia/omega-miya) - 基于nonebot2的qq机器人
-- [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - An alternative implement of Imjad API | Imjad API 的开源替代
+- [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 | A program that implementis easy-to-use APIs for a variety of commonly used sites.
 - [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
 - [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn源代码泄漏和.DS_Store泄漏
 - [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive) - ☁️ 哔哩云，不支持任意文件的全速上传与下载
@@ -430,7 +435,7 @@
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [Hsury/Bilibili-Toolkit](https://github.com/Hsury/Bilibili-Toolkit) - 🛠️ 哔哩哔哩（B站）辅助工具箱，支持Cookie/Token/Password融合持久化登录与多用户操作
 - [SK-415/HarukaBot](https://github.com/SK-415/HarukaBot) - 将B站UP主的动态和直播信息推送至QQ，基于 NoneBot2 开发
-- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, eta and very cool animations!
+- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, ETA and very cool animations!
 - [luern0313/WindSong-Lyre-Genshin-Impact](https://github.com/luern0313/WindSong-Lyre-Genshin-Impact) - 【原神】自动演奏风物之诗琴的程序
 - [XiaoMiku01/PaimonBot](https://github.com/XiaoMiku01/PaimonBot) - 派蒙Bot / PaimonBot
 - [H-K-Y/Genshin_Impact_bot](https://github.com/H-K-Y/Genshin_Impact_bot) - 原神bot，这是一个HoshinoBot的原神娱乐及信息查询插件，包含原神抽卡，丘丘语翻译，找神瞳，找资源点等功能
@@ -484,6 +489,7 @@
 
 ## Shell 
 
+- [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP configuration script | Cloudflare WARP 一键配置脚本
 - [myfreeer/aria2-build-msys2](https://github.com/myfreeer/aria2-build-msys2) - aria2 build scripts on msys2 with custom patches.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -515,6 +521,10 @@
 
 - [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
 
+## Svelte 
+
+- [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
+
 ## Swift 
 
 - [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
@@ -526,6 +536,7 @@
 
 ## TypeScript 
 
+- [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Serverless reverse proxy and load balancing library built for Cloudflare Workers.
 - [JuZiSang/picgo-plugin-compress](https://github.com/JuZiSang/picgo-plugin-compress) - Image compression plugin for PicGo
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Yet another-another OneDrive index, powered by Vercel and Next.js
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - 新一代高效强大的信息学在线测评系统
