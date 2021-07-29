@@ -54,6 +54,7 @@
 
 ## C 
 
+- [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording
 - [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite) - 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
@@ -112,6 +113,7 @@
 
 ## CSS 
 
+- [samzhangjy/CarbonLuogu](https://github.com/samzhangjy/CarbonLuogu) - 碳洛谷是一款基于氩洛谷改编的新版洛谷美化包，需搭配Stylish使用。
 - [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡
 - [Tsuk1ko/lolicon.app](https://github.com/Tsuk1ko/lolicon.app) - 
 - [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
@@ -137,7 +139,6 @@
 
 ## Dockerfile 
 
-- [useblue/Cloudreve-Heroku](https://github.com/useblue/Cloudreve-Heroku) - Cloureve on Heroku with Redis
 - [RayWangQvQ/BiliBiliTool.Docs](https://github.com/RayWangQvQ/BiliBiliTool.Docs) - BiliBiliTool的文档
 
 ## Go 
@@ -172,6 +173,7 @@
 
 ## HTML 
 
+- [developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU](https://github.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU) - Aria 2 Rclone Remote URL /magnet Clouds upload via HEROKU
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -427,7 +429,7 @@
 - [PeterDing/BaiduPCS-Py](https://github.com/PeterDing/BaiduPCS-Py) - BaiduPCS API & App 百度网盘客户端
 - [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
 - [Ailitonia/omega-miya](https://github.com/Ailitonia/omega-miya) - 基于nonebot2的qq机器人
-- [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 | A program that implementis easy-to-use APIs for a variety of commonly used sites.
+- [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 / A program that implementis easy-to-use APIs for a variety of commonly used sites.
 - [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
 - [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn源代码泄漏和.DS_Store泄漏
 - [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive) - ☁️ 哔哩云，不支持任意文件的全速上传与下载
@@ -457,7 +459,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 46 stars and 90 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 46 stars and 91 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -484,6 +486,7 @@
 
 ## SCSS 
 
+- [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一只可爱的hexo主题 m(=•ェ•=)m~🍭
 - [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
 - [lh1me/hexo-theme-aomori](https://github.com/lh1me/hexo-theme-aomori) - A Hexo Theme. Hexo 博客主题
 
@@ -491,6 +494,7 @@
 
 - [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP configuration script | Cloudflare WARP 一键配置脚本
+- [useblue/Cloudreve-Heroku](https://github.com/useblue/Cloudreve-Heroku) - Cloureve on Heroku with Redis
 - [myfreeer/aria2-build-msys2](https://github.com/myfreeer/aria2-build-msys2) - aria2 build scripts on msys2 with custom patches.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu) - Archlinux and ArchlinuxARM Repository for Education
