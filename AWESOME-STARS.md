@@ -49,6 +49,7 @@
 
 ## C 
 
+- [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip) - 查找适合自己当前网络环境的优选cloudflare anycast IP
 - [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording
 - [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite) - 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
@@ -208,6 +209,7 @@
 
 ## JavaScript 
 
+- [186526/aka](https://github.com/186526/aka) - A simple and fast short URL service running on Cloudflare Worker
 - [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) - 基于Auto.js的蚂蚁森林能量自动收取脚本  Auto.js-based ant forest energy auto-collect script
 - [186526/startpage_me](https://github.com/186526/startpage_me) - A Startpage build by snowpack
 - [luogu-dev/markdown-palettes](https://github.com/luogu-dev/markdown-palettes) - Markdown*Palettes: Markdown editor for the modern web.
@@ -333,6 +335,7 @@
 
 ## Others 
 
+- [maruos/maruos](https://github.com/maruos/maruos) - Your phone is your PC.
 - [SukkaW/cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
