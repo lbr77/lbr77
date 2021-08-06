@@ -7,6 +7,7 @@
 
   - [ASP](#asp)
   - [AutoIt](#autoit)
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -47,6 +48,10 @@
 
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11  Release Ready
 
+## Batchfile 
+
+- [EdgelessPE/Edgeless](https://github.com/EdgelessPE/Edgeless) - The opensource repository of Edgeless PE Project
+
 ## C 
 
 - [cokemine/ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru) - 云探针、多服务器探针、云监控、多服务器云监控
@@ -69,6 +74,7 @@
 
 ## C# # 
 
+- [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [kuertianshi/Hitokoto_Desktop](https://github.com/kuertianshi/Hitokoto_Desktop) - 一个来自hitokoto.cn的一言桌面版
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 网易云音乐歌词获取
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！
@@ -89,6 +95,7 @@
 
 ## C++ 
 
+- [Project-LemonLime/Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 - [WarfarinBloodanger/ff0-script](https://github.com/WarfarinBloodanger/ff0-script) - A interpreter that runs the script which is programmed in the language of FF0 script (or you can call it as Warfarin)
 - [zhipeng-jia/project-lemon](https://github.com/zhipeng-jia/project-lemon) - Automatically exported from code.google.com/p/project-lemon
 - [usamoi/algorithm-templates](https://github.com/usamoi/algorithm-templates) - templates for algorithms
@@ -180,7 +187,7 @@
 - [mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki) - 试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
 - [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 - [developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU](https://github.com/developeranaz/Aria2-Rclone-Remote-Uploader-HEROKU) - Aria 2 Rclone Remote URL /magnet Clouds upload via HEROKU
-- [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/SCF/FG/FC/CFC/PHP web hosting/VPS.
+- [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [2X-ercha/2X-ercha.github.io](https://github.com/2X-ercha/2X-ercha.github.io) - ercha's blog
@@ -272,7 +279,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://vlts.cc  https://volantis.js.org
@@ -343,6 +350,7 @@
 
 ## Others 
 
+- [cheny-m/Microsoft-Yahei-Mono](https://github.com/cheny-m/Microsoft-Yahei-Mono) - Microsoft Yahei Mono 字体
 - [maruos/maruos](https://github.com/maruos/maruos) - Your phone is your PC.
 - [SukkaW/cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
@@ -392,7 +400,7 @@
 
 ## PHP 
 
-- [Chevereto/Chevereto-Free](https://github.com/Chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto (图床)
+- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto (图床)
 - [extend-luogu/luogu-discuss-log](https://github.com/extend-luogu/luogu-discuss-log) - 保存洛谷讨论的工具
 - [Stitch-June/CommentPush](https://github.com/Stitch-June/CommentPush) - 基于Typecho评论推送服务
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
@@ -423,6 +431,8 @@
 
 ## Python 
 
+- [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
+- [Misaka17032/genshin-lyre-auto-play](https://github.com/Misaka17032/genshin-lyre-auto-play) - 根据midi文件演奏“风物之诗琴”的脚本 "Windsong Lyre" auto play
 - [ha0y/xiaomi_miot_raw](https://github.com/ha0y/xiaomi_miot_raw) - Universal Xiaomi MIoT integration for Home Assistant
 - [Womsxd/YuanShen_User_Info](https://github.com/Womsxd/YuanShen_User_Info) - 原神个人信息查询
 - [o0oo0ooo0/EUserv_extend](https://github.com/o0oo0ooo0/EUserv_extend) - 使用腾讯云函数自动续期EUserv免费IPv6 VPS脚本
@@ -472,7 +482,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 47 stars and 92 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 47 stars and 93 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
