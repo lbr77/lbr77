@@ -74,6 +74,7 @@
 
 ## C# # 
 
+- [NewEraCracker/LOIC](https://github.com/NewEraCracker/LOIC) - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project. USE ON YOUR OWN RISK. WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES.
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [kuertianshi/Hitokoto_Desktop](https://github.com/kuertianshi/Hitokoto_Desktop) - 一个来自hitokoto.cn的一言桌面版
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 网易云音乐歌词获取
@@ -95,6 +96,7 @@
 
 ## C++ 
 
+- [Apache553/ssh-agent-bridge](https://github.com/Apache553/ssh-agent-bridge) - 为了让 Windows 平台上的 ssh agent 能适配多种 ssh client 和在 wsl 环境下使用的工具
 - [Project-LemonLime/Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 - [WarfarinBloodanger/ff0-script](https://github.com/WarfarinBloodanger/ff0-script) - A interpreter that runs the script which is programmed in the language of FF0 script (or you can call it as Warfarin)
 - [zhipeng-jia/project-lemon](https://github.com/zhipeng-jia/project-lemon) - Automatically exported from code.google.com/p/project-lemon
@@ -223,6 +225,7 @@
 
 ## JavaScript 
 
+- [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 基于ServiceWorker路由拦截的真·全站JSDelivrCDN，仅三文件 || 前端负载均衡 || 无备案标准端口使用国内服务器
 - [186526/aka](https://github.com/186526/aka) - A simple and fast short URL service running on Cloudflare Worker
 - [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) - 基于Auto.js的蚂蚁森林能量自动收取脚本  Auto.js-based ant forest energy auto-collect script
@@ -350,6 +353,7 @@
 
 ## Others 
 
+- [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured) - 每天给你推荐一个新奇，好玩，高品质的内容，每一个都有自己的温度，不是冷冰冰的链接哦。
 - [cheny-m/Microsoft-Yahei-Mono](https://github.com/cheny-m/Microsoft-Yahei-Mono) - Microsoft Yahei Mono 字体
 - [maruos/maruos](https://github.com/maruos/maruos) - Your phone is your PC.
 - [SukkaW/cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
@@ -400,6 +404,7 @@
 
 ## PHP 
 
+- [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）B 站主站助手、直播助手、直播抽奖、挂机升级、贴心小棉袄脚本、Lv6 离你仅有一步之遥~ - PHP 版（Personal）
 - [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto (图床)
 - [extend-luogu/luogu-discuss-log](https://github.com/extend-luogu/luogu-discuss-log) - 保存洛谷讨论的工具
 - [Stitch-June/CommentPush](https://github.com/Stitch-June/CommentPush) - 基于Typecho评论推送服务
@@ -516,6 +521,7 @@
 
 ## Shell 
 
+- [jgmdev/ddos-deflate](https://github.com/jgmdev/ddos-deflate) - Fork of DDoS Deflate with fixes, improvements and new features.
 - [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
 - [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP configuration script | Cloudflare WARP 一键配置脚本
 - [useblue/Cloudreve-Heroku](https://github.com/useblue/Cloudreve-Heroku) - Cloureve on Heroku with Redis
