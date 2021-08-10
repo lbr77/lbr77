@@ -58,7 +58,6 @@
 - [badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip) - 查找适合自己当前网络环境的优选cloudflare anycast IP
 - [madler/zlib](https://github.com/madler/zlib) - A massively spiffy yet delicately unobtrusive compression library.
 - [FASTSHIFT/X-TRACK](https://github.com/FASTSHIFT/X-TRACK) - A GPS bicycle speedometer that supports offline maps and track recording
-- [monyhar/monyhar-lite](https://github.com/monyhar/monyhar-lite) - 梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。
 - [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 - [ZBar/ZBar](https://github.com/ZBar/ZBar) - Clone of the mercurial repository http://zbar.hg.sourceforge.net:8000/hgroot/zbar/zbar
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
@@ -126,6 +125,7 @@
 - [Tsuk1ko/lolicon.app](https://github.com/Tsuk1ko/lolicon.app) - 
 - [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
+- [lbr77/CDN](https://github.com/lbr77/CDN) - 
 - [trinitrotofu/Bubble](https://github.com/trinitrotofu/Bubble) - Typecho 清新风格响应式主题
 - [SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme](https://github.com/SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme) - 以东方Project为主的Hexo主题
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
@@ -370,7 +370,6 @@
 - [tydaytygx/CSGO-plugins-localization](https://github.com/tydaytygx/CSGO-plugins-localization) - CSGO插件汉化/CSGO开服教程 汉化插件仓库用于国内CSGO各开服服主，同时提供Linux端的保姆级开服教程
 - [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
 - [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
-- [lbr77/CDN](https://github.com/lbr77/CDN) - 
 - [zyzmzyz/free-nodes](https://github.com/zyzmzyz/free-nodes) - 自由之梦资源组翻墙节点
 - [Kyomotoi/AnimeThesaurus](https://github.com/Kyomotoi/AnimeThesaurus) - hso!
 - [P3TERX/IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2) - Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
@@ -609,6 +608,7 @@
 
 ## Vue 
 
+- [NeroSong/easyFF-CloudBase](https://github.com/NeroSong/easyFF-CloudBase) - 云开发应用 easyFF，基于FFmpeg的简单短视频处理服务 + 后台管理工具。可通过 Cloudbase Framework 一建部署。
 - [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 - [meteorlxy/vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - :sparkling_heart: VuePress Blog Theme - Meteorlxy
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
