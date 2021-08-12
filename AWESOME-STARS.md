@@ -253,7 +253,7 @@
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [overtrue/share.js](https://github.com/overtrue/share.js) - 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等
 - [HCLonely/auto-task](https://github.com/HCLonely/auto-task) - 自动完成赠key站任务 | Automatically complete giveaway tasks
-- [awescnb/awescnb](https://github.com/awescnb/awescnb) - 🎨基于 Vite 和 Webpack5 ，快速构建、安装、切换博客园皮肤
+- [awescnb/awescnb](https://github.com/awescnb/awescnb) - 🎨 快速构建、安装、切换博客园皮肤
 - [YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat) - A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。
 - [MannyCooper/hexo-theme-candy](https://github.com/MannyCooper/hexo-theme-candy) - 基于 Icarus 主题的个人修改。
 - [MiniValine/MiniValine](https://github.com/MiniValine/MiniValine) - A simple and minimalist comment system.
@@ -361,6 +361,7 @@
 
 ## Others 
 
+- [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
 - [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured) - 每天给你推荐一个新奇，好玩，高品质的内容，每一个都有自己的温度，不是冷冰冰的链接哦。
 - [cheny-m/Microsoft-Yahei-Mono](https://github.com/cheny-m/Microsoft-Yahei-Mono) - Microsoft Yahei Mono 字体
 - [maruos/maruos](https://github.com/maruos/maruos) - Your phone is your PC.
@@ -496,7 +497,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 47 stars and 94 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 47 stars and 96 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -575,6 +576,7 @@
 
 ## TypeScript 
 
+- [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁有趣的可拓展评论系统 | A Fast, Slight & Funny Comment System.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [lukeed/worktop](https://github.com/lukeed/worktop) - The next generation web framework for Cloudflare Workers
