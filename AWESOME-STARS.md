@@ -17,6 +17,7 @@
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -53,6 +54,7 @@
 
 ## C 
 
+- [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [stephensmalley/selinux-kernel](https://github.com/stephensmalley/selinux-kernel) - GitHub mirror of the SELinux kernel repository
 - [cokemine/ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru) - 云探针、多服务器探针、云监控、多服务器云监控
 - [Tencent/TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel) - 腾讯针对云的场景研发的服务器操作系统
@@ -213,6 +215,10 @@
 - [LiuChangFreeman/OneIndexServerless](https://github.com/LiuChangFreeman/OneIndexServerless) - Serverless version of OneIndex, which can be deployed on aliyun.com
 - [shw2018/hexo-blog-fly](https://github.com/shw2018/hexo-blog-fly) - This is my personal blog repository.  Now,it is open for everyone to download and modify. If it can help you to build your blog or you like the repo, could you give me a star ! Thank you!
 
+## Haskell 
+
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+
 ## Java 
 
 - [Cruii/bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - 📺 一个基于BILIBILI-HELPER 的集中化平台。
@@ -231,6 +237,7 @@
 
 ## JavaScript 
 
+- [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
 - [node-ffi/node-ffi](https://github.com/node-ffi/node-ffi) - Node.js Foreign Function Interface
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
@@ -449,6 +456,7 @@
 
 ## Python 
 
+- [zaxtyson/AnimeSearcher](https://github.com/zaxtyson/AnimeSearcher) - 整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验
 - [babysor/Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) - AI拟声: 克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
 - [Misaka17032/genshin-lyre-auto-play](https://github.com/Misaka17032/genshin-lyre-auto-play) - 根据midi文件演奏“风物之诗琴”的脚本 "Windsong Lyre" auto play
@@ -501,7 +509,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 48 stars and 96 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 48 stars and 95 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -619,6 +627,7 @@
 
 ## Vue 
 
+- [GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [NeroSong/easyFF-CloudBase](https://github.com/NeroSong/easyFF-CloudBase) - 云开发应用 easyFF，基于FFmpeg的简单短视频处理服务 + 后台管理工具。可通过 Cloudbase Framework 一建部署。
 - [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
 - [meteorlxy/vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - :sparkling_heart: VuePress Blog Theme - Meteorlxy
