@@ -228,7 +228,7 @@
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
 - [ferredoxin/QNotified](https://github.com/ferredoxin/QNotified) - 一个旨在使QQ变得更好用的开源Xposed模块
-- [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 一个用于伪造ip地址进行爆破的Burp Suite插件
+- [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件
 - [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [luoye663/e5](https://github.com/luoye663/e5) - e5续订
 - [Macuyiko/minecraft-python](https://github.com/Macuyiko/minecraft-python) - A Jython driven plugin and interpreter system for Minecraft (on top of Spigot)
@@ -300,7 +300,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://vlts.cc  https://volantis.js.org
@@ -371,6 +371,7 @@
 
 ## Others 
 
+- [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
 - [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured) - 每天给你推荐一个新奇，好玩，高品质的内容，每一个都有自己的温度，不是冷冰冰的链接哦。
 - [cheny-m/Microsoft-Yahei-Mono](https://github.com/cheny-m/Microsoft-Yahei-Mono) - Microsoft Yahei Mono 字体
@@ -422,6 +423,7 @@
 
 ## PHP 
 
+- [zwying0814/Brave](https://github.com/zwying0814/Brave) - Typecho情侣主题Brave
 - [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
 - [ArtalkJS/Artalk-API-PHP](https://github.com/ArtalkJS/Artalk-API-PHP) - Artalk 的后端程序，PHP 版
 - [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）B 站主站助手、直播助手、直播抽奖、挂机升级、贴心小棉袄脚本、Lv6 离你仅有一步之遥~ - PHP 版（Personal）
@@ -490,7 +492,7 @@
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, ETA and very cool animations!
 - [luern0313/WindSong-Lyre-Genshin-Impact](https://github.com/luern0313/WindSong-Lyre-Genshin-Impact) - 【原神】自动演奏风物之诗琴的程序
 - [XiaoMiku01/PaimonBot](https://github.com/XiaoMiku01/PaimonBot) - 派蒙Bot / PaimonBot
-- [H-K-Y/Genshin_Impact_bot](https://github.com/H-K-Y/Genshin_Impact_bot) - 原神bot，这是一个HoshinoBot的原神娱乐及信息查询插件，包含原神抽卡，丘丘语翻译，找神瞳，找资源点等功能
+- [H-K-Y/Genshin_Impact_bot](https://github.com/H-K-Y/Genshin_Impact_bot) - 原神bot，这是一个基于nonebot和HoshinoBot的原神娱乐及信息查询插件，包含原神抽卡，丘丘语翻译，找资源点等功能
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [jalenchuh/url-submit](https://github.com/jalenchuh/url-submit) - 🚀 自动提取 sitemap 中的链接，并利用 API 进行推送，提升网站收录速度。
@@ -509,7 +511,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 48 stars and 95 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 48 stars and 94 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
