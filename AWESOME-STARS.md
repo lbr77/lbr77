@@ -77,6 +77,7 @@
 
 ## C# # 
 
+- [project-inki/inki](https://github.com/project-inki/inki) - NoteTaker, Notebook, PDF Editor of Next Generation. (Under Development)
 - [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
 - [Cytoid/Cytoid](https://github.com/Cytoid/Cytoid) - A community-driven touchscreen music game.
@@ -244,6 +245,7 @@
 
 ## JavaScript 
 
+- [TooTallNate/node-http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent) - An HTTP(s) proxy `http.Agent` implementation for HTTP endpoints
 - [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT) - Genshin Impact robot in Tencent QQ.
 - [bossbaby2005/luogu-stats-card](https://github.com/bossbaby2005/luogu-stats-card) - 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -383,6 +385,7 @@
 
 ## Others 
 
+- [easychen/http-t-shirts](https://github.com/easychen/http-t-shirts) - http状态码系列T恤设计稿
 - [nonebot/discussions](https://github.com/nonebot/discussions) - NoneBot 论坛
 - [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
