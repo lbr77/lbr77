@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Blog](https://blog.stevelbr.top)
 
-- 👯 I’m looking to collaborate on **VTOJ(An Unfinished Online Judge System)**
+- 👯 I’m looking to collaborate on **VTOJ(An Unfinished Awesome Online Judge System)**
 
 - 📫 How to reach me **liborui@stevelbr.top**
 
@@ -12,6 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=lbr77&count_private=true&show_icons=true&theme=buefy)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lbr77&layout=compact&theme=buefy)
+
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=lbr77&bg_color=ffffff&color=70bcff&line=6b9fff&point=0136f4&area=true&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
