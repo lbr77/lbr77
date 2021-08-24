@@ -248,6 +248,7 @@
 
 ## JavaScript 
 
+- [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
 - [davidtsong/github-twilio-notifications](https://github.com/davidtsong/github-twilio-notifications) - 
@@ -448,6 +449,7 @@
 
 ## PHP 
 
+- [easychen/serverchan-wordpress-comments-notice](https://github.com/easychen/serverchan-wordpress-comments-notice) - Server酱WordPress博客评论微信通知插件
 - [zwying0814/Brave](https://github.com/zwying0814/Brave) - Typecho情侣主题Brave
 - [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
 - [ArtalkJS/Artalk-API-PHP](https://github.com/ArtalkJS/Artalk-API-PHP) - Artalk 的后端程序，PHP 版
@@ -626,7 +628,7 @@
 - [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
 - [momocow/cloudflare-worker-leetcode-progress](https://github.com/momocow/cloudflare-worker-leetcode-progress) - A library for serving LeetCode progress as a SVG on Cloudflare Workers.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁有趣的可拓展评论系统 | A Fast, Slight & Funny Comment System.
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁有趣的可拓展评论系统 | A Fast, Slight & Delightful Comment System.
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [lukeed/worktop](https://github.com/lukeed/worktop) - The next generation web framework for Cloudflare Workers
 - [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers.
