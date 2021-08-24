@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/liborui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="liborui" height="30" width="40" /></a>
-<a href="/https://blog.stevelbr.top/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.stevelbr.top/feed/" height="30" width="40" /></a>
+<a href="https://blog.stevelbr.top/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.stevelbr.top/feed/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
