@@ -105,6 +105,7 @@
 
 ## C++ 
 
+- [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [whoshuu/cpr](https://github.com/whoshuu/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests
 - [Apache553/ssh-agent-bridge](https://github.com/Apache553/ssh-agent-bridge) - 为了让 Windows 平台上的 ssh agent 能适配多种 ssh client 和在 wsl 环境下使用的工具
 - [Project-LemonLime/Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
@@ -398,6 +399,7 @@
 
 ## Others 
 
+- [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [FuckOS/flyos](https://github.com/FuckOS/flyos) - 震惊!五年级小学生创立编写的软件竟然高达五十万行代码!
 - [easychen/http-t-shirts](https://github.com/easychen/http-t-shirts) - Open source http status code T shirt  ·  http状态码系列T恤设计稿
 - [nonebot/discussions](https://github.com/nonebot/discussions) - NoneBot 论坛
@@ -452,6 +454,7 @@
 
 ## PHP 
 
+- [kokororin/typecho-plugin-Parsedown](https://github.com/kokororin/typecho-plugin-Parsedown) - Typecho Parsedown 解析markdown插件
 - [easychen/serverchan-wordpress-comments-notice](https://github.com/easychen/serverchan-wordpress-comments-notice) - Server酱WordPress博客评论微信通知插件
 - [zwying0814/Brave](https://github.com/zwying0814/Brave) - Typecho情侣主题Brave
 - [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
@@ -489,6 +492,9 @@
 
 ## Python 
 
+- [daydreaming666/Amenoma](https://github.com/daydreaming666/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts.
+- [ProblemFactory/GenshinArtScanner](https://github.com/ProblemFactory/GenshinArtScanner) - Yet Another Genshin Impact Artifact Scanner
+- [Pr0214/findhash](https://github.com/Pr0214/findhash) - 一个IDA脚本，可以检测出哈希算法（无论是否魔改常数）并生成frida hook 代码。
 - [skywolf627/VmessActions](https://github.com/skywolf627/VmessActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [BenAAndrew/Voice-Cloning-App](https://github.com/BenAAndrew/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
@@ -497,7 +503,7 @@
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔6小时持续更新 | 科学上网 | 翻墙
 - [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI) - A project for ATRI, Usage go-CQHTTP + Nonebot.
 - [zaxtyson/AnimeSearcher](https://github.com/zaxtyson/AnimeSearcher) - 整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验
-- [babysor/Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
 - [Misaka17032/genshin-lyre-auto-play](https://github.com/Misaka17032/genshin-lyre-auto-play) - 根据midi文件演奏“风物之诗琴”的脚本 "Windsong Lyre" auto play
 - [ha0y/xiaomi_miot_raw](https://github.com/ha0y/xiaomi_miot_raw) - Universal Xiaomi MIoT integration for Home Assistant
@@ -549,7 +555,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 49 stars and 96 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 98 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
