@@ -56,6 +56,8 @@
 
 ## C 
 
+- [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
+- [kernelbin/BOIT](https://github.com/kernelbin/BOIT) - BOT for OIers.  /*BOIT = BOT + OI; yh蒟蒻写的给OIers用的一个bot，Made by kernel.bin with ❤*/
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
 - [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
 - [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
@@ -79,6 +81,8 @@
 
 ## C# # 
 
+- [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服 下载加速。
+- [copyliu/bililive_dm](https://github.com/copyliu/bililive_dm) - B站直播彈幕工具
 - [project-inki/inki](https://github.com/project-inki/inki) - NoteTaker, Notebook, PDF Editor of Next Generation. (Under Development)
 - [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
@@ -89,7 +93,7 @@
 - [kuertianshi/Hitokoto_Desktop](https://github.com/kuertianshi/Hitokoto_Desktop) - 一个来自hitokoto.cn的一言桌面版
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 网易云音乐歌词获取
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！
-- [AmemiyaSigure/CuteChat-CoolQ](https://github.com/AmemiyaSigure/CuteChat-CoolQ) - A CoolQ plugin can connect QQ and Minecraft Server With Fabric.
+- [qyl27/CuteChat-CoolQ](https://github.com/qyl27/CuteChat-CoolQ) - A CoolQ plugin can connect QQ and Minecraft Server With Fabric.
 - [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - Query genshin impact palyer info by uid. 识破云玩家 根据原神游戏内uid查询其他玩家详情(基础数据、角色详情&命座&装备、深境螺旋战绩&阵容等)
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision WWW/HTTPS Hiding & Debugging Extension Popup
 - [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
@@ -253,6 +257,7 @@
 
 ## JavaScript 
 
+- [YXZYG/TX-class-AutoRepeatCheckIn](https://github.com/YXZYG/TX-class-AutoRepeatCheckIn) - 腾讯课堂/自动签到/自动评论区复读
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [Zfour/Butterfly-leancloud-zanplus](https://github.com/Zfour/Butterfly-leancloud-zanplus) - 基于leancloud的hexo butterfly主题添加点赞功能
@@ -281,7 +286,7 @@
 - [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot) - Nodejs原生QQ机器人Http-Api(onebot的实现)
 - [jerryc127/butterfly.js.org](https://github.com/jerryc127/butterfly.js.org) - Butterfly 的文檔/ Demo 倉庫
 - [Tsuk1ko/cfworker-url-shortener](https://github.com/Tsuk1ko/cfworker-url-shortener) - 部署在 Cloudflare Workers 的短网址服务
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [momocow/node-cq-websocket](https://github.com/momocow/node-cq-websocket) - A Node SDK  for developing QQ chatbots based on WebSocket, which is depending on CoolQ and CQHTTP API plugin.
 - [ant-move/Antmove](https://github.com/ant-move/Antmove) - 小程序转换器，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
