@@ -141,7 +141,7 @@
 
 - [Sanakey/KirinShiKi](https://github.com/Sanakey/KirinShiKi) - 基于handsome主题的神代綺凜式魔改主题
 - [samzhangjy/CarbonLuogu](https://github.com/samzhangjy/CarbonLuogu) - 碳洛谷是一款基于氩洛谷改编的新版洛谷美化包，需搭配Stylish使用。
-- [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡
+- [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in React 💻🌈⚡
 - [Tsuk1ko/lolicon.app](https://github.com/Tsuk1ko/lolicon.app) - 
 - [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
@@ -568,7 +568,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 99 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 100 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
