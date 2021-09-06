@@ -101,7 +101,7 @@
 - [SteamTools-Team/SteamTools](https://github.com/SteamTools-Team/SteamTools) - 🛠「Steam++」是一个包含多种Steam工具功能的工具箱。
 - [NetDimension/NanUI](https://github.com/NetDimension/NanUI) - NanUI is an open source .NET project for .NET / .NET Core developers who want to use front-end technologies such as HTML5 / CSS3 to build user interfaces for Windows Form applications.
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - 
-- [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - Windows右键菜单管理程序
+- [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool) - 📃 UAC 白名单小工具！
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [BluePointLilac/TileBeautify](https://github.com/BluePointLilac/TileBeautify) - win10磁贴美化工具
@@ -178,6 +178,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -263,6 +264,8 @@
 
 ## JavaScript 
 
+- [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
+- [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - bundle web files into a single image
 - [HCLonely/live2dNodeApi](https://github.com/HCLonely/live2dNodeApi) - Live2D 看板娘脚本的基于 Nodejs 的后端 Api.
@@ -419,6 +422,7 @@
 
 ## Others 
 
+- [Angelic47/WTFPL](https://github.com/Angelic47/WTFPL) - DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
 - [Menci/acme](https://github.com/Menci/acme) - Issue free SSL certs from Let's Encrypt and more CAs with acme.sh.
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
@@ -515,6 +519,7 @@
 
 ## Python 
 
+- [alfiopuglisi/guietta](https://github.com/alfiopuglisi/guietta) - 
 - [Tao0Lu/Arknights_Anti-addiction_Cheater](https://github.com/Tao0Lu/Arknights_Anti-addiction_Cheater) - 明日方舟防沉迷破解
 - [RimoChan/python-anti-seduce-system](https://github.com/RimoChan/python-anti-seduce-system) - 针对Python语言防沉迷调整的说明
 - [jupyter/qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
@@ -663,6 +668,7 @@
 
 ## TypeScript 
 
+- [memset0/memset0](https://github.com/memset0/memset0) - 👋 Hello, my friend! I'm memset0, aka whisperain, a student who would like to do sth cool.
 - [wormtql/genshin_panel](https://github.com/wormtql/genshin_panel) - 原神面板计算器, Genshin Impact attribute calculator
 - [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer) - genshin gacha history analyzer
 - [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
