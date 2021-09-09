@@ -249,6 +249,7 @@
 
 ## Java 
 
+- [iXORTech/MCDRemoteBot](https://github.com/iXORTech/MCDRemoteBot) - 模块化，简单易用，使用Java编写，基于 YuQ-Mirai 框架的QQ机器人，专为Minecraft服务器群组设计
 - [88250/symphony](https://github.com/88250/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java. https://ld246.com
 - [niefy/wx-api](https://github.com/niefy/wx-api) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [Cruii/bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - 📺 一个基于BILIBILI-HELPER 的集中化平台。
@@ -428,6 +429,7 @@
 
 ## Others 
 
+- [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [Angelic47/WTFPL](https://github.com/Angelic47/WTFPL) - DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
 - [Menci/acme](https://github.com/Menci/acme) - Issue free SSL certs from Let's Encrypt and more CAs with acme.sh.
@@ -487,6 +489,7 @@
 
 ## PHP 
 
+- [ihewro/PullSinaimgtoTypecho](https://github.com/ihewro/PullSinaimgtoTypecho) - 把typecho中的含有新浪的图片下载到自己的服务器上，并自动替换地址
 - [kokororin/typecho-plugin-Parsedown](https://github.com/kokororin/typecho-plugin-Parsedown) - Typecho Parsedown 解析markdown插件
 - [easychen/serverchan-wordpress-comments-notice](https://github.com/easychen/serverchan-wordpress-comments-notice) - Server酱WordPress博客评论微信通知插件
 - [zwying0814/Brave](https://github.com/zwying0814/Brave) - Typecho情侣主题Brave
