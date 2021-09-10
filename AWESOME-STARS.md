@@ -429,6 +429,7 @@
 
 ## Others 
 
+- [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [Angelic47/WTFPL](https://github.com/Angelic47/WTFPL) - DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi
@@ -528,6 +529,8 @@
 
 ## Python 
 
+- [hgjazhgj/GenshinAutoFish](https://github.com/hgjazhgj/GenshinAutoFish) - 原神自动钓鱼 一怒之下半个小时写的,就100行代码,无需更改游戏分辨率,几乎开箱即用,还算效率贼高,勉强超级稳定
+- [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [yahoo/open_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
 - [alfiopuglisi/guietta](https://github.com/alfiopuglisi/guietta) - 
 - [Tao0Lu/Arknights_Anti-addiction_Cheater](https://github.com/Tao0Lu/Arknights_Anti-addiction_Cheater) - 明日方舟防沉迷破解
