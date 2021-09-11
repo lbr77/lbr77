@@ -30,6 +30,7 @@
   - [Python](#python)
   - [Rich Text Format](#rich-text-format)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
   - [Standard ML](#standard-ml)
@@ -490,6 +491,7 @@
 
 ## PHP 
 
+- [luolongfei/next-freenom](https://github.com/luolongfei/next-freenom) - Freenom 域名自动续期。（由于我前仓库 https://github.com/luolongfei/freenom 不明原因被封，估计是与早前的 GitHub Action 事件有关，正在申诉重审。故将原项目迁移至此，接下来的开发与维护将在此仓库进行。Docker 仓库不受影响。）Freenom domain name renews automatically.
 - [ihewro/PullSinaimgtoTypecho](https://github.com/ihewro/PullSinaimgtoTypecho) - 把typecho中的含有新浪的图片下载到自己的服务器上，并自动替换地址
 - [kokororin/typecho-plugin-Parsedown](https://github.com/kokororin/typecho-plugin-Parsedown) - Typecho Parsedown 解析markdown插件
 - [easychen/serverchan-wordpress-comments-notice](https://github.com/easychen/serverchan-wordpress-comments-notice) - Server酱WordPress博客评论微信通知插件
@@ -529,6 +531,7 @@
 
 ## Python 
 
+- [ybsdegit/captcha_qq](https://github.com/ybsdegit/captcha_qq) - 腾讯防水墙滑动验证码破解
 - [hgjazhgj/GenshinAutoFish](https://github.com/hgjazhgj/GenshinAutoFish) - 原神自动钓鱼 一怒之下半个小时写的,就100行代码,无需更改游戏分辨率,几乎开箱即用,还算效率贼高,勉强超级稳定
 - [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [yahoo/open_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
@@ -623,6 +626,10 @@
 ## Ruby 
 
 - [romainbutteaud/Kaffeine](https://github.com/romainbutteaud/Kaffeine) - Keeping free Heroku apps awake.
+
+## Rust 
+
+- [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 
 ## SCSS 
 
