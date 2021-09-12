@@ -52,7 +52,7 @@
 
 ## Batchfile 
 
-- [EdgelessPE/Edgeless](https://github.com/EdgelessPE/Edgeless) - The opensource repository of Edgeless PE Project
+- [EdgelessPE/Edgeless](https://github.com/EdgelessPE/Edgeless) - 🏠 The opensource repository of Edgeless PE Project
 - [Hibbiki/chromium-win64](https://github.com/Hibbiki/chromium-win64) - Chromium builds for Windows x64
 
 ## C 
@@ -82,6 +82,7 @@
 
 ## C# # 
 
+- [Tangent-90/Coolapk-UWP](https://github.com/Tangent-90/Coolapk-UWP) - 酷安第三方UWP客户端
 - [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服 下载加速。
 - [copyliu/bililive_dm](https://github.com/copyliu/bililive_dm) - B站直播彈幕工具
 - [project-inki/inki](https://github.com/project-inki/inki) - NoteTaker, Notebook, PDF Editor of Next Generation. (Under Development)
@@ -531,8 +532,9 @@
 
 ## Python 
 
+- [Darknights-dev/Darknights-server](https://github.com/Darknights-dev/Darknights-server) - Darknights 服务器 | 明日方舟 Arknights 私服
 - [ybsdegit/captcha_qq](https://github.com/ybsdegit/captcha_qq) - 腾讯防水墙滑动验证码破解
-- [hgjazhgj/GenshinAutoFish](https://github.com/hgjazhgj/GenshinAutoFish) - 原神自动钓鱼 一怒之下半个小时写的,就100行代码,无需更改游戏分辨率,几乎开箱即用,还算效率贼高,勉强超级稳定
+- [hgjazhgj/GenshinAutoFish](https://github.com/hgjazhgj/GenshinAutoFish) - 原神自动钓鱼 Genshin Impactの自動釣りプログラム 一怒之下半个小时写的,就100行代码,无需更改游戏分辨率,几乎开箱即用,还算效率贼高,勉强超级稳定
 - [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [yahoo/open_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
 - [alfiopuglisi/guietta](https://github.com/alfiopuglisi/guietta) - 
@@ -602,7 +604,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 98 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 99 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -688,6 +690,7 @@
 
 ## TypeScript 
 
+- [genshin-kit/genshin-kit](https://github.com/genshin-kit/genshin-kit) - 原神玩家信息查询封装库 / An API wrapper for fetching player data of Genshin Impact from any servers.
 - [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
 - [bangbang93/minecraft-proxy](https://github.com/bangbang93/minecraft-proxy) - 
