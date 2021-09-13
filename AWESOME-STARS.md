@@ -534,7 +534,7 @@
 
 - [Darknights-dev/Darknights-server](https://github.com/Darknights-dev/Darknights-server) - Darknights 服务器 | 明日方舟 Arknights 私服
 - [ybsdegit/captcha_qq](https://github.com/ybsdegit/captcha_qq) - 腾讯防水墙滑动验证码破解
-- [hgjazhgj/GenshinAutoFish](https://github.com/hgjazhgj/GenshinAutoFish) - 原神自动钓鱼 Genshin Impactの自動釣りプログラム 一怒之下半个小时写的,就100行代码,无需更改游戏分辨率,几乎开箱即用,还算效率贼高,勉强超级稳定
+- [hgjazhgj/GenshinAutoFish](https://github.com/hgjazhgj/GenshinAutoFish) - 原神自动钓鱼 | Automatically Fishing in Genshin Impact | Genshin Impactの自動釣りプログラム 一怒之下半个小时写的,就100行代码,无需更改游戏分辨率,几乎开箱即用,还算效率贼高,勉强超级稳定
 - [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [yahoo/open_nsfw](https://github.com/yahoo/open_nsfw) - Not Suitable for Work (NSFW) classification using deep neural network Caffe models.
 - [alfiopuglisi/guietta](https://github.com/alfiopuglisi/guietta) - 
@@ -581,7 +581,7 @@
 - [H4ckForJob/dirmap](https://github.com/H4ckForJob/dirmap) - An advanced web directory & file scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [Hsury/Bilibili-Toolkit](https://github.com/Hsury/Bilibili-Toolkit) - 🛠️ 哔哩哔哩（B站）辅助工具箱，支持Cookie/Token/Password融合持久化登录与多用户操作
-- [SK-415/HarukaBot](https://github.com/SK-415/HarukaBot) - 将B站UP主的动态和直播信息推送至QQ，基于 NoneBot2 开发
+- [SK-415/HarukaBot](https://github.com/SK-415/HarukaBot) - 将 B 站的动态和直播信息推送至 QQ，基于 NoneBot2 开发
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, ETA and very cool animations!
 - [luern0313/WindSong-Lyre-Genshin-Impact](https://github.com/luern0313/WindSong-Lyre-Genshin-Impact) - 【原神】自动演奏风物之诗琴的程序
 - [XiaoMiku01/PaimonBot](https://github.com/XiaoMiku01/PaimonBot) - 派蒙Bot / PaimonBot
@@ -604,7 +604,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 99 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 50 stars and 100 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -706,7 +706,7 @@
 - [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers.
 - [JuZiSang/picgo-plugin-compress](https://github.com/JuZiSang/picgo-plugin-compress) - Image compression plugin for PicGo
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Yet another-another OneDrive index, powered by Vercel and Next.js
-- [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - 新一代高效强大的信息学在线测评系统
+- [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
