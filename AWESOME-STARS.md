@@ -29,6 +29,7 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Rich Text Format](#rich-text-format)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -119,7 +120,7 @@
 - [czs108/Plants-vs.-Zombies-Online-Battle](https://github.com/czs108/Plants-vs.-Zombies-Online-Battle) - 🎮 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.
 - [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
-- [Apache553/ssh-agent-bridge](https://github.com/Apache553/ssh-agent-bridge) - 为了让 Windows 平台上的 ssh agent 能适配多种 ssh client 和在 wsl 环境下使用的工具
+- [Apache553/ssh-agent-bridge](https://github.com/Apache553/ssh-agent-bridge) - A tool that enable multiple ssh client implementations to use a common ssh agent on Windows.
 - [Project-LemonLime/Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 - [WarfarinBloodanger/ff0-script](https://github.com/WarfarinBloodanger/ff0-script) - A interpreter that runs the script which is programmed in the language of FF0 script (or you can call it as Warfarin)
 - [zhipeng-jia/project-lemon](https://github.com/zhipeng-jia/project-lemon) - Automatically exported from code.google.com/p/project-lemon
@@ -492,6 +493,7 @@
 
 ## PHP 
 
+- [ethanzhao2001/AbnormalLinks-For-Typecho](https://github.com/ethanzhao2001/AbnormalLinks-For-Typecho) - 快速检测Typecho中是否有友链存在异常
 - [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura)
 - [luolongfei/next-freenom](https://github.com/luolongfei/next-freenom) - Freenom 域名自动续期。（由于我前仓库 https://github.com/luolongfei/freenom 不明原因被封，估计是与早前的 GitHub Action 事件有关，正在申诉重审。故将原项目迁移至此，接下来的开发与维护将在此仓库进行。Docker 仓库不受影响。）Freenom domain name renews automatically.
 - [ihewro/PullSinaimgtoTypecho](https://github.com/ihewro/PullSinaimgtoTypecho) - 把typecho中的含有新浪的图片下载到自己的服务器上，并自动替换地址
@@ -533,6 +535,7 @@
 
 ## Python 
 
+- [ninthDevilHAUNSTER/ArknightsAutoHelper](https://github.com/ninthDevilHAUNSTER/ArknightsAutoHelper) - Arknights Auto Helper based on ADB and Python   |  基于python的明日方舟护肝助手
 - [hgjazhgj/FGO-py](https://github.com/hgjazhgj/FGO-py) - 全自动Fate/Grand Order脚本.Fully automatic FGO Script.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?绝赞持续更新中
 - [Mufanc/Genshin-SmartFishingRod](https://github.com/Mufanc/Genshin-SmartFishingRod) - 【Auto】原神⭐钓鱼辅助工具 | 自动收竿、校准游标 | ✨您只需要抛出鱼竿，我们会帮你完成一切✨
 - [Darknights-dev/Darknights-server](https://github.com/Darknights-dev/Darknights-server) - Darknights 服务器 | 明日方舟 Arknights 私服
@@ -607,7 +610,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 52 stars and 100 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 52 stars and 102 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -627,6 +630,10 @@
 ## Rich Text Format 
 
 - [enkerewpo/OI-Public-Library](https://github.com/enkerewpo/OI-Public-Library) - OI / ACM essays and learning materials
+
+## Roff 
+
+- [lydrainbowcat/tedukuri](https://github.com/lydrainbowcat/tedukuri) - 《算法竞赛进阶指南》资源社区
 
 ## Ruby 
 
