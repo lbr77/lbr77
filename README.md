@@ -9,6 +9,8 @@
 
 - ✨ My Stars [STARS](https://github.com/lbr77/lbr77/blob/master/AWESOME-STARS.md)
 
+- 🎮 Favorate Game **Genshin Impact**.~~But recently banned by China's naive policies~~
+
 ![](https://github-readme-stats.vercel.app/api?username=lbr77&count_private=true&show_icons=true&theme=buefy)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lbr77&layout=compact&theme=buefy)
