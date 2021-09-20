@@ -225,6 +225,7 @@
 
 ## HTML 
 
+- [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [nocrizwang/OIer](https://github.com/nocrizwang/OIer) - A database for OIers
 - [schwarzeni/leetcode-binarytree-edit](https://github.com/schwarzeni/leetcode-binarytree-edit) - LeetCode 二叉树输入数组可视化编辑
@@ -275,6 +276,7 @@
 
 ## JavaScript 
 
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 42 stars 6 forks.
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT) - 腾讯 QQ 中的原神机器人
 - [kidonng/anti-web-addiction](https://github.com/kidonng/anti-web-addiction) - 网络防沉迷浏览器扩展，防止人沉迷网络，切实保护人身心健康
@@ -437,6 +439,7 @@
 
 ## Others 
 
+- [ouuan/this-repo-has-27-stars-3-forks](https://github.com/ouuan/this-repo-has-27-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 27 stars 3 forks.
 - [SFOI-Team/luogu-problem-list](https://github.com/SFOI-Team/luogu-problem-list) - A problem list for luogu OJ.
 - [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -541,6 +544,7 @@
 
 ## Python 
 
+- [cscs181/QQ-GitHub-Bot](https://github.com/cscs181/QQ-GitHub-Bot) - GitHub Bot for QQ
 - [skinan/imap-Image-to-PDF-Converter-Application-For-Windows](https://github.com/skinan/imap-Image-to-PDF-Converter-Application-For-Windows) - This is an "Image to PDF Converter" (open source) software build for Windows. You can convert your image files to PDF(Portable Document Format) files using this software. Just select your image files or the folder containing the images and convert them all into PDF file quickly.
 - [opq-osc/opqqq-plugin](https://github.com/opq-osc/opqqq-plugin) - OPQBot 即开即用的插件，自定义表情、早晚安、Vtuber/Pcr/原神 运势等（兼容 nonebot-plugin 原项目配置）
 - [ninthDevilHAUNSTER/ArknightsAutoHelper](https://github.com/ninthDevilHAUNSTER/ArknightsAutoHelper) - Arknights Auto Helper based on ADB and Python   |  基于python的明日方舟护肝助手
