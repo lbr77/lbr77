@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [Tao0Lu/ArkNightsForMinor](https://github.com/Tao0Lu/ArkNightsForMinor) - 明日方舟防沉迷破解
 - [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate) - Collection of undergraduate course homework and projects
 - [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
 - [nccgroup/SocksOverRDP](https://github.com/nccgroup/SocksOverRDP) - Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services / Citrix / XenApp / XenDesktop
@@ -171,7 +172,7 @@
 
 ## Dart 
 
-- [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版
+- [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [PicGo/flutter-picgo](https://github.com/PicGo/flutter-picgo) - 🚀 A simple & beautiful mobile tool for pictures uploading built by flutter
 - [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
 
@@ -185,6 +186,7 @@
 
 ## Go 
 
+- [FastGitORG/fgit-go](https://github.com/FastGitORG/fgit-go) - 🔧 A go-written tool to do git operation with fastgit easily
 - [grafov/m3u8](https://github.com/grafov/m3u8) - Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
@@ -278,7 +280,7 @@
 
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 42 stars 6 forks.
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
-- [Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT) - 腾讯 QQ 中的原神机器人
+- [Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT) - 你在 QQ 中的派蒙小助手
 - [kidonng/anti-web-addiction](https://github.com/kidonng/anti-web-addiction) - 网络防沉迷浏览器扩展，防止人沉迷网络，切实保护人身心健康
 - [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
@@ -297,7 +299,7 @@
 - [extend-luogu/extend-luogu](https://github.com/extend-luogu/extend-luogu) - 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [TooTallNate/node-http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent) - An HTTP(s) proxy `http.Agent` implementation for HTTP endpoints
-- [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT) - Genshin Impact robot in Tencent QQ.
+- [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT) - A Tencent QQ bot framework.
 - [bossbaby2005/luogu-stats-card](https://github.com/bossbaby2005/luogu-stats-card) - 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [Archeb/Candy-Rebirth](https://github.com/Archeb/Candy-Rebirth) - Typecho单行横屏滚动主题！
@@ -358,7 +360,7 @@
 - [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
 - [ArtitalkJS/Artitalk](https://github.com/ArtitalkJS/Artitalk) - 通过leancloud实现的可实时发布说说的js
 - [DreamyTZK/iSpeak-spider](https://github.com/DreamyTZK/iSpeak-spider) - 小康的speak，GitHub版
-- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库 / 轻量、完善、跨平台
+- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
 - [wao3/luogu-stats-card](https://github.com/wao3/luogu-stats-card) - 动态生成洛谷个人练习数据卡片
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [DreamyTZK/friend-spider](https://github.com/DreamyTZK/friend-spider) - 一个用于爬取GitHub/gitee等平台中issue友链的项目。
@@ -368,7 +370,7 @@
 - [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
-- [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://vlts.cc  https://volantis.js.org
+- [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://volantis.js.org
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo bilibili番剧页
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [SukkaW/kv4cf](https://github.com/SukkaW/kv4cf) - A Modified version of cloudflare/kv-asset-handler, with Non-ASCII URL supported.
@@ -715,6 +717,7 @@
 
 ## TypeScript 
 
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [project-yuki/YUKI](https://github.com/project-yuki/YUKI) - YUKI Galgame Translator
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [robertying/learnX](https://github.com/robertying/learnX) - 清华大学网络学堂 App，以 React Native 构建。App for Tsinghua University Web Learning, developed with React Native. ⚛️
