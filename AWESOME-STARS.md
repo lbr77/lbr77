@@ -278,6 +278,7 @@
 
 ## JavaScript 
 
+- [Tsuk1ko/gmwc](https://github.com/Tsuk1ko/gmwc) - G_____n m_s w___o c_____n
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 42 stars 6 forks.
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT) - 你在 QQ 中的派蒙小助手
@@ -370,7 +371,7 @@
 - [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
-- [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo  https://volantis.js.org
+- [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo bilibili番剧页
 - [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 - [SukkaW/kv4cf](https://github.com/SukkaW/kv4cf) - A Modified version of cloudflare/kv-asset-handler, with Non-ASCII URL supported.
@@ -506,6 +507,7 @@
 
 ## PHP 
 
+- [mrgeneralgoo/typecho-markdown](https://github.com/mrgeneralgoo/typecho-markdown) - A markdown parse plugin for typecho.
 - [ethanzhao2001/AbnormalLinks-For-Typecho](https://github.com/ethanzhao2001/AbnormalLinks-For-Typecho) - 快速检测Typecho中是否有友链存在异常
 - [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura)
 - [luolongfei/next-freenom](https://github.com/luolongfei/next-freenom) - Freenom 域名自动续期。（由于我前仓库 https://github.com/luolongfei/freenom 不明原因被封，估计是与早前的 GitHub Action 事件有关。故将原项目迁移至此，接下来的开发与维护将在此仓库进行。Docker 仓库不受影响。）Freenom domain name renews automatically.
@@ -717,6 +719,7 @@
 
 ## TypeScript 
 
+- [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [project-yuki/YUKI](https://github.com/project-yuki/YUKI) - YUKI Galgame Translator
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
