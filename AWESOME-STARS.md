@@ -85,7 +85,7 @@
 
 - [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
 - [xplusky/AnohanaDesktop](https://github.com/xplusky/AnohanaDesktop) - 那朵花（未闻花名）动态桌面，好看的桌面飘落花朵效果，有彩蛋！Anohana dynamic desktop, falling flowers! !
-- [Tangent-90/Coolapk-UWP](https://github.com/Tangent-90/Coolapk-UWP) - 酷安第三方UWP客户端
+- [Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) - 一个基于UWP平台的第三方酷安客户端
 - [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服 下载加速。
 - [copyliu/bililive_dm](https://github.com/copyliu/bililive_dm) - B站直播彈幕工具
 - [project-inki/inki](https://github.com/project-inki/inki) - NoteTaker, Notebook, PDF Editor of Next Generation. (Under Development)
@@ -186,6 +186,7 @@
 
 ## Go 
 
+- [cnsilvan/UnblockNeteaseMusic](https://github.com/cnsilvan/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music (Golang)
 - [FastGitORG/fgit-go](https://github.com/FastGitORG/fgit-go) - 🔧 A go-written tool to do git operation with fastgit easily
 - [grafov/m3u8](https://github.com/grafov/m3u8) - Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -262,7 +263,7 @@
 - [iXORTech/MCDRemoteBot](https://github.com/iXORTech/MCDRemoteBot) - 模块化，简单易用，使用Java编写，基于 YuQ-Mirai 框架的QQ机器人，专为Minecraft服务器群组设计
 - [88250/symphony](https://github.com/88250/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java. https://ld246.com
 - [niefy/wx-api](https://github.com/niefy/wx-api) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
-- [Cruii/bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - 📺 一个基于BILIBILI-HELPER 的集中化平台。
+- [Cruii/bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - 🚀 Bilibili每日任务托管平台
 - [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
 - [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
 - [pansong291/XQuickEnergy](https://github.com/pansong291/XQuickEnergy) - 快速收取蚂蚁森林能量
@@ -550,12 +551,14 @@
 
 ## Python 
 
+- [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语编程语言.The Cantonese programming language.
+- [b1ank1108/bypassAV](https://github.com/b1ank1108/bypassAV) - 破产版免杀
 - [7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish) - 基于深度强化学习的原神自动钓鱼AI
 - [cscs181/QQ-GitHub-Bot](https://github.com/cscs181/QQ-GitHub-Bot) - GitHub Bot for QQ
 - [skinan/imap-Image-to-PDF-Converter-Application-For-Windows](https://github.com/skinan/imap-Image-to-PDF-Converter-Application-For-Windows) - This is an "Image to PDF Converter" (open source) software build for Windows. You can convert your image files to PDF(Portable Document Format) files using this software. Just select your image files or the folder containing the images and convert them all into PDF file quickly.
 - [opq-osc/opqqq-plugin](https://github.com/opq-osc/opqqq-plugin) - OPQBot 即开即用的插件，自定义表情、早晚安、Vtuber/Pcr/原神 运势等（兼容 nonebot-plugin 原项目配置）
 - [ninthDevilHAUNSTER/ArknightsAutoHelper](https://github.com/ninthDevilHAUNSTER/ArknightsAutoHelper) - Arknights Auto Helper based on ADB and Python   |  基于python的明日方舟护肝助手
-- [hgjazhgj/FGO-py](https://github.com/hgjazhgj/FGO-py) - 全自动Fate/Grand Order脚本.Fully automatic FGO Script.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?绝赞持续更新中
+- [hgjazhgj/FGO-py](https://github.com/hgjazhgj/FGO-py) - 全自动Fate/Grand Order脚本.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?绝赞持续更新中
 - [Mufanc/Genshin-SmartFishingRod](https://github.com/Mufanc/Genshin-SmartFishingRod) - 【Auto】原神⭐钓鱼辅助工具 | 自动收竿、校准游标 | ✨您只需要抛出鱼竿，我们会帮你完成一切✨
 - [Darknights-dev/Darknights-server](https://github.com/Darknights-dev/Darknights-server) - Darknights 服务器 | 明日方舟 Arknights 私服
 - [ybsdegit/captcha_qq](https://github.com/ybsdegit/captcha_qq) - 腾讯防水墙滑动验证码破解
@@ -625,10 +628,10 @@
 - [vcheckzen/FODI](https://github.com/vcheckzen/FODI) - Fast OneDrive Index，OneDrive 秒级列表程序
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
 - [zaxtyson/Anime-API](https://github.com/zaxtyson/Anime-API) - 通过本地 Web 接口获取第三方网站的动漫和弹幕资源, 支持扩展
-- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - A new start for CTF Wiki! Come and join us, we need you!
+- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 53 stars and 102 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 53 stars and 103 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
