@@ -519,7 +519,7 @@
 - [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
 - [ArtalkJS/ArtalkPHP](https://github.com/ArtalkJS/ArtalkPHP) - Artalk 评论系统后端程序 PHP 版
 - [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
-- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto (图床)
+- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto.
 - [extend-luogu/luogu-discuss-log](https://github.com/extend-luogu/luogu-discuss-log) - 保存洛谷讨论的工具
 - [Stitch-June/CommentPush](https://github.com/Stitch-June/CommentPush) - 基于Typecho评论推送服务
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
