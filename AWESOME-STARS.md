@@ -511,7 +511,7 @@
 - [mrgeneralgoo/typecho-markdown](https://github.com/mrgeneralgoo/typecho-markdown) - A markdown parse plugin for typecho.
 - [ethanzhao2001/AbnormalLinks-For-Typecho](https://github.com/ethanzhao2001/AbnormalLinks-For-Typecho) - 快速检测Typecho中是否有友链存在异常
 - [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura)
-- [luolongfei/next-freenom](https://github.com/luolongfei/next-freenom) - Freenom 域名自动续期。（由于我前仓库 https://github.com/luolongfei/freenom 不明原因被封，估计是与早前的 GitHub Action 事件有关。故将原项目迁移至此，接下来的开发与维护将在此仓库进行。Docker 仓库不受影响。）Freenom domain name renews automatically.
+- [luolongfei/next-freenom](https://github.com/luolongfei/next-freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.（由于我前仓库 https://github.com/luolongfei/freenom 不明原因被封，估计是与早前的 GitHub Action 事件有关。故将原项目迁移至此，接下来的开发与维护将在此仓库进行。Docker 仓库不受影响。）
 - [ihewro/PullSinaimgtoTypecho](https://github.com/ihewro/PullSinaimgtoTypecho) - 把typecho中的含有新浪的图片下载到自己的服务器上，并自动替换地址
 - [kokororin/typecho-plugin-Parsedown](https://github.com/kokororin/typecho-plugin-Parsedown) - Typecho Parsedown 解析markdown插件
 - [easychen/serverchan-wordpress-comments-notice](https://github.com/easychen/serverchan-wordpress-comments-notice) - Server酱WordPress博客评论微信通知插件
@@ -631,7 +631,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 53 stars and 103 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 53 stars and 102 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
