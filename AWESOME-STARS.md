@@ -385,7 +385,7 @@
 - [Vincedream/NodeMail](https://github.com/Vincedream/NodeMail) - 💗 用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件
 - [imaegoo/twikoo](https://github.com/imaegoo/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
 - [sentsin/layui](https://github.com/sentsin/layui) - 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
 - [langren1353/GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
 - [DesertsP/Valine-Admin](https://github.com/DesertsP/Valine-Admin) - A simple comment system based on LeanCloud and Valine. 👉
@@ -750,7 +750,7 @@
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
-- [Clansty/Icalingua](https://github.com/Clansty/Icalingua) - A Linux client for QQ and more :electron:
+- [Icalingua/Icalingua](https://github.com/Icalingua/Icalingua) - A Linux client for QQ and more :electron:
 - [juicyfx/vercel-php](https://github.com/juicyfx/vercel-php) - ▲ Vercel PHP runtime  •  vercel-php •  now-php  •  🐘+ λ = ❤
 - [takayama-lily/abot](https://github.com/takayama-lily/abot) - 次世代跨平台插件式QQ机器人框架
 - [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
