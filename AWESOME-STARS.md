@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [Nambers/MiraiCP](https://github.com/Nambers/MiraiCP) - c++ SDK of Mirai
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 - [tanenrumu/ArkNightsForMinor](https://github.com/tanenrumu/ArkNightsForMinor) - 明日方舟防沉迷破解
 - [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate) - Collection of undergraduate course homework and projects
@@ -520,7 +521,7 @@
 - [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
 - [ArtalkJS/ArtalkPHP](https://github.com/ArtalkJS/ArtalkPHP) - Artalk 评论系统后端程序 PHP 版
 - [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
-- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by Chevereto.
+- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting powered by rodber.
 - [extend-luogu/luogu-discuss-log](https://github.com/extend-luogu/luogu-discuss-log) - 保存洛谷讨论的工具
 - [Stitch-June/CommentPush](https://github.com/Stitch-June/CommentPush) - 基于Typecho评论推送服务
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
