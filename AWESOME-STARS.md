@@ -58,6 +58,7 @@
 
 ## C 
 
+- [zlgopen/awtk](https://github.com/zlgopen/awtk) - AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)
 - [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -117,6 +118,7 @@
 
 ## C++ 
 
+- [GengGode/GenshinImpact_AutoTrack_DLL](https://github.com/GengGode/GenshinImpact_AutoTrack_DLL) - 能够从原神中获取角色的位置、朝向以及视角的实时数据，通过图像算法获取，并非读内存。
 - [grommunio/gromox](https://github.com/grommunio/gromox) - Groupware server backend with RPC/HTTP, IMAP, POP3 and PHP-MAPI support for grommunio
 - [Nambers/MiraiCP](https://github.com/Nambers/MiraiCP) - c++ SDK of Mirai
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
@@ -284,6 +286,7 @@
 
 ## JavaScript 
 
+- [qinlili23333/ctfile.TencentCloud](https://github.com/qinlili23333/ctfile.TencentCloud) - 使用腾讯云Serverless解析城通网盘直连地址
 - [solstice23/osu-stats-signature](https://github.com/solstice23/osu-stats-signature) - 🏷 生成实时更新的 osu! 个人资料卡片
 - [detroitenglish/cloudflare-workers-webpack-plugin](https://github.com/detroitenglish/cloudflare-workers-webpack-plugin) - Launch Cloudflare Workers to the Edge from the comfort of your build step 🚀
 - [detroitenglish/cloudflare-workers-webpack-boilerplate](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - A superbly simple, minimal-config template for building, bundling and deploying Cloudflare Workers with Webpack 🚀
@@ -292,7 +295,7 @@
 - [Tsuk1ko/gmwc](https://github.com/Tsuk1ko/gmwc) - G_____n m_s w___o c_____n
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 42 stars 6 forks.
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
-- [Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT) - 你在 QQ 中的派蒙小助手
+- [Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT) - 一个在 QQ 中运行的原神助手
 - [kidonng/anti-web-addiction](https://github.com/kidonng/anti-web-addiction) - 网络防沉迷浏览器扩展，防止人沉迷网络，切实保护人身心健康
 - [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
@@ -563,6 +566,7 @@
 
 ## Python 
 
+- [userElaina/one-file-with-many-password](https://github.com/userElaina/one-file-with-many-password) - 多文件多密码打包成一个文件，即变成单文件多密码。给一个密码，只能提取对应文件。防查水表。有时间用C重写一下以加快速度……
 - [DargonXuan/AutoArknights](https://github.com/DargonXuan/AutoArknights) - 基于 OpenCV 和 Mitmproxy | Requests 实现的全自动化舟游
 - [kaaass/beancount_bot](https://github.com/kaaass/beancount_bot) - A telegram bot designed for Beancount
 - [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese) - 粤语编程语言.The Cantonese programming language.
@@ -645,7 +649,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 53 stars and 102 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 54 stars and 102 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
