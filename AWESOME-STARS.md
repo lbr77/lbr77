@@ -162,7 +162,6 @@
 - [Tsuk1ko/lolicon.app](https://github.com/Tsuk1ko/lolicon.app) - 
 - [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
-- [lbr77/CDN](https://github.com/lbr77/CDN) - 
 - [trinitrotofu/Bubble](https://github.com/trinitrotofu/Bubble) - Typecho 清新风格响应式主题
 - [SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme](https://github.com/SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme) - 以东方Project为主的Hexo主题
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
@@ -352,6 +351,7 @@
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [NeverBehave/Tweet2Telegram](https://github.com/NeverBehave/Tweet2Telegram) - ❤️ Liked Tweets to Telegram
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [lbr77/CDN](https://github.com/lbr77/CDN) - 
 - [ukuq/onepoint](https://github.com/ukuq/onepoint) - A simple virtual drive based on many complex drives
 - [TencentCloudBase/cloudbase-examples](https://github.com/TencentCloudBase/cloudbase-examples) - TCB 案例
 - [biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export) - Easily export the Genshin Impact wish record.
@@ -566,6 +566,7 @@
 
 ## Python 
 
+- [Hawaii-ol/arknights_minor_bypass](https://github.com/Hawaii-ol/arknights_minor_bypass) - Scripts that help you bypass Arknights' anti-addiction system. 明日方舟防沉迷破解，未成年人的第一款松果皮肤
 - [userElaina/one-file-with-many-password](https://github.com/userElaina/one-file-with-many-password) - 多文件多密码打包成一个文件，即变成单文件多密码。给一个密码，只能提取对应文件。防查水表。有时间用C重写一下以加快速度……
 - [DargonXuan/AutoArknights](https://github.com/DargonXuan/AutoArknights) - 基于 OpenCV 和 Mitmproxy | Requests 实现的全自动化舟游
 - [kaaass/beancount_bot](https://github.com/kaaass/beancount_bot) - A telegram bot designed for Beancount
@@ -649,7 +650,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 54 stars and 102 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 54 stars and 104 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
