@@ -58,6 +58,8 @@
 
 ## C 
 
+- [matrixcascade/PainterEngine](https://github.com/matrixcascade/PainterEngine) - PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C
+- [imengyu/JiYuTrainer](https://github.com/imengyu/JiYuTrainer) - 极域电子教室防控制软件, StudenMain.exe 破解
 - [zlgopen/awtk](https://github.com/zlgopen/awtk) - AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)
 - [Metabolix/HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -118,6 +120,7 @@
 
 ## C++ 
 
+- [t123yh/simple-sandbox](https://github.com/t123yh/simple-sandbox) - A simple Linux sandbox with Node.js API.
 - [GengGode/GenshinImpact_AutoTrack_DLL](https://github.com/GengGode/GenshinImpact_AutoTrack_DLL) - 能够从原神中获取角色的位置、朝向以及视角的实时数据，通过图像算法获取，并非读内存。
 - [grommunio/gromox](https://github.com/grommunio/gromox) - Groupware server backend with RPC/HTTP, IMAP, POP3 and PHP-MAPI support for grommunio
 - [Nambers/MiraiCP](https://github.com/Nambers/MiraiCP) - c++ SDK of Mirai
@@ -193,6 +196,7 @@
 
 ## Go 
 
+- [yoki123/ncmdump](https://github.com/yoki123/ncmdump) - netease cloud music copyright protection file dump(golang版本网易云音乐ncm文件格式转换)
 - [cnsilvan/UnblockNeteaseMusic](https://github.com/cnsilvan/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music (Golang)
 - [FastGitORG/fgit-go](https://github.com/FastGitORG/fgit-go) - 🔧 A go-written tool to do git operation with fastgit easily
 - [grafov/m3u8](https://github.com/grafov/m3u8) - Parser and generator of M3U8-playlists for Apple HLS. Library for Go language. :cinema:
@@ -285,6 +289,7 @@
 
 ## JavaScript 
 
+- [Nthily/netease-music-card](https://github.com/Nthily/netease-music-card) - 🎧 在 Github Profile 显示你这周在网易云音乐上最喜欢听的歌曲 🎵
 - [qinlili23333/ctfile.TencentCloud](https://github.com/qinlili23333/ctfile.TencentCloud) - 使用腾讯云Serverless解析城通网盘直连地址
 - [solstice23/osu-stats-signature](https://github.com/solstice23/osu-stats-signature) - 🏷 生成实时更新的 osu! 个人资料卡片
 - [detroitenglish/cloudflare-workers-webpack-plugin](https://github.com/detroitenglish/cloudflare-workers-webpack-plugin) - Launch Cloudflare Workers to the Edge from the comfort of your build step 🚀
@@ -313,7 +318,6 @@
 - [extend-luogu/extend-luogu](https://github.com/extend-luogu/extend-luogu) - 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [TooTallNate/node-http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent) - An HTTP(s) proxy `http.Agent` implementation for HTTP endpoints
-- [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT) - A Tencent QQ bot framework.
 - [bossbaby2005/luogu-stats-card](https://github.com/bossbaby2005/luogu-stats-card) - 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [Archeb/Candy-Rebirth](https://github.com/Archeb/Candy-Rebirth) - Typecho单行横屏滚动主题！
@@ -458,6 +462,7 @@
 
 ## Others 
 
+- [FuckOS/4399Hidomocd](https://github.com/FuckOS/4399Hidomocd) - 噢!这是一个能用CMD写系统的人
 - [DargonXuan/arknights-checkin](https://github.com/DargonXuan/arknights-checkin) - 依旧是一个明日方舟的自动签到脚本
 - [ouuan/this-repo-has-27-stars-3-forks](https://github.com/ouuan/this-repo-has-27-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 27 stars 3 forks.
 - [SFOI-Team/luogu-problem-list](https://github.com/SFOI-Team/luogu-problem-list) - A problem list for luogu OJ.
@@ -522,6 +527,7 @@
 
 ## PHP 
 
+- [ZsgsDesign/NOJ](https://github.com/ZsgsDesign/NOJ) - ⚡ The most advanced open-source automatic algorithm online judge system | 南京邮电大学开源 Online Judge | QQ群：668108264
 - [tanenrumu/Arknights_Checkin](https://github.com/tanenrumu/Arknights_Checkin) - Arknights online checkin | 明日方舟在线签到
 - [mrgeneralgoo/typecho-markdown](https://github.com/mrgeneralgoo/typecho-markdown) - A markdown parse plugin for typecho.
 - [ethanzhao2001/AbnormalLinks-For-Typecho](https://github.com/ethanzhao2001/AbnormalLinks-For-Typecho) - 快速检测Typecho中是否有友链存在异常
@@ -566,6 +572,7 @@
 
 ## Python 
 
+- [y3oj/y3oj](https://github.com/y3oj/y3oj) - (maybe the first) simple, light-weight and highly maintainable online judge system for secondary education
 - [Hawaii-ol/arknights_minor_bypass](https://github.com/Hawaii-ol/arknights_minor_bypass) - Scripts that help you bypass Arknights' anti-addiction system. 明日方舟防沉迷破解，未成年人的第一款松果皮肤
 - [userElaina/one-file-with-many-password](https://github.com/userElaina/one-file-with-many-password) - 多文件多密码打包成一个文件，即变成单文件多密码。给一个密码，只能提取对应文件。防查水表。有时间用C重写一下以加快速度……
 - [DargonXuan/AutoArknights](https://github.com/DargonXuan/AutoArknights) - 基于 OpenCV 和 Mitmproxy | Requests 实现的全自动化舟游
@@ -650,7 +657,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 54 stars and 104 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 55 stars and 103 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -755,6 +762,7 @@
 - [wormtql/genshin_panel](https://github.com/wormtql/genshin_panel) - 原神面板计算器, Genshin Impact attribute calculator
 - [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer) - genshin gacha history analyzer
 - [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
+- [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT) - A Genshin Impact robot in Tencent QQ / 原神Q群助手
 - [momocow/cloudflare-worker-leetcode-progress](https://github.com/momocow/cloudflare-worker-leetcode-progress) - A library for serving LeetCode progress as a SVG on Cloudflare Workers.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁有趣的可拓展评论系统 | A Fast, Slight & Delightful Comment System.
