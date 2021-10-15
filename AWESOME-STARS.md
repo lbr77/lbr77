@@ -89,6 +89,8 @@
 
 ## C# # 
 
+- [DGP-Studio/DGP.Snap](https://github.com/DGP-Studio/DGP.Snap) - Snap Desktop(Project name is DGP.Snap) is a WPF Application that provide many useful tools for Windows 10 users.
+- [DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin) - 原神角色武器Wiki 抽卡祈愿记录查询 玩家信息查询 米游社每日签到 原神启动器
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 - [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
 - [xplusky/AnohanaDesktop](https://github.com/xplusky/AnohanaDesktop) - 那朵花（未闻花名）动态桌面，好看的桌面飘落花朵效果，有彩蛋！Anohana dynamic desktop, falling flowers! !
@@ -456,6 +458,7 @@
 
 ## Kotlin 
 
+- [mzdluo123/AntiSetu](https://github.com/mzdluo123/AntiSetu) - 这么多setu机器人当然要有一个antisetu机器人啦
 - [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend) - Enjoy programming while playing a game.
 - [SkyD666/Imomoe](https://github.com/SkyD666/Imomoe) - 樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。
 - [kdrag0n/android12-extensions](https://github.com/kdrag0n/android12-extensions) - Enable and customize hidden features on Android 12.
@@ -664,7 +667,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 56 stars and 103 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 56 stars and 104 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -695,6 +698,7 @@
 
 ## Rust 
 
+- [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 
 ## SCSS 
