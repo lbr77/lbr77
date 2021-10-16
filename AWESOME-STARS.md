@@ -200,6 +200,8 @@
 
 ## Go 
 
+- [YouEclipse/steam-box](https://github.com/YouEclipse/steam-box) - 🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。
+- [bypass-GFW-SNI/proxy](https://github.com/bypass-GFW-SNI/proxy) - 突破 GFW 的 SNI 封锁，Socks5 代理版本
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Gatus - Automated service health dashboard
 - [cnsilvan/UnblockNeteaseMusic](https://github.com/cnsilvan/UnblockNeteaseMusic) - Revive unavailable songs for Netease Cloud Music (Golang)
 - [FastGitORG/fgit-go](https://github.com/FastGitORG/fgit-go) - 🔧 A go-written tool to do git operation with fastgit easily
@@ -292,6 +294,7 @@
 
 ## JavaScript 
 
+- [Menci/deploy-certificate-to-aliyun](https://github.com/Menci/deploy-certificate-to-aliyun) - GitHub Action to Deploy SSL certificate to Aliyun Certificates Service (and use in CDN).
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS
 - [YunYouJun/nnrm](https://github.com/YunYouJun/nnrm) - 🔧 New nrm (NPM registry manager). Use smaller dependencies.
 - [Nthily/netease-music-card](https://github.com/Nthily/netease-music-card) - 🎧 在 Github Profile 显示你这周在网易云音乐上最喜欢听的歌曲 🎵
@@ -551,7 +554,7 @@
 - [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
 - [ArtalkJS/ArtalkPHP](https://github.com/ArtalkJS/ArtalkPHP) - Artalk 评论系统后端程序 PHP 版
 - [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
-- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting
+- [chevereto/Chevereto-Free](https://github.com/chevereto/Chevereto-Free) - Community/Personal Image Hosting (图床)
 - [extend-luogu/luogu-discuss-log](https://github.com/extend-luogu/luogu-discuss-log) - 保存洛谷讨论的工具
 - [Stitch-June/CommentPush](https://github.com/Stitch-June/CommentPush) - 基于Typecho评论推送服务
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
@@ -759,6 +762,7 @@
 
 ## TypeScript 
 
+- [Menci/deploy-certificate-to-upyun](https://github.com/Menci/deploy-certificate-to-upyun) - GitHub Action to Deploy SSL certificate to Upyun CDN or OSS.
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [project-yuki/YUKI](https://github.com/project-yuki/YUKI) - YUKI Galgame Translator
