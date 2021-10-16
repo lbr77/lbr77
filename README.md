@@ -11,6 +11,8 @@
 
 - 🎮 Favorate Game **Genshin Impact**.
 
+![](https://genshin-card.getloli.com/30/273618005.png)
+
 ![](https://github-readme-stats.vercel.app/api?username=lbr77&count_private=true&show_icons=true&theme=buefy)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lbr77&layout=compact&theme=buefy)
