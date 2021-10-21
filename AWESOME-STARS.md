@@ -19,6 +19,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [HolyC](#holyc)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -126,6 +127,7 @@
 
 ## C++ 
 
+- [optimize-2/themes-for-Dev-CPP](https://github.com/optimize-2/themes-for-Dev-CPP) - 
 - [aantron/better-enums](https://github.com/aantron/better-enums) - C++ compile-time enum to string, iteration, in a single header file
 - [yedf/handy](https://github.com/yedf/handy) - 🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
 - [t123yh/simple-sandbox](https://github.com/t123yh/simple-sandbox) - A simple Linux sandbox with Node.js API.
@@ -283,6 +285,10 @@
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
+## HolyC 
+
+- [cia-foundation/TempleOS](https://github.com/cia-foundation/TempleOS) - Talk to God on up to 64 cores. Final snapshot of the Third Temple.
+
 ## Java 
 
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.17.1 Fishing bot for Minecraft
@@ -410,7 +416,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1660-Stars](https://github.com/RealPeha/This-Repo-Has-1660-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1661-Stars](https://github.com/RealPeha/This-Repo-Has-1661-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
@@ -491,6 +497,7 @@
 
 ## Others 
 
+- [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [ClashDotNetFramework/ClashDotNetFramework](https://github.com/ClashDotNetFramework/ClashDotNetFramework) - A .NET 5 based Clash GUI Proxy For Windows
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [FuckOS/4399Hidomocd](https://github.com/FuckOS/4399Hidomocd) - 噢!这是一个能用CMD写系统的人
@@ -717,6 +724,7 @@
 
 ## Rust 
 
+- [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 
