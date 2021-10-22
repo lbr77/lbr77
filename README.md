@@ -1,4 +1,4 @@
-<img align='right' src='https://cdn.stevelbr.top/usr/uploads/imgs202110220810186.png' width='407px'>
+<img align='right' src='https://cdn.stevelbr.top/usr/uploads/imgs202110220821844.png' width='407px'>
 
 <h1 align="center">Hi 👋, I'm Steve Li</h1>
 <h3 align="center">A student from Sichuan,Chengdu,China</h3>
