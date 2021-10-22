@@ -1,4 +1,4 @@
-<img align='right' src='https://cdn.stevelbr.top/usr/uploads/imgs202110220821844.png' width='407px'>
+<img align='right' src='https://cdn.stevelbr.top/usr/uploads/imgs202110220821844.png' width='200px'>
 
 <h1 align="center">Hi 👋, I'm Steve Li</h1>
 <h3 align="center">A student from Sichuan,Chengdu,China</h3>
@@ -17,11 +17,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=lbr77&count_private=true&show_icons=true&theme=buefy)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lbr77&layout=compact&theme=buefy)
-
-![](https://activity-graph.herokuapp.com/graph?username=lbr77&bg_color=ffffff&color=70bcff&line=6b9fff&point=0136f4&area=true&hide_border=true)
-
-![](https://cdn.jsdelivr.net/gh/lbr77/netease-music-card@main/card.svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/liborui" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="liborui" height="30" width="40" /></a>
