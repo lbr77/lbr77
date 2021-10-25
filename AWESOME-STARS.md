@@ -61,6 +61,7 @@
 
 ## C 
 
+- [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - 
 - [LSPosed/WSA-Kernel-SU](https://github.com/LSPosed/WSA-Kernel-SU) - A kernel module to provide /system/xbin/su to Android Kernel (especially to WSA)
 - [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
 - [matrixcascade/PainterEngine](https://github.com/matrixcascade/PainterEngine) - PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C
@@ -314,6 +315,8 @@
 
 ## JavaScript 
 
+- [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
+- [journey-ad/honkai-starrail-scene](https://github.com/journey-ad/honkai-starrail-scene) - 【崩坏：星穹铁道】预约页场景提取
 - [imaegoo/twikoo-docker](https://github.com/imaegoo/twikoo-docker) - 💬 Twikoo Docker 镜像，用于本地部署
 - [thelovekesh/ghost-v4-on-heroku](https://github.com/thelovekesh/ghost-v4-on-heroku) - Deploy the latest ghost v4 on Heroku
 - [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) - M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
@@ -508,7 +511,6 @@
 - [BlueSkyXN/ScannerReport](https://github.com/BlueSkyXN/ScannerReport) - 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
 - [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox) - 
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
-- [ClashDotNetFramework/ClashDotNetFramework](https://github.com/ClashDotNetFramework/ClashDotNetFramework) - A .NET 5 based Clash GUI Proxy For Windows
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [FuckOS/4399Hidomocd](https://github.com/FuckOS/4399Hidomocd) - 噢!这是一个能用CMD写系统的人
 - [DargonXuan/arknights-checkin](https://github.com/DargonXuan/arknights-checkin) - 依旧是一个明日方舟的自动签到脚本
