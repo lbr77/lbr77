@@ -315,6 +315,7 @@
 
 ## JavaScript 
 
+- [EtherDream/http-server-online](https://github.com/EtherDream/http-server-online) - Start a local HTTP server without any tools, just open a web page.
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
 - [journey-ad/honkai-starrail-scene](https://github.com/journey-ad/honkai-starrail-scene) - 【崩坏：星穹铁道】预约页场景提取
 - [imaegoo/twikoo-docker](https://github.com/imaegoo/twikoo-docker) - 💬 Twikoo Docker 镜像，用于本地部署
@@ -508,6 +509,7 @@
 
 ## Others 
 
+- [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk into WSA (Windows Subsystem for Android)
 - [BlueSkyXN/ScannerReport](https://github.com/BlueSkyXN/ScannerReport) - 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
 - [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox) - 
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
@@ -616,7 +618,7 @@
 - [chawyehsu/dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
 - [Tsuk1ko/fuck-qq-with-win10-taskbar-on-top](https://github.com/Tsuk1ko/fuck-qq-with-win10-taskbar-on-top) - dddd
 - [oxygen-dioxide/winget-pkgs](https://github.com/oxygen-dioxide/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-- [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
 
 ## Python 
 
@@ -799,6 +801,7 @@
 
 ## TypeScript 
 
+- [ceajs/cea](https://github.com/ceajs/cea) - 高校统一身份验证开发框架(已集成今日校园签到插件)
 - [tgbot-collection/YYeTsFE](https://github.com/tgbot-collection/YYeTsFE) - YYeTsBot 前端页面
 - [lencx/z](https://github.com/lencx/z) - 〽️   浮之静
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
