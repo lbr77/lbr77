@@ -211,6 +211,7 @@
 
 ## Go 
 
+- [asjdf/GoQzone](https://github.com/asjdf/GoQzone) - 发送QQ空间说说的Go程序
 - [ArtalkJS/ArtalkGo](https://github.com/ArtalkJS/ArtalkGo) - 🗃 Artalk 评论系统后端程序 | 化繁为简，简而不凡
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [ZeroDream-CN/bilibili_ctl](https://github.com/ZeroDream-CN/bilibili_ctl) - Bilibili 评论控制工具，帮助你自动清理不想要的评论内容，支持关键字、黑名单以及正则表达式匹配
@@ -259,6 +260,7 @@
 
 ## HTML 
 
+- [GlacierLab/ApexAdaptive100Plus](https://github.com/GlacierLab/ApexAdaptive100Plus) - Use 100+ Fps For Adaptive Resolution In Apex:Legend
 - [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
 - [william-song-shy/ben-ben-spider](https://github.com/william-song-shy/ben-ben-spider) - 犇犇爬虫
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
@@ -324,7 +326,7 @@
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [pixiv-cat/pixivcat-cloudflare-workers](https://github.com/pixiv-cat/pixivcat-cloudflare-workers) - Pixiv.cat on Cloudflare Workers
 - [Menci/deploy-certificate-to-aliyun](https://github.com/Menci/deploy-certificate-to-aliyun) - GitHub Action to Deploy SSL certificate to Aliyun Certificates Service (and use in CDN).
-- [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS
+- [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 - [YunYouJun/nnrm](https://github.com/YunYouJun/nnrm) - 🔧 New nrm (NPM registry manager). Use smaller dependencies.
 - [Nthily/netease-music-card](https://github.com/Nthily/netease-music-card) - 🎧 在 Github Profile 显示你这周在网易云音乐上最喜欢听的歌曲 🎵
 - [qinlili23333/ctfile.TencentCloud](https://github.com/qinlili23333/ctfile.TencentCloud) - 使用腾讯云Serverless解析城通网盘直连地址
@@ -424,7 +426,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1662-Stars](https://github.com/RealPeha/This-Repo-Has-1662-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1663-Stars](https://github.com/RealPeha/This-Repo-Has-1663-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
@@ -509,7 +511,7 @@
 
 ## Others 
 
-- [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk into WSA (Windows Subsystem for Android)
+- [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk and OpenGApps into WSA (Windows Subsystem for Android)
 - [BlueSkyXN/ScannerReport](https://github.com/BlueSkyXN/ScannerReport) - 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
 - [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox) - 
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
@@ -618,10 +620,11 @@
 - [chawyehsu/dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
 - [Tsuk1ko/fuck-qq-with-win10-taskbar-on-top](https://github.com/Tsuk1ko/fuck-qq-with-win10-taskbar-on-top) - dddd
 - [oxygen-dioxide/winget-pkgs](https://github.com/oxygen-dioxide/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
-- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## Python 
 
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [yaronzz/BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) - 同步百度云网盘到阿里云
 - [y3oj/y3oj](https://github.com/y3oj/y3oj) - (maybe the first) simple, light-weight and highly maintainable online judge system for secondary education
 - [Hawaii-ol/arknights_minor_bypass](https://github.com/Hawaii-ol/arknights_minor_bypass) - Scripts that help you bypass Arknights' anti-addiction system. 明日方舟防沉迷破解，未成年人的第一款松果皮肤
@@ -707,7 +710,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 56 stars and 106 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 57 stars and 106 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -801,6 +804,7 @@
 
 ## TypeScript 
 
+- [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [ceajs/cea](https://github.com/ceajs/cea) - 高校统一身份验证开发框架(已集成今日校园签到插件)
 - [tgbot-collection/YYeTsFE](https://github.com/tgbot-collection/YYeTsFE) - YYeTsBot 前端页面
 - [lencx/z](https://github.com/lencx/z) - 〽️   浮之静
