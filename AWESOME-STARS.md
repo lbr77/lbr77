@@ -132,7 +132,7 @@
 
 ## C++ 
 
-- [MistEO/MeoAssistance-Arknights](https://github.com/MistEO/MeoAssistance-Arknights) - 明日方舟游戏助手，刷理智、公招识别等，全图形化界面，开罐即食，支持后台运行。基建智能换班功能正在开发中！
+- [MistEO/MeoAssistance-Arknights](https://github.com/MistEO/MeoAssistance-Arknights) - 明日方舟游戏助手，刷理智、公招识别等，纯图像识别，全图形化界面，开罐即食，支持后台运行。基建智能换班功能正在开发中！
 - [optimize-2/themes-for-Dev-CPP](https://github.com/optimize-2/themes-for-Dev-CPP) - 
 - [aantron/better-enums](https://github.com/aantron/better-enums) - C++ compile-time enum to string, iteration, in a single header file
 - [yedf/handy](https://github.com/yedf/handy) - 🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
@@ -511,7 +511,7 @@
 
 ## Others 
 
-- [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk and OpenGApps into WSA (Windows Subsystem for Android)
+- [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and OpenGApps into WSA (Windows Subsystem for Android)
 - [BlueSkyXN/ScannerReport](https://github.com/BlueSkyXN/ScannerReport) - 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
 - [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox) - 
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
@@ -624,6 +624,7 @@
 
 ## Python 
 
+- [yaomeng0722/genshin_task-resin-expedition_alert](https://github.com/yaomeng0722/genshin_task-resin-expedition_alert) - 用来提示和查询原神内树脂、委托、派遣情况的小工具，正在努力完善功能和推送渠道。有闲心帮忙的大佬可以直接发pr√有bug请发issue~
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [yaronzz/BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) - 同步百度云网盘到阿里云
 - [y3oj/y3oj](https://github.com/y3oj/y3oj) - (maybe the first) simple, light-weight and highly maintainable online judge system for secondary education
@@ -653,7 +654,7 @@
 - [Pr0214/findhash](https://github.com/Pr0214/findhash) - 一个IDA脚本，可以检测出哈希算法（无论是否魔改常数）并生成frida hook 代码。
 - [skywolf627/VmessActions](https://github.com/skywolf627/VmessActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [BenAAndrew/Voice-Cloning-App](https://github.com/BenAAndrew/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
 - [lturing/tacotronv2_wavernn_chinese](https://github.com/lturing/tacotronv2_wavernn_chinese) - tacotronV2 + wavernn 实现中文语音合成(Tensorflow + pytorch)
 - [lbr77/BaiduSearchQuery](https://github.com/lbr77/BaiduSearchQuery) - 检查百度搜索引擎是否收录该域名
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔6小时持续更新 | 科学上网 | 翻墙
@@ -710,7 +711,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 57 stars and 106 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 58 stars and 106 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -831,7 +832,7 @@
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁的自托管评论系统 | A Selfhosted Comment System. | Golang + TypeScript
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [lukeed/worktop](https://github.com/lukeed/worktop) - The next generation web framework for Cloudflare Workers
-- [booster-labs/rocket-booster](https://github.com/booster-labs/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers.
+- [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers.
 - [JuZiSang/picgo-plugin-compress](https://github.com/JuZiSang/picgo-plugin-compress) - Image compression plugin for PicGo
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Yet another-another OneDrive index, powered by Vercel and Next.js
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
