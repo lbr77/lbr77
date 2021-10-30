@@ -97,7 +97,6 @@
 - [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
 - [jetspiking/Taskbar11](https://github.com/jetspiking/Taskbar11) - Change the position and size of the Taskbar in Windows 11
 - [babalae/genshin-account](https://github.com/babalae/genshin-account) - 🛠️原神账号快速切换工具 | Genshin Impact Quick Account Switching Tool
-- [DGP-Studio/DGP.Snap](https://github.com/DGP-Studio/DGP.Snap) - Snap Desktop(Project name is DGP.Snap) is a WPF Application that provide many useful tools for Windows 10 users.
 - [DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin) - 原神角色武器Wiki 抽卡祈愿记录查询 玩家信息查询 米游社每日签到 原神启动器
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 - [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
@@ -212,7 +211,7 @@
 ## Go 
 
 - [asjdf/GoQzone](https://github.com/asjdf/GoQzone) - 发送QQ空间说说的Go程序
-- [ArtalkJS/ArtalkGo](https://github.com/ArtalkJS/ArtalkGo) - 🗃 Artalk 评论系统后端程序 | 化繁为简，简而不凡
+- [ArtalkJS/ArtalkGo](https://github.com/ArtalkJS/ArtalkGo) - 🗃 Artalk 评论系统后端程序 | 化繁为简，简而不凡 | [目前仍是 BETA 版]
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [ZeroDream-CN/bilibili_ctl](https://github.com/ZeroDream-CN/bilibili_ctl) - Bilibili 评论控制工具，帮助你自动清理不想要的评论内容，支持关键字、黑名单以及正则表达式匹配
 - [YouEclipse/steam-box](https://github.com/YouEclipse/steam-box) - 🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。
@@ -298,6 +297,7 @@
 
 ## Java 
 
+- [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、樱花动漫(Imomoe)部分内容编写的第三方Android客户端。
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.17.1 Fishing bot for Minecraft
 - [iXORTech/MCDRemoteBot](https://github.com/iXORTech/MCDRemoteBot) - 模块化，简单易用，使用Java编写，基于 YuQ-Mirai 框架的QQ机器人，专为Minecraft服务器群组设计
 - [88250/symphony](https://github.com/88250/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java. https://ld246.com
@@ -512,6 +512,8 @@
 
 ## Others 
 
+- [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
+- [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calender、Outlook等客户端订阅
 - [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and OpenGApps into WSA (Windows Subsystem for Android)
 - [BlueSkyXN/ScannerReport](https://github.com/BlueSkyXN/ScannerReport) - 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
 - [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox) - 
@@ -625,6 +627,8 @@
 
 ## Python 
 
+- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://touhou.ai/imgtrans/
 - [yaomeng0722/genshin_task-resin-expedition_alert](https://github.com/yaomeng0722/genshin_task-resin-expedition_alert) - 用来提示和查询原神内树脂、委托、派遣情况的小工具，正在努力完善功能和推送渠道。有闲心帮忙的大佬可以直接发pr√有bug请发issue~
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [yaronzz/BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) - 同步百度云网盘到阿里云
@@ -757,6 +761,7 @@
 
 ## Shell 
 
+- [ADeltaX/WSAGAScript](https://github.com/ADeltaX/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
 - [licess/lnmp](https://github.com/licess/lnmp) - LNMP一键安装包是一个用Linux Shell编写的可以为CentOS/RHEL/Fedora/Aliyun/Amazon、Debian/Ubuntu/Raspbian/Deepin/Mint Linux VPS或独立主机安装LNMP(Nginx/MySQL/PHP)、LNMPA(Nginx/MySQL/PHP/Apache)、LAMP(Apache/MySQL/PHP)生产环境的Shell程序。
@@ -806,6 +811,7 @@
 
 ## TypeScript 
 
+- [bangbang93/openbmclapi](https://github.com/bangbang93/openbmclapi) - BMCLAPI@Home
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [ceajs/cea](https://github.com/ceajs/cea) - 高校统一身份验证开发框架(已集成今日校园签到插件)
 - [tgbot-collection/YYeTsFE](https://github.com/tgbot-collection/YYeTsFE) - YYeTsBot 前端页面
@@ -864,6 +870,7 @@
 
 ## Vim script 
 
+- [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [bilibili/vim-vide](https://github.com/bilibili/vim-vide) - Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！
 
 ## Vue 
