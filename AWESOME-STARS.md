@@ -155,7 +155,7 @@
 - [Rratic/Luogu3.0plusplus](https://github.com/Rratic/Luogu3.0plusplus) - Luogu 3.0++ 解释器
 - [Mivik/rin](https://github.com/Mivik/rin) - 
 - [StableAgOH/Codebase](https://github.com/StableAgOH/Codebase) - 
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [tindy2013/stairspeedtest-reborn](https://github.com/tindy2013/stairspeedtest-reborn) - Proxy performance batch tester based on Shadowsocks(R) and V2Ray
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
@@ -175,7 +175,7 @@
 - [q19980722/Typora-theme-jiaran](https://github.com/q19980722/Typora-theme-jiaran) - 
 - [Sanakey/KirinShiKi](https://github.com/Sanakey/KirinShiKi) - 基于handsome主题的神代綺凜式魔改主题
 - [samzhangjy/CarbonLuogu](https://github.com/samzhangjy/CarbonLuogu) - 碳洛谷是一款基于氩洛谷改编的新版洛谷美化包，需搭配Stylish使用。
-- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Win 11 in React 💻🌈⚡
+- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [Tsuk1ko/lolicon.app](https://github.com/Tsuk1ko/lolicon.app) - 
 - [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
@@ -210,6 +210,7 @@
 
 ## Go 
 
+- [crossfw/Air-Universe](https://github.com/crossfw/Air-Universe) - 开源多功能机场后端， 协议支持 V2Ray(VMess), Trojan, Shadowsocks(单端口多用户)；面板支持 SSPanel, v2board, django-sspanel.
 - [asjdf/GoQzone](https://github.com/asjdf/GoQzone) - 发送QQ空间说说的Go程序
 - [ArtalkJS/ArtalkGo](https://github.com/ArtalkJS/ArtalkGo) - 🗃 Artalk 评论系统后端程序 | 化繁为简，简而不凡 | [目前仍是 BETA 版]
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
@@ -304,7 +305,7 @@
 - [niefy/wx-api](https://github.com/niefy/wx-api) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [Cruii/bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - 🚀 Bilibili每日任务托管平台
 - [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
-- [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock edition.
+- [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
 - [pansong291/XQuickEnergy](https://github.com/pansong291/XQuickEnergy) - 快速收取蚂蚁森林能量
 - [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) - 🗺️ Minecraft map editor and mod
 - [AOF-Dev/MCinaBox](https://github.com/AOF-Dev/MCinaBox) - MCinaBox - A Minecraft: Java Edition Launcher for Android.  An Encapsulation of [CosineMath's BoatApp](https://github.com/AOF-Dev/BoatApp).
@@ -317,6 +318,7 @@
 
 ## JavaScript 
 
+- [metowolf/vCards](https://github.com/metowolf/vCards) - 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [EtherDream/http-server-online](https://github.com/EtherDream/http-server-online) - Start a local HTTP server without any tools, just open a web page.
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
 - [journey-ad/honkai-starrail-scene](https://github.com/journey-ad/honkai-starrail-scene) - 【崩坏：星穹铁道】预约页场景提取
@@ -419,7 +421,6 @@
 - [Dreamer-Paul/Pio](https://github.com/Dreamer-Paul/Pio) - 🎃 一个支持更换 Live2D 模型的 JS 插件
 - [ArtitalkJS/Artitalk](https://github.com/ArtitalkJS/Artitalk) - 通过leancloud实现的可实时发布说说的js
 - [DreamyTZK/iSpeak-spider](https://github.com/DreamyTZK/iSpeak-spider) - 小康的speak，GitHub版
-- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
 - [wao3/luogu-stats-card](https://github.com/wao3/luogu-stats-card) - 动态生成洛谷个人练习数据卡片
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [DreamyTZK/friend-spider](https://github.com/DreamyTZK/friend-spider) - 一个用于爬取GitHub/gitee等平台中issue友链的项目。
@@ -627,6 +628,11 @@
 
 ## Python 
 
+- [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - The RWKV Language Model with Token-shift. Better and Faster than usual transformer / GPT.
+- [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - 用魔改 GPT 生成网文小说。AI 写小说。Tuned GPT for novel generation. 采用我的 RWKV 模型，类似中文 GPT-2 生成模型。
+- [55-AA/mod_equations](https://github.com/55-AA/mod_equations) - 单模多元线性方程组的通用解法，及其在密码分析中的应用。
+- [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://touhou.ai/imgtrans/
 - [yaomeng0722/genshin_task-resin-expedition_alert](https://github.com/yaomeng0722/genshin_task-resin-expedition_alert) - 用来提示和查询原神内树脂、委托、派遣情况的小工具，正在努力完善功能和推送渠道。有闲心帮忙的大佬可以直接发pr√有bug请发issue~
@@ -761,7 +767,7 @@
 
 ## Shell 
 
-- [ADeltaX/WSAGAScript](https://github.com/ADeltaX/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
+- [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [bohanyang/debi](https://github.com/bohanyang/debi) - Reinstall your VPS to minimal Debian
 - [licess/lnmp](https://github.com/licess/lnmp) - LNMP一键安装包是一个用Linux Shell编写的可以为CentOS/RHEL/Fedora/Aliyun/Amazon、Debian/Ubuntu/Raspbian/Deepin/Mint Linux VPS或独立主机安装LNMP(Nginx/MySQL/PHP)、LNMPA(Nginx/MySQL/PHP/Apache)、LAMP(Apache/MySQL/PHP)生产环境的Shell程序。
@@ -853,6 +859,7 @@
 - [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 - [woopen/nplayer](https://github.com/woopen/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
+- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
 - [syzoj/syzoj-ng-app](https://github.com/syzoj/syzoj-ng-app) - The online judge system that powers LibreOJ (frontend)
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
