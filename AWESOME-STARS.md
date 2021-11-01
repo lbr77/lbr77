@@ -56,11 +56,13 @@
 
 ## Batchfile 
 
+- [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [EdgelessPE/Edgeless](https://github.com/EdgelessPE/Edgeless) - 🏠 The opensource repository of Edgeless PE Project
 - [Hibbiki/chromium-win64](https://github.com/Hibbiki/chromium-win64) - Chromium builds for Windows x64
 
 ## C 
 
+- [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
 - [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - 
 - [LSPosed/WSA-Kernel-SU](https://github.com/LSPosed/WSA-Kernel-SU) - A kernel module to provide /system/xbin/su to Android Kernel (especially to WSA)
 - [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
@@ -97,7 +99,7 @@
 - [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
 - [jetspiking/Taskbar11](https://github.com/jetspiking/Taskbar11) - Change the position and size of the Taskbar in Windows 11
 - [babalae/genshin-account](https://github.com/babalae/genshin-account) - 🛠️原神账号快速切换工具 | Genshin Impact Quick Account Switching Tool
-- [DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin) - 原神角色武器Wiki 抽卡祈愿记录查询 玩家信息查询 米游社每日签到 原神启动器
+- [DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin) - 原神抽卡祈愿记录查询分析 玩家信息查询 米游社每日签到 原神启动器
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 - [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
 - [xplusky/AnohanaDesktop](https://github.com/xplusky/AnohanaDesktop) - 那朵花（未闻花名）动态桌面，好看的桌面飘落花朵效果，有彩蛋！Anohana dynamic desktop, falling flowers! !
@@ -347,9 +349,7 @@
 - [EtherDream/freecdn](https://github.com/EtherDream/freecdn) - A front-end CDN based on ServiceWorker
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - This is the real WebPack
 - [HCLonely/live2dNodeApi](https://github.com/HCLonely/live2dNodeApi) - Live2D 看板娘脚本的基于 Nodejs 的后端 Api.
-- [YXZYG/TX-class-AutoRepeatCheckIn](https://github.com/YXZYG/TX-class-AutoRepeatCheckIn) - 腾讯课堂/自动签到/自动评论区复读
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [Zfour/Butterfly-leancloud-zanplus](https://github.com/Zfour/Butterfly-leancloud-zanplus) - 基于leancloud的hexo butterfly主题添加点赞功能
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -605,7 +605,7 @@
 - [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
 - [oouo/Oneindex](https://github.com/oouo/Oneindex) - Onedrive Directory Index
-- [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform (ZEIT Now)
+- [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [FForeverand/freenom](https://github.com/FForeverand/freenom) - 
 - [kasuganosoras/Pigeon](https://github.com/kasuganosoras/Pigeon) - 💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
@@ -628,9 +628,10 @@
 
 ## Python 
 
+- [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - The RWKV Language Model with Token-shift. Better and Faster than usual transformer / GPT.
-- [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - 用魔改 GPT 生成网文小说。AI 写小说。Tuned GPT for novel generation. 采用我的 RWKV 模型，类似中文 GPT-2 生成模型。
+- [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。Tuned GPT for novel generation.
 - [55-AA/mod_equations](https://github.com/55-AA/mod_equations) - 单模多元线性方程组的通用解法，及其在密码分析中的应用。
 - [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
@@ -722,7 +723,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 58 stars and 106 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 106 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -882,6 +883,7 @@
 
 ## Vue 
 
+- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [WishMelz/imgurl](https://github.com/WishMelz/imgurl) - 基于github的图片管理系统/免费
 - [GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [NeroSong/easyFF-CloudBase](https://github.com/NeroSong/easyFF-CloudBase) - 云开发应用 easyFF，基于FFmpeg的简单短视频处理服务 + 后台管理工具。可通过 Cloudbase Framework 一建部署。
