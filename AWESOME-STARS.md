@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - An attempt to make wallpaper engine wallpapers compatible with Linux
 - [MistEO/MeoAssistance-Arknights](https://github.com/MistEO/MeoAssistance-Arknights) - 明日方舟游戏助手，刷理智、公招识别等，纯图像识别，全图形化界面，开罐即食，支持后台运行。基建智能换班功能正在开发中！
 - [optimize-2/themes-for-Dev-CPP](https://github.com/optimize-2/themes-for-Dev-CPP) - 
 - [aantron/better-enums](https://github.com/aantron/better-enums) - C++ compile-time enum to string, iteration, in a single header file
@@ -350,6 +351,7 @@
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - This is the real WebPack
 - [HCLonely/live2dNodeApi](https://github.com/HCLonely/live2dNodeApi) - Live2D 看板娘脚本的基于 Nodejs 的后端 Api.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [Zfour/Butterfly-leancloud-zanplus](https://github.com/Zfour/Butterfly-leancloud-zanplus) - 基于leancloud的hexo butterfly主题添加点赞功能
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -371,7 +373,7 @@
 - [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 基于ServiceWorker路由拦截的真·全站JSDelivrCDN，仅三文件 || 前端负载均衡 || 无备案标准端口使用国内服务器
 - [186526/aka](https://github.com/186526/aka) - A simple and fast short URL service running on Cloudflare Worker
 - [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
-- [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) - 基于Auto.js的蚂蚁森林能量自动收取脚本  Auto.js-based ant forest energy auto-collect script
+- [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) - 基于 Auto.js 的蚂蚁森林能量自动收取脚本  Auto.js-based ant forest energy auto-collect script
 - [186526/startpage_me](https://github.com/186526/startpage_me) - A Startpage build by snowpack
 - [luogu-dev/markdown-palettes](https://github.com/luogu-dev/markdown-palettes) - Markdown*Palettes: Markdown editor for the modern web.
 - [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot) - Nodejs原生QQ机器人Http-Api(onebot的实现)
@@ -723,7 +725,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 106 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 105 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -818,6 +820,7 @@
 
 ## TypeScript 
 
+- [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
 - [bangbang93/openbmclapi](https://github.com/bangbang93/openbmclapi) - BMCLAPI@Home
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [ceajs/cea](https://github.com/ceajs/cea) - 高校统一身份验证开发框架(已集成今日校园签到插件)
@@ -883,7 +886,6 @@
 
 ## Vue 
 
-- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [WishMelz/imgurl](https://github.com/WishMelz/imgurl) - 基于github的图片管理系统/免费
 - [GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [NeroSong/easyFF-CloudBase](https://github.com/NeroSong/easyFF-CloudBase) - 云开发应用 easyFF，基于FFmpeg的简单短视频处理服务 + 后台管理工具。可通过 Cloudbase Framework 一建部署。
