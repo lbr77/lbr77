@@ -391,7 +391,7 @@
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [overtrue/share.js](https://github.com/overtrue/share.js) - 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等
 - [HCLonely/auto-task](https://github.com/HCLonely/auto-task) - 自动完成赠key站任务 | Automatically complete giveaway tasks
-- [awescnb/awescnb](https://github.com/awescnb/awescnb) - 🎨 快速构建、安装、切换博客园皮肤
+- [awescnb/awescnb](https://github.com/awescnb/awescnb) - 快速构建、安装、切换博客园皮肤
 - [YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat) - A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。
 - [MannyCooper/hexo-theme-candy](https://github.com/MannyCooper/hexo-theme-candy) - 基于 Icarus 主题的个人修改。
 - [MiniValine/MiniValine](https://github.com/MiniValine/MiniValine) - A simple and minimalist comment system.
@@ -412,7 +412,7 @@
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [chitosai/bilimini](https://github.com/chitosai/bilimini) - 藏起来！哔哩哔哩
 - [hvnobug/hexo-external-link](https://github.com/hvnobug/hexo-external-link) - Hexo plugin named `hexo-external-link`
-- [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - 在vscode中用于生成文件头部注释和函数注释的插件，经过多版迭代后，插件：支持所有主流语言,功能强大，灵活方便，文档齐全，食用简单！觉得插件不错的话，点击右上角给个Star⭐️呀~
+- [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [lh1me/hexo-theme-aomori](https://github.com/lh1me/hexo-theme-aomori) - A Hexo Theme. Hexo 博客主题
 - [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo) - 同步语雀的文章到你的 Hexo 项目吧！
