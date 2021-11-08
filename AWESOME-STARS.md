@@ -101,7 +101,7 @@
 - [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
 - [jetspiking/Taskbar11](https://github.com/jetspiking/Taskbar11) - Change the position and size of the Taskbar in Windows 11
 - [babalae/genshin-account](https://github.com/babalae/genshin-account) - 🛠️原神账号快速切换工具 | Genshin Impact Quick Account Switching Tool
-- [DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin) - 原神抽卡祈愿记录查询分析 玩家信息查询 米游社每日签到 原神启动器
+- [DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin) - 原神抽卡祈愿记录查询分析 实时树脂显示 玩家信息查询 米游社每日签到 原神启动器
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 - [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
 - [xplusky/AnohanaDesktop](https://github.com/xplusky/AnohanaDesktop) - 那朵花（未闻花名）动态桌面，好看的桌面飘落花朵效果，有彩蛋！Anohana dynamic desktop, falling flowers! !
@@ -157,7 +157,7 @@
 - [Project-LemonLime/Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime) - 为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统 | 三大桌面系统支持
 - [WarfarinBloodanger/ff0-script](https://github.com/WarfarinBloodanger/ff0-script) - A interpreter that runs the script which is programmed in the language of FF0 script (or you can call it as Warfarin)
 - [zhipeng-jia/project-lemon](https://github.com/zhipeng-jia/project-lemon) - Automatically exported from code.google.com/p/project-lemon
-- [usamoi/algorithm-templates](https://github.com/usamoi/algorithm-templates) - templates for algorithms
+- [usamoi/algorithm-templates](https://github.com/usamoi/algorithm-templates) - Algorithm templates for competitive programming.
 - [Rratic/Luogu3.0plusplus](https://github.com/Rratic/Luogu3.0plusplus) - Luogu 3.0++ 解释器
 - [Mivik/rin](https://github.com/Mivik/rin) - 
 - [StableAgOH/Codebase](https://github.com/StableAgOH/Codebase) - 
@@ -436,7 +436,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
@@ -737,7 +737,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 106 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 107 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
