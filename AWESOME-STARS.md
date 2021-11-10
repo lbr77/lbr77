@@ -137,7 +137,7 @@
 
 - [ysc3839/ClashXW](https://github.com/ysc3839/ClashXW) - This project aims to implement a program with same function as ClashX, running in Windows.
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - An attempt to make wallpaper engine wallpapers compatible with Linux
-- [MistEO/MeoAssistance-Arknights](https://github.com/MistEO/MeoAssistance-Arknights) - 明日方舟游戏助手，刷理智、基建智能换班、公招识别等，纯图像识别，全图形化界面，开罐即食。绝赞开发中！ヽ(✿ﾟ▽ﾟ)ノ
+- [MistEO/MeoAssistance-Arknights](https://github.com/MistEO/MeoAssistance-Arknights) - 明日方舟自动刷图、基建
 - [optimize-2/themes-for-Dev-CPP](https://github.com/optimize-2/themes-for-Dev-CPP) - 
 - [aantron/better-enums](https://github.com/aantron/better-enums) - C++ compile-time enum to string, iteration, in a single header file
 - [yedf/handy](https://github.com/yedf/handy) - 🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
@@ -149,8 +149,7 @@
 - [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate) - Collection of undergraduate course homework and projects
 - [zaphoyd/websocketpp](https://github.com/zaphoyd/websocketpp) - C++ websocket client/server library
 - [nccgroup/SocksOverRDP](https://github.com/nccgroup/SocksOverRDP) - Socks5/4/4a Proxy support for Remote Desktop Protocol / Terminal Services / Citrix / XenApp / XenDesktop
-- [lgw1995/Plants-vs.-Zombies-Online-Battle](https://github.com/lgw1995/Plants-vs.-Zombies-Online-Battle) - 🎮 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.
-- [czs108/Plants-vs.-Zombies-Online-Battle](https://github.com/czs108/Plants-vs.-Zombies-Online-Battle) - 🎮 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.
+- [Zhuagenborn/Plants-vs.-Zombies-Online-Battle](https://github.com/Zhuagenborn/Plants-vs.-Zombies-Online-Battle) - 🎮 Plants vs. Zombies multiplayer battle, developed via reverse engineering, inline hook and dynamic-link library injection. Two online players defend and attack as the plant and zombie respectively.
 - [google/robotstxt](https://github.com/google/robotstxt) - The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11).
 - [libcpr/cpr](https://github.com/libcpr/cpr) - C++ Requests: Curl for People, a spiritual port of Python Requests.
 - [Apache553/ssh-agent-bridge](https://github.com/Apache553/ssh-agent-bridge) - A tool that enable multiple ssh client implementations to use a common ssh agent on Windows.
