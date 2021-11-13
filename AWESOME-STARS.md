@@ -597,6 +597,7 @@
 
 ## PHP 
 
+- [lizhipay/faka](https://github.com/lizhipay/faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码
 - [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress) - 使用又拍云云存储USS作为附件存储空间的WordPress插件。QQ交流群：887595381
 - [Fuukei/Sakurairo_CSF](https://github.com/Fuukei/Sakurairo_CSF) - WordPress 主题 Sakurairo 的主题设置部分
 - [ZsgsDesign/NOJ](https://github.com/ZsgsDesign/NOJ) - ⚡ The most advanced open-source automatic algorithm online judge system | 南京邮电大学开源 Online Judge | QQ群：668108264
@@ -643,6 +644,7 @@
 
 ## Python 
 
+- [GZTimeWalker/CTF-nc-docker](https://github.com/GZTimeWalker/CTF-nc-docker) - Build CTF Problems using Netcat in one Docker.
 - [SigureMo/yutto](https://github.com/SigureMo/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器（bilili2.x）
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
@@ -739,7 +741,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 59 stars and 105 forks
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - This profile README has 60 stars and 106 forks
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
