@@ -64,6 +64,7 @@
 ## C 
 
 - [karottc/linux-0.11](https://github.com/karottc/linux-0.11) - the source code of linux-0.11 for study linux kernel
+- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
 - [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - 
 - [LSPosed/WSA-Kernel-SU](https://github.com/LSPosed/WSA-Kernel-SU) - A kernel module to provide /system/xbin/su to Android Kernel (especially to WSA)
@@ -271,7 +272,6 @@
 
 ## HTML 
 
-- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [GlacierLab/ApexAdaptive100Plus](https://github.com/GlacierLab/ApexAdaptive100Plus) - Use 100+ Fps For Adaptive Resolution In Apex:Legend
 - [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
 - [william-song-shy/ben-ben-spider](https://github.com/william-song-shy/ben-ben-spider) - 犇犇爬虫
@@ -445,7 +445,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1667-Stars](https://github.com/RealPeha/This-Repo-Has-1667-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1666-Stars](https://github.com/RealPeha/This-Repo-Has-1666-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo bilibili番剧页
@@ -747,7 +747,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 61 stars and 111 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 61 stars and 109 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -887,11 +887,11 @@
 - [woopen/nplayer](https://github.com/woopen/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
-- [syzoj/syzoj-ng-app](https://github.com/syzoj/syzoj-ng-app) - The online judge system that powers LibreOJ (frontend)
+- [lyrio-dev/ui](https://github.com/lyrio-dev/ui) - The web frontend of Lyrio
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
-- [syzoj/syzoj-ng](https://github.com/syzoj/syzoj-ng) - The online judge system that powers LibreOJ (backend)
+- [lyrio-dev/lyrio](https://github.com/lyrio-dev/lyrio) - The backend service of Lyrio
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
 - [zayabighead/office-user-auto-create](https://github.com/zayabighead/office-user-auto-create) - 
 - [magicdawn/yun-playlist-downloader](https://github.com/magicdawn/yun-playlist-downloader) - 网易云音乐 - 歌单/专辑/电台 - 下载器
