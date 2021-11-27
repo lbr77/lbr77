@@ -98,6 +98,7 @@
 
 ## C# # 
 
+- [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
 - [lhyzf/Bangumi](https://github.com/lhyzf/Bangumi) - Bangumi UWP
 - [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) - 第三方网易云音乐播放器 | A Netease Cloud Music Player
 - [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
@@ -325,12 +326,14 @@
 - [ferredoxin/QNotified](https://github.com/ferredoxin/QNotified) - 一个旨在使QQ变得更好用的开源Xposed模块
 - [TheKingOfDuck/burpFakeIP](https://github.com/TheKingOfDuck/burpFakeIP) - 服务端配置错误情况下用于伪造ip地址进行测试的Burp Suite插件
 - [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
 - [luoye663/e5](https://github.com/luoye663/e5) - e5续订
 - [Macuyiko/minecraft-python](https://github.com/Macuyiko/minecraft-python) - A Jython driven plugin and interpreter system for Minecraft (on top of Spigot)
 - [huanghongxun/HMCL](https://github.com/huanghongxun/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
 
 ## JavaScript 
 
+- [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [acgessler/cpp.js](https://github.com/acgessler/cpp.js) - node.js-compatible implementation of the C Preprocessor (cpp) in Javascript
 - [jterrace/js.js](https://github.com/jterrace/js.js) - js.js: A JavaScript JavaScript interpreter
 - [xviniette/FlappyLearning](https://github.com/xviniette/FlappyLearning) - Program learning to play Flappy Bird by machine learning (Neuroevolution)
@@ -663,7 +666,7 @@
 - [yaomeng0722/genshin_task-resin-expedition_alert](https://github.com/yaomeng0722/genshin_task-resin-expedition_alert) - 用来提示和查询原神内树脂、委托、派遣情况的小工具，正在努力完善功能和推送渠道。有闲心帮忙的大佬可以直接发pr√有bug请发issue~
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [yaronzz/BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) - 同步百度云网盘到阿里云
-- [y3oj/y3oj](https://github.com/y3oj/y3oj) - (maybe the first) simple, light-weight and highly maintainable online judge system for secondary education
+- [y3oj/y3oj](https://github.com/y3oj/y3oj) - a simple, light-weight and highly maintainable online judge system for secondary education
 - [Hawaii-ol/arknights_minor_bypass](https://github.com/Hawaii-ol/arknights_minor_bypass) - Scripts that help you bypass Arknights' anti-addiction system. 明日方舟防沉迷破解，未成年人的第一款松果皮肤
 - [userElaina/one-file-with-many-password](https://github.com/userElaina/one-file-with-many-password) - 多文件多密码打包成一个文件，即变成单文件多密码。给一个密码，只能提取对应文件。防查水表。有时间用C重写一下以加快速度……
 - [DargonXuan/AutoArknights](https://github.com/DargonXuan/AutoArknights) - 基于 OpenCV 和 Mitmproxy | Requests 实现的全自动化舟游
@@ -733,7 +736,6 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [jalenchuh/url-submit](https://github.com/jalenchuh/url-submit) - 🚀 自动提取 sitemap 中的链接，并利用 API 进行推送，提升网站收录速度。
 - [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron) - CYaRon: Yet Another Random Olympic-iNformatics test data generator
-- [0Chencc/CTFCrackTools](https://github.com/0Chencc/CTFCrackTools) - China's first CTFTools framework.中国国内首个CTF工具框架,旨在帮助CTFer快速攻克难关
 - [cokemine/EUserv_extend](https://github.com/cokemine/EUserv_extend) - A simple Python Script help you renew free EUserv IPv6 VPS
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
@@ -747,7 +749,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 62 stars and 109 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 111 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
