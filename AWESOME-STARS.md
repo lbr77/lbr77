@@ -351,7 +351,7 @@
 - [Menci/deploy-certificate-to-aliyun](https://github.com/Menci/deploy-certificate-to-aliyun) - GitHub Action to Deploy SSL certificate to Aliyun Certificates Service (and use in CDN).
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 - [YunYouJun/nnrm](https://github.com/YunYouJun/nnrm) - 🔧 New nrm (NPM registry manager). Use smaller dependencies.
-- [Nthily/netease-music-card](https://github.com/Nthily/netease-music-card) - 🎧 在 Github Profile 显示你这周在网易云音乐上最喜欢听的歌曲 🎵
+- [Nthily/netease-music-card](https://github.com/Nthily/netease-music-card) - 🎧 在 Github Profile 上显示你这周在网易云音乐上最喜欢听的歌曲 🎵
 - [qinlili23333/ctfile.TencentCloud](https://github.com/qinlili23333/ctfile.TencentCloud) - 使用腾讯云Serverless解析城通网盘直连地址
 - [solstice23/osu-stats-signature](https://github.com/solstice23/osu-stats-signature) - 🏷 生成实时更新的 osu! 个人资料卡片
 - [detroitenglish/cloudflare-workers-webpack-plugin](https://github.com/detroitenglish/cloudflare-workers-webpack-plugin) - Launch Cloudflare Workers to the Edge from the comfort of your build step 🚀
@@ -558,7 +558,7 @@
 - [nonebot/discussions](https://github.com/nonebot/discussions) - NoneBot 论坛
 - [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 - [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh) - Linux 内核揭秘
-- [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured) - 每天给你推荐一个新奇，好玩，高品质的内容，每一个都有自己的温度，不是冷冰冰的链接哦。
+- [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured) - 不仅仅是冷冰冰的链接（Not just link）
 - [chenyium/Microsoft-Yahei-Mono](https://github.com/chenyium/Microsoft-Yahei-Mono) - Microsoft Yahei Mono 字体
 - [maruos/maruos](https://github.com/maruos/maruos) - Your phone is your PC.
 - [SukkaW/cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
@@ -749,7 +749,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 111 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 110 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
