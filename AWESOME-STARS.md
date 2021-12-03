@@ -525,7 +525,7 @@
 
 ## Lua 
 
-- [tkkcc/arknights](https://github.com/tkkcc/arknights) - 《明日方舟》速通
+- [tkkcc/arknights](https://github.com/tkkcc/arknights) - 明日方舟速通
 
 ## Markdown 
 
