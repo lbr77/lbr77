@@ -138,6 +138,7 @@
 
 ## C++ 
 
+- [34736384/genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
 - [LOG1CRS/Virtual-File-System](https://github.com/LOG1CRS/Virtual-File-System) - Virtual File System made with c++
 - [ouuan/uoj-data-converter](https://github.com/ouuan/uoj-data-converter) - 将各种各样格式的数据转换为 UOJ 的格式 :tada: 文件名转换 | subtask 设置| 添加样例 | 生成 problem.conf :rocket:
 - [ysc3839/ClashXW](https://github.com/ysc3839/ClashXW) - This project aims to implement a program with same function as ClashX, running in Windows.
@@ -333,6 +334,7 @@
 
 ## JavaScript 
 
+- [tobychui/arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [acgessler/cpp.js](https://github.com/acgessler/cpp.js) - node.js-compatible implementation of the C Preprocessor (cpp) in Javascript
 - [jterrace/js.js](https://github.com/jterrace/js.js) - js.js: A JavaScript JavaScript interpreter
@@ -358,7 +360,6 @@
 - [detroitenglish/cloudflare-workers-webpack-boilerplate](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - A superbly simple, minimal-config template for building, bundling and deploying Cloudflare Workers with Webpack 🚀
 - [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
-- [Tsuk1ko/gmwc](https://github.com/Tsuk1ko/gmwc) - G_____n m_s w___o c_____n
 - [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 42 stars 6 forks.
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT) - 一个在 QQ 中运行的原神助手
@@ -652,6 +653,7 @@
 
 ## Python 
 
+- [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
 - [AnshumanFauzdar/telegram-bot-heroku-deploy](https://github.com/AnshumanFauzdar/telegram-bot-heroku-deploy) - Detailed guide to initially deploy a simple telegram python bot to heroku
 - [GZTimeWalker/CTF-nc-docker](https://github.com/GZTimeWalker/CTF-nc-docker) - Build CTF Problems using Netcat in one Docker.
 - [SigureMo/yutto](https://github.com/SigureMo/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器（bilili2.x）
@@ -689,7 +691,7 @@
 - [RimoChan/python-anti-seduce-system](https://github.com/RimoChan/python-anti-seduce-system) - 针对Python语言防沉迷调整的说明
 - [jupyter/qtconsole](https://github.com/jupyter/qtconsole) - Jupyter Qt Console
 - [JeffersonQin/jsdelivr-github-purge](https://github.com/JeffersonQin/jsdelivr-github-purge) - 🎈 A script that purges the jsdelivr cdn of github repo
-- [daydreaming666/Amenoma](https://github.com/daydreaming666/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts.
+- [daydreaming666/Amenoma](https://github.com/daydreaming666/Amenoma) - A simple desktop application to scan and export Genshin Impact Artifacts and Materials.
 - [Pr0214/findhash](https://github.com/Pr0214/findhash) - 一个IDA脚本，可以检测出哈希算法（无论是否魔改常数）并生成frida hook 代码。
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [BenAAndrew/Voice-Cloning-App](https://github.com/BenAAndrew/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices
@@ -749,7 +751,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 62 stars and 111 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 62 stars and 110 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -854,6 +856,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [fregante/github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [Menci/deploy-certificate-to-upyun](https://github.com/Menci/deploy-certificate-to-upyun) - GitHub Action to Deploy SSL certificate to Upyun CDN or OSS.
+- [Tsuk1ko/gmwc](https://github.com/Tsuk1ko/gmwc) - G*****n m*s w***o c*****n
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [project-yuki/YUKI](https://github.com/project-yuki/YUKI) - YUKI Galgame Translator
@@ -920,7 +923,7 @@
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [YunYouJun/web-resume](https://github.com/YunYouJun/web-resume) - 📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。
 - [gridsome/gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog) - A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
-- [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API 开发的图床神器，图片外链使用 jsDelivr 进行 CDN 加速。免下载、免安装，打开网站即可直接使用。免费、稳定、高效。
+- [XPoet/picx](https://github.com/XPoet/picx) - PicX 是一款基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床工具。无需下载！无需安装！打开网站即用！免费！极速！稳定！
 - [xiaou66/color-manager](https://github.com/xiaou66/color-manager) - uTools 颜色插件
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
