@@ -98,6 +98,7 @@
 
 ## C# # 
 
+- [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持4K，支持解除地区限制下载，提供工具箱（音视频提取、去水印等）。
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
 - [lhyzf/Bangumi](https://github.com/lhyzf/Bangumi) - Bangumi UWP
 - [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) - 第三方网易云音乐播放器 | A Netease Cloud Music Player
@@ -222,6 +223,7 @@
 
 ## Go 
 
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [crossfw/Air-Universe](https://github.com/crossfw/Air-Universe) - 开源多功能机场后端， 协议支持 V2Ray(VMess), Trojan, Shadowsocks(单端口多用户)；面板支持 SSPanel, v2board, django-sspanel.
@@ -449,7 +451,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1665-Stars](https://github.com/RealPeha/This-Repo-Has-1665-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1664-Stars](https://github.com/RealPeha/This-Repo-Has-1664-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo bilibili番剧页
@@ -535,6 +537,7 @@
 
 ## Others 
 
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [mcdtaiwan/McDonalds_Fries_Font](https://github.com/mcdtaiwan/McDonalds_Fries_Font) - 為每⼀位熱愛薯條的麥當勞鐵粉獻上　—⿆當勞薯條體 薯條 vs 番茄醬一起鬧一下！酥脆綿密的薯條、沾上美味番茄醬，拼出無限可能。 ⿆當勞薯條體，免費開放下載！
 - [bangumi-users/awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) - bangumi.tv 相关的坑
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
@@ -783,6 +786,7 @@
 
 ## Rust 
 
+- [Nugine/mirage-tank](https://github.com/Nugine/mirage-tank) - A simple library for creating "mirage tank" images.
 - [zu1k/copy-translator](https://github.com/zu1k/copy-translator) - 简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token
 - [nolanderc/dyn_struct](https://github.com/nolanderc/dyn_struct) - Construct dynamically sized types safely
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
