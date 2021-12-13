@@ -380,7 +380,6 @@
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
 - [davidtsong/github-twilio-notifications](https://github.com/davidtsong/github-twilio-notifications) - 
 - [extend-luogu/extend-luogu](https://github.com/extend-luogu/extend-luogu) - 
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [TooTallNate/node-http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent) - An HTTP(s) proxy `http.Agent` implementation for HTTP endpoints
 - [bossbaby2005/luogu-stats-card](https://github.com/bossbaby2005/luogu-stats-card) - 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -877,6 +876,7 @@
 - [wormtql/genshin_panel](https://github.com/wormtql/genshin_panel) - 原神面板计算器, Genshin Impact attribute calculator
 - [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer) - genshin gacha history analyzer
 - [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT) - A Genshin Impact chatbot in Tencent QQ / 原神Q群助手
 - [momocow/cloudflare-worker-leetcode-progress](https://github.com/momocow/cloudflare-worker-leetcode-progress) - A library for serving LeetCode progress as a SVG on Cloudflare Workers.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
