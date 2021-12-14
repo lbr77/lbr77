@@ -144,7 +144,7 @@
 - [ouuan/uoj-data-converter](https://github.com/ouuan/uoj-data-converter) - 将各种各样格式的数据转换为 UOJ 的格式 :tada: 文件名转换 | subtask 设置| 添加样例 | 生成 problem.conf :rocket:
 - [ysc3839/ClashXW](https://github.com/ysc3839/ClashXW) - This project aims to implement a program with same function as ClashX, running in Windows.
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - An attempt to make wallpaper engine wallpapers compatible with Linux
-- [MistEO/MeoAssistance-Arknights](https://github.com/MistEO/MeoAssistance-Arknights) - 明日方舟助手，自动刷图、智能基建换班，全日常一键长草！
+- [MistEO/MeoAssistantArknights](https://github.com/MistEO/MeoAssistantArknights) - 明日方舟助手，自动刷图、智能基建换班，全日常一键长草！
 - [optimize-2/themes-for-Dev-CPP](https://github.com/optimize-2/themes-for-Dev-CPP) - 
 - [aantron/better-enums](https://github.com/aantron/better-enums) - C++ compile-time enum to string, iteration, in a single header file
 - [yedf/handy](https://github.com/yedf/handy) - 🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
@@ -698,7 +698,7 @@
 - [Pr0214/findhash](https://github.com/Pr0214/findhash) - 一个IDA脚本，可以检测出哈希算法（无论是否魔改常数）并生成frida hook 代码。
 - [skywolf627/ProxiesActions](https://github.com/skywolf627/ProxiesActions) - 通过GitHub的actions 自动采集节点 生成订阅信息
 - [BenAAndrew/Voice-Cloning-App](https://github.com/BenAAndrew/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [lturing/tacotronv2_wavernn_chinese](https://github.com/lturing/tacotronv2_wavernn_chinese) - tacotronV2 + wavernn 实现中文语音合成(Tensorflow + pytorch)
 - [lbr77/BaiduSearchQuery](https://github.com/lbr77/BaiduSearchQuery) - 检查百度搜索引擎是否收录该域名
 - [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔6小时持续更新 | 科学上网 | 翻墙
@@ -899,7 +899,7 @@
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
 - [lyrio-dev/ui](https://github.com/lyrio-dev/ui) - The web frontend of Lyrio, which powers LibreOJ
-- [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本: 下载视频, 音乐, 封面, 弹幕 / 简化直播间, 评论区, 首页 / 自定义顶栏, 删除广告, 夜间模式 / 触屏设备支持
+- [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [lyrio-dev/lyrio](https://github.com/lyrio-dev/lyrio) - The backend service of Lyrio, which powers LibreOJ
