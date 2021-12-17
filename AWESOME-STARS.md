@@ -98,6 +98,7 @@
 
 ## C# # 
 
+- [XIU2/TileTool](https://github.com/XIU2/TileTool) - 🎨 Windows10 磁贴美化小工具
 - [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持4K，支持解除地区限制下载，提供工具箱（音视频提取、去水印等）。
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.
 - [lhyzf/Bangumi](https://github.com/lhyzf/Bangumi) - Bangumi UWP
@@ -110,7 +111,7 @@
 - [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
 - [xplusky/AnohanaDesktop](https://github.com/xplusky/AnohanaDesktop) - 那朵花（未闻花名）动态桌面，好看的桌面飘落花朵效果，有彩蛋！Anohana dynamic desktop, falling flowers! !
 - [Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) - 一个基于UWP平台的第三方酷安客户端
-- [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服 下载加速。
+- [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服、Epic 下载加速。
 - [copyliu/bililive_dm](https://github.com/copyliu/bililive_dm) - B站直播彈幕工具
 - [project-inki/inki](https://github.com/project-inki/inki) - NoteTaker, Notebook, PDF Editor of Next Generation. (Under Development)
 - [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
@@ -362,7 +363,7 @@
 - [detroitenglish/cloudflare-workers-webpack-boilerplate](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - A superbly simple, minimal-config template for building, bundling and deploying Cloudflare Workers with Webpack 🚀
 - [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 43 stars 6 forks.
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 43 stars 7 forks.
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT) - 一个在 QQ 中运行的原神助手
 - [kidonng/anti-web-addiction](https://github.com/kidonng/anti-web-addiction) - 网络防沉迷浏览器扩展，防止人沉迷网络，切实保护人身心健康
@@ -548,7 +549,7 @@
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。
 - [FuckOS/4399Hidomocd](https://github.com/FuckOS/4399Hidomocd) - 噢!这是一个能用CMD写系统的人
 - [DargonXuan/arknights-checkin](https://github.com/DargonXuan/arknights-checkin) - 依旧是一个明日方舟的自动签到脚本
-- [ouuan/this-repo-has-27-stars-3-forks](https://github.com/ouuan/this-repo-has-27-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 27 stars 3 forks.
+- [ouuan/this-repo-has-28-stars-3-forks](https://github.com/ouuan/this-repo-has-28-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 28 stars 3 forks.
 - [SFOI-Team/luogu-problem-list](https://github.com/SFOI-Team/luogu-problem-list) - A problem list for luogu OJ.
 - [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -649,6 +650,7 @@
 
 ## PowerShell 
 
+- [Raphire/Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows 10/11, disable bing in windows search aswell as perform various other changes to declutter the windows 10/11 experience.
 - [Tsuk1ko/fuck-qq-with-win10-taskbar-on-top](https://github.com/Tsuk1ko/fuck-qq-with-win10-taskbar-on-top) - dddd
 - [oxygen-dioxide/winget-pkgs](https://github.com/oxygen-dioxide/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
@@ -701,7 +703,7 @@
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Big Sur + Monterey support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [lturing/tacotronv2_wavernn_chinese](https://github.com/lturing/tacotronv2_wavernn_chinese) - tacotronV2 + wavernn 实现中文语音合成(Tensorflow + pytorch)
 - [lbr77/BaiduSearchQuery](https://github.com/lbr77/BaiduSearchQuery) - 检查百度搜索引擎是否收录该域名
-- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔6小时持续更新 | 科学上网 | 翻墙
+- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 免费机场  / 免费VPN -&gt; 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，间隔12小时持续更新 | 科学上网 | 翻墙
 - [Kyomotoi/ATRI](https://github.com/Kyomotoi/ATRI) - A project for ATRI, Usage go-CQHTTP + Nonebot.
 - [zaxtyson/AnimeSearcher](https://github.com/zaxtyson/AnimeSearcher) - 整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验
 - [yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat) - GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)
@@ -754,7 +756,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 109 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 110 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
