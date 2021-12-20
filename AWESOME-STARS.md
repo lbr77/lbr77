@@ -148,7 +148,7 @@
 - [MistEO/MeoAssistantArknights](https://github.com/MistEO/MeoAssistantArknights) - 明日方舟助手，自动刷图、智能基建换班，全日常一键长草！
 - [optimize-2/themes-for-Dev-CPP](https://github.com/optimize-2/themes-for-Dev-CPP) - 
 - [aantron/better-enums](https://github.com/aantron/better-enums) - C++ compile-time enum to string, iteration, in a single header file
-- [yedf/handy](https://github.com/yedf/handy) - 🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
+- [yedf2/handy](https://github.com/yedf2/handy) - 🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework
 - [t123yh/simple-sandbox](https://github.com/t123yh/simple-sandbox) - A simple Linux sandbox with Node.js API.
 - [GengGode/GenshinImpact_AutoTrack_DLL](https://github.com/GengGode/GenshinImpact_AutoTrack_DLL) - 能够从原神中获取角色的位置、朝向以及视角的实时数据，通过图像算法获取，并非读内存。The real-time data of the position, orientation and angle of view of the character can be obtained from the Genshin Impact, which can be obtained through the image algorithm, rather than reading the memory.
 - [grommunio/gromox](https://github.com/grommunio/gromox) - Groupware server backend with MAPI/HTTP, RPC/HTTP, IMAP, POP3 and PHP-MAPI support for grommunio
@@ -755,7 +755,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 110 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 109 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -888,7 +888,7 @@
 - [lukeed/worktop](https://github.com/lukeed/worktop) - The next generation web framework for Cloudflare Workers
 - [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - 🚀 Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
 - [JuZiSang/picgo-plugin-compress](https://github.com/JuZiSang/picgo-plugin-compress) - Image compression plugin for PicGo
-- [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - Yet another-another OneDrive index, powered by Vercel and Next.js
+- [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
