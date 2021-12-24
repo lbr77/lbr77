@@ -124,7 +124,7 @@
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 网易云音乐歌词获取
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！
 - [qyl27/CuteChat-CoolQ](https://github.com/qyl27/CuteChat-CoolQ) - A CoolQ plugin can connect QQ and Minecraft Server With Fabric.
-- [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - Query genshin impact palyer info by uid. 识破云玩家 根据原神游戏内uid查询其他玩家详情(基础数据、角色详情&命座&装备、深境螺旋战绩&阵容等)
+- [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - Query genshin impact palyer info by uid. 根据原神游戏内uid查询玩家详情(基础数据、角色详情&命座&装备、深境螺旋战绩&阵容等)
 - [Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher](https://github.com/Ceiridge/Chrome-Developer-Mode-Extension-Warning-Patcher) - ⇒ Disable Chrome's Developer Mode Extension Warning Popup & Elision WWW/HTTPS Hiding & Debugging Extension Popup
 - [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 - [ludoux/LrcHelper](https://github.com/ludoux/LrcHelper) - 从网易云音乐下载带翻译的歌词 Walkman 适配
@@ -175,6 +175,7 @@
 - [mcfx0/x64vcpu](https://github.com/mcfx0/x64vcpu) - 64-bit x86 CPU emulation and sandboxing.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [metaphysis/Code](https://github.com/metaphysis/Code) - Solutions for UVa Online Judge and Programming Challeges. Sample code in my Book.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings) - C++那些事
@@ -283,7 +284,6 @@
 - [OIerDb-ng/OIer](https://github.com/OIerDb-ng/OIer) - A database for OIers
 - [schwarzeni/leetcode-binarytree-edit](https://github.com/schwarzeni/leetcode-binarytree-edit) - LeetCode 二叉树输入数组可视化编辑
 - [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki) - 试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
 - [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
@@ -755,7 +755,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 110 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 111 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -779,7 +779,6 @@
 ## Roff 
 
 - [lydrainbowcat/tedukuri](https://github.com/lydrainbowcat/tedukuri) - 《算法竞赛进阶指南》资源社区
-- [metaphysis/Code](https://github.com/metaphysis/Code) - Solutions for UVa Online Judge and Programming Challeges. Sample code in my Book.
 
 ## Ruby 
 
@@ -797,6 +796,7 @@
 ## SCSS 
 
 - [miiiku/own-blog](https://github.com/miiiku/own-blog) - 自己的一个独立博客，想想写写瞎设计
+- [mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki) - 试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
 - [vt-dev-team/vtui](https://github.com/vt-dev-team/vtui) - VegeTable UI
 - [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一只可爱的hexo主题 m(=•ェ•=)m~🍭
 - [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
