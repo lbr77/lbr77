@@ -246,7 +246,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [0xDkd/auxpi](https://github.com/0xDkd/auxpi) - 🍭 集合多家 API 的新一代图床
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
-- [Xhofe/alist](https://github.com/Xhofe/alist) - 🗂️Another file list program that supports multiple storage, powered by Gin and React.
+- [Xhofe/alist](https://github.com/Xhofe/alist) - 🗂️Another file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
 - [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive/Google Drive.
 - [NekoWheel/NekoBox](https://github.com/NekoWheel/NekoBox) - 📫 匿名提问箱 / Anonymous question box
@@ -758,7 +758,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 111 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 112 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -935,7 +935,7 @@
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [YunYouJun/web-resume](https://github.com/YunYouJun/web-resume) - 📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。
 - [gridsome/gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog) - A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
-- [XPoet/picx](https://github.com/XPoet/picx) - PicX 是一款基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床工具。无需下载！无需安装！打开网站即用！免费！极速！稳定！
+- [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！极速！
 - [xiaou66/color-manager](https://github.com/xiaou66/color-manager) - uTools 颜色插件
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
