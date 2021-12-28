@@ -672,7 +672,7 @@
 - [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://touhou.ai/imgtrans/
-- [yaomeng0722/genshin_task-resin-expedition_alert](https://github.com/yaomeng0722/genshin_task-resin-expedition_alert) - 用来提示和查询原神内树脂、委托、派遣情况的小工具，正在努力完善功能和推送渠道。有闲心帮忙的大佬可以直接发pr√有bug请发issue~
+- [yaomeng0722/genshin_task-resin-expedition_alert](https://github.com/yaomeng0722/genshin_task-resin-expedition_alert) - 事情太多，摸了~相当长一段时间内可能不会维护与更新~
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [yaronzz/BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) - 同步百度云网盘到阿里云
 - [y3oj/y3oj](https://github.com/y3oj/y3oj) - a simple, light-weight and highly maintainable online judge system for secondary education
@@ -806,7 +806,7 @@
 
 ## Shell 
 
-- [jingleijack/Openwrt_Beta](https://github.com/jingleijack/Openwrt_Beta) - AX6和AX3600和AX9000每周五更新，每个版本对应固件名称及大小不一样，看清楚下载。不搞多神秘什么本地编译啥的，我也懒得去fork大雕源码修改，直接Actions用雕大无任何修改的源码。稳定性及实用性均与lean官方同步，无任何区别。部分插件源码均拉取原作者最新的。
+- [jingleijack/Openwrt_Beta](https://github.com/jingleijack/Openwrt_Beta) - AX6和AX3600和AX9000每周五更新，每个版本对应固件名称及大小不一样，看清楚下载。不搞多神秘什么本地编译啥的，我也懒得去fork lean源码修改，直接Actions用雕大无任何修改的源码。稳定性及实用性均与lean官方同步，无任何区别。部分插件源码均拉取原作者最新的。
 - [Menci/build-archlinux-package](https://github.com/Menci/build-archlinux-package) - GitHub Action to build Archlinux / Manjaro package with Docker, for AMD64 or ARM64
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
@@ -935,7 +935,7 @@
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [YunYouJun/web-resume](https://github.com/YunYouJun/web-resume) - 📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。
 - [gridsome/gridsome-starter-blog](https://github.com/gridsome/gridsome-starter-blog) - A simple, hackable & minimalistic starter for Gridsome that uses Markdown for content.
-- [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！极速！
+- [XPoet/picx](https://github.com/XPoet/picx) - 基于 GitHub API & jsDelivr 开发的具有 CDN 加速功能的图床管理工具。无需下载与安装，网页端在线使用！免费！稳定！便捷！极速！
 - [xiaou66/color-manager](https://github.com/xiaou66/color-manager) - uTools 颜色插件
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
