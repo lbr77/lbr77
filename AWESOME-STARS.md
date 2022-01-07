@@ -221,6 +221,7 @@
 ## EJS 
 
 - [nexmoe/hexo-theme-yet-the-books](https://github.com/nexmoe/hexo-theme-yet-the-books) - 还有书籍，🌙 始于外表，忠于文字。一个献给热爱思考者的博客主题。
+- [lh1me/hexo-theme-aomori](https://github.com/lh1me/hexo-theme-aomori) - 🔥 Minimalist & Powerful Hexo Theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
 
 ## Go 
@@ -444,7 +445,6 @@
 - [hvnobug/hexo-external-link](https://github.com/hvnobug/hexo-external-link) - Hexo plugin named `hexo-external-link`
 - [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [lh1me/hexo-theme-aomori](https://github.com/lh1me/hexo-theme-aomori) - 🔥 Minimalist & Powerful Hexo Theme
 - [x-cold/yuque-hexo](https://github.com/x-cold/yuque-hexo) - 同步语雀的文章到你的 Hexo 项目吧！
 - [Tsuk1ko/cfworker-middware-telegraf](https://github.com/Tsuk1ko/cfworker-middware-telegraf) - Make telegraf (a telegram bot framework) useable in Cloudflare Workers
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -769,7 +769,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 113 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 63 stars and 114 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
