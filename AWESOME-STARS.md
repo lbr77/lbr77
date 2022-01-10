@@ -553,6 +553,7 @@
 
 ## Others 
 
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - A fantastic app to provide auto-scrolling lyrics for Spotify, iTunes, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic. 一款为Spotify、iTunes、Music Center、QQ音乐、网易云音乐、YesPlayMusic提供滚动歌词的软件。
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [ouuan/luogu-motaki](https://github.com/ouuan/luogu-motaki) - 服务端-客户端架构的洛谷冬日绘板工具
@@ -827,6 +828,7 @@
 
 ## Shell 
 
+- [jingleijack/AX6-AX3600_Almighty-Edition_Config](https://github.com/jingleijack/AX6-AX3600_Almighty-Edition_Config) - 此版本是全能版本，也是自定义版本，涵盖所有插件，想要榨干路由器性能和内存的朋友可以尝试刷入。支持已刷WEB升级的openwrt固件，刷入方式：首选恢复出厂设置，然后再系统升级不保留配置刷入。全能版每天都会拉取最新源码更新
 - [amefs/quickbox-lite](https://github.com/amefs/quickbox-lite) - Lightweigt QuickBox
 - [jingleijack/Openwrt_Beta](https://github.com/jingleijack/Openwrt_Beta) - AX6和AX3600和AX9000每周五更新，每个版本对应固件名称及大小不一样，看清楚下载。不搞多神秘什么本地编译啥的，我也懒得去fork lean源码修改，直接Actions用雕大无任何修改的源码。稳定性及实用性均与lean官方同步，无任何区别。部分插件源码均拉取原作者最新的。
 - [Menci/build-archlinux-package](https://github.com/Menci/build-archlinux-package) - GitHub Action to build Archlinux / Manjaro package with Docker, for AMD64 or ARM64
@@ -934,7 +936,7 @@
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [lyrio-dev/lyrio](https://github.com/lyrio-dev/lyrio) - The backend service of Lyrio, which powers LibreOJ
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-- [bygdev/office-user-auto-create](https://github.com/bygdev/office-user-auto-create) - 
+- [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 
 - [magicdawn/yun-playlist-downloader](https://github.com/magicdawn/yun-playlist-downloader) - 网易云音乐 - 歌单/专辑/电台 - 下载器
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
