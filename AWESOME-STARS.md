@@ -537,7 +537,7 @@
 
 ## Kotlin 
 
-- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，🚧 WIP
+- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS15扫码即用。🚧   客户端和快应用开发中
 - [FuckAntiAddiction/BiligameAddictionNotLimited](https://github.com/FuckAntiAddiction/BiligameAddictionNotLimited) - B站游戏防沉迷不限制，关键字:B站游戏 BiliBili游戏 实名认证 防沉迷
 - [mzdluo123/AntiSetu](https://github.com/mzdluo123/AntiSetu) - 这么多setu机器人当然要有一个antisetu机器人啦
 - [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend) - Enjoy programming while playing a game.
@@ -558,6 +558,7 @@
 
 ## Others 
 
+- [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [XMD0718/cloudflare-block-bad-bot-ruleset](https://github.com/XMD0718/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - A fantastic app to provide auto-scrolling lyrics for Spotify, iTunes, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic. 一款为Spotify、iTunes、Music Center、QQ音乐、网易云音乐、YesPlayMusic提供滚动歌词的软件。
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
