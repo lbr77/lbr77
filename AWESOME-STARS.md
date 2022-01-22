@@ -575,7 +575,7 @@
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 创刊于 2015 年，坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [FuckOS/4399Hidomocd](https://github.com/FuckOS/4399Hidomocd) - 噢!这是一个能用CMD写系统的人
-- [ouuan/this-repo-has-29-stars-3-forks](https://github.com/ouuan/this-repo-has-29-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 29 stars 3 forks.
+- [ouuan/this-repo-has-30-stars-3-forks](https://github.com/ouuan/this-repo-has-30-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 30 stars 3 forks.
 - [SFOI-Team/luogu-problem-list](https://github.com/SFOI-Team/luogu-problem-list) - A problem list for luogu OJ.
 - [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -890,6 +890,7 @@
 
 ## TypeScript 
 
+- [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
 - [Nikaidou-Shinku/Luogu-usercard](https://github.com/Nikaidou-Shinku/Luogu-usercard) - A plugin to decorate Luogu with exquisite user card.
 - [Menci/service-worker-redirect-origin](https://github.com/Menci/service-worker-redirect-origin) - Redirect requests of current origin to another domain with Service Worker.
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
