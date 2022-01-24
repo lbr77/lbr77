@@ -99,6 +99,7 @@
 
 ## C# # 
 
+- [MAXBURAOT/SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 By LoodBot/Syahmixp (Steam Emulator)
 - [xingchuanzhen/Minecraft_Bypass_the_program](https://github.com/xingchuanzhen/Minecraft_Bypass_the_program) - Minecraft for Windows 10 绕过程序
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻在Windows上记录软件使用时长
 - [Kxnrl/NetEase-Cloud-Music-DiscordRPC](https://github.com/Kxnrl/NetEase-Cloud-Music-DiscordRPC) - 在Discord上显示网抑云/QQ音乐. Enables Discord Rich Presence For Netease Cloud Music/Tencent QQ Music.
@@ -111,7 +112,7 @@
 - [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
 - [jetspiking/Taskbar11](https://github.com/jetspiking/Taskbar11) - Change the position and size of the Taskbar in Windows 11
 - [babalae/genshin-account](https://github.com/babalae/genshin-account) - 🛠️原神账号快速切换工具 | Genshin Impact Quick Account Switching Tool
-- [DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin) - 原神启动器 祈愿抽卡记录 实时树脂便笺 玩家信息 米游社每日签到
+- [DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin) - 就是 Snap Genshin
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 - [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
 - [xplusky/AnohanaDesktop](https://github.com/xplusky/AnohanaDesktop) - 那朵花（未闻花名）动态桌面，好看的桌面飘落花朵效果，有彩蛋！Anohana dynamic desktop, falling flowers! !
@@ -345,6 +346,7 @@
 
 ## JavaScript 
 
+- [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - 小游戏：吃掉小鹿乃
 - [kanasimi/work_crawler](https://github.com/kanasimi/work_crawler) - Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 知音漫客 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 comico webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
 - [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
@@ -597,7 +599,7 @@
 - [YoulianBoshi/lantern-vpn](https://github.com/YoulianBoshi/lantern-vpn) - PC蓝灯破解版在这里,重启程序重置500M流量,屏蔽自动更新,永久使用
 - [mooseIre/update_miui_ota](https://github.com/mooseIre/update_miui_ota) - 
 - [francis-zhao/quarklist](https://github.com/francis-zhao/quarklist) - 一款针对国内用户的广告过滤列表，作为 EasyList China 的补充，适用于 Adblock Plus、AdBlock、uBlock Origin 等浏览器扩展。 An advertising filter served as a supplement to EasyList China for users in mainland China, applicable to Adblock Plus, AdBlock and uBlock Origin extensions.
-- [qq1731402057/claim-epic-freebies1](https://github.com/qq1731402057/claim-epic-freebies1) - EpicGames Weekly Giveaway Auto Claimer Workflow
+- [XiaoLin-monian/claim-epic-freebies1](https://github.com/XiaoLin-monian/claim-epic-freebies1) - EpicGames Weekly Giveaway Auto Claimer Workflow
 - [tydaytygx/CSGO-plugins-localization](https://github.com/tydaytygx/CSGO-plugins-localization) - CSGO插件汉化/CSGO开服教程 汉化插件仓库用于国内CSGO各开服服主，同时提供Linux端的保姆级开服教程
 - [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
 - [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
@@ -785,7 +787,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 117 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 118 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
