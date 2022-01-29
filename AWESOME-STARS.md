@@ -476,7 +476,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1660-Stars](https://github.com/RealPeha/This-Repo-Has-1660-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1659-Stars](https://github.com/RealPeha/This-Repo-Has-1659-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
@@ -526,7 +526,6 @@
 - [heymind/OneDrive-Index-Cloudflare-Worker](https://github.com/heymind/OneDrive-Index-Cloudflare-Worker) - DEPRECATED: Please use https://github.com/spencerwooo/onedrive-cf-index instead
 - [coyove/leancloud-test](https://github.com/coyove/leancloud-test) - goflyway WebSocket 前置代理服务器
 - [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，可能是github上最受欢迎的五子棋AI，源码+教程
-- [bluryar/blurblog](https://github.com/bluryar/blurblog) - A toy-like project using Vue.js and Koa.js to learn web develop
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
 - [ti-tian/fast-dependencies-analyzer](https://github.com/ti-tian/fast-dependencies-analyzer) - Analyze project dependencies in a short time
 - [EtherDream/jsproxy-browser](https://github.com/EtherDream/jsproxy-browser) - jsproxy 浏览器端程序
@@ -792,7 +791,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 120 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 119 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
