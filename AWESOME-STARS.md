@@ -65,6 +65,7 @@
 
 ## C 
 
+- [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [karottc/linux-0.11](https://github.com/karottc/linux-0.11) - the source code of linux-0.11 for study linux kernel
@@ -101,6 +102,9 @@
 
 ## C# # 
 
+- [Richasy/CleanReader.Uwp](https://github.com/Richasy/CleanReader.Uwp) - 干净阅读 V2 版本
+- [Fs00/Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) - Configurable CLI tool to easily and aggressively debloat and tweak Windows 10 by removing preinstalled UWP apps, services and more. Originally based on the W10 de-botnet guide made by @adolfintel.
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [DawnFz/GenShin-LauncherDIY](https://github.com/DawnFz/GenShin-LauncherDIY) - 【原神启动器Plus】快速换号登录，支持官B国际三端快速切换，自定义任意分辨率全屏或窗口启动，快速打开照相目录，好看的界面
 - [MAXBURAOT/SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 By LoodBot/Syahmixp (Steam Emulator)
 - [xingchuanzhen/Minecraft_Bypass_the_program](https://github.com/xingchuanzhen/Minecraft_Bypass_the_program) - Minecraft for Windows 10 绕过程序
@@ -195,6 +199,7 @@
 
 ## CSS 
 
+- [LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 - [q19980722/Typora-theme-jiaran](https://github.com/q19980722/Typora-theme-jiaran) - 
 - [Sanakey/KirinShiKi](https://github.com/Sanakey/KirinShiKi) - 基于handsome主题的神代綺凜式魔改主题
 - [samzhangjy/CarbonLuogu](https://github.com/samzhangjy/CarbonLuogu) - 碳洛谷是一款基于氩洛谷改编的新版洛谷美化包，需搭配Stylish使用。
@@ -267,7 +272,7 @@
 - [Sakurasan/scf-proxy](https://github.com/Sakurasan/scf-proxy) - 云函数代理服务
 - [Kyomotoi/go-ATRI](https://github.com/Kyomotoi/go-ATRI) - 
 - [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
-- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 - [journey-ad/waka-box-go](https://github.com/journey-ad/waka-box-go) - 📊 Update a pinned gist to contain your weekly WakaTime stats. This is a Golang implementation, see the original version https://github.com/matchai/waka-box
 - [webp-sh/webp_server_go](https://github.com/webp-sh/webp_server_go) - Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf) - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
@@ -562,6 +567,7 @@
 
 ## Others 
 
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 出品字体 Klee One 改造的开源中文字体。
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [XMD0718/cloudflare-block-bad-bot-ruleset](https://github.com/XMD0718/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
@@ -689,6 +695,7 @@
 
 ## Python 
 
+- [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [Ice-Cirno/HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot) - A qqbot for Princess Connect Re:Dive (and other usage :)
 - [luminoleon/epicgames-claimer](https://github.com/luminoleon/epicgames-claimer) - 自动领取Epic游戏商城每周免费游戏。
@@ -791,7 +798,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 119 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 120 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
