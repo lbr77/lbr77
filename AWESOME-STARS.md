@@ -153,6 +153,7 @@
 
 ## C++ 
 
+- [hakuna-m/wubiuefi](https://github.com/hakuna-m/wubiuefi) - fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [34736384/genshin-fps-unlock](https://github.com/34736384/genshin-fps-unlock) - unlocks the 60 fps cap
 - [LOG1CRS/Virtual-File-System](https://github.com/LOG1CRS/Virtual-File-System) - Virtual File System made with c++
@@ -281,7 +282,7 @@
 - [LussacZheng/dandanplay-resource-service](https://github.com/LussacZheng/dandanplay-resource-service) - 弹弹play 资源搜索节点 API 实现，基于 Cloudflare Workers 或 Golang 的两种实现。 || API implementations for "dandanplay" resource search service.
 - [iyear/E5SubBot](https://github.com/iyear/E5SubBot) - A Simple Telebot for E5 Renewal
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP / 过滤假墙」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4+IPv6)！
+- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
 - [zladovan/gorched](https://github.com/zladovan/gorched) - Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
 - [sodaling/FastestBilibiliDownloader](https://github.com/sodaling/FastestBilibiliDownloader) - B站视频极速批量下载器|The fastest Bilibili video downloader
 - [felixonmars/BaiduPCS-Go](https://github.com/felixonmars/BaiduPCS-Go) - Re-upload of iikira/BaiduPCS-Go
@@ -302,6 +303,7 @@
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [OIerDb-ng/OIer](https://github.com/OIerDb-ng/OIer) - A database for OIers
 - [schwarzeni/leetcode-binarytree-edit](https://github.com/schwarzeni/leetcode-binarytree-edit) - LeetCode 二叉树输入数组可视化编辑
+- [mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki) - 试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
 - [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
@@ -481,7 +483,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1659-Stars](https://github.com/RealPeha/This-Repo-Has-1659-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1658-Stars](https://github.com/RealPeha/This-Repo-Has-1658-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
@@ -546,7 +548,7 @@
 
 ## Kotlin 
 
-- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS15扫码即用。🚧   快应用开发中
+- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。🚧   快应用开发中
 - [FuckAntiAddiction/BiligameAddictionNotLimited](https://github.com/FuckAntiAddiction/BiligameAddictionNotLimited) - B站游戏防沉迷不限制，关键字:B站游戏 BiliBili游戏 实名认证 防沉迷
 - [mzdluo123/AntiSetu](https://github.com/mzdluo123/AntiSetu) - 这么多setu机器人当然要有一个antisetu机器人啦
 - [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend) - Enjoy programming while playing a game.
@@ -695,6 +697,7 @@
 
 ## Python 
 
+- [bilibili/ailab](https://github.com/bilibili/ailab) - 
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [Ice-Cirno/HoshinoBot](https://github.com/Ice-Cirno/HoshinoBot) - A qqbot for Princess Connect Re:Dive (and other usage :)
@@ -798,7 +801,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 68 stars and 120 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 69 stars and 120 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -843,7 +846,6 @@
 
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [miiiku/own-blog](https://github.com/miiiku/own-blog) - 自己的一个独立博客，想想写写瞎设计
-- [mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki) - 试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
 - [vt-dev-team/vtui](https://github.com/vt-dev-team/vtui) - VegeTable UI
 - [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一只可爱的hexo主题 m(=•ェ•=)m~🍭
 - [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
