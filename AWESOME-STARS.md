@@ -6,7 +6,6 @@
 ## Contents
 
   - [ASP](#asp)
-  - [AutoHotkey](#autohotkey)
   - [AutoIt](#autoit)
   - [Batchfile](#batchfile)
   - [C](#c)
@@ -54,10 +53,6 @@
 
 - [askme765cs/Wine-QQ-TIM](https://github.com/askme765cs/Wine-QQ-TIM) - 提供在Linux上运行最新版腾讯QQ与TIM的解决方案 Easiest Way to Run QQ&TIM on Linux
 
-## AutoHotkey 
-
-- [phonowell/genshin-impact-script](https://github.com/phonowell/genshin-impact-script) - 好耶！是人畜无害的原神脚本！Sweet! What a cute Genshin Impact script!
-
 ## AutoIt 
 
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready
@@ -75,6 +70,7 @@
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
+- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 - [karottc/linux-0.11](https://github.com/karottc/linux-0.11) - the source code of linux-0.11 for study linux kernel
 - [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
@@ -162,6 +158,7 @@
 
 ## C++ 
 
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
 - [MotooriKashin/ef2](https://github.com/MotooriKashin/ef2) - IDM辅助下载工具，使用自定义ef2://协议，同时支持解析IDM导出文件(.ef2)
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
 - [hakuna-m/wubiuefi](https://github.com/hakuna-m/wubiuefi) - fork of Wubi (https://launchpad.net/wubi) for UEFI support and for support of recent Ubuntu releases
@@ -233,6 +230,7 @@
 
 ## CoffeeScript 
 
+- [phonowell/genshin-impact-script](https://github.com/phonowell/genshin-impact-script) - 好耶！是人畜无害的原神脚本！Sweet! What a cute Genshin Impact script!
 - [onplus/shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku) - 一键部署 Free Shadowsocks-Heroku
 
 ## Dart 
@@ -259,7 +257,6 @@
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [mayocream/pastebin-ipfs](https://github.com/mayocream/pastebin-ipfs) - 🌐 (Web 3.0) Pastebin built on IPFS, securely served by Distributed Web and Edge Network.
 - [guonaihong/gout](https://github.com/guonaihong/gout) - gout to become the Swiss Army Knife of the http client @^^@---&gt;  gout 是http client领域的瑞士军刀，小巧，强大，犀利。具体用法可看文档，如使用迷惑或者API用得不爽都可提issues
-- [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。🚧   快应用开发中
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 最小巧、最准确、最全面、最实用的中国大陆 GeoIP2 数据库及 IP 地址段
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -309,7 +306,7 @@
 - [xinliangnote/Go](https://github.com/xinliangnote/Go) - 【Go 从入门到实战】学习笔记，从零开始学 Go、Gin 框架，基本语法包括 26 个Demo，Gin 框架包括：Gin 自定义路由配置、Gin 使用 Logrus 进行日志记录、Gin 数据绑定和验证、Gin 自定义错误处理、Go gRPC Hello World... 持续更新中...
 - [iikira/speedtest](https://github.com/iikira/speedtest) - speedtest.net cli
 - [monkeyWie/gopeed-core](https://github.com/monkeyWie/gopeed-core) - A fast download client,support HTTP&P2P.
-- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
+- [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 
 ## HTML 
 
@@ -358,7 +355,6 @@
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) - An unofficial Zerotier Android client patched from official client
 - [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、樱花动漫(Imomoe)部分内容编写的第三方Android客户端。
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.18.1 Fishing bot for Minecraft
-- [iXORTech/MCDRemoteBot](https://github.com/iXORTech/MCDRemoteBot) - 模块化，简单易用，使用Java编写，基于 YuQ-Mirai 框架的QQ机器人，专为Minecraft服务器群组设计
 - [88250/symphony](https://github.com/88250/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java. https://ld246.com
 - [niefy/wx-api](https://github.com/niefy/wx-api) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [Cruii/bilibili-helper-hub](https://github.com/Cruii/bilibili-helper-hub) - 🚀 Bilibili每日任务托管平台
@@ -509,7 +505,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1658-Stars](https://github.com/RealPeha/This-Repo-Has-1658-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1659-Stars](https://github.com/RealPeha/This-Repo-Has-1659-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
@@ -549,7 +545,7 @@
 - [zthxxx/kugimiya-rainbow-fart](https://github.com/zthxxx/kugimiya-rainbow-fart) - 傲 娇 钉 宫，鞭 写 鞭 骂  -  钉宫理惠 vscode-rainbow-fart 扩展语音包
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
 - [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
-- [LoseNine/Crack-JS-Spider](https://github.com/LoseNine/Crack-JS-Spider) - JS破解逆向，破解JS反爬虫加密参数，已破解QQ音乐sign（2022.2.13），拼多多anti_content，boss直聘zp_token，知乎96，酷狗kg_mid/dfid，唯品会，中国裁判文书网（2020-06-30更新），淘宝密码，天安保险登录，b站登录，房天下登录，WPS登录，微博登录，有道翻译，网易登录，微信公众号登录，空中网登录，今目标登录，学生信息管理系统登录，共赢金融登录，重庆科技资源共享平台登录，网易云音乐下载，一键解析视频链接，财联社登录。
+- [LoseNine/Crack-JS-Spider](https://github.com/LoseNine/Crack-JS-Spider) - JS破解逆向，破解JS反爬虫加密参数，已破解极验滑块w（2022.2.19），QQ音乐sign（2022.2.13），拼多多anti_content，boss直聘zp_token，知乎x-zse-96，酷狗kg_mid/dfid，唯品会mars_cid，中国裁判文书网（2020-06-30更新），淘宝密码，天安保险登录，b站登录，房天下登录，WPS登录，微博登录，有道翻译，网易登录，微信公众号登录，空中网登录，今目标登录，学生信息管理系统登录，共赢金融登录，重庆科技资源共享平台登录，网易云音乐下载，一键解析视频链接，财联社登录。
 - [ordinaryA/Awesome-Game](https://github.com/ordinaryA/Awesome-Game) - 扫雷，管道小鸟，贪吃蛇
 - [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger.
 - [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
@@ -698,7 +694,7 @@
 - [easychen/serverchan-wordpress-comments-notice](https://github.com/easychen/serverchan-wordpress-comments-notice) - Server酱WordPress博客评论微信通知插件
 - [zwying0814/Brave](https://github.com/zwying0814/Brave) - Typecho情侣主题Brave
 - [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
-- [ArtalkJS/ArtalkPHP](https://github.com/ArtalkJS/ArtalkPHP) - Artalk 评论系统后端程序 PHP 版
+- [ArtalkJS/ArtalkPHP](https://github.com/ArtalkJS/ArtalkPHP) - 「已弃用，不兼容新版前端」Artalk 评论系统后端程序 PHP 版
 - [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
 - [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Self-hosted Image Hosting solution. Start your own Flickr/imgur alternative with your own rules.
 - [extend-luogu/luogu-discuss-log](https://github.com/extend-luogu/luogu-discuss-log) - 保存洛谷讨论的工具
@@ -742,9 +738,9 @@
 - [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
 - [AnshumanFauzdar/telegram-bot-heroku-deploy](https://github.com/AnshumanFauzdar/telegram-bot-heroku-deploy) - Detailed guide to initially deploy a simple telegram python bot to heroku
 - [GZTimeWalker/CTF-nc-docker](https://github.com/GZTimeWalker/CTF-nc-docker) - Run CTF challenges with netcat in one docker container.
-- [SigureMo/yutto](https://github.com/SigureMo/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器（bilili2.x）
+- [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器（bilili2.x）
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
-- [SigureMo/bilili](https://github.com/SigureMo/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
+- [yutto-dev/bilili](https://github.com/yutto-dev/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - The RWKV Language Model with Token-shift. Better and Faster than usual transformer / GPT.
 - [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。Tuned GPT for novel generation.
 - [55-AA/mod_equations](https://github.com/55-AA/mod_equations) - 单模多元线性方程组的通用解法，及其在密码分析中的应用。
@@ -837,7 +833,7 @@
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 69 stars and 124 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 123 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -889,8 +885,10 @@
 
 ## Shell 
 
+- [littleplus/TencentAgentRemove](https://github.com/littleplus/TencentAgentRemove) - Remove Tencent Cloud Agent Completely.
+- [RedPill-TTG/redpill-load](https://github.com/RedPill-TTG/redpill-load) - RedPill Loader Generator
 - [Forest10/hexo-deploy-upyun-action](https://github.com/Forest10/hexo-deploy-upyun-action) - 自动化部署到又拍云. 增量更新
-- [soulteary/docker-sso-server](https://github.com/soulteary/docker-sso-server) - Lightweight self-hosted SSO server, resource utilization rate is &lt;1% CPU, MEM &lt;15 M
+- [soulteary/docker-sso-server](https://github.com/soulteary/docker-sso-server) - Lightweight 🪶 self-hosted SSO server, resource utilization rate is &lt;1% CPU, MEM &lt;15 M
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
 - [jingleijack/AX6-AX3600_Almighty-Edition_Config](https://github.com/jingleijack/AX6-AX3600_Almighty-Edition_Config) - 此版本是全能版本，也是自定义版本，涵盖所有插件，想要榨干路由器性能和内存的朋友可以尝试刷入。支持已刷WEB升级的openwrt固件，刷入方式：首选恢复出厂设置，然后再系统升级不保留配置刷入。全能版每天都会拉取最新源码更新
 - [amefs/quickbox-lite](https://github.com/amefs/quickbox-lite) - Lightweigt QuickBox
@@ -902,7 +900,7 @@
 - [licess/lnmp](https://github.com/licess/lnmp) - LNMP一键安装包是一个用Linux Shell编写的可以为CentOS/RHEL/Fedora/Aliyun/Amazon、Debian/Ubuntu/Raspbian/Deepin/Mint Linux VPS或独立主机安装LNMP(Nginx/MySQL/PHP)、LNMPA(Nginx/MySQL/PHP/Apache)、LAMP(Apache/MySQL/PHP)生产环境的Shell程序。
 - [jgmdev/ddos-deflate](https://github.com/jgmdev/ddos-deflate) - Fork of DDoS Deflate with fixes, improvements and new features.
 - [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
-- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.
+- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - WARP 一键安装脚本 | Cloudflare WARP Installer | A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.
 - [useblue/Cloudreve-Heroku](https://github.com/useblue/Cloudreve-Heroku) - Cloureve on Heroku with Redis
 - [myfreeer/aria2-build-msys2](https://github.com/myfreeer/aria2-build-msys2) - aria2 build scripts on msys2 with custom patches.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -951,6 +949,7 @@
 
 ## TypeScript 
 
+- [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [vcheckzen/playsnake](https://github.com/vcheckzen/playsnake) - Clone of playsnake.org using React and TypeScript
 - [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
 - [Nikaidou-Shinku/Luogu-usercard](https://github.com/Nikaidou-Shinku/Luogu-usercard) - A plugin to decorate Luogu with exquisite user card.
@@ -988,7 +987,7 @@
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 一款简洁的自托管评论系统 | A Selfhosted Comment System | Golang + TypeScript + Docker
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [lukeed/worktop](https://github.com/lukeed/worktop) - The next generation web framework for Cloudflare Workers
-- [xiaoyang-sde/rocket-booster](https://github.com/xiaoyang-sde/rocket-booster) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
+- [xiaoyang-sde/reflare](https://github.com/xiaoyang-sde/reflare) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
 - [JuZiSang/picgo-plugin-compress](https://github.com/JuZiSang/picgo-plugin-compress) - Image compression plugin for PicGo
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
 - [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
