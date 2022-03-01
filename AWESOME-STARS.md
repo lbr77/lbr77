@@ -66,13 +66,13 @@
 
 ## C 
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Oebbler/intel-cpu-tuner](https://github.com/Oebbler/intel-cpu-tuner) - Utility for changing frequency, power limit and much more on Intel CPU's immediately while computer is running
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [0voice/kernel_new_features](https://github.com/0voice/kernel_new_features) - 一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 - [karottc/linux-0.11](https://github.com/karottc/linux-0.11) - the source code of linux-0.11 for study linux kernel
-- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
 - [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - 
 - [LSPosed/WSA-Kernel-SU](https://github.com/LSPosed/WSA-Kernel-SU) - A kernel module to provide /system/xbin/su to Android Kernel (especially to WSA)
@@ -85,7 +85,7 @@
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
 - [kernelbin/BOIT](https://github.com/kernelbin/BOIT) - BOT for OIers.  /*BOIT = BOT + OI; yh蒟蒻写的给OIers用的一个bot，Made by kernel.bin with ❤*/
 - [TelegramMessenger/MTProxy](https://github.com/TelegramMessenger/MTProxy) - 
-- [billziss-gh/winfsp](https://github.com/billziss-gh/winfsp) - Windows File System Proxy - FUSE for Windows
+- [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
 - [stephensmalley/selinux-kernel](https://github.com/stephensmalley/selinux-kernel) - GitHub mirror of the SELinux kernel repository
 - [cokemine/ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru) - 云探针、多服务器探针、云监控、多服务器云监控
@@ -106,7 +106,7 @@
 ## C# # 
 
 - [ZYFDroid/ZhongliShieldIndicator](https://github.com/ZYFDroid/ZhongliShieldIndicator) - 原神小工具 钟离护盾指示器
-- [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Context Menu For Windows11
+- [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
 - [Richasy/CleanReader.Uwp](https://github.com/Richasy/CleanReader.Uwp) - 干净阅读 V2 版本
 - [Fs00/Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) - Configurable CLI tool to easily and aggressively debloat and tweak Windows 10 by removing preinstalled UWP apps, services and more. Originally based on the W10 de-botnet guide made by @adolfintel.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
@@ -148,16 +148,16 @@
 - [ludoux/LrcHelper](https://github.com/ludoux/LrcHelper) - 从网易云音乐下载带翻译的歌词 Walkman 适配
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。
 - [NetDimension/NanUI](https://github.com/NetDimension/NanUI) - NanUI is an open source .NET project for .NET developers who want to build desktop applications with HTML, CSS and JavaScript.
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - 
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool) - 📃 UAC 白名单小工具！
-- [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [BluePointLilac/TileBeautify](https://github.com/BluePointLilac/TileBeautify) - win10磁贴美化工具
 - [bangbang93/BMCL](https://github.com/bangbang93/BMCL) - Bangbang93's Minecraft Launcher
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 ## C++ 
 
+- [iwxyi/FloatingUniverse](https://github.com/iwxyi/FloatingUniverse) - 【悬浮宇宙】 PC万能悬浮窗快捷工具，快速存放文件夹、文件、剪贴板，打开网址、文件等
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
 - [MotooriKashin/ef2](https://github.com/MotooriKashin/ef2) - IDM辅助下载工具，使用自定义ef2://协议，同时支持解析IDM导出文件(.ef2)
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
@@ -310,7 +310,10 @@
 
 ## HTML 
 
+- [NakanoMikuOrg/arch-guide](https://github.com/NakanoMikuOrg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
+- [sapicd/sapic](https://github.com/sapicd/sapic) - sapic(picbed) - 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee、S3等，支持自定义扩展。
 - [am-abudu/Qexo](https://github.com/am-abudu/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
+- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [GlacierLab/ApexAdaptive100Plus](https://github.com/GlacierLab/ApexAdaptive100Plus) - Use 100+ Fps For Adaptive Resolution In Apex:Legend
 - [BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed) - image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署
 - [william-song-shy/ben-ben-spider](https://github.com/william-song-shy/ben-ben-spider) - 犇犇爬虫
@@ -373,6 +376,8 @@
 
 ## JavaScript 
 
+- [Clansty/arch-build](https://github.com/Clansty/arch-build) - 基于 GitHub Actions 自动按需构建 AUR 软件包
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
 - [solstice23/osu-cursor](https://github.com/solstice23/osu-cursor) - ✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web
 - [grikomsn/tableflare](https://github.com/grikomsn/tableflare) - Airtable + Cloudflare Workers URL Shortener 🌤
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -401,7 +406,7 @@
 - [EtherDream/http-server-online](https://github.com/EtherDream/http-server-online) - Start a local HTTP server without any tools, just open a web page.
 - [oscarmorrison/md-page](https://github.com/oscarmorrison/md-page) - 📝 create a webpage with just markdown
 - [journey-ad/honkai-starrail-scene](https://github.com/journey-ad/honkai-starrail-scene) - 【崩坏：星穹铁道】预约页场景提取
-- [imaegoo/twikoo-docker](https://github.com/imaegoo/twikoo-docker) - 💬 Twikoo Docker 镜像，用于本地部署
+- [twikoojs/twikoo-docker](https://github.com/twikoojs/twikoo-docker) - 💬 Twikoo Docker 镜像，用于本地部署
 - [thelovekesh/ghost-v4-on-heroku](https://github.com/thelovekesh/ghost-v4-on-heroku) - Deploy the latest ghost v4 on Heroku
 - [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) - M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
@@ -570,6 +575,7 @@
 
 ## Kotlin 
 
+- [helloklf/vtools](https://github.com/helloklf/vtools) - 一个集高级重启、应用安装自动点击、CPU调频等多项功能于一体的工具箱。
 - [FuckAntiAddiction/BiligameAddictionNotLimited](https://github.com/FuckAntiAddiction/BiligameAddictionNotLimited) - B站游戏防沉迷不限制，关键字:B站游戏 BiliBili游戏 实名认证 防沉迷
 - [mzdluo123/AntiSetu](https://github.com/mzdluo123/AntiSetu) - 这么多setu机器人当然要有一个antisetu机器人啦
 - [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend) - Enjoy programming while playing a game.
@@ -716,10 +722,12 @@
 
 ## Pascal 
 
+- [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
 - [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp) - A fast, portable, simple, and free C/C++ IDE
 
 ## PowerShell 
 
+- [freemansoft/win10-storage-spaces](https://github.com/freemansoft/win10-storage-spaces) - Scripts for creating an destroying Fault Tolerant multi-tier storage spaces on Windows 10
 - [Raphire/Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows 10/11, disable bing in windows search aswell as perform various other changes to declutter the windows 10/11 experience.
 - [Tsuk1ko/fuck-qq-with-win10-taskbar-on-top](https://github.com/Tsuk1ko/fuck-qq-with-win10-taskbar-on-top) - dddd
 - [oxygen-dioxide/winget-pkgs](https://github.com/oxygen-dioxide/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
@@ -727,6 +735,7 @@
 
 ## Python 
 
+- [Nyarime/qcloud-lighthouse-discount](https://github.com/Nyarime/qcloud-lighthouse-discount) - 腾讯云轻量满减神器，在满足轻量优惠券最低门槛下，计算续费腾讯云轻量应用服务器价格的计算器
 - [SimonShi1994/Princess-connection-farm](https://github.com/SimonShi1994/Princess-connection-farm) - 国服PCR公主连结 多开自动农场脚本 基于opencv+UIAutomator
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [bilibili/ailab](https://github.com/bilibili/ailab) - 
@@ -832,8 +841,9 @@
 - [zaxtyson/Anime-API](https://github.com/zaxtyson/Anime-API) - 通过本地 Web 接口获取第三方网站的动漫和弹幕资源, 支持扩展
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
+- [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 123 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 124 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -885,6 +895,8 @@
 
 ## Shell 
 
+- [hedzr/bash.sh](https://github.com/hedzr/bash.sh) - main entry template of your first bash script file
+- [DavidPisces/ReduceMIUI](https://github.com/DavidPisces/ReduceMIUI) - MIUI精简计划
 - [littleplus/TencentAgentRemove](https://github.com/littleplus/TencentAgentRemove) - Remove Tencent Cloud Agent Completely.
 - [RedPill-TTG/redpill-load](https://github.com/RedPill-TTG/redpill-load) - RedPill Loader Generator
 - [Forest10/hexo-deploy-upyun-action](https://github.com/Forest10/hexo-deploy-upyun-action) - 自动化部署到又拍云. 增量更新
@@ -949,6 +961,7 @@
 
 ## TypeScript 
 
+- [mirrorz-org/mirrorz](https://github.com/mirrorz-org/mirrorz) - Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
 - [vcheckzen/playsnake](https://github.com/vcheckzen/playsnake) - Clone of playsnake.org using React and TypeScript
 - [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.
@@ -963,7 +976,7 @@
 - [tgbot-collection/YYeTsFE](https://github.com/tgbot-collection/YYeTsFE) - YYeTsBot 前端页面
 - [lencx/z](https://github.com/lencx/z) - 〽️   浮之静
 - [giscus/giscus](https://github.com/giscus/giscus) - A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
-- [fregante/github-url-detection](https://github.com/fregante/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
+- [refined-github/github-url-detection](https://github.com/refined-github/github-url-detection) - Which GitHub page are you on? Is it an issue? Is it a list? Perfect for your WebExtension or userscript.
 - [Menci/deploy-certificate-to-upyun](https://github.com/Menci/deploy-certificate-to-upyun) - GitHub Action to Deploy SSL certificate to Upyun CDN or OSS.
 - [Tsuk1ko/gmwc](https://github.com/Tsuk1ko/gmwc) - G*****n m*s w***o c*****n
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
