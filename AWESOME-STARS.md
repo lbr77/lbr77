@@ -8,6 +8,7 @@
   - [ASP](#asp)
   - [AutoIt](#autoit)
   - [Batchfile](#batchfile)
+  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -64,6 +65,10 @@
 - [EdgelessPE/Edgeless](https://github.com/EdgelessPE/Edgeless) - 🏠 The opensource repository of Edgeless PE Project
 - [Hibbiki/chromium-win64](https://github.com/Hibbiki/chromium-win64) - Chromium builds for Windows x64
 
+## Blade 
+
+- [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
+
 ## C 
 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -110,7 +115,7 @@
 - [Richasy/CleanReader.Uwp](https://github.com/Richasy/CleanReader.Uwp) - 干净阅读 V2 版本
 - [Fs00/Win10BloatRemover](https://github.com/Fs00/Win10BloatRemover) - Configurable CLI tool to easily and aggressively debloat and tweak Windows 10 by removing preinstalled UWP apps, services and more. Originally based on the W10 de-botnet guide made by @adolfintel.
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
-- [DawnFz/GenShin-LauncherDIY](https://github.com/DawnFz/GenShin-LauncherDIY) - 【原神启动器Plus】快速换号登录，支持官B国际三端快速切换，自定义任意分辨率全屏或窗口启动，快速打开照相目录，好看的界面
+- [DawnFz/Genshin.Launcher.Plus](https://github.com/DawnFz/Genshin.Launcher.Plus) - [原神启动器Plus] Support multi-languauge,Quickly switch accounts,Client port fast switching,Customize any resolution,Unlock the 60 fps limit, and more
 - [MAXBURAOT/SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 By LoodBot/Syahmixp (Steam Emulator)
 - [xingchuanzhen/Minecraft_Bypass_the_program](https://github.com/xingchuanzhen/Minecraft_Bypass_the_program) - Minecraft for Windows 10 绕过程序
 - [Planshit/Tai](https://github.com/Planshit/Tai) - 👻在Windows上记录软件使用时长
@@ -251,6 +256,7 @@
 
 ## Go 
 
+- [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
 - [wuhan005/Elaina](https://github.com/wuhan005/Elaina) - 🔮 Docker-based remote code runner. / 基于 Docker 的远程代码运行器
 - [wuhan005/icppp](https://github.com/wuhan005/icppp) - 👻 一个帮我应对 ICP 备案页面检查的小玩意儿
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - Photos App powered by Go and Google TensorFlow 🌈 ✨
@@ -351,6 +357,7 @@
 
 ## Java 
 
+- [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - A third-party Telegram android app.
 - [libxzr/KonaBess](https://github.com/libxzr/KonaBess) - A GPU overclock & undervolt tool for sd865 855 888 765 690 750 780G 778G 8G1
 - [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top
 - [MiCode/FileExplorer](https://github.com/MiCode/FileExplorer) - MIUI文件管理器社区开源版（Community edition of MIUI File Explorer)
@@ -377,8 +384,7 @@
 
 ## JavaScript 
 
-- [Clansty/arch-build](https://github.com/Clansty/arch-build) - 基于 GitHub Actions 自动按需构建 AUR 软件包
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [solstice23/osu-cursor](https://github.com/solstice23/osu-cursor) - ✨ osu!lazer 样式的前端自定义光标 / osu!lazer Style Custom Cursor for Web
 - [grikomsn/tableflare](https://github.com/grikomsn/tableflare) - Airtable + Cloudflare Workers URL Shortener 🌤
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
@@ -432,7 +438,6 @@
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - This is the real WebPack
 - [HCLonely/live2dNodeApi](https://github.com/HCLonely/live2dNodeApi) - Live2D 看板娘脚本的基于 Nodejs 的后端 Api.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [Zfour/Butterfly-leancloud-zanplus](https://github.com/Zfour/Butterfly-leancloud-zanplus) - 基于leancloud的hexo butterfly主题添加点赞功能
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -510,7 +515,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1658-Stars](https://github.com/RealPeha/This-Repo-Has-1658-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1662-Stars](https://github.com/RealPeha/This-Repo-Has-1662-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
@@ -616,7 +621,7 @@
 - [BlueSkyXN/ScannerReport](https://github.com/BlueSkyXN/ScannerReport) - 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
 - [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox) - 
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
-- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 创刊于 2015 年，坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。
 - [FuckOS/4399Hidomocd](https://github.com/FuckOS/4399Hidomocd) - 噢!这是一个能用CMD写系统的人
 - [ouuan/this-repo-has-30-stars-3-forks](https://github.com/ouuan/this-repo-has-30-stars-3-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 30 stars 3 forks.
 - [SFOI-Team/luogu-problem-list](https://github.com/SFOI-Team/luogu-problem-list) - A problem list for luogu OJ.
@@ -706,7 +711,6 @@
 - [extend-luogu/luogu-discuss-log](https://github.com/extend-luogu/luogu-discuss-log) - 保存洛谷讨论的工具
 - [Stitch-June/CommentPush](https://github.com/Stitch-June/CommentPush) - 基于Typecho评论推送服务
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
-- [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
 - [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
 - [ssecy/Oneindex](https://github.com/ssecy/Oneindex) - Onedrive Directory Index
@@ -816,7 +820,7 @@
 - [Ailitonia/omega-miya](https://github.com/Ailitonia/omega-miya) - 基于nonebot2的qq机器人
 - [mixmoe/HibiAPI](https://github.com/mixmoe/HibiAPI) - 一个实现了多种常用站点的易用化API的程序 / A program that implements easy-to-use APIs for a variety of commonly used sites.
 - [aaPanel/BaoTa](https://github.com/aaPanel/BaoTa) - 宝塔Linux面板 - 简单好用的服务器运维面板
-- [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn源代码泄漏和.DS_Store泄漏
+- [0xHJK/dumpall](https://github.com/0xHJK/dumpall) - 一款信息泄漏利用工具，适用于.git/.svn/.DS_Store泄漏和目录列出
 - [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive) - ☁️ 哔哩云，不支持任意文件的全速上传与下载
 - [H4ckForJob/dirmap](https://github.com/H4ckForJob/dirmap) - An advanced web directory & file scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
@@ -844,7 +848,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 125 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 73 stars and 129 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -884,6 +888,7 @@
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
+- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 
 ## SCSS 
 
@@ -897,6 +902,7 @@
 ## Shell 
 
 - [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
+- [Clansty/arch-build](https://github.com/Clansty/arch-build) - 基于 GitHub Actions 自动按需构建 AUR 软件包
 - [hedzr/bash.sh](https://github.com/hedzr/bash.sh) - main entry template of your first bash script file
 - [DavidPisces/ReduceMIUI](https://github.com/DavidPisces/ReduceMIUI) - MIUI精简计划
 - [littleplus/TencentAgentRemove](https://github.com/littleplus/TencentAgentRemove) - Remove Tencent Cloud Agent Completely.
@@ -963,6 +969,7 @@
 
 ## TypeScript 
 
+- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
 - [mirrorz-org/mirrorz](https://github.com/mirrorz-org/mirrorz) - Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
@@ -1016,7 +1023,7 @@
 - [takayama-lily/abot](https://github.com/takayama-lily/abot) - 次世代跨平台插件式QQ机器人框架
 - [woopen/nplayer](https://github.com/woopen/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
-- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ Protocol/Robot QQ机器人协议库
+- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
 - [lyrio-dev/ui](https://github.com/lyrio-dev/ui) - The web frontend of Lyrio, which powers LibreOJ
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
@@ -1059,7 +1066,6 @@
 - [xiaou66/color-manager](https://github.com/xiaou66/color-manager) - uTools 颜色插件
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
-- [cheer-fun/pixivic-pc](https://github.com/cheer-fun/pixivic-pc) - ✨pixivic.com power by vue
 
 
 ## License
