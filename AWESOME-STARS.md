@@ -71,6 +71,7 @@
 
 ## C 
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [Barenboim/json-parser](https://github.com/Barenboim/json-parser) - JSON parser in ANSI-C
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -112,6 +113,8 @@
 
 ## C# # 
 
+- [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.
+- [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
 - [ZYFDroid/ZhongliShieldIndicator](https://github.com/ZYFDroid/ZhongliShieldIndicator) - 原神小工具 钟离护盾指示器
 - [ikas-mc/ContextMenuForWindows11](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11
 - [Clean-Reader/CleanReader.Old](https://github.com/Clean-Reader/CleanReader.Old) - 干净阅读 V2 版本
@@ -146,7 +149,7 @@
 - [NewEraCracker/LOIC](https://github.com/NewEraCracker/LOIC) - Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project. USE ON YOUR OWN RISK. WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES.
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [hitokoto-osc/hitokoto-desktop](https://github.com/hitokoto-osc/hitokoto-desktop) - 一个来自hitokoto.cn的一言桌面版
-- [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 网易云音乐歌词获取
+- [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics) - Windows 云音乐歌词获取【网易云、QQ音乐】
 - [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！
 - [qyl27/CuteChat-CoolQ](https://github.com/qyl27/CuteChat-CoolQ) - A CoolQ plugin can connect QQ and Minecraft Server With Fabric.
 - [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - 根据原神uid查询玩家信息(基础数据、角色&装备、深境螺旋战绩等)
@@ -218,6 +221,8 @@
 
 ## CSS 
 
+- [adrian-fuertes/typora-notion-theme](https://github.com/adrian-fuertes/typora-notion-theme) - A beautiful, Notion-inspired Typora theme
+- [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 - [q19980722/Typora-theme-jiaran](https://github.com/q19980722/Typora-theme-jiaran) - 
 - [Sanakey/KirinShiKi](https://github.com/Sanakey/KirinShiKi) - 基于handsome主题的神代綺凜式魔改主题
@@ -362,6 +367,7 @@
 
 ## Java 
 
+- [plusls/oh-my-minecraft-client](https://github.com/plusls/oh-my-minecraft-client) - oh-my-minecraft-client
 - [NekoX-Dev/NekoX](https://github.com/NekoX-Dev/NekoX) - A third-party Telegram android app.
 - [libxzr/KonaBess](https://github.com/libxzr/KonaBess) - A GPU overclock & undervolt tool for sd865 855 888 765 690 750 780G 778G 8G1
 - [wyt1215819315/autoplan](https://github.com/wyt1215819315/autoplan) - 这是一个自动化的托管系统，目前支持网易云，bilibili，米游社原神签到，测试地址https://auto.oldwu.top
@@ -405,7 +411,7 @@
 - [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
 - [sockjs/sockjs-node](https://github.com/sockjs/sockjs-node) - WebSocket emulation - Node.js server
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :dizzy:  An unofficial bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不盈利的 bgm.tv 第三方客户端。简单比喻就是专门做ACG的类豆瓣应用。专门为移动端重新设计，已适配 iOS / Android、mobile / pad、light / dark theme，并加入了很多网页端难以实现的增强型功能。
 - [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
@@ -466,6 +472,7 @@
 - [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured) - 不仅仅是冷冰冰的链接（Not just link）
 - [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 基于ServiceWorker路由拦截的真·全站JSDelivrCDN，仅三文件 || 前端负载均衡 || 无备案标准端口使用国内服务器
 - [186526/aka](https://github.com/186526/aka) - A simple and fast short URL service running on Cloudflare Worker
+- [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一只可爱的hexo主题 m(=•ェ•=)m~🍭
 - [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
 - [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) - 基于 Auto.js 的蚂蚁森林能量自动收取脚本  Auto.js-based ant forest energy auto-collect script
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
@@ -523,7 +530,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1676-Stars](https://github.com/RealPeha/This-Repo-Has-1676-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1677-Stars](https://github.com/RealPeha/This-Repo-Has-1677-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [HCLonely/hexo-bilibili-bangumi](https://github.com/HCLonely/hexo-bilibili-bangumi) - hexo 番剧页面插件，可选数据源：Bilibili, Bangumi
@@ -548,7 +555,7 @@
 - [Achrou/goindex-theme-acrou](https://github.com/Achrou/goindex-theme-acrou) - This is a goindex theme.一个goindex的扩展主题。
 - [amondnet/vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
 - [OI-wiki/OI-Wiki-export](https://github.com/OI-wiki/OI-Wiki-export) - 将 OI-Wiki 导出为印刷质量的 pdf 的工具
-- [volfclub/travellings](https://github.com/volfclub/travellings) - 开往-友链接力
+- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Early0v0/Luogu-Painter](https://github.com/Early0v0/Luogu-Painter) - 洛谷「冬日绘版」自动 Paint 姬，目前适配至 2022。
 - [dollarshaveclub/cloudworker](https://github.com/dollarshaveclub/cloudworker) - Run Cloudflare Worker scripts locally
@@ -609,6 +616,7 @@
 
 ## Others 
 
+- [SnapdragonLee/TyporaCrack](https://github.com/SnapdragonLee/TyporaCrack) - Some file working well from Typora v1.1, Powered by TyporaCracker
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.
 - [notmarek/Genshin-Bypass](https://github.com/notmarek/Genshin-Bypass) - An Anti-Cheat Bypass for Genshin Impact that allows you to inject any dlls into the protected game.
 - [mouse0w0/MinecraftDeveloperGuide](https://github.com/mouse0w0/MinecraftDeveloperGuide) - 📝Minecraft developer Chinese guide，我的世界开发者中文指南
@@ -749,6 +757,7 @@
 
 ## Python 
 
+- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [Nyarime/qcloud-lighthouse-discount](https://github.com/Nyarime/qcloud-lighthouse-discount) - 腾讯云轻量满减神器，在满足轻量优惠券最低门槛下，计算续费腾讯云轻量应用服务器价格的计算器
 - [SimonShi1994/Princess-connection-farm](https://github.com/SimonShi1994/Princess-connection-farm) - 国服PCR公主连结 多开自动农场脚本 基于opencv+UIAutomator
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
@@ -857,7 +866,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 74 stars and 130 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 74 stars and 132 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -905,11 +914,11 @@
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [miiiku/own-blog](https://github.com/miiiku/own-blog) - 自己的一个独立博客，想想写写瞎设计
 - [vt-dev-team/vtui](https://github.com/vt-dev-team/vtui) - VegeTable UI
-- [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一只可爱的hexo主题 m(=•ェ•=)m~🍭
 - [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
 
 ## Shell 
 
+- [felixonmars/vps2arch](https://github.com/felixonmars/vps2arch) - The fastest way to convert a VPS to Arch Linux! (forked from gitlab:drizzt/vps2arch)
 - [archlinuxcn/repo](https://github.com/archlinuxcn/repo) - Arch Linux CN Repository
 - [saeziae/meofetch](https://github.com/saeziae/meofetch) - ソーレ  ニャンニャンニャニャン
 - [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
@@ -921,9 +930,9 @@
 - [Forest10/hexo-deploy-upyun-action](https://github.com/Forest10/hexo-deploy-upyun-action) - 自动化部署到又拍云. 增量更新
 - [soulteary/docker-sso-server](https://github.com/soulteary/docker-sso-server) - Lightweight 🪶 self-hosted SSO server, resource utilization rate is &lt;1% CPU, MEM &lt;15 M
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-- [jingleijack/AX6-AX3600_Almighty-Edition_Config](https://github.com/jingleijack/AX6-AX3600_Almighty-Edition_Config) - 此版本是全能版本，也是自定义版本，涵盖所有插件，想要榨干路由器性能和内存的朋友可以尝试刷入。支持已刷WEB升级的openwrt固件，刷入方式：首选恢复出厂设置，然后再系统升级不保留配置刷入。全能版每天都会拉取最新源码更新
+- [jingleijack/AX6-AX3600_Almighty-Edition_Config](https://github.com/jingleijack/AX6-AX3600_Almighty-Edition_Config) - 此版本是全能版本，也是自定义版本，涵盖机型：AX6-5.15-AX3600-5.15-AX9000-5.15，想要榨干路由器性能和内存的朋友可以尝试刷入。支持已刷WEB升级的openwrt固件，刷入方式：首选恢复出厂设置，然后再系统升级不保留配置刷入。全能版每天都会拉取最新源码更新
 - [amefs/quickbox-lite](https://github.com/amefs/quickbox-lite) - Lightweigt QuickBox
-- [jingleijack/Openwrt_Beta](https://github.com/jingleijack/Openwrt_Beta) - AX6和AX3600和AX9000每周五更新，每个版本对应固件名称及大小不一样，看清楚下载。不搞多神秘什么本地编译啥的，我也懒得去fork lean源码修改，直接Actions用雕大无任何修改的源码。稳定性及实用性均与lean官方同步，无任何区别。部分插件源码均拉取原作者最新的。Boos4721源编译的固件特别说明： 管理地址：10.10.10.1 登陆密码：boos 无线密码：1234567890
+- [jingleijack/Openwrt_Beta](https://github.com/jingleijack/Openwrt_Beta) - AX6和AX3600和AX9000每周五更新，每个版本对应固件名称及大小不一样，看清楚下载。不搞多神秘什么本地编译啥的，涵盖的机型-AX6-AX3600-AX9000。部分插件源码均拉取原作者最新的。Boos4721源编译的固件特别说明： 管理地址：10.10.10.1 登陆密码：boos 无线密码：1234567890
 - [Menci/build-archlinux-package](https://github.com/Menci/build-archlinux-package) - GitHub Action to build Archlinux / Manjaro package with Docker, for AMD64 or ARM64
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
@@ -980,6 +989,8 @@
 
 ## TypeScript 
 
+- [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配
+- [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [Icalingua-plus-plus/Icalingua-plus-plus](https://github.com/Icalingua-plus-plus/Icalingua-plus-plus) - A client for QQ and more.:electron:
@@ -1062,11 +1073,12 @@
 
 ## Vue 
 
+- [YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat) - A toolbox for Genshin Impact 100% running in browser. 纯网页端的原神工具箱，保证每一行代码都是熬夜加班打造。
 - [vuepress-aurora/vuepress-theme-aurora](https://github.com/vuepress-aurora/vuepress-theme-aurora) - 🔥Aurora是一款基于Vuepress2的博客主题，将本地Markdown文件解析成静态html页面，作为博客文章。搭配说说，时间轴，文章分类，评论，友情链接，相册，音乐播放器等特色功能，给您不一样的使用体验。
 - [jamond-x/youthcamp-tutouyubeiTeam-tutouMusic](https://github.com/jamond-x/youthcamp-tutouyubeiTeam-tutouMusic) - 🎶💕字节跳动第二届青训营结营项目
 - [JustArchiNET/ASF-ui](https://github.com/JustArchiNET/ASF-ui) - The official web interface for ASF
 - [YunYouJun/kotodama](https://github.com/YunYouJun/kotodama) - 💬 掌控言灵的魔法，一个优雅的纯静态评论管理后台
-- [WishMelz/imgurl](https://github.com/WishMelz/imgurl) - 基于github的图片管理系统/免费
+- [WishMelz/imgurl](https://github.com/WishMelz/imgurl) - 基于github的图片管理系统/免费 https://wishmelz.github.io/imgurl     https://imgurl.icu
 - [GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io) - 📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面
 - [NeroSong/easyFF-CloudBase](https://github.com/NeroSong/easyFF-CloudBase) - 云开发应用 easyFF，基于FFmpeg的简单短视频处理服务 + 后台管理工具。可通过 Cloudbase Framework 一建部署。
 - [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
