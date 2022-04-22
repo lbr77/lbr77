@@ -88,7 +88,7 @@
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 - [karottc/linux-0.11](https://github.com/karottc/linux-0.11) - the source code of linux-0.11 for study linux kernel
-- [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan
+- [nihui/waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan) - waifu2x converter ncnn version, runs fast on intel / amd / nvidia / apple-silicon GPU with vulkan
 - [Sysinternals/SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux) - 
 - [LSPosed/WSA-Kernel-SU](https://github.com/LSPosed/WSA-Kernel-SU) - A kernel module to provide /system/xbin/su to Android Kernel (especially to WSA)
 - [EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
@@ -120,6 +120,7 @@
 
 ## C# # 
 
+- [Awbugl/Andreal](https://github.com/Awbugl/Andreal) - 基于Konata的开源AndreaBot，主要为Arcaea玩家提供服务。
 - [KonataDev/Konata.Core](https://github.com/KonataDev/Konata.Core) - QQ(Android) protocol core implemented with pure C#.
 - [anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core) - 💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：
 - [JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK) - 微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.
@@ -176,6 +177,7 @@
 
 ## C++ 
 
+- [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
@@ -275,6 +277,7 @@
 
 ## Go 
 
+- [zc2638/ddshop](https://github.com/zc2638/ddshop) - 叮咚买菜自动抢购（内附 其它团购途径，包含所有生活必需品及药品）
 - [Akegarasu/cocogoat-signin](https://github.com/Akegarasu/cocogoat-signin) - 椰羊签到 - 年轻人的第一款米游社签到工具
 - [winfsp/hubfs](https://github.com/winfsp/hubfs) - File system for GitHub
 - [wuhan005/Elaina](https://github.com/wuhan005/Elaina) - 🔮 Docker-based remote code runner. / 基于 Docker 的远程代码运行器
@@ -405,6 +408,8 @@
 
 ## JavaScript 
 
+- [ShunCai/QZoneExport](https://github.com/ShunCai/QZoneExport) - QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹、分享、最近访客为文件，便于迁移与保存
+- [SumiMakito/hexo-theme-typography](https://github.com/SumiMakito/hexo-theme-typography) - Rediscover the beauty of typography.
 - [xlzy520/typora-plugin-bilibili](https://github.com/xlzy520/typora-plugin-bilibili) - Typora粘贴图片自动上传到Bilibili图床，也可以自定义修改成任意其他图床接口。使用教程：https://b23.tv/urxCc3
 - [SnapdragonLee/TyporaCrack](https://github.com/SnapdragonLee/TyporaCrack) - Some file working well from Typora v1.1, Powered by TyporaCracker
 - [LeeJim/HowToCookOnMiniprogram](https://github.com/LeeJim/HowToCookOnMiniprogram) - 程序员做菜指南 for Miniprogram，将程序员精神贯彻到底
@@ -425,7 +430,7 @@
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
-- [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :dizzy:  An unofficial bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不盈利的 bgm.tv 第三方客户端。简单比喻就是专门做ACG的类豆瓣应用。专门为移动端重新设计，已适配 iOS / Android、mobile / pad、light / dark theme，并加入了很多网页端难以实现的增强型功能。
+- [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :dizzy:  An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不盈利的 bgm.tv 第三方客户端。简单比喻就是专门做ACG的类豆瓣应用。专门为移动端重新设计，已适配 iOS / Android、mobile / pad、light / dark theme，并加入了很多网页端难以实现的增强型功能。
 - [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [tobychui/arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
@@ -542,7 +547,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1683-Stars](https://github.com/RealPeha/This-Repo-Has-1683-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1685-Stars](https://github.com/RealPeha/This-Repo-Has-1685-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
@@ -585,7 +590,7 @@
 - [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 - [LoseNine/Crack-JS-Spider](https://github.com/LoseNine/Crack-JS-Spider) - JS破解逆向，破解JS反爬虫加密参数，已破解极验滑块w（2022.2.19），QQ音乐sign（2022.2.13），拼多多anti_content，boss直聘zp_token，知乎x-zse-96，酷狗kg_mid/dfid，唯品会mars_cid，中国裁判文书网（2020-06-30更新），淘宝密码，天安保险登录，b站登录，房天下登录，WPS登录，微博登录，有道翻译，网易登录，微信公众号登录，空中网登录，今目标登录，学生信息管理系统登录，共赢金融登录，重庆科技资源共享平台登录，网易云音乐下载，一键解析视频链接，财联社登录。
 - [ordinaryA/Awesome-Game](https://github.com/ordinaryA/Awesome-Game) - 扫雷，管道小鸟，贪吃蛇
-- [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensionable gui debugger. Try it on https://debugme.online
+- [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) - ☕ GDBFrontend is an easy, flexible and extensible gui debugger. Try it on https://debugme.online
 - [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
 - [MatthewJamesBoyle/custom-shortlinks-cloudflare-worker](https://github.com/MatthewJamesBoyle/custom-shortlinks-cloudflare-worker) - Deploy a custom short linking service to Cloudflare Workers in just a few minutes.
 - [dscalzi/HeliosLauncher](https://github.com/dscalzi/HeliosLauncher) - ☀ Custom launcher for modded minecraft written in Electron and Node.js
@@ -602,6 +607,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [ProblemFactory/GenshinArtScanner](https://github.com/ProblemFactory/GenshinArtScanner) - Yet Another Genshin Impact Artifact Scanner
 - [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) - Translations of TensorFlow documentation
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
@@ -630,6 +636,10 @@
 
 ## Others 
 
+- [Angelic47/TheProgrammingWays](https://github.com/Angelic47/TheProgrammingWays) - 她可能不会教你代码如何写, 她可能也不会给你提供任何的程序模块. 但她却能够帮你在关键的那一刻, 向你指明前进的道路 - 她试图通过简单的东西, 告诉你她知道的一切, 帮助你少走一些弯路.
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [MSWorkers/support.996.ICU](https://github.com/MSWorkers/support.996.ICU) - Microsoft and GitHub Workers Support 996.ICU
+- [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [int-and-his-friends/gugu-tutorial](https://github.com/int-and-his-friends/gugu-tutorial) - 咕咕教程。
 - [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.
 - [notmarek/Genshin-Bypass](https://github.com/notmarek/Genshin-Bypass) - An Anti-Cheat Bypass for Genshin Impact that allows you to inject any dlls into the protected game.
@@ -771,6 +781,11 @@
 
 ## Python 
 
+- [Moemu/BiliBili-favorites-list-saver](https://github.com/Moemu/BiliBili-favorites-list-saver) - B站收藏夹列表保存程序。用于拯救以"已失效视频"为标题的视频
+- [cangkongman/crawling-bilibili-personal-collect](https://github.com/cangkongman/crawling-bilibili-personal-collect) - 爬取bilibili的自己账号的收藏夹信息，并且json转excel储存，免得B站删视频的时候收藏夹里的已失效视频不知道是什么。
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [trinitrotofu/December](https://github.com/trinitrotofu/December) - A minimalist personal blogging system that natively supports Markdown, LaTeX, and code highlighting.
+- [ht0Ruial/Jiyu_udp_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR离线批量图片文字识别软件，带界面。可排除视频图片中的水印、游戏图片中的UI等干扰，提取干净的文本。基于 PaddleOCR 。
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [Nyarime/qcloud-lighthouse-discount](https://github.com/Nyarime/qcloud-lighthouse-discount) - 腾讯云轻量满减神器，在满足轻量优惠券最低门槛下，计算续费腾讯云轻量应用服务器价格的计算器
@@ -794,7 +809,7 @@
 - [GantMan/nsfw_model](https://github.com/GantMan/nsfw_model) - Keras model of NSFW detector
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://touhou.ai/imgtrans/
-- [ShiinaRinne/genshin_task-resin-expedition_alert](https://github.com/ShiinaRinne/genshin_task-resin-expedition_alert) - 事情太多，摸了~相当长一段时间内可能不会维护与更新~
+- [ShiinaRinne/genshin_task-resin-expedition_alert](https://github.com/ShiinaRinne/genshin_task-resin-expedition_alert) - 完全摸了，之后若有需要，请使用下面链接的这个仓库~
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [yaronzz/BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) - 同步百度云网盘到阿里云
 - [y3oj/y3oj](https://github.com/y3oj/y3oj) - a simple, light-weight and highly maintainable online judge system for secondary education
@@ -881,7 +896,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 75 stars and 134 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 76 stars and 131 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -948,9 +963,9 @@
 - [Forest10/hexo-deploy-upyun-action](https://github.com/Forest10/hexo-deploy-upyun-action) - 自动化部署到又拍云. 增量更新
 - [soulteary/docker-sso-server](https://github.com/soulteary/docker-sso-server) - Lightweight 🪶 self-hosted SSO server, resource utilization rate is &lt;1% CPU, MEM &lt;15 M
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-- [jingleijack/AX6-AX3600_Almighty-Edition_Config](https://github.com/jingleijack/AX6-AX3600_Almighty-Edition_Config) - 此版本是全能版本，也是自定义版本，涵盖机型：AX6-5.15-AX3600-5.15-AX9000-5.15，想要榨干路由器性能和内存的朋友可以尝试刷入。支持已刷WEB升级的openwrt固件，刷入方式：首选恢复出厂设置，然后再系统升级不保留配置刷入。全能版每天都会拉取最新源码更新
+- [yaya131/AX6-AX3600_Almighty-Edition_Config](https://github.com/yaya131/AX6-AX3600_Almighty-Edition_Config) - 此版本是全能版本，也是自定义版本，包含无NSS的AX6和AX3600的编译配置，涵盖机型：AX6-5.15-AX3600-5.15-AX9000-5.15，想要榨干路由器性能和内存的朋友可以尝试刷入。支持已刷WEB升级的openwrt固件，刷入方式：首选恢复出厂设置，然后再系统升级不保留配置刷入。全能版每天都会拉取最新源码更新
 - [amefs/quickbox-lite](https://github.com/amefs/quickbox-lite) - Lightweigt QuickBox
-- [jingleijack/Openwrt_Beta](https://github.com/jingleijack/Openwrt_Beta) - AX6和AX3600和AX9000每周五更新，每个版本对应固件名称及大小不一样，看清楚下载。不搞多神秘什么本地编译啥的，涵盖的机型-AX6-AX3600-AX9000。部分插件源码均拉取原作者最新的。Boos4721源编译的固件特别说明： 管理地址：10.10.10.1 登陆密码：boos 无线密码：1234567890
+- [yaya131/Openwrt_Beta](https://github.com/yaya131/Openwrt_Beta) - AX6和AX3600和AX9000每周五更新（无NSS的编译已安排至全能板块），每个版本对应固件名称及大小不一样，看清楚下载。不搞多神秘什么本地编译啥的，涵盖的机型-AX6-AX3600-AX9000。部分插件源码均拉取原作者最新的。Boos4721源编译的固件特别说明： 管理地址：10.10.10.1 登陆密码：boos 无线密码：1234567890
 - [Menci/build-archlinux-package](https://github.com/Menci/build-archlinux-package) - GitHub Action to build Archlinux / Manjaro package with Docker, for AMD64 or ARM64
 - [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript) - Scripts to install Google Apps into a WSA image. Plus optional root
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
@@ -1007,6 +1022,7 @@
 
 ## TypeScript 
 
+- [jianggaocheng/mihoyo-signin](https://github.com/jianggaocheng/mihoyo-signin) - 米游社app 自动签到
 - [liyupi/mianshiya-public](https://github.com/liyupi/mianshiya-public) - 干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮
 - [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配
 - [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
@@ -1092,6 +1108,7 @@
 
 ## Vue 
 
+- [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let's Cook!
 - [YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat) - A toolbox for Genshin Impact 100% running in browser. 纯网页端的原神工具箱，保证每一行代码都是熬夜加班打造。
 - [vuepress-aurora/vuepress-theme-aurora](https://github.com/vuepress-aurora/vuepress-theme-aurora) - 🔥Aurora是一款基于Vuepress2的博客主题，将本地Markdown文件解析成静态html页面，作为博客文章。搭配说说，时间轴，文章分类，评论，友情链接，相册，音乐播放器等特色功能，给您不一样的使用体验。
 - [jamond-x/youthcamp-tutouyubeiTeam-tutouMusic](https://github.com/jamond-x/youthcamp-tutouyubeiTeam-tutouMusic) - 🎶💕字节跳动第二届青训营结营项目
