@@ -14,6 +14,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Classic ASP](#classic-asp)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Dart](#dart)
@@ -72,6 +73,7 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [chawyehsu/dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
 - [EdgelessPE/Edgeless](https://github.com/EdgelessPE/Edgeless) - 🏠 The opensource repository of Edgeless PE Project
@@ -132,6 +134,8 @@
 
 ## C# # 
 
+- [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、腾讯云函数等多种部署方式。
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [DGP-Studio/DGP.Genshin.MiHoYoAPI](https://github.com/DGP-Studio/DGP.Genshin.MiHoYoAPI) - 原神相关的米哈游API调用库
 - [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - Snap Genshin but WinUI3
 - [Richasy/Work-Timer](https://github.com/Richasy/Work-Timer) - 正向计时器
@@ -194,11 +198,13 @@
 
 ## C++ 
 
+- [jixunmoe/mfcDuDownloadCodeGenerator](https://github.com/jixunmoe/mfcDuDownloadCodeGenerator) - 用于百度网盘的标准提取码生成器
+- [ToKiNoBug/SlopeCraft](https://github.com/ToKiNoBug/SlopeCraft) - Get your map pixel art in minecraft
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [Speedi13/ROP-COMPILER](https://github.com/Speedi13/ROP-COMPILER) - ROP based CSGO, BF3, BF4 cheat
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
-- [hebiiro/AviUtl-Plugin-ShowWaveform](https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform) - AviUtl プラグイン - 音声波形アイテム内表示
+- [hebiiro/AviUtl-Plugin-ShowWaveform](https://github.com/hebiiro/AviUtl-Plugin-ShowWaveform) - AviUtl プラグイン - アイテム内音声波形
 - [PixelExperience-Devices/device_xiaomi_haydn](https://github.com/PixelExperience-Devices/device_xiaomi_haydn) - Dependency of Xiaomi Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro / Mi 11i (haydn)
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -263,6 +269,7 @@
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura) - Halo 版本的樱花🌸主题
 - [q19980722/Typora-theme-jiaran](https://github.com/q19980722/Typora-theme-jiaran) - 
+- [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [Sanakey/KirinShiKi](https://github.com/Sanakey/KirinShiKi) - 基于handsome主题的神代綺凜式魔改主题
 - [samzhangjy/CarbonLuogu](https://github.com/samzhangjy/CarbonLuogu) - 碳洛谷是一款基于氩洛谷改编的新版洛谷美化包，需搭配Stylish使用。
 - [Tsuk1ko/lolicon.app](https://github.com/Tsuk1ko/lolicon.app) - 
@@ -276,6 +283,10 @@
 - [solstice23/hexo-theme-argon](https://github.com/solstice23/hexo-theme-argon) - Argon-Theme 的 Hexo 移植版
 - [BNDong/Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme :  SimpleMemory
 - [theme-materialized/hexo-theme-materialized](https://github.com/theme-materialized/hexo-theme-materialized) - A cool materialized theme for Hexo
+
+## Classic ASP 
+
+- [gorden5566/padavan](https://github.com/gorden5566/padavan) - padavan 简体中文 & 路由器适配
 
 ## Clojure 
 
@@ -452,6 +463,7 @@
 
 ## JavaScript 
 
+- [MonsterNone/tmall-miao](https://github.com/MonsterNone/tmall-miao) - 喵币助手：618天猫、京东任务一键完成。基于Auto.JS。
 - [Grasscutters/GrassClipper](https://github.com/Grasscutters/GrassClipper) - A launcher for quickly & easily switching server destinations.
 - [PipecraftNet/jsdelivr-auto-fallback](https://github.com/PipecraftNet/jsdelivr-auto-fallback) - 修复 cdn.jsdelivr.net 无法访问的问题
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
@@ -615,7 +627,7 @@
 - [imaegoo/twikoo](https://github.com/imaegoo/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
-- [layui/layui](https://github.com/layui/layui) - 一套开源的 Web UI 解决方案。采用自身传统的模块化规范，并遵循原生 HTML/CSS/JS 的开发方式，极易上手，拿来即用。非常适合网页界面的快速开发。
+- [layui/layui](https://github.com/layui/layui) - 一套开源的 Web UI 组件库。采用自身极简的模块化规范，并遵循原生 HTML/CSS/JS 的开发模式，极易上手，开箱即用。非常适合网页界面的快速构建。
 - [langren1353/GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
 - [DesertsP/Valine-Admin](https://github.com/DesertsP/Valine-Admin) - 🔥A simple comment system based on LeanCloud and Valine.
 - [liubin/promises-book](https://github.com/liubin/promises-book) - JavaScript Promise迷你书
@@ -702,6 +714,11 @@
 
 ## Others 
 
+- [xRealNeon/VuePagesAction](https://github.com/xRealNeon/VuePagesAction) - This Action will Build your Vue Project and deploy it to Github Pages
+- [xiangfeidexiaohuo/ProxmoxVE-7.0-DIY](https://github.com/xiangfeidexiaohuo/ProxmoxVE-7.0-DIY) - Proxmox VE 7.x 换源、关掉订阅提示、直通等相关教程。
+- [Lotus6/ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI) - Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
+- [Buernia/Tiejili](https://github.com/Buernia/Tiejili) - 铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae One to Chinese.
+- [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
 - [sjlleo/local-ISPs-to-CN](https://github.com/sjlleo/local-ISPs-to-CN) - Network connectivity between your local ISPs and China / 您的本地运营商和中国的网络互联情况
 - [Angelic47/TheProgrammingWays](https://github.com/Angelic47/TheProgrammingWays) - 一些计算机编程入门 / 提高的理论性教程通俗易懂版.
@@ -788,6 +805,7 @@
 
 ## PHP 
 
+- [AlanDecode/Typecho-Plugin-ExSearch](https://github.com/AlanDecode/Typecho-Plugin-ExSearch) - 🔍 为 Typecho 带来实时搜索体验
 - [metowolf/Meting-API](https://github.com/metowolf/Meting-API) - 🐳 Meting API 的容器化（WIP）
 - [injahow/meting-api](https://github.com/injahow/meting-api) - Meting API for APlayer
 - [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
@@ -803,7 +821,6 @@
 - [mrgeneralgoo/typecho-markdown](https://github.com/mrgeneralgoo/typecho-markdown) - A markdown parse plugin for typecho.
 - [ethanzhao2001/AbnormalLinks-For-Typecho](https://github.com/ethanzhao2001/AbnormalLinks-For-Typecho) - 快速检测Typecho中是否有友链存在异常
 - [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura)
-- [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [ihewro/PullSinaimgtoTypecho](https://github.com/ihewro/PullSinaimgtoTypecho) - 把typecho中的含有新浪的图片下载到自己的服务器上，并自动替换地址
 - [kokororin/typecho-plugin-Parsedown](https://github.com/kokororin/typecho-plugin-Parsedown) - Typecho Parsedown 解析markdown插件
 - [easychen/serverchan-wordpress-comments-notice](https://github.com/easychen/serverchan-wordpress-comments-notice) - Server酱WordPress博客评论微信通知插件
@@ -847,7 +864,8 @@
 
 ## Python 
 
-- [EstrellaXD/Bangumi_Auto_Collector](https://github.com/EstrellaXD/Bangumi_Auto_Collector) - AutoBangumi - 全自动追番工具，节约时间创造价值
+- [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 方舟像素字体 - 开源的泛中日韩像素字体 / Ark pixel font - Open source Pan-CJK pixel font
+- [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
 - [GhostStar/Arknights-Armada](https://github.com/GhostStar/Arknights-Armada) - 明日方舟修改器 / Arknights Cheat
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Official Notion SDK rewritten in Python (sync + async)
 - [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口，腾讯云内网免流+大幅提速
@@ -877,7 +895,7 @@
 - [txperl/JustList](https://github.com/txperl/JustList) - 天翼云盘、阿里云盘、OneDrive 文件列表工具
 - [AnshumanFauzdar/telegram-bot-heroku-deploy](https://github.com/AnshumanFauzdar/telegram-bot-heroku-deploy) - Detailed guide to initially deploy a simple telegram python bot to heroku
 - [GZTimeWalker/CTF-nc-docker](https://github.com/GZTimeWalker/CTF-nc-docker) - Run CTF challenges with netcat in one docker container.
-- [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器（bilili2.x）
+- [yutto-dev/yutto](https://github.com/yutto-dev/yutto) - :ice_cube: 一个可爱且任性的 B 站视频下载器（bilili V2）
 - [zq1997/deepin-wine](https://github.com/zq1997/deepin-wine) - 【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式
 - [yutto-dev/bilili](https://github.com/yutto-dev/bilili) - :beers: bilibili video (including bangumi) and danmaku downloader | B站视频（含番剧）、弹幕下载器
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV-2 is a RNN with transformer-level performance. It can be directly trained like a GPT transformer (parallelizable). So it's combining the best of RNN and transformer - great performance, fast infe
@@ -969,7 +987,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 136 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 140 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1001,6 +1019,8 @@
 
 ## Rust 
 
+- [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+- [lomirus/gtk-qq](https://github.com/lomirus/gtk-qq) - Unofficial Linux QQ client, based on GTK4 and libadwaita, developed with Rust and Relm4. (WIP)
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool) - Make every request from a separate IPv6 address.
 - [darkyzhou/cloud-mirror](https://github.com/darkyzhou/cloud-mirror) - 基于 Cloudflare Workers 实现的简单网页代理 Simple Web Proxy based on Cloudflare Workers
@@ -1018,6 +1038,7 @@
 
 ## SCSS 
 
+- [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [BlueSkyXN-Backup/Ali-FigureBed](https://github.com/BlueSkyXN-Backup/Ali-FigureBed) - ALi图床，20220412 发现接口又寄了
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
@@ -1093,6 +1114,8 @@
 
 ## Swift 
 
+- [yichengchen/clashX](https://github.com/yichengchen/clashX) - 
+- [iina-plus/iina](https://github.com/iina-plus/iina) - The modern video player for macOS with HDR support.
 - [spencerwooo/PaimonMenuBar](https://github.com/spencerwooo/PaimonMenuBar) - Paimon's now in your macOS menu bar!
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
 - [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
@@ -1104,6 +1127,7 @@
 
 ## TypeScript 
 
+- [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus) - 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 - [daidr/paimon-webext](https://github.com/daidr/paimon-webext) - 在浏览器中查看原神账号情况（树脂等）
 - [labring/laf](https://github.com/labring/laf) - laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单，支持云函数/云数据库/对象存储，让前端秒变全栈，节省60%研发成本，实现0运维！
