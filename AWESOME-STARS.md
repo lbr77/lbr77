@@ -45,6 +45,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Squirrel](#squirrel)
 - [Standard ML](#standard-ml)
@@ -88,6 +89,8 @@
 
 ## C 
 
+- [3150601355/code_in_paojie](https://github.com/3150601355/code_in_paojie) - 把代码排版位炮姐（御坂美琴）的样子，能运行，能唱歌
+- [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [tanakh/cmdline](https://github.com/tanakh/cmdline) - A Command Line Parser
@@ -200,6 +203,8 @@
 
 ## C++ 
 
+- [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
+- [microsoft/STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
 - [jixunmoe/mfcDuDownloadCodeGenerator](https://github.com/jixunmoe/mfcDuDownloadCodeGenerator) - 用于百度网盘的标准提取码生成器
 - [ToKiNoBug/SlopeCraft](https://github.com/ToKiNoBug/SlopeCraft) - Get your map pixel art in minecraft
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
@@ -338,7 +343,7 @@
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [crossfw/Air-Universe](https://github.com/crossfw/Air-Universe) - 开源多功能机场后端， 协议支持 V2Ray(VMess), Trojan, Shadowsocks(单端口多用户)；面板支持 SSPanel, v2board, django-sspanel.
 - [asjdf/GoQzone](https://github.com/asjdf/GoQzone) - 发送QQ空间说说的Go程序
-- [ArtalkJS/ArtalkGo](https://github.com/ArtalkJS/ArtalkGo) - 🗃 Artalk 评论系统后端程序
+- [ArtalkJS/ArtalkGo](https://github.com/ArtalkJS/ArtalkGo) - 🗃 Artalk 评论系统的后端程序 | The backend of Artalk
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [ZeroDream-CN/bilibili_ctl](https://github.com/ZeroDream-CN/bilibili_ctl) - Bilibili 评论控制工具，帮助你自动清理不想要的评论内容，支持关键字、黑名单以及正则表达式匹配
 - [YouEclipse/steam-box](https://github.com/YouEclipse/steam-box) - 🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。
@@ -356,7 +361,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [0xDkd/auxpi](https://github.com/0xDkd/auxpi) - 🍭 集合多家 API 的新一代图床
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
-- [Xhofe/alist](https://github.com/Xhofe/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
 - [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
 - [gaowanliang/DownloadBot](https://github.com/gaowanliang/DownloadBot) - (Currently) 🤖 A Telegram Bot that can control your Aria2 server, control server files and also upload to OneDrive/Google Drive.
 - [NekoWheel/NekoBox](https://github.com/NekoWheel/NekoBox) - 📫 匿名提问箱 / Anonymous question box
@@ -386,6 +391,7 @@
 
 ## HTML 
 
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [NakanoMikuOrg/arch-guide](https://github.com/NakanoMikuOrg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
 - [sapicd/sapic](https://github.com/sapicd/sapic) - sapic(picbed) - 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee、S3等，支持自定义扩展。
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
@@ -427,6 +433,9 @@
 
 ## Java 
 
+- [Mojang/LegacyLauncher](https://github.com/Mojang/LegacyLauncher) - Hacky code to launch our old versions from the new launcher!
+- [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
+- [Lotus6/ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI) - Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
 - [Coooookies/Grasscutter-MeaMailPlus](https://github.com/Coooookies/Grasscutter-MeaMailPlus) - A plugin of Grasscutter for send in-game mail conveniently
 - [yushijinhun/authlib-injector](https://github.com/yushijinhun/authlib-injector) - Build your own Minecraft authentication system.
 - [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
@@ -442,7 +451,7 @@
 - [MiCode/FileExplorer](https://github.com/MiCode/FileExplorer) - MIUI文件管理器社区开源版（Community edition of MIUI File Explorer)
 - [UnknownDomainGames/PanguEngine](https://github.com/UnknownDomainGames/PanguEngine) - Build your game with mods，用模组构建你的游戏。
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) - An unofficial Zerotier Android client patched from official client
-- [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、樱花动漫(Imomoe)部分内容编写的第三方Android客户端。
+- [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、嘛哩嘛哩(MaliMali)部分内容编写的第三方Android客户端。
 - [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.18.2 Fishing bot for Minecraft
 - [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend) - Enjoy programming while playing a game.
 - [88250/symphony](https://github.com/88250/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java. https://ld246.com
@@ -463,6 +472,9 @@
 
 ## JavaScript 
 
+- [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
+- [hans362/Bilibili-Bangumi-JS](https://github.com/hans362/Bilibili-Bangumi-JS) - 📺 Render your Bilibili bangumi progress on a static web page
+- [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
 - [MonsterNone/tmall-miao](https://github.com/MonsterNone/tmall-miao) - 喵币助手：618天猫（淘宝）、京东任务一键完成。基于Auto.JS。
 - [Grasscutters/GrassClipper](https://github.com/Grasscutters/GrassClipper) - A launcher for quickly & easily switching server destinations.
 - [PipecraftNet/jsdelivr-auto-fallback](https://github.com/PipecraftNet/jsdelivr-auto-fallback) - 修复 cdn.jsdelivr.net 无法访问的问题
@@ -484,6 +496,7 @@
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [solstice23/osu-cursor](https://github.com/solstice23/osu-cursor) - ✨ osu!lazer 样式的前端自定义光标 / osu!lazer style custom cursor for web
 - [grikomsn/tableflare](https://github.com/grikomsn/tableflare) - Airtable + Cloudflare Workers URL Shortener 🌤
+- [metowolf/Meting-API](https://github.com/metowolf/Meting-API) - 🐳 Meting API 的容器化（WIP）
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [ChenYFan-Tester/WMirror](https://github.com/ChenYFan-Tester/WMirror) - 
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
@@ -496,7 +509,7 @@
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
 - [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
-- [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的的 bgm.tv 第三方客户端。简单比喻就是专门做ACG的类豆瓣应用。专门为移动端重新设计，已适配 iOS / Android、mobile / pad、light / dark 
+- [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的的 bgm.tv 第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，已适配 iOS / Android、mobile / 简单 pad、light 
 - [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [tobychui/arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
@@ -611,7 +624,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1709-Stars](https://github.com/RealPeha/This-Repo-Has-1709-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1714-Stars](https://github.com/RealPeha/This-Repo-Has-1714-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
@@ -685,7 +698,7 @@
 - [helloklf/vtools](https://github.com/helloklf/vtools) - 一个集高级重启、应用安装自动点击、CPU调频等多项功能于一体的工具箱。
 - [FuckAntiAddiction/BiligameAddictionNotLimited](https://github.com/FuckAntiAddiction/BiligameAddictionNotLimited) - B站游戏防沉迷不限制，关键字:B站游戏 BiliBili游戏 实名认证 防沉迷
 - [mzdluo123/AntiSetu](https://github.com/mzdluo123/AntiSetu) - 这么多setu机器人当然要有一个antisetu机器人啦
-- [SkyD666/Imomoe](https://github.com/SkyD666/Imomoe) - 樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。
+- [SkyD666/Imomoe](https://github.com/SkyD666/Imomoe) - 樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。Discord：https://discord.gg/MyaRtRGEzr
 - [kdrag0n/android12-extensions](https://github.com/kdrag0n/android12-extensions) - Enable and customize hidden features on Android 12.
 - [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) - 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
 
@@ -718,7 +731,6 @@
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [xRealNeon/VuePagesAction](https://github.com/xRealNeon/VuePagesAction) - This Action will Build your Vue Project and deploy it to Github Pages
 - [xiangfeidexiaohuo/ProxmoxVE-7.0-DIY](https://github.com/xiangfeidexiaohuo/ProxmoxVE-7.0-DIY) - Proxmox VE 7.x 换源、关掉订阅提示、直通等相关教程。
-- [Lotus6/ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI) - Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
 - [Buernia/Tiejili](https://github.com/Buernia/Tiejili) - 铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae One to Chinese.
 - [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
@@ -807,7 +819,6 @@
 ## PHP 
 
 - [AlanDecode/Typecho-Plugin-ExSearch](https://github.com/AlanDecode/Typecho-Plugin-ExSearch) - 🔍 为 Typecho 带来实时搜索体验
-- [metowolf/Meting-API](https://github.com/metowolf/Meting-API) - 🐳 Meting API 的容器化（WIP）
 - [injahow/meting-api](https://github.com/injahow/meting-api) - Meting API for APlayer
 - [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
 - [MoePlayer/APlayer-Typecho](https://github.com/MoePlayer/APlayer-Typecho) - 在线音乐播放器插件 for typecho 1.0
@@ -989,7 +1000,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 77 stars and 140 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 78 stars and 140 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1048,8 +1059,14 @@
 - [vt-dev-team/vtui](https://github.com/vt-dev-team/vtui) - VegeTable UI
 - [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
 
+## Scala 
+
+- [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan) - Open-source high-performance RISC-V processor
+
 ## Shell 
 
+- [tossp/redpill-tool-chain](https://github.com/tossp/redpill-tool-chain) - 这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。
+- [klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
 - [HougeLangley/archzfs-iso](https://github.com/HougeLangley/archzfs-iso) - Build-in zfs Archlinux Live ISO
 - [theVakhovskeIsTaken/holoiso](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
@@ -1124,7 +1141,7 @@
 
 ## Tcl 
 
-- [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) - Patch boot image with magisk on windows
+- [affggh/Magisk_patcher](https://github.com/affggh/Magisk_patcher) - Patch boot image with magisk on windows/linux
 
 ## TeX 
 
@@ -1137,7 +1154,7 @@
 - [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus) - 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 - [daidr/paimon-webext](https://github.com/daidr/paimon-webext) - 在浏览器中查看原神账号情况（树脂等）
-- [labring/laf](https://github.com/labring/laf) - laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单，支持云函数/云数据库/对象存储，让前端秒变全栈，节省60%研发成本，实现0运维！
+- [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
 - [takayama-lily/oicq-guild](https://github.com/takayama-lily/oicq-guild) - QQ频道机器人协议库
 - [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) - Private NPM Registry for Enterprise
 - [alienzhou/web-highlighter](https://github.com/alienzhou/web-highlighter) - ✨ A no-runtime dependency lib for text highlighting & persistence on any website ✨🖍️
