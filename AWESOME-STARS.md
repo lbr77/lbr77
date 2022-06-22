@@ -138,6 +138,7 @@
 
 ## C# # 
 
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、腾讯云函数等多种部署方式。
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [DGP-Studio/DGP.Genshin.MiHoYoAPI](https://github.com/DGP-Studio/DGP.Genshin.MiHoYoAPI) - 原神相关的米哈游API调用库
@@ -158,7 +159,7 @@
 - [DawnFz/Genshin.Launcher.Plus](https://github.com/DawnFz/Genshin.Launcher.Plus) - [原神启动器Plus] lightweight globalized Genshin Impact launcher. Support arbitrarily resolution ratio, account switching, client convertion, FPS unlocking and more!
 - [MAXBURAOT/SmartSteamEmu](https://github.com/MAXBURAOT/SmartSteamEmu) - SSELauncher Comfy Edition 2018 By LoodBot/Syahmixp (Steam Emulator)
 - [xingchuanzhen/Minecraft_Bypass_the_program](https://github.com/xingchuanzhen/Minecraft_Bypass_the_program) - Minecraft for Windows 10 绕过程序
-- [Planshit/Tai](https://github.com/Planshit/Tai) - 👻在Windows上记录软件使用时长
+- [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长
 - [Kxnrl/NetEase-Cloud-Music-DiscordRPC](https://github.com/Kxnrl/NetEase-Cloud-Music-DiscordRPC) - 在Discord上显示网抑云/QQ音乐. Enables Discord Rich Presence For Netease Cloud Music/Tencent QQ Music.
 - [DinoChan/Loaf](https://github.com/DinoChan/Loaf) - 
 - [XIU2/TileTool](https://github.com/XIU2/TileTool) - 🎨 Windows10 磁贴美化小工具
@@ -344,7 +345,7 @@
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [crossfw/Air-Universe](https://github.com/crossfw/Air-Universe) - 开源多功能机场后端， 协议支持 V2Ray(VMess), Trojan, Shadowsocks(单端口多用户)；面板支持 SSPanel, v2board, django-sspanel.
 - [asjdf/GoQzone](https://github.com/asjdf/GoQzone) - 发送QQ空间说说的Go程序
-- [ArtalkJS/ArtalkGo](https://github.com/ArtalkJS/ArtalkGo) - 🗃 Artalk 评论系统的后端程序 | The backend of Artalk
+- [ArtalkJS/ArtalkGo](https://github.com/ArtalkJS/ArtalkGo) - 🗃 Artalk 评论系统的后端程序 | The backend of Artalk which a selfhosted comment system
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [ZeroDream-CN/bilibili_ctl](https://github.com/ZeroDream-CN/bilibili_ctl) - Bilibili 评论控制工具，帮助你自动清理不想要的评论内容，支持关键字、黑名单以及正则表达式匹配
 - [YouEclipse/steam-box](https://github.com/YouEclipse/steam-box) - 🎮 Update profile README / pinned gist to contain your Steam playtime leaderboard. 在你的 profile README / pinned gist 上显示你的 steam 游玩时间排行榜。
@@ -475,6 +476,8 @@
 
 ## JavaScript 
 
+- [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
+- [TankNee/AnonymousQuestionBox](https://github.com/TankNee/AnonymousQuestionBox) - 
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
 - [hans362/Bilibili-Bangumi-JS](https://github.com/hans362/Bilibili-Bangumi-JS) - 📺 Render your Bilibili bangumi progress on a static web page
 - [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
@@ -624,7 +627,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1712-Stars](https://github.com/RealPeha/This-Repo-Has-1712-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1711-Stars](https://github.com/RealPeha/This-Repo-Has-1711-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
@@ -640,7 +643,7 @@
 - [imaegoo/twikoo](https://github.com/imaegoo/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
-- [layui/layui](https://github.com/layui/layui) - 一套开源的 Web UI 组件库。采用自身极简的模块化规范，并遵循原生 HTML/CSS/JS 的开发模式，极易上手，开箱即用。非常适合网页界面的快速构建。
+- [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 - [langren1353/GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
 - [DesertsP/Valine-Admin](https://github.com/DesertsP/Valine-Admin) - 🔥A simple comment system based on LeanCloud and Valine.
 - [liubin/promises-book](https://github.com/liubin/promises-book) - JavaScript Promise迷你书
@@ -844,7 +847,7 @@
 - [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
 - [ArtalkJS/ArtalkPHP](https://github.com/ArtalkJS/ArtalkPHP) - 「已弃用，不兼容新版前端」Artalk 评论系统后端程序 PHP 版
 - [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
-- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Self-hosted Image Hosting solution. Start your own Flickr/imgur alternative with your own rules.
+- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Chevereto's free fork. Self-hosted Image Hosting solution, your own Flickr/imgur alternative with your rules.
 - [extend-luogu/luogu-discuss-log](https://github.com/extend-luogu/luogu-discuss-log) - 保存洛谷讨论的工具
 - [Stitch-June/CommentPush](https://github.com/Stitch-June/CommentPush) - 基于Typecho评论推送服务
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
@@ -880,6 +883,8 @@
 
 ## Python 
 
+- [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！原神qq群机器人，基于NoneBot2和HoshinoBot的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。
+- [7eu7d7/GenshinMidi](https://github.com/7eu7d7/GenshinMidi) - 根据midi自动生成原神音游谱
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 - [tgbot-collection/SearchGram](https://github.com/tgbot-collection/SearchGram) - 🔠 Search Telegram chat history even if you're using CJK.
 - [y1ndan/genshinhelper2](https://github.com/y1ndan/genshinhelper2) - A Python library for miHoYo bbs and HoYoLAB Community. genshin 原神签到小助手 树脂提醒 微博超话 米游社米游币 崩坏3
@@ -1007,7 +1012,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 141 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 140 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1058,6 +1063,7 @@
 
 ## SCSS 
 
+- [iCyris/Magia](https://github.com/iCyris/Magia) - 🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [BlueSkyXN-Backup/Ali-FigureBed](https://github.com/BlueSkyXN-Backup/Ali-FigureBed) - ALi图床，20220412 发现接口又寄了
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
@@ -1158,6 +1164,7 @@
 
 ## TypeScript 
 
+- [Innei/Gitako](https://github.com/Innei/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [MannyCooper/anzifan.com](https://github.com/MannyCooper/anzifan.com) - Personal blog powered by Notion official API + Next.JS + WindiCSS!
 - [unjs/ohmyfetch](https://github.com/unjs/ohmyfetch) - A better fetch API. Works on node, browser and workers.
 - [MajsoulPlus/majsoul-plus](https://github.com/MajsoulPlus/majsoul-plus) - 雀魂Plus——雀魂麻将Majsoul专用浏览器，提供了一些专有特性
@@ -1225,7 +1232,7 @@
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
-- [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
+- [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ Yun Portable Air Conditoner. 云空调，便携小空调，为你的夏日带去清凉！
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [vercel-community/php](https://github.com/vercel-community/php) - ▲ Vercel PHP runtime  •  vercel-php •  now-php  •  🐘+ λ = ❤
 - [takayama-lily/abot](https://github.com/takayama-lily/abot) - 次世代跨平台插件式QQ机器人框架
