@@ -71,7 +71,7 @@
 
 ## AutoIt 
 
-- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready
+- [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready. Now Supporting Update Checks!
 
 ## Batchfile 
 
@@ -142,7 +142,7 @@
 - [RayWangQvQ/BiliBiliToolPro](https://github.com/RayWangQvQ/BiliBiliToolPro) - B 站（bilibili）自动任务工具，支持docker、青龙、腾讯云函数等多种部署方式。
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [DGP-Studio/DGP.Genshin.MiHoYoAPI](https://github.com/DGP-Studio/DGP.Genshin.MiHoYoAPI) - 原神相关的米哈游API调用库
-- [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - Snap Genshin but WinUI3
+- [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao) - Snap Genshin but WinUI 3
 - [Richasy/Work-Timer](https://github.com/Richasy/Work-Timer) - 正向计时器
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [foxofice/sub_share](https://github.com/foxofice/sub_share) - 字幕共享计划
@@ -166,7 +166,6 @@
 - [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [lhyzf/Bangumi](https://github.com/lhyzf/Bangumi) - Bangumi UWP
-- [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) - 第三方网易云音乐播放器 | A Netease Cloud Music Player
 - [Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer) - An Android Application Installer for Windows
 - [jetspiking/Taskbar11](https://github.com/jetspiking/Taskbar11) - Change the position and size of the Taskbar in Windows 11
 - [babalae/genshin-account](https://github.com/babalae/genshin-account) - 🛠️原神账号快速切换工具 | Genshin Impact Quick Account Switching Tool
@@ -175,7 +174,7 @@
 - [Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp) - 适用于新系统UI的哔哩
 - [xplusky/AnohanaDesktop](https://github.com/xplusky/AnohanaDesktop) - 那朵花（未闻花名）动态桌面，好看的桌面飘落花朵效果，有彩蛋！Anohana dynamic desktop, falling flowers! !
 - [Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) - 一个基于 UWP 平台的第三方酷安客户端
-- [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服、Epic 下载加速。
+- [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PS、NS、EA Desktop & Origin、战网国际服、Epic 下载加速，修复Steam商店社区访问。
 - [copyliu/bililive_dm](https://github.com/copyliu/bililive_dm) - B站直播彈幕工具
 - [project-inki/inki](https://github.com/project-inki/inki) - NoteTaker, Notebook, PDF Editor of Next Generation. (Under Development)
 - [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
@@ -281,6 +280,7 @@
 - [creativetimofficial/argon-design-system](https://github.com/creativetimofficial/argon-design-system) - Argon - Design System for Bootstrap 4 by Creative Tim
 - [hliu202/typora-purple-theme](https://github.com/hliu202/typora-purple-theme) - A purple theme for Typora
 - [trinitrotofu/Bubble](https://github.com/trinitrotofu/Bubble) - Typecho 清新风格响应式主题
+- [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot：统一的聊天机器人应用接口标准
 - [SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme](https://github.com/SaigyoujiYuyuko233/Saigyou_Ayakashi-HexoTheme) - 以东方Project为主的Hexo主题
 - [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) - 🔥 一个比较特别的 Hexo 主题
 - [ChrAlpha/hexo-theme-cards](https://github.com/ChrAlpha/hexo-theme-cards) - Another Simple & Swift theme for Hexo
@@ -324,6 +324,8 @@
 
 ## Go 
 
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
+- [peterq/pan-light](https://github.com/peterq/pan-light) - 百度网盘不限速客户端, golang + qt5, 跨平台图形界面
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [Mrs4s/qq-db-key-injector](https://github.com/Mrs4s/qq-db-key-injector) - 一键获取PCQQ本机加密数据库Key
@@ -405,6 +407,7 @@
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [OIerDb-ng/OIer](https://github.com/OIerDb-ng/OIer) - A database for OIers
 - [schwarzeni/leetcode-binarytree-edit](https://github.com/schwarzeni/leetcode-binarytree-edit) - LeetCode 二叉树输入数组可视化编辑
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [mtf-wiki/MtF-Wiki](https://github.com/mtf-wiki/MtF-Wiki) - MtF Wiki is a free, open, and continuously updated transgender female knowledge integration site.
 - [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 - [useblue/Cloudreve-Heroku](https://github.com/useblue/Cloudreve-Heroku) - Cloureve on Heroku with Redis
@@ -506,14 +509,13 @@
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [hexojs/hexo-renderer-inferno](https://github.com/hexojs/hexo-renderer-inferno) - Inferno.js JSX renderer for Hexo
 - [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
-- [kanasimi/work_crawler](https://github.com/kanasimi/work_crawler) - Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 知音漫客 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 comico webtoons 咚漫 ニコニコ静
+- [kanasimi/work_crawler](https://github.com/kanasimi/work_crawler) - Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalke
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
 - [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
 - [sockjs/sockjs-node](https://github.com/sockjs/sockjs-node) - WebSocket emulation - Node.js server
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [gpujs/gpu.js](https://github.com/gpujs/gpu.js) - GPU Accelerated JavaScript
-- [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的的 bgm.tv 第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，已适配 iOS / Android、mobile / 简单 pad、light 
 - [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [tobychui/arozos](https://github.com/tobychui/arozos) - General purposed Web Desktop Operating Platform / OS for Raspberry Pis, Now written in Go!
@@ -558,13 +560,12 @@
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
 - [davidtsong/github-twilio-notifications](https://github.com/davidtsong/github-twilio-notifications) - 
-- [extend-luogu/extend-luogu](https://github.com/extend-luogu/extend-luogu) - 
+- [extend-luogu/extend-luogu](https://github.com/extend-luogu/extend-luogu) - 大型网络游戏服务器加强插件，增添各种~~炫酷魔法~~。
 - [TooTallNate/node-http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent) - An HTTP(s) proxy `http.Agent` implementation for HTTP endpoints
 - [bossbaby2005/luogu-stats-card](https://github.com/bossbaby2005/luogu-stats-card) - 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [Archeb/Candy-Rebirth](https://github.com/Archeb/Candy-Rebirth) - Typecho单行横屏滚动主题！
 - [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [node-ffi/node-ffi](https://github.com/node-ffi/node-ffi) - Node.js Foreign Function Interface
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
@@ -611,7 +612,6 @@
 - [feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - :zap: Simple and easy to use lightbox script written in pure JavaScript
 - [webp-sh/webp_server_node](https://github.com/webp-sh/webp_server_node) - Node version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly,
 - [walinejs/waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System
-- [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot 标准：一个聊天机器人应用接口标准
 - [chitosai/bilimini](https://github.com/chitosai/bilimini) - 藏起来！哔哩哔哩
 - [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader) - VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -730,6 +730,7 @@
 
 ## Others 
 
+- [pseudoyu/yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 - [SpeedyOrc-C/Hoyo-Glyphs](https://github.com/SpeedyOrc-C/Hoyo-Glyphs) - Constructed scripts by HoYoverse 米哈游的架空文字
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
@@ -853,7 +854,7 @@
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
 - [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
-- [cyrilsoy/Oneindex](https://github.com/cyrilsoy/Oneindex) - Onedrive Directory Index
+- [quiesdev/Oneindex](https://github.com/quiesdev/Oneindex) - Onedrive Directory Index
 - [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [FForeverand/freenom](https://github.com/FForeverand/freenom) - 
@@ -883,6 +884,7 @@
 
 ## Python 
 
+- [JackonYang/maya](https://github.com/JackonYang/maya) - 骂丫--对骂机器人。君子动口不动手，科技改变骂丫
 - [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！原神qq群机器人，基于NoneBot2和HoshinoBot的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。
 - [7eu7d7/GenshinMidi](https://github.com/7eu7d7/GenshinMidi) - 根据midi自动生成原神音游谱
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
@@ -895,7 +897,7 @@
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Official Notion SDK rewritten in Python (sync + async)
 - [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口，腾讯云内网免流+大幅提速
 - [GamerNoTitle/ArknightsInfrastructureScheduler](https://github.com/GamerNoTitle/ArknightsInfrastructureScheduler) - 【开发中】方舟基建排班助手，写着自己用的（每天摸一点，摸着摸着就出来了，近期考试更新频率减少）
-- [InvoluteHell/Pallas-Bot](https://github.com/InvoluteHell/Pallas-Bot) - 《明日方舟》帕拉斯 Bot
+- [MistEO/Pallas-Bot](https://github.com/MistEO/Pallas-Bot) - 《明日方舟》帕拉斯 Bot
 - [InvoluteHell/HelloWorldContest](https://github.com/InvoluteHell/HelloWorldContest) - Print "Hello World" without HELLOWORLD | 不使用 HELLOWORLD 来输出 "Hello World" 的比赛！
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work
@@ -1012,7 +1014,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 140 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 143 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1078,6 +1080,7 @@
 
 ## Shell 
 
+- [Squaregentleman/catdrive-syno](https://github.com/Squaregentleman/catdrive-syno) - 
 - [Mingtu2019/Kindle-Filebrowser](https://github.com/Mingtu2019/Kindle-Filebrowser) - 
 - [tossp/redpill-tool-chain](https://github.com/tossp/redpill-tool-chain) - 这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。
 - [klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
@@ -1164,6 +1167,7 @@
 
 ## TypeScript 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Innei/Gitako](https://github.com/Innei/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [MannyCooper/anzifan.com](https://github.com/MannyCooper/anzifan.com) - Personal blog powered by Notion official API + Next.JS + WindiCSS!
 - [unjs/ohmyfetch](https://github.com/unjs/ohmyfetch) - A better fetch API. Works on node, browser and workers.
@@ -1171,7 +1175,7 @@
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 - [daidr/paimon-webext](https://github.com/daidr/paimon-webext) - 在浏览器中查看原神账号情况（树脂等）
 - [labring/laf](https://github.com/labring/laf) - laf 是一个 serverless 框架，集成云函数，云数据库，对象存储等能力，是一个一站式开发平台，像写博客一样写代码！
-- [takayama-lily/oicq-guild](https://github.com/takayama-lily/oicq-guild) - QQ频道机器人协议库
+- [takayama-lily/oicq-guild](https://github.com/takayama-lily/oicq-guild) - Tencent QQ Guild Protocol Library
 - [cnpm/cnpmcore](https://github.com/cnpm/cnpmcore) - Private NPM Registry for Enterprise
 - [alienzhou/web-highlighter](https://github.com/alienzhou/web-highlighter) - ✨ A no-runtime dependency lib for text highlighting & persistence on any website ✨🖍️
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX.   Provide a Disk Efficient way to manage all your Mods!
@@ -1192,6 +1196,7 @@
 - [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in y
 - [Nikaidou-Shinku/Luogu-usercard](https://github.com/Nikaidou-Shinku/Luogu-usercard) - A plugin to decorate Luogu with exquisite user card.
 - [Menci/service-worker-redirect-origin](https://github.com/Menci/service-worker-redirect-origin) - Redirect requests of current origin to another domain with Service Worker.
+- [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的的 bgm.tv 第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，已适配 iOS / Android、mobile / 简单 pad、light 
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [XCPCIO/board](https://github.com/XCPCIO/board) - *CPC 系列竞赛的榜单收录。
 - [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
@@ -1239,7 +1244,7 @@
 - [woopen/nplayer](https://github.com/woopen/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - QQ机器人协议库
+- [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Tencent QQ Bot Library for Node.js
 - [lyrio-dev/ui](https://github.com/lyrio-dev/ui) - The web frontend of Lyrio, which powers LibreOJ
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
