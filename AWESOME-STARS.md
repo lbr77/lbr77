@@ -89,6 +89,7 @@
 
 ## C 
 
+- [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [3150601355/code_in_paojie](https://github.com/3150601355/code_in_paojie) - 把代码排版位炮姐（御坂美琴）的样子，能运行，能唱歌
 - [moonlight-stream/moonlight-android](https://github.com/moonlight-stream/moonlight-android) - GameStream client for Android
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
@@ -203,6 +204,7 @@
 
 ## C++ 
 
+- [GatesYang/Magicbook-Pro-16.1-Hackintosh](https://github.com/GatesYang/Magicbook-Pro-16.1-Hackintosh) - Install macOS Catalina 10.15.4 19E266 from Huawei Honor Magicbook Pro 16.1 HBL-W19L
 - [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
 - [oatpp/oatpp](https://github.com/oatpp/oatpp) - 🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
@@ -332,7 +334,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [Mrs4s/qq-db-key-injector](https://github.com/Mrs4s/qq-db-key-injector) - 一键获取PCQQ本机加密数据库Key
-- [go-olive/olive](https://github.com/go-olive/olive) - 一个全自动直播录制直播上传工具 | Live Streaming Recorder
+- [go-olive/olive](https://github.com/go-olive/olive) - An autonomous live streaming recorder   直播录制引擎 | 全平台录播姬
 - [tencentyun/scf-go-lib](https://github.com/tencentyun/scf-go-lib) - scf go lib
 - [cnk3x/xunlei](https://github.com/cnk3x/xunlei) - 提取自群晖平台的迅雷下载套件，用在其他Linux机器上的迅雷远程下载服务
 - [zc2638/ddshop](https://github.com/zc2638/ddshop) - 叮咚买菜自动抢购（内附 其它团购途径，包含所有生活必需品及药品）
@@ -481,6 +483,8 @@
 
 ## JavaScript 
 
+- [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
+- [itorr/eva-title](https://github.com/itorr/eva-title) - 🤖「福音战士标题生成器」 Evangelion Title Card Generator
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [TankNee/AnonymousQuestionBox](https://github.com/TankNee/AnonymousQuestionBox) - 
 - [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext) - 一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
@@ -491,11 +495,10 @@
 - [PipecraftNet/jsdelivr-auto-fallback](https://github.com/PipecraftNet/jsdelivr-auto-fallback) - 修复 cdn.jsdelivr.net 无法访问的问题
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [itorr/homo](https://github.com/itorr/homo) - 💩「恶臭数字论证器」数字恶臭化工具
-- [yanglbme/geetest-crack](https://github.com/yanglbme/geetest-crack) - 🔨 Geetest Crack | 从 JavaScript 层面一步步破解极验「鼠标点击+滑块滑动」​各种加密参数
 - [makegirlsmoe/makegirlsmoe_web](https://github.com/makegirlsmoe/makegirlsmoe_web) - Create Anime Characters with MakeGirlsMoe
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [rutikwankhade/CoverView](https://github.com/rutikwankhade/CoverView) - 🛠 Create awesome cover images for your blog posts quickly.
-- [michaljaz/webmc](https://github.com/michaljaz/webmc) - Minecraft client written in Javascript
+- [michaljaz/webmc](https://github.com/michaljaz/webmc) - Minecraft client written in Javascript (1.16.5 offline mode working)
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染脚本 Font Rendering.user.js, 搜索引擎跳转工具 Google & Baidu Switcher.user.js.
 - [ShunCai/QZoneExport](https://github.com/ShunCai/QZoneExport) - QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹、分享、最近访客为文件，便于迁移与保存
@@ -572,7 +575,7 @@
 - [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured) - 不仅仅是冷冰冰的链接（Not just link）
-- [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 基于ServiceWorker路由拦截的真·全站JSDelivrCDN，仅三文件 || 前端负载均衡 || 无备案标准端口使用国内服务器
+- [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
 - [186526/aka](https://github.com/186526/aka) - A simple and fast short URL service running on Cloudflare Worker
 - [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一只可爱的hexo主题 m(=•ェ•=)m~🍭
 - [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
@@ -629,7 +632,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1719-Stars](https://github.com/RealPeha/This-Repo-Has-1719-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1723-Stars](https://github.com/RealPeha/This-Repo-Has-1723-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo https://vlts.cc  https://volantis.js.org
@@ -696,6 +699,8 @@
 
 ## Kotlin 
 
+- [gedoor/legado](https://github.com/gedoor/legado) - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [VegaBobo/DSU-Sideloader](https://github.com/VegaBobo/DSU-Sideloader) - A simple app made to help users easily install GSIs via DSU's Android feature.
 - [KieronQuinn/AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [ysy950803/FiveGSwitcher](https://github.com/ysy950803/FiveGSwitcher) - 给MIUI开发一个5G快捷开关。
@@ -733,6 +738,8 @@
 
 ## Others 
 
+- [fslongjin/This-repo-has-179-stars](https://github.com/fslongjin/This-repo-has-179-stars) - 这个仓库有179个star，不信你试试
+- [closure-studio/ReadMe](https://github.com/closure-studio/ReadMe) - 明日方舟全自动云端托管脚本
 - [pseudoyu/yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 - [SpeedyOrc-C/Hoyo-Glyphs](https://github.com/SpeedyOrc-C/Hoyo-Glyphs) - Constructed scripts by HoYoverse 米哈游的架空文字
 - [github/dmca](https://github.com/github/dmca) - Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent unti
@@ -766,13 +773,14 @@
 - [bangumi-users/awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) - bangumi.tv 相关的坑
 - [Tencent/secguide](https://github.com/Tencent/secguide) - 面向开发人员梳理的代码安全指南
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [LSPosed/MagiskOnWSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)
 - [BlueSkyXN/ScannerReport](https://github.com/BlueSkyXN/ScannerReport) - 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
 - [makazeu/WsaToolbox](https://github.com/makazeu/WsaToolbox) - 
 - [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [FuckOS/4399Hidomocd](https://github.com/FuckOS/4399Hidomocd) - 噢!这是一个能用CMD写系统的人
-- [ouuan/this-repo-has-43-stars-5-forks](https://github.com/ouuan/this-repo-has-43-stars-5-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 43 stars 5 forks.
+- [ouuan/this-repo-has-42-stars-5-forks](https://github.com/ouuan/this-repo-has-42-stars-5-forks) - A demo for this-repo-has-x-stars-y-forks-action: This repo has 42 stars 5 forks.
 - [SFOI-Team/luogu-problem-list](https://github.com/SFOI-Team/luogu-problem-list) - A problem list for luogu OJ.
 - [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
@@ -815,7 +823,6 @@
 - [bear-good/OIER-News](https://github.com/bear-good/OIER-News) - 励志鸡汤！！
 - [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
-- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [cloudflare/workers-docs](https://github.com/cloudflare/workers-docs) - 🌥👷‍♀️ The documentation site for Cloudflare Workers
 - [Ir1d/test-OI-wiki](https://github.com/Ir1d/test-OI-wiki) - :star2: Wiki for OI / ACM-ICPC. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [lihongxun945/myblog](https://github.com/lihongxun945/myblog) - 言川的博客-前端工程师的笔记
@@ -839,7 +846,7 @@
 - [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress) - 使用又拍云云存储USS作为附件存储空间的WordPress插件。QQ交流群：887595381
 - [Fuukei/Sakurairo_CSF](https://github.com/Fuukei/Sakurairo_CSF) - WordPress 主题 Sakurairo 的主题设置部分
 - [ZsgsDesign/NOJ](https://github.com/ZsgsDesign/NOJ) - ⚡ The most advanced open-source automatic algorithm online judge system | 南京邮电大学开源 Online Judge | QQ群：668108264
-- [tanenrumu/Arknights_Checkin](https://github.com/tanenrumu/Arknights_Checkin) - Arknights online checkin | 明日方舟在线签到
+- [Tao0Lu/Arknights_Checkin](https://github.com/Tao0Lu/Arknights_Checkin) - Arknights online checkin | 明日方舟在线签到
 - [mrgeneralgoo/typecho-markdown](https://github.com/mrgeneralgoo/typecho-markdown) - A markdown parse plugin for typecho.
 - [ethanzhao2001/AbnormalLinks-For-Typecho](https://github.com/ethanzhao2001/AbnormalLinks-For-Typecho) - 快速检测Typecho中是否有友链存在异常
 - [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日四语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Tra
@@ -887,6 +894,7 @@
 
 ## Python 
 
+- [SuperNG6/docker-qbittorrent](https://github.com/SuperNG6/docker-qbittorrent) - docker qBittorren
 - [JackonYang/maya](https://github.com/JackonYang/maya) - 骂丫--对骂机器人。君子动口不动手，科技改变骂丫
 - [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。
 - [7eu7d7/GenshinMidi](https://github.com/7eu7d7/GenshinMidi) - 根据midi自动生成原神音游谱
@@ -899,6 +907,7 @@
 - [GhostStar/Arknights-Armada](https://github.com/GhostStar/Arknights-Armada) - 明日方舟修改器 / Arknights Cheat
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Official Notion SDK rewritten in Python (sync + async)
 - [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口，腾讯云内网免流+大幅提速
+- [yanglbme/geetest-crack](https://github.com/yanglbme/geetest-crack) - 🔨 Geetest Crack | 从 JavaScript 层面一步步破解极验「鼠标点击+滑块滑动」​各种加密参数
 - [GamerNoTitle/ArknightsInfrastructureScheduler](https://github.com/GamerNoTitle/ArknightsInfrastructureScheduler) - 【开发中】方舟基建排班助手，写着自己用的（每天摸一点，摸着摸着就出来了，近期考试更新频率减少）
 - [MistEO/Pallas-Bot](https://github.com/MistEO/Pallas-Bot) - 《明日方舟》帕拉斯 Bot
 - [InvoluteHell/HelloWorldContest](https://github.com/InvoluteHell/HelloWorldContest) - Print "Hello World" without HELLOWORLD | 不使用 HELLOWORLD 来输出 "Hello World" 的比赛！
@@ -935,7 +944,6 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://touhou.ai/imgtrans/
 - [ShiinaRinne/genshin_task-resin-expedition_alert](https://github.com/ShiinaRinne/genshin_task-resin-expedition_alert) - 完全摸了，之后若有需要，请使用下面链接的这个仓库~
-- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [yaronzz/BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) - 同步百度云网盘到阿里云
 - [y3oj/y3oj](https://github.com/y3oj/y3oj) - a simple, light-weight and highly maintainable online judge system for secondary education
 - [Hawaii-ol/arknights_minor_bypass](https://github.com/Hawaii-ol/arknights_minor_bypass) - Scripts that help you bypass Arknights' anti-addiction system. 明日方舟防沉迷破解，未成年人的第一款松果皮肤
@@ -1016,7 +1024,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 143 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 79 stars and 144 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1058,7 +1066,7 @@
 - [editso/fuso](https://github.com/editso/fuso) - 一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, 
 - [Borber/Whisperer](https://github.com/Borber/Whisperer) - 将文本编码为简短的中文字符, 防和谐, 并非加密. 如需加密请使用其他实用工具 / Encode the text into short Chinese characters, to prevent harmonization, not to encrypt it. For encryption, please use other utilities
 - [Nugine/mirage-tank](https://github.com/Nugine/mirage-tank) - A simple library for creating "mirage tank" images.
-- [zu1k/copy-translator](https://github.com/zu1k/copy-translator) - 简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token
+- [zu1k/copy-translator](https://github.com/zu1k/copy-translator) - 简单、轻量、好用的划词翻译软件
 - [nolanderc/dyn_struct](https://github.com/nolanderc/dyn_struct) - Construct dynamically sized types safely
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
@@ -1253,6 +1261,7 @@
 - [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [lyrio-dev/lyrio](https://github.com/lyrio-dev/lyrio) - The backend service of Lyrio, which powers LibreOJ
+- [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
 - [cs01/gdbgui](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will ope
 - [realByg/office-user-auto-create](https://github.com/realByg/office-user-auto-create) - 用 cloudflare worker 自助创建 office 账号
 - [magicdawn/yun-playlist-downloader](https://github.com/magicdawn/yun-playlist-downloader) - 网易云音乐 - 歌单/专辑/电台 - 下载器
