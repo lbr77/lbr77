@@ -58,7 +58,7 @@
 - [TypeScript](#typescript)
 - [Vala](#vala)
 - [Verilog](#verilog)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
@@ -77,7 +77,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detections and user-friendliness.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
 - [chawyehsu/dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
@@ -150,6 +150,7 @@
 
 ## C# # 
 
+- [LightNovelShelf/EbookReader-Xamarin](https://github.com/LightNovelShelf/EbookReader-Xamarin) - Epub阅读器的Android部分
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 - [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
 - [GZTimeWalker/GZCTF](https://github.com/GZTimeWalker/GZCTF) - The GZ::CTF project, an open source CTF platform.
@@ -308,7 +309,7 @@
 ## CSS 
 
 - [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
-- [yiyungent/QQBotHub](https://github.com/yiyungent/QQBotHub) - QQ 机器人 | 基于 Konata.Core | 一键免费部署
+- [yiyungent/QQBotHub](https://github.com/yiyungent/QQBotHub) - 琪琪 机器人 平台 | 日常生活学习工作 工具集 | QQ、Telegram、微信、钉钉、浏览器自动化、打卡
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 - [adrian-fuertes/typora-notion-theme](https://github.com/adrian-fuertes/typora-notion-theme) - A beautiful, Notion-inspired Typora theme
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
@@ -343,6 +344,7 @@
 
 ## Dart 
 
+- [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
 - [nightmare-space/vscode_for_android](https://github.com/nightmare-space/vscode_for_android) - 安卓本地使用vs code编辑器实现方案
 - [PicGo/flutter-picgo](https://github.com/PicGo/flutter-picgo) - 🚀 A simple & beautiful mobile tool for pictures uploading built by flutter
@@ -540,6 +542,7 @@
 
 ## JavaScript 
 
+- [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜虚拟器
 - [duo001/evil.js](https://github.com/duo001/evil.js) - Use with caution
 - [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 One Last Kiss 封面风格生成
 - [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
@@ -701,7 +704,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1756-Stars](https://github.com/RealPeha/This-Repo-Has-1756-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1755-Stars](https://github.com/RealPeha/This-Repo-Has-1755-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
@@ -770,6 +773,8 @@
 
 ## Kotlin 
 
+- [Block-Network/blockmiui](https://github.com/Block-Network/blockmiui) - BlockMIUI / 方米UI
+- [KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner) - 瘦身模块
 - [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
 - [xihan123/QDReadHook](https://github.com/xihan123/QDReadHook) - 起点阅读 Xp模块
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
@@ -792,7 +797,7 @@
 
 ## Lua 
 
-- [Koko-boya/Grasscutter_Resources](https://github.com/Koko-boya/Grasscutter_Resources) - Combined Resource Folder from Multiple Sources of certain anime game
+- [Koko-boya/Grasscutter_Resources](https://github.com/Koko-boya/Grasscutter_Resources) - Certain anime game Repacked Resource from Multiple Sources
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 - [tkkcc/ArkLights](https://github.com/tkkcc/ArkLights) - 明日方舟速通 arknights
 
@@ -981,6 +986,7 @@
 
 ## Python 
 
+- [fugary/calibre-web-douban-api](https://github.com/fugary/calibre-web-douban-api) - 新版calibre-web已经移除douban-api了，添加一个豆瓣api实现
 - [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server
 - [NoisyWinds/puzzle](https://github.com/NoisyWinds/puzzle) - 🌷 使用5000张二次元图片生成海报大图，计算颜色相似度。Make a poster with 5000 pictures，Python spider and Color similarity measure
 - [7eu7d7/pixiv_AI_crawler](https://github.com/7eu7d7/pixiv_AI_crawler) - 基于深度学习的p站高质量涩图AI爬虫，可以学会你的XP
@@ -1006,7 +1012,7 @@
 - [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
 - [RanKKI/Bangumi](https://github.com/RanKKI/Bangumi) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
 - [sudoskys/Tool-Asoul-Music](https://github.com/sudoskys/Tool-Asoul-Music) - 哔哩收藏夹 Rss 提取音频|一键部署|可本地运行|自动Flac元数据|TG机器人|TG频道|自动搜索筛选| A tool for tg channal delivery,and it can help you to deliver the audio file by asking bilibili api.
-- [fslongjin/This-repo-has-1290-stars](https://github.com/fslongjin/This-repo-has-1290-stars) - 这个仓库有1290个star，不信你试试
+- [fslongjin/This-repo-has-1292-stars](https://github.com/fslongjin/This-repo-has-1292-stars) - 这个仓库有1292个star，不信你试试
 - [SuperNG6/docker-qbittorrent](https://github.com/SuperNG6/docker-qbittorrent) - docker qBittorren
 - [JackonYang/maya](https://github.com/JackonYang/maya) - 骂丫--对骂机器人。君子动口不动手，科技改变骂丫
 - [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。
@@ -1032,7 +1038,7 @@
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [Moemu/BiliBili-favorites-list-saver](https://github.com/Moemu/BiliBili-favorites-list-saver) - B站收藏夹列表保存程序。用于拯救以"已失效视频"为标题的视频
 - [cangkongman/crawling-bilibili-personal-collect](https://github.com/cangkongman/crawling-bilibili-personal-collect) - 爬取bilibili的自己账号的收藏夹信息，并且json转excel储存，免得B站删视频的时候收藏夹里的已失效视频不知道是什么。
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [ht0Ruial/Jiyu_udp_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR离线批量图片文字识别软件，带界面。可排除视频图片中的水印、游戏图片中的UI等干扰，提取干净的文本。基于 PaddleOCR 。
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
@@ -1137,7 +1143,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 84 stars and 153 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 85 stars and 154 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1359,7 +1365,7 @@
 - [crawlab-team/artipub](https://github.com/crawlab-team/artipub) - Article publishing platform that automatically distributes your articles to various media channels
 - [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
 - [bangbang93/minecraft-proxy](https://github.com/bangbang93/minecraft-proxy) - 
-- [memset0/memset0](https://github.com/memset0/memset0) - 👋 Hello, my friend! I'm memset0, aka whisperain, a student who would like to do sth cool.
+- [memset0/memset0](https://github.com/memset0/memset0) - 👋 Hello, my friend! I'm memset0, a student who would like to do sth cool.
 - [wormtql/genshin_panel](https://github.com/wormtql/genshin_panel) - 原神面板计算器, Genshin Impact attribute calculator
 - [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer) - genshin gacha history analyzer
 - [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
@@ -1382,7 +1388,7 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [vercel-community/php](https://github.com/vercel-community/php) - 🐘 PHP Runtime for ▲ Vercel Serverless Functions
 - [takayama-lily/abot](https://github.com/takayama-lily/abot) - 次世代跨平台插件式QQ机器人框架
-- [yuyueshare/nplayer](https://github.com/yuyueshare/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
+- [oyuyue/nplayer](https://github.com/oyuyue/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Tencent QQ Bot Library for Node.js
@@ -1406,7 +1412,7 @@
 
 - [jianzhang96/AZPRcpu](https://github.com/jianzhang96/AZPRcpu) - AZPR cpu.《CPU自制入门》附录的Verilog代码，其中的日文注释翻译成了中文。
 
-## Vim script 
+## Vim Script 
 
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [bilibili/vim-vide](https://github.com/bilibili/vim-vide) - Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！
@@ -1418,6 +1424,7 @@
 
 ## Vue 
 
+- [5aaee9/Dnsflare](https://github.com/5aaee9/Dnsflare) - Edit cloudflare domain dns settings
 - [LightNovelShelf/ebook_reader](https://github.com/LightNovelShelf/ebook_reader) - Epub阅读器的前端部分
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
