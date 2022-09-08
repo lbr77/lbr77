@@ -150,6 +150,7 @@
 
 ## C# # 
 
+- [gc-toolkit/GenshinLauncher](https://github.com/gc-toolkit/GenshinLauncher) - 高仿官方启动器的gc启动器捏
 - [LightNovelShelf/EbookReader-Xamarin](https://github.com/LightNovelShelf/EbookReader-Xamarin) - Epub阅读器的Android部分
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 - [atom0s/Steamless](https://github.com/atom0s/Steamless) - Steamless is a DRM remover of the SteamStub variants.  The goal of Steamless is to make a single solution for unpacking all Steam DRM-packed files. Steamless aims to support as many games as possible.
@@ -227,6 +228,7 @@
 
 ## C++ 
 
+- [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台和Nintendo Switch上  |   Yet another Bilibili client [C++]
 - [donovan6000/Universal-IFR-Extractor](https://github.com/donovan6000/Universal-IFR-Extractor) - Utility that can extract the internal forms represenation from both EFI and UEFI modules.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM) - PC版网易云客户端插件管理器
@@ -373,6 +375,9 @@
 
 ## Go 
 
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [genshen/wssocks-plugin-ustb](https://github.com/genshen/wssocks-plugin-ustb) - accessing internal network of USTB outside school. USTB 网络访问代理工具，可在校外无缝连接校内网络(网站、ssh、git、vnc、win远程桌面等)
 - [hrygo/gosms](https://github.com/hrygo/gosms) - gosms: 采用Golang与gnet框架实现的高性能短信网关（SMC短信中心模拟）。
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -419,7 +424,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [shayne/go-wsl2-host](https://github.com/shayne/go-wsl2-host) - Automatically update your Windows hosts file with the WSL2 VM IP address
 - [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) - iikira/BaiduPCS-Go原版基础上集成了分享链接/秒传链接转存功能
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform web server with automatic HTTPS
 - [0xDkd/auxpi](https://github.com/0xDkd/auxpi) - 🍭 集合多家 API 的新一代图床
 - [tickstep/cloudpan189-go](https://github.com/tickstep/cloudpan189-go) - 天翼云盘命令行客户端(CLI)，基于GO语言实现
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
@@ -456,6 +461,9 @@
 
 ## HTML 
 
+- [harm0e/harm0e.github.io](https://github.com/harm0e/harm0e.github.io) - 
+- [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
+- [MoeClub/OneList](https://github.com/MoeClub/OneList) - Simple index for onedrive
 - [itorr/sojo](https://github.com/itorr/sojo) - 💊「逼死前端狗」听说你是前端工程师？
 - [trinitrotofu/BZPRO](https://github.com/trinitrotofu/BZPRO) - BZOJ离线题库 附赠下载器一枚
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
@@ -501,6 +509,8 @@
 
 ## Java 
 
+- [exzork/GCEnkaCopy](https://github.com/exzork/GCEnkaCopy) - Apply enka.shinshin.moe data to Grasscutter
+- [xuanyuanli/ziruStat](https://github.com/xuanyuanli/ziruStat) - 自如友家-地铁十分钟周边的房间统计。抓取数据并用高德地图显示出来
 - [HonkaiScanner/bh3_login_simulation](https://github.com/HonkaiScanner/bh3_login_simulation) - 轻巧的崩坏3渠道服桌面端扫码登陆解决方案
 - [alipay/SoloPi](https://github.com/alipay/SoloPi) - SoloPi 自动化测试工具
 - [MiPushFramework/MiPushEnhancement](https://github.com/MiPushFramework/MiPushEnhancement) - MiPush Xposed Enhancement Module
@@ -545,6 +555,15 @@
 
 ## JavaScript 
 
+- [WenyanLiu/CCFrank4dblp](https://github.com/WenyanLiu/CCFrank4dblp) - Displays the China Computer Federation (CCF) recommended rank of international conferences and journals in the dblp, Google Scholar, Connected Papers and and Web of Science search results.
+- [Tsuk1ko/userscript](https://github.com/Tsuk1ko/userscript) - 🖱️ 是……用户脚本
+- [mdn/serviceworker-cookbook](https://github.com/mdn/serviceworker-cookbook) - It's online. It's offline. It's a Service Worker!
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [LuckyPuppy514/jproxy](https://github.com/LuckyPuppy514/jproxy) - 优化 Sonarr 对资源的识别率，主要是针对动漫 | improve recognition rate of Sonarr, especially for anime
+- [OverflowCat/zhihu-watermark-remover](https://github.com/OverflowCat/zhihu-watermark-remover) - Userscript that removes or fakes blind watermarks on Zhihu's webpages
+- [gamekingv/bilibili-oversea-search](https://github.com/gamekingv/bilibili-oversea-search) - bilibili海外区域搜索
+- [youranreus/e5renew](https://github.com/youranreus/e5renew) - E5 保活
+- [RimoChan/ciallo](https://github.com/RimoChan/ciallo) - 【ciallo】别他妈了隔壁念你那通稿
 - [itorr/sakana](https://github.com/itorr/sakana) - 🐟「Sakana!」石蒜模拟器
 - [duo001/evil.js](https://github.com/duo001/evil.js) - Use with caution
 - [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 One Last Kiss 封面风格生成
@@ -707,7 +726,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1760-Stars](https://github.com/RealPeha/This-Repo-Has-1760-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1763-Stars](https://github.com/RealPeha/This-Repo-Has-1763-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
@@ -722,7 +741,7 @@
 - [Vincedream/NodeMail](https://github.com/Vincedream/NodeMail) - 💗 用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件
 - [imaegoo/twikoo](https://github.com/imaegoo/twikoo) - 💬 一个简洁、安全、免费的静态网站评论系统 | A simple, safe, free comment system.
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready com
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
 - [layui/layui](https://github.com/layui/layui) - 一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。
 - [langren1353/GM_script](https://github.com/langren1353/GM_script) - 我就是来分享脚本玩玩的
 - [DesertsP/Valine-Admin](https://github.com/DesertsP/Valine-Admin) - 🔥A simple comment system based on LeanCloud and Valine.
@@ -759,7 +778,6 @@
 - [coyove/leancloud-test](https://github.com/coyove/leancloud-test) - goflyway WebSocket 前置代理服务器
 - [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
-- [ti-tian/fast-dependencies-analyzer](https://github.com/ti-tian/fast-dependencies-analyzer) - Analyze project dependencies in a short time
 - [EtherDream/jsproxy-browser](https://github.com/EtherDream/jsproxy-browser) - jsproxy 浏览器端程序
 - [88250/baidu-netdisk-downloaderx](https://github.com/88250/baidu-netdisk-downloaderx) - ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。已于 2020 年 4 月 15 日正式停用，源码仅用于程序员交流学习，细节请查看：关于停用 BND 的说明 https://ld246.com/article/1586956316578
 - [hql7/wl-explorer](https://github.com/hql7/wl-explorer) - 用于vue框架的文件管理器插件，云盘、网盘。File manager plug-in for vue framework, cloud disk.
@@ -767,6 +785,7 @@
 
 ## Jupyter Notebook 
 
+- [JOETtheIV/vits-mandarin-biaobei](https://github.com/JOETtheIV/vits-mandarin-biaobei) - 
 - [hhiim/Lacan](https://github.com/hhiim/Lacan) - 利用四层LSTM生成拉康精神分析黑话，用于讽刺（但过拟合……
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -776,6 +795,7 @@
 
 ## Kotlin 
 
+- [lz233/Tarnhelm](https://github.com/lz233/Tarnhelm) - The magic to clean sharing links up.
 - [Block-Network/blockmiui](https://github.com/Block-Network/blockmiui) - BlockMIUI / 方米UI
 - [KitsunePie/QQCleaner](https://github.com/KitsunePie/QQCleaner) - 瘦身模块
 - [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
@@ -800,7 +820,7 @@
 
 ## Lua 
 
-- [Koko-boya/Grasscutter_Resources](https://github.com/Koko-boya/Grasscutter_Resources) - Certain anime game Repacked Resource from Multiple Sources
+- [tamilpp25/Grasscutter_Resources](https://github.com/tamilpp25/Grasscutter_Resources) - Certain anime game Repacked Resource from Multiple Sources
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 - [tkkcc/ArkLights](https://github.com/tkkcc/ArkLights) - 明日方舟速通 arknights
 
@@ -822,13 +842,15 @@
 
 ## Others 
 
+- [ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare](https://github.com/ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare) - MIUI 12 XML Daily Compare for Xiaomi.eu builds
+- [Nekomoekissaten-SUB/Nekomoekissaten-Subs](https://github.com/Nekomoekissaten-SUB/Nekomoekissaten-Subs) - Subtitle source files from Nekomoe Kissaten. Should there be any issues, please create them in this main repository first.
 - [eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror) - 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。     走过路过，如觉不错，麻烦点个赞👆🌟
 - [MineCreeper86/SuishenmaProtest](https://github.com/MineCreeper86/SuishenmaProtest) - 随申码信息泄露游行
 - [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
 - [nakixii/Magisk_AsoulOpt](https://github.com/nakixii/Magisk_AsoulOpt) - 
 - [luoyily/MoeTTS](https://github.com/luoyily/MoeTTS) - Speech synthesis model repo for galgame characters based on Tacotron2, Hifigan and VITS
 - [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode) - 💩State-of-the-art shitcode principles your project should follow to call it a proper shitcode
-- [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) - Burp Suite loader version --&gt; ∞
+- [x-Ai/BurpSuite](https://github.com/x-Ai/BurpSuite) - Burp Suite loader version --&gt; 2022.9
 - [Sennagi-fox/MG-Aide](https://github.com/Sennagi-fox/MG-Aide) - MG Aide(原名 毛怪助手)
 - [QIN2DIM/img_pool](https://github.com/QIN2DIM/img_pool) - 
 - [fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp](https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp) - 警惕 一种针对红队的新型溯源手段!
@@ -928,6 +950,7 @@
 
 ## PHP 
 
+- [SocialSisterYi/SakanaTypecho](https://github.com/SocialSisterYi/SakanaTypecho) - 🐟Sakana-Widget for Typecho Plugin
 - [seatonjiang/kratos](https://github.com/seatonjiang/kratos) - 📖 WordPress theme that focus on reading experience
 - [txperl/Story-for-Typecho](https://github.com/txperl/Story-for-Typecho) - Typecho Theme Story - 爱上你我的故事
 - [AlanDecode/Typecho-Plugin-ExSearch](https://github.com/AlanDecode/Typecho-Plugin-ExSearch) - 🔍 为 Typecho 带来实时搜索体验
@@ -941,10 +964,9 @@
 - [sy-records/upyun-uss-wordpress](https://github.com/sy-records/upyun-uss-wordpress) - 使用又拍云云存储USS作为附件存储空间的WordPress插件。QQ交流群：887595381
 - [Fuukei/Sakurairo_CSF](https://github.com/Fuukei/Sakurairo_CSF) - WordPress 主题 Sakurairo 的主题设置部分
 - [ZsgsDesign/NOJ](https://github.com/ZsgsDesign/NOJ) - ⚡ The most advanced open-source automatic algorithm online judge system | 南京邮电大学开源 Online Judge | QQ群：668108264
-- [Tao0Lu/Arknights_Checkin](https://github.com/Tao0Lu/Arknights_Checkin) - Arknights online checkin | 明日方舟在线签到
 - [mrgeneralgoo/typecho-markdown](https://github.com/mrgeneralgoo/typecho-markdown) - A markdown parse plugin for typecho.
 - [ethanzhao2001/AbnormalLinks-For-Typecho](https://github.com/ethanzhao2001/AbnormalLinks-For-Typecho) - 快速检测Typecho中是否有友链存在异常
-- [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日四语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Tra
+- [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩，轻松上手，体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Tra
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [ihewro/PullSinaimgtoTypecho](https://github.com/ihewro/PullSinaimgtoTypecho) - 把typecho中的含有新浪的图片下载到自己的服务器上，并自动替换地址
 - [kokororin/typecho-plugin-Parsedown](https://github.com/kokororin/typecho-plugin-Parsedown) - Typecho Parsedown 解析markdown插件
@@ -990,6 +1012,12 @@
 
 ## Python 
 
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+- [v2ex/remote](https://github.com/v2ex/remote) - Remote Worker
+- [OverflowCat/import2telegram](https://github.com/OverflowCat/import2telegram) - 将 QQ 聊天记录导入 Telegram。Import your QQ messages to Telegram by feigning a WhatsApp export file.
+- [wongzeon/ICP-Checker](https://github.com/wongzeon/ICP-Checker) - ICP备案查询，可查询企业或域名的ICP备案信息，自动完成滑动验证，保存结果到Excel表格，适用于2022年新版的工信部备案管理系统网站，告别频繁拖动验证，以及某站*工具要开通VIP才可查看备案信息的坑
+- [SAI-24-me/neverWriteByHand](https://github.com/SAI-24-me/neverWriteByHand) - 模拟手写稿
+- [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [1996scarlet/OpenVtuber](https://github.com/1996scarlet/OpenVtuber) - 虚拟爱抖露(アイドル)共享计划, 是基于单目RGB摄像头的人眼与人脸特征点检测算法, 在实时3D面部捕捉以及模型驱动领域的应用.
 - [yuyuyzl/EasyVtuber](https://github.com/yuyuyzl/EasyVtuber) - tha3, but run 40fps on 3080 with virtural webcam support
 - [fugary/calibre-web-douban-api](https://github.com/fugary/calibre-web-douban-api) - 新版calibre-web已经移除douban-api了，添加一个豆瓣api实现
@@ -1018,7 +1046,7 @@
 - [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
 - [RanKKI/Bangumi](https://github.com/RanKKI/Bangumi) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
 - [sudoskys/Tool-Asoul-Music](https://github.com/sudoskys/Tool-Asoul-Music) - 哔哩收藏夹 Rss 提取音频|一键部署|可本地运行|自动Flac元数据|TG机器人|TG频道|自动搜索筛选| A tool for tg channal delivery,and it can help you to deliver the audio file by asking bilibili api.
-- [fslongjin/This-repo-has-1288-stars](https://github.com/fslongjin/This-repo-has-1288-stars) - 这个仓库有1288个star，不信你试试
+- [fslongjin/This-repo-has-1299-stars](https://github.com/fslongjin/This-repo-has-1299-stars) - 这个仓库有1299个star，不信你试试
 - [SuperNG6/docker-qbittorrent](https://github.com/SuperNG6/docker-qbittorrent) - docker qBittorren
 - [JackonYang/maya](https://github.com/JackonYang/maya) - 骂丫--对骂机器人。君子动口不动手，科技改变骂丫
 - [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。
@@ -1046,7 +1074,7 @@
 - [cangkongman/crawling-bilibili-personal-collect](https://github.com/cangkongman/crawling-bilibili-personal-collect) - 爬取bilibili的自己账号的收藏夹信息，并且json转excel储存，免得B站删视频的时候收藏夹里的已失效视频不知道是什么。
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [ht0Ruial/Jiyu_udp_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR离线批量图片文字识别软件，带界面。可排除视频图片中的水印、游戏图片中的UI等干扰，提取干净的文本。基于 PaddleOCR 。
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [Nyarime/qcloud-lighthouse-discount](https://github.com/Nyarime/qcloud-lighthouse-discount) - 腾讯云轻量满减神器，在满足轻量优惠券最低门槛下，计算续费腾讯云轻量应用服务器价格的计算器
@@ -1149,7 +1177,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 85 stars and 154 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 86 stars and 153 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1181,6 +1209,8 @@
 
 ## Rust 
 
+- [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
+- [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装BetterNCM
 - [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) - Mount your Microsoft OneDrive storage as FUSE filesystem.
 - [Absolucy/asar-rs](https://github.com/Absolucy/asar-rs) - Asar archive parsing in Rust
@@ -1308,11 +1338,16 @@
 
 ## TeX 
 
+- [latexstudio/LaTeX_in_Chemistry](https://github.com/latexstudio/LaTeX_in_Chemistry) - 用LaTeX高效排版化学方程式
 - [AllenOris/CardProblem](https://github.com/AllenOris/CardProblem) - “支付宝春节集五福”抽卡问题分析
 - [lib-pku/libpku](https://github.com/lib-pku/libpku) - 贵校课程资料民间整理
 
 ## TypeScript 
 
+- [PLhery/unfollowNinja](https://github.com/PLhery/unfollowNinja) - Get notified when your Twitter account loses a follower.
+- [chengpeiquan/learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 《Vue3 入门指南与实战案例》，关于 Vue 3 + TypeScript 以及 Pinia 的入门学习指南，在官方文档的基础上融入自己的一些实践经验。
+- [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
+- [Messiahhh/wenku8-downloader](https://github.com/Messiahhh/wenku8-downloader) - 轻小说文库的命令行小说下载器
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [antfu/vitesse](https://github.com/antfu/vitesse) - 🏕 Opinionated Vite + Vue Starter Template
@@ -1352,7 +1387,7 @@
 - [Hedgehog-Computing/hedgehog-lab](https://github.com/Hedgehog-Computing/hedgehog-lab) - Run, compile and execute JavaScript for Scientific Computing and Data Visualization TOTALLY TOTALLY TOTALLY in your BROWSER! An open source scientific computing environment for JavaScript TOTALLY in y
 - [Nikaidou-Shinku/Luogu-usercard](https://github.com/Nikaidou-Shinku/Luogu-usercard) - A plugin to decorate Luogu with exquisite user card.
 - [Menci/service-worker-redirect-origin](https://github.com/Menci/service-worker-redirect-origin) - Redirect requests of current origin to another domain with Service Worker.
-- [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的、用过就离不开的 bgm.tv 第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，已适配 iOS / Android / WSA、mobile / 
+- [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，已适配 iOS / Android / WSA、mobile / 简单 pad、light / d
 - [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 - [XCPCIO/board](https://github.com/XCPCIO/board) - *CPC 系列竞赛的榜单收录。
 - [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
@@ -1434,6 +1469,8 @@
 
 ## Vue 
 
+- [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
+- [GuMengYu/v-player](https://github.com/GuMengYu/v-player) - 🪗 Material Design 3 (Material You) 风格的网易云音乐播放器
 - [5aaee9/Dnsflare](https://github.com/5aaee9/Dnsflare) - Edit cloudflare domain dns settings
 - [LightNovelShelf/ebook_reader](https://github.com/LightNovelShelf/ebook_reader) - Epub阅读器的前端部分
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
