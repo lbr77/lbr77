@@ -156,6 +156,7 @@
 
 ## C# # 
 
+- [HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer) - 仅供学习交流使用 | 第三方网易云音乐播放器 | A Netease Cloud Music Player
 - [Yoroion/FuckMeetingPlus](https://github.com/Yoroion/FuckMeetingPlus) - 🌠 自动加入腾讯会议 v2
 - [mashed-potatoes/PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Unlock bootloader of Huawei devices on Kirin 960/95х/65x/620
 - [AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban) - Emby的豆瓣削刮器
@@ -238,6 +239,7 @@
 
 ## C++ 
 
+- [KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay) - KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - PC版微信机器人 微信Api、WeChatApis.dll、微信聊天机器人 python微信api 微信接口 微信数据库解密
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
@@ -325,6 +327,7 @@
 
 ## CSS 
 
+- [azpanel/azpanel](https://github.com/azpanel/azpanel) - 可能是东半球最好用的azure非官方面板 Probably the best azure unofficial panel in the Eastern Hemisphere
 - [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace/Nerd Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体
 - [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
@@ -390,6 +393,7 @@
 
 ## Go 
 
+- [fumiama/unibase2n](https://github.com/fumiama/unibase2n) - generate base2^n starting from any position in unicode table
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 Telegram Downloader, but more than a downloader 🚀
 - [Mmx233/BitSrunLoginGo](https://github.com/Mmx233/BitSrunLoginGo) - 深澜校园网登录脚本 Go 语言版，适用于路由器、windows、linux 等。提供对 OpenWrt、Docker、Go Module 的支持
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -574,6 +578,7 @@
 
 ## JavaScript 
 
+- [journey-ad/Moe-counter](https://github.com/journey-ad/Moe-counter) - 多种风格可选的萌萌计数器
 - [Yuelioi/snippet-cat](https://github.com/Yuelioi/snippet-cat) - Snippet Cat 是一款 VSCODE 拓展,用于管理代码片段.
 - [work7z/CodeGen](https://github.com/work7z/CodeGen) - CodeGen Offical Website: https://codegen.cc
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
@@ -748,7 +753,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1761-Stars](https://github.com/RealPeha/This-Repo-Has-1761-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1762-Stars](https://github.com/RealPeha/This-Repo-Has-1762-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
@@ -1046,6 +1051,7 @@
 
 ## Python 
 
+- [Lost-MSth/Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) - 一个微型的Arcaea本地服务器 A small local server for Arcaea
 - [missuo/FuckSheepGame](https://github.com/missuo/FuckSheepGame) - 羊了个羊刷通关助手 支持QuanX和HTTP Catcher
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [SkyEmie/huawei-honor-unlock-bootloader](https://github.com/SkyEmie/huawei-honor-unlock-bootloader) - A simple tool for managing Huawei/Honor devices to unlock bootloader
@@ -1111,7 +1117,7 @@
 - [cangkongman/crawling-bilibili-personal-collect](https://github.com/cangkongman/crawling-bilibili-personal-collect) - 爬取bilibili的自己账号的收藏夹信息，并且json转excel储存，免得B站删视频的时候收藏夹里的已失效视频不知道是什么。
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [ht0Ruial/Jiyu_udp_attack](https://github.com/ht0Ruial/Jiyu_udp_attack) - 极域电子教室数据包(udp)重放攻击脚本
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。可智能合并段落。基于 PaddleOCR 。
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、智能排版合并段落、适应横/竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) - RISC-V Opcodes
 - [AsahiLinux/m1n1](https://github.com/AsahiLinux/m1n1) - A bootloader and experimentation playground for Apple Silicon
 - [Nyarime/qcloud-lighthouse-discount](https://github.com/Nyarime/qcloud-lighthouse-discount) - 腾讯云轻量满减神器，在满足轻量优惠券最低门槛下，计算续费腾讯云轻量应用服务器价格的计算器
@@ -1514,6 +1520,7 @@
 
 ## Vue 
 
+- [realByg/cfworker-kv-image-hosting](https://github.com/realByg/cfworker-kv-image-hosting) - Cloudflare workers KV 图床
 - [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
 - [GuMengYu/v-player](https://github.com/GuMengYu/v-player) - 🪗 Material Design 3 (Material You) 风格的网易云音乐播放器
 - [5aaee9/Dnsflare](https://github.com/5aaee9/Dnsflare) - Edit cloudflare domain dns settings
