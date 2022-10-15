@@ -582,6 +582,7 @@
 
 ## JavaScript 
 
+- [userElaina/this-is-the-China-website](https://github.com/userElaina/this-is-the-China-website) - 将国际网站伪装成中国网站.
 - [memset0/weixin-print-to-pdf](https://github.com/memset0/weixin-print-to-pdf) - 一键把微信公众号文章图片打印成 PDF 的油猴脚本！
 - [journey-ad/Moe-counter](https://github.com/journey-ad/Moe-counter) - 多种风格可选的萌萌计数器
 - [Yuelioi/snippet-cat](https://github.com/Yuelioi/snippet-cat) - Snippet Cat 是一款 VSCODE 拓展,用于管理代码片段.
@@ -712,7 +713,7 @@
 - [takayama-lily/node-onebot](https://github.com/takayama-lily/node-onebot) - Nodejs原生QQ机器人Http-Api(onebot的实现)
 - [jerryc127/butterfly.js.org](https://github.com/jerryc127/butterfly.js.org) - Butterfly 的文檔/ Demo 倉庫
 - [Tsuk1ko/cfworker-url-shortener](https://github.com/Tsuk1ko/cfworker-url-shortener) - 部署在 Cloudflare Workers 的短网址服务
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [momocow/node-cq-websocket](https://github.com/momocow/node-cq-websocket) - A Node SDK  for developing QQ chatbots based on WebSocket, which is depending on CoolQ and CQHTTP API plugin.
 - [ant-move/Antmove](https://github.com/ant-move/Antmove) - 小程序转换器，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
@@ -862,7 +863,7 @@
 
 ## Makefile 
 
-- [ghostplant/ubuntu-pe](https://github.com/ghostplant/ubuntu-pe) - Ubuntu PE for Ubuntu Live CD, Ubuntu Installation and Windows Installation.
+- [ghostplant/ubuntu-pe](https://github.com/ghostplant/ubuntu-pe) - Ubuntu Live PE for CD and USB, supporting Ubuntu Installation and Windows Installation.
 - [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
 - [PixelExperience-Devices/device_xiaomi_alioth](https://github.com/PixelExperience-Devices/device_xiaomi_alioth) - Dependency of Xiaomi Redmi K40/Poco F3/Mi 11X (alioth)
 
@@ -879,6 +880,7 @@
 
 ## Others 
 
+- [gerdesi/NVIDIA_P106](https://github.com/gerdesi/NVIDIA_P106) - NVIDIA P106 GPUs
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
 - [fouber/blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
@@ -1046,7 +1048,6 @@
 
 ## PowerShell 
 
-- [Goojoe/LTSC-ADD-Microsoft-Store](https://github.com/Goojoe/LTSC-ADD-Microsoft-Store) - 为LTSC安装最新Microsoft Store
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [freemansoft/win10-storage-spaces](https://github.com/freemansoft/win10-storage-spaces) - Scripts for creating an destroying Fault Tolerant multi-tier storage spaces on Windows 10
 - [Raphire/Win10Debloat](https://github.com/Raphire/Win10Debloat) - A simple powershell script to remove bloatware apps from windows 10/11, disable telemetry, bing in windows search aswell as perform various other changes to declutter the windows 10/11 experience.
@@ -1059,6 +1060,7 @@
 - [7eu7d7/genshin_autoplay_domain](https://github.com/7eu7d7/genshin_autoplay_domain) - 原神全自动刷秘境AI
 - [Lost-MSth/Arcaea-server](https://github.com/Lost-MSth/Arcaea-server) - 一个微型的Arcaea本地服务器 A small local server for Arcaea
 - [missuo/FuckSheepGame](https://github.com/missuo/FuckSheepGame) - 羊了个羊刷通关助手 支持QuanX和HTTP Catcher
+- [Goojoe/LTSC-ADD-Microsoft-Store](https://github.com/Goojoe/LTSC-ADD-Microsoft-Store) - 为LTSC安装最新Microsoft Store
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [SkyEmie/huawei-honor-unlock-bootloader](https://github.com/SkyEmie/huawei-honor-unlock-bootloader) - A simple tool for managing Huawei/Honor devices to unlock bootloader
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
@@ -1095,7 +1097,7 @@
 - [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
 - [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
 - [sudoskys/Tool-Asoul-Music](https://github.com/sudoskys/Tool-Asoul-Music) - 哔哩收藏夹 Rss 提取音频|一键部署|可本地运行|自动Flac元数据|TG机器人|TG频道|自动搜索筛选| A tool for tg channal delivery,and it can help you to deliver the audio file by asking bilibili api.
-- [fslongjin/This-repo-has-1347-stars](https://github.com/fslongjin/This-repo-has-1347-stars) - 这个仓库有1347个star，不信你试试
+- [fslongjin/This-repo-has-1352-stars](https://github.com/fslongjin/This-repo-has-1352-stars) - 这个仓库有1352个star，不信你试试
 - [SuperNG6/docker-qbittorrent](https://github.com/SuperNG6/docker-qbittorrent) - docker qBittorren
 - [JackonYang/maya](https://github.com/JackonYang/maya) - 骂丫--对骂机器人。君子动口不动手，科技改变骂丫
 - [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。
@@ -1226,7 +1228,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 90 stars and 152 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 91 stars and 153 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1517,6 +1519,7 @@
 
 ## Vim Script 
 
+- [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [bilibili/vim-vide](https://github.com/bilibili/vim-vide) - Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！
 
