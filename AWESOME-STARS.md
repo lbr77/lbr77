@@ -78,6 +78,7 @@
 
 ## Batchfile 
 
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - An open source modification of the Windows 10 operating system, designed to optimize performance, and latency.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [voletro/wsa-toolbox](https://github.com/voletro/wsa-toolbox) - A Windows 11 application to easily install and use the Windows Subsystem For Android™ package on your computer.
@@ -92,6 +93,9 @@
 
 ## C 
 
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
+- [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [acidanthera/Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS
 - [Sucareto/Arduino-Aime-Reader](https://github.com/Sucareto/Arduino-Aime-Reader) - 使用 Arduino 制作的 Aime 兼容读卡器。
 - [GengGode/GenshinImpact_TianLi](https://github.com/GengGode/GenshinImpact_TianLi) - 原神 · 天理，原神最好的外置终端
@@ -99,7 +103,7 @@
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [espressif/esp-hosted](https://github.com/espressif/esp-hosted) - Hosted Solution (Linux/MCU) with ESP32 (Wi-Fi + BT + BLE)
-- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86_64/Aarch64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86_64/Aarch64.
 - [openresty/headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) - Set, add, and clear arbitrary output headers in NGINX http servers
 - [cbodley/ms-nfs41-client](https://github.com/cbodley/ms-nfs41-client) - NFSv4.1 Client for Windows
 - [huanghongxun/HMCL-PE-CN](https://github.com/huanghongxun/HMCL-PE-CN) - Hello Minecraft! Launcher for Android
@@ -161,6 +165,10 @@
 
 ## C# # 
 
+- [ShirasawaSama/CefDetector](https://github.com/ShirasawaSama/CefDetector) - Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
+- [lukencode/FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
+- [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
 - [imbushuo/EnergyStar](https://github.com/imbushuo/EnergyStar) - A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 - [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
@@ -290,7 +298,7 @@
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine
 - [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
 - [iwxyi/FloatingUniverse](https://github.com/iwxyi/FloatingUniverse) - 【悬浮宇宙】 PC万能悬浮窗快捷工具，快速存放文件夹、文件、剪贴板，打开网址、文件等
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH and GB28181.
 - [notmarek/Genshin-Bypass](https://github.com/notmarek/Genshin-Bypass) - An Anti-Cheat Bypass for Genshin Impact that allows you to inject any dlls into the protected game.
 - [MotooriKashin/ef2](https://github.com/MotooriKashin/ef2) - IDM辅助下载工具，使用自定义ef2://协议，同时支持解析IDM导出文件(.ef2)
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
@@ -308,7 +316,7 @@
 - [Menci/simple-sandbox](https://github.com/Menci/simple-sandbox) - A simple Linux sandbox with Node.js API.
 - [GengGode/GenshinImpact_AutoTrack_DLL](https://github.com/GengGode/GenshinImpact_AutoTrack_DLL) - 能够从原神中获取角色的位置、朝向以及视角的实时数据，通过图像算法获取，并非读内存。The real-time data of the position, orientation and angle of view of the character can be obtained from the Genshin Impact, which can be obtained through the i
 - [userElaina/Multiple-Keys-for-1-File](https://github.com/userElaina/Multiple-Keys-for-1-File) - 多文件多密钥加密成一个大文件. 给一个正确的密钥,可以提取对应文件. 用于在受到胁迫的情况下隐藏文件.
-- [grommunio/gromox](https://github.com/grommunio/gromox) - Groupware server backend with MAPI/HTTP, RPC/HTTP, IMAP, POP3 and PHP-MAPI support for grommunio
+- [grommunio/gromox](https://github.com/grommunio/gromox) - Groupware server backend with MAPI/HTTP, RPC/HTTP, IMAP, POP3 and PHP-MAPI support for the grommunio Distribution
 - [Nambers/MiraiCP](https://github.com/Nambers/MiraiCP) - c++ SDK of Mirai
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 - [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate) - Collection of undergraduate course homework and projects
@@ -341,6 +349,7 @@
 
 ## CSS 
 
+- [nmartin84/logseq-flow](https://github.com/nmartin84/logseq-flow) - Flow Theme - A minimal theme focused on simplicity and aesthetics
 - [solstice23/refined-now-playing-netease](https://github.com/solstice23/refined-now-playing-netease) - BetterNCM 插件 - 沉浸式播放界面 网易云音乐美化
 - [yui540/Cowardly-Witch](https://github.com/yui540/Cowardly-Witch) - 『臆病な魔女は、Webサイトに魔法をかけた。』
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
@@ -381,6 +390,7 @@
 
 ## Dart 
 
+- [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's Fluent Design System in Flutter.
 - [CiyuTeam/Ciyu](https://github.com/CiyuTeam/Ciyu) - 词遇是一个通过阅读推荐来完成单词间隔重复记忆的开源产品。新推荐的文章总会含有需要巩固的已规划词，用户可以在流畅的阅读中不失记忆的高效性。
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
@@ -413,6 +423,8 @@
 
 ## Go 
 
+- [iyear/pure-live-core](https://github.com/iyear/pure-live-core) - ✨ Make Live Pure Again
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [develar/app-builder](https://github.com/develar/app-builder) - Generic helper tool to build app in a distributable format
 - [soulteary/apt-proxy](https://github.com/soulteary/apt-proxy) - [Ubuntu / Debian / CentOS / Alpine] Lightweight APT / YUM / APK CHACHE PROXY with only 2MB+ size!
 - [Matir/sshdog](https://github.com/Matir/sshdog) - Small portable SSH server in Go.
@@ -506,6 +518,7 @@
 
 ## HTML 
 
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 - [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - Stable Diffusion Book | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Promote information openness | 指南 Guide
 - [TransparentLC/watermarker](https://github.com/TransparentLC/watermarker) - 为敏感照片添加全屏水印的水印姬
@@ -550,6 +563,7 @@
 
 ## Haskell 
 
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 ## HolyC 
@@ -606,6 +620,14 @@
 
 ## JavaScript 
 
+- [dukelec/cde](https://github.com/dukelec/cde) - HTML5 Encryption Tool (Tips: https://blog.d-l.io/cde), https://e.d-l.io or https://dukelec.gitee.io/cde or
+- [icelam/chinese-lorem-ipsum](https://github.com/icelam/chinese-lorem-ipsum) - 中文假字生成器 - 隨機生成看似中文文章的假字。
+- [tuhinpal/CloudflareDB](https://github.com/tuhinpal/CloudflareDB) - The low latency database powered by Cloudflare Worker and KV
+- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+- [bestK/anynote](https://github.com/bestK/anynote) - The oline note base on Cloudflare KV Cloudflare worker support html markdown
+- [jingyu9575/multithreaded-download-manager](https://github.com/jingyu9575/multithreaded-download-manager) - Download manager extension for Firefox with multithreading support
+- [One-Studio/better-github-api](https://github.com/One-Studio/better-github-api) - 基于 gh-proxy + Jsdelivr+ cnpmjs + cloudflare workers 的 GitHub Serverless API 工具。
+- [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 - [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
 - [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
 - [makeding/aria2b](https://github.com/makeding/aria2b) - aria2 自动 ban 掉迅雷等吸血客户端的脚本 (aria2_ban_thunder)
@@ -848,6 +870,7 @@
 
 ## Jupyter Notebook 
 
+- [ShevonKuan/leci2anki](https://github.com/ShevonKuan/leci2anki) - 新东方乐词app中的词书提取，使用海词接口获取词条解释制作Anki单词卡
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [woctezuma/stable-diffusion-colab](https://github.com/woctezuma/stable-diffusion-colab) - Colab notebook to run Stable Diffusion.
@@ -862,6 +885,8 @@
 
 ## Kotlin 
 
+- [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
+- [Swordfish90/Lemuroid](https://github.com/Swordfish90/Lemuroid) - All in one emulator on Android!
 - [d4rken-org/octi](https://github.com/d4rken-org/octi) - A multi-device manager for Android
 - [LSPosed/WSAHelper](https://github.com/LSPosed/WSAHelper) - An app that helps you create & remove WSA icon in the start menu. Needed to be installed as a private app.
 - [TigerBeanst/TigerInTheWall](https://github.com/TigerBeanst/TigerInTheWall) - A 🐯Tiger hides in the wall, waiting to 💀bite the "Intent" passby. 🚫Block annoying superfluous Intent for your Android devices. 👺Magisk needed, named as RnIntentClean before.
@@ -910,6 +935,8 @@
 
 ## Objective-C 
 
+- [0x36/weightBufs](https://github.com/0x36/weightBufs) - ANE kernel r/w exploit for iOS 15 and macOS 12
+- [KJCracks/Clutch](https://github.com/KJCracks/Clutch) - Fast iOS executable dumper
 - [finogeeks/FinClipSDK](https://github.com/finogeeks/FinClipSDK) - FinClip 核心 SDK 插件，用于小程序基础的 API 与组件调用  / Core SDK for FinClip
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
@@ -917,6 +944,9 @@
 
 ## Others 
 
+- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
+- [sljeff/Uninstall-Edge](https://github.com/sljeff/Uninstall-Edge) - 如何卸载 Microsoft Edge
 - [h3110w0r1d-y/BurpLoaderKeygen](https://github.com/h3110w0r1d-y/BurpLoaderKeygen) - Burp Suite Pro Loader & Keygen
 - [markyin0707/typora-activation](https://github.com/markyin0707/typora-activation) - typora最新版本的激活方案（😊实时更新中/👩‍🎓学生党必备）（有条件支持正版的请不要点开🔞🈲️）。Typora activae.
 - [NiceLabs/vue-way](https://github.com/NiceLabs/vue-way) - Vue 哲学
@@ -924,7 +954,6 @@
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Hardware and software docs / wiki
 - [fouber/blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
-- [wjz304/Redpill_CustomBuild](https://github.com/wjz304/Redpill_CustomBuild) - Redpill 定制化编译，自定义配置及驱动并通过 Github Action 编译 DSM redpill 引导的平台. 理论上与本地编并无区别, 优点只是不需要linux基础.而且编译速度快., 适合没有linux基础的人使用，或者批量测试。
 - [KristallWang/tiancaifancheshaonv](https://github.com/KristallWang/tiancaifancheshaonv) - 《天才翻车少女》企划：五大学科+CNAO竞赛参赛选手中都有一群MtF，大家是如何翻车的呢，又经历了什么故事呢，欢迎大家分享自己的故事，凑成一本《天才翻车少女》
 - [nakixii/Magisk_CPULimiter](https://github.com/nakixii/Magisk_CPULimiter) - 
 - [ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare](https://github.com/ingbrzy/Xiaomi.eu-MIUIv12-XML-Compare) - MIUI 12 XML Daily Compare for Xiaomi.eu builds
@@ -1033,6 +1062,8 @@
 
 ## PHP 
 
+- [wxwmoe/wxwClub](https://github.com/wxwmoe/wxwClub) - A simple social groups compatible with ActivityPub.
+- [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) - 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [SocialSisterYi/SakanaTypecho](https://github.com/SocialSisterYi/SakanaTypecho) - 🐟Sakana-Widget for Typecho Plugin
 - [seatonjiang/kratos](https://github.com/seatonjiang/kratos) - 📖 WordPress theme that focus on reading experience
@@ -1059,7 +1090,7 @@
 - [MoePlayer/DPlayer-Typecho](https://github.com/MoePlayer/DPlayer-Typecho) - Typecho plugin for DPlayer
 - [ArtalkJS/ArtalkPHP](https://github.com/ArtalkJS/ArtalkPHP) - 「已弃用，不兼容新版前端」Artalk 评论系统后端程序 PHP 版
 - [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
-- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Chevereto's free fork. Self-hosted Image Hosting solution, your own Flickr/imgur alternative with your rules.
+- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Self-hosted Image Hosting solution, your own Flickr/imgur alternative with your rules.
 - [extend-luogu/luogu-discuss-log](https://github.com/extend-luogu/luogu-discuss-log) - 保存洛谷讨论的工具
 - [Stitch-June/CommentPush](https://github.com/Stitch-June/CommentPush) - 基于Typecho评论推送服务
 - [Layne666/oneindex](https://github.com/Layne666/oneindex) - Onedrive Directory Index 默认世纪互联版本，自用
@@ -1096,6 +1127,11 @@
 
 ## Python 
 
+- [Xm798/Genshin-Dailynote-Reminder](https://github.com/Xm798/Genshin-Dailynote-Reminder) - 原神上班提醒小助手，检查体力树脂、委托、派遣、宝钱、参量质变仪等情况并发送提醒。 ｜ Check and push the status of the Genshin Impact resin, commissions, expeditions, home coins and transformer.
+- [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
+- [rev1si0n/lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/自动化辅助框架，你的工作从未如此简单快捷。
+- [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
+- [reycn/cubox-to-notion](https://github.com/reycn/cubox-to-notion) - A slight but fast synchronization tool for Notions users to utilize Cubox.
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
@@ -1107,7 +1143,6 @@
 - [missuo/FuckSheepGame](https://github.com/missuo/FuckSheepGame) - 羊了个羊刷通关助手 支持QuanX和HTTP Catcher
 - [Goojoe/LTSC-ADD-Microsoft-Store](https://github.com/Goojoe/LTSC-ADD-Microsoft-Store) - 为LTSC安装最新Microsoft Store
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
-- [SkyEmie/huawei-honor-unlock-bootloader](https://github.com/SkyEmie/huawei-honor-unlock-bootloader) - A simple tool for managing Huawei/Honor devices to unlock bootloader
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [v2ex/remote](https://github.com/v2ex/remote) - Remote Worker
 - [OverflowCat/import2telegram](https://github.com/OverflowCat/import2telegram) - 将 QQ 聊天记录导入 Telegram。Import your QQ messages to Telegram by feigning a WhatsApp export file.
@@ -1156,7 +1191,7 @@
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
 - [GhostStar/Arknights-Armada](https://github.com/GhostStar/Arknights-Armada) - 明日方舟修改器 / Arknights Cheat
 - [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Official Notion SDK rewritten in Python (sync + async)
-- [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口，腾讯云内网免流+大幅提速
+- [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口
 - [yanglbme/geetest-crack](https://github.com/yanglbme/geetest-crack) - 🔨 Geetest Crack | 从 JavaScript 层面一步步破解极验「鼠标点击+滑块滑动」​各种加密参数
 - [GamerNoTitle/ArknightsInfrastructureScheduler](https://github.com/GamerNoTitle/ArknightsInfrastructureScheduler) - 【开发中】方舟基建排班助手，写着自己用的（每天摸一点，摸着摸着就出来了，哪天心情不好就弃坑:D）
 - [MistEO/Pallas-Bot](https://github.com/MistEO/Pallas-Bot) - 《明日方舟》帕拉斯 Bot
@@ -1273,7 +1308,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 96 stars and 155 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 97 stars and 155 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1307,6 +1342,8 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
+- [zu1k/zlib-searcher](https://github.com/zu1k/zlib-searcher) - search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - AutoCorrect is a linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -1329,6 +1366,7 @@
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 - [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
+- [LussacZheng/dandanplay-resource-service](https://github.com/LussacZheng/dandanplay-resource-service) - 弹弹play 资源搜索节点 API 实现，基于 Cloudflare Workers, Deno Deploy, Golang 或 Rust 的四种实现。 || API implementations for "dandanplay" resource search service.
 
 ## SCSS 
 
@@ -1347,10 +1385,11 @@
 
 ## Shell 
 
-- [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - 
+- [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
 - [FydeOS/chromium_os-raspberry_pi](https://github.com/FydeOS/chromium_os-raspberry_pi) - Build your Chromium OS for Raspberry Pi 3B/3B+/4B and Pi400
 - [Revincx/MyWrtBuilder](https://github.com/Revincx/MyWrtBuilder) - 使用 OpenWrt ImageBuilder 快速构建可定制化的 OpenWrt 固件
 - [TwoTu/OpenWrt-MiR3G](https://github.com/TwoTu/OpenWrt-MiR3G) - 小米R3G路由器OpenWrt固件
+- [wjz304/Redpill_CustomBuild](https://github.com/wjz304/Redpill_CustomBuild) - Redpill 定制化编译，自定义配置及驱动并通过 Github Action 编译 DSM redpill 引导的平台. 理论上与本地编并无区别, 优点只是不需要linux基础.而且编译速度快., 适合没有linux基础的人使用，或者批量测试。
 - [stevenshiau/clonezilla](https://github.com/stevenshiau/clonezilla) - Clonezilla is a partition or disk clone tool similar to Norton Ghost®. It saves and restores only used blocks in hard drive. Two types of Clonezilla are available, Clonezilla live and Clonezilla SE (S
 - [helloSystem/ISO](https://github.com/helloSystem/ISO) - helloSystem Live and installation ISO
 - [cokemine/warp.sh](https://github.com/cokemine/warp.sh) - WARP but with BoringTun
@@ -1433,6 +1472,8 @@
 
 ## Swift 
 
+- [caidukai/sms-interception](https://github.com/caidukai/sms-interception) - 拥有自己的短信拦截器
+- [mRs-/Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals) - Black Friday Deals for macOS / iOS Software & Books
 - [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) - Community fork of PlayCover
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
 - [Lakr233/Axchange](https://github.com/Lakr233/Axchange) - Android file transfer via ADB
@@ -1450,12 +1491,19 @@
 
 ## TypeScript 
 
+- [thien-do/memos.pub](https://github.com/thien-do/memos.pub) - Markdown Blogging, Without Setup or Signup
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
+- [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+- [octokit/auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript
+- [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+- [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - ⛅️ The CLI for Cloudflare Workers®
 - [KerryCodes/leggo](https://github.com/KerryCodes/leggo) - 一款拖拽式前端表单生成低代码工具～
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，网课脚本，帮助大学生解决网课难题 ，目前支持网课：超星学习通，知道智慧树  ， 支持脚本猫以及油猴脚本运行。
 - [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
 - [MunMunMiao/BilibiliVideoDownload](https://github.com/MunMunMiao/BilibiliVideoDownload) - Bilibili video download | 哔哩哔哩视频下载 | HDR | 4K
-- [pacexy/flow](https://github.com/pacexy/flow) - EPUB reader. Redefined.
+- [pacexy/flow](https://github.com/pacexy/flow) - ePub Reader. Redefined.
 - [neko-craft/NekoMaid](https://github.com/neko-craft/NekoMaid) - A plugin can use Web to manage your server.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄
 - [Tsuk1ko/nhentai-helper](https://github.com/Tsuk1ko/nhentai-helper) - 🔞 A user script make it easy for you to download nHentai manga as zip (or cbz), also support some mirror sites. 一个可以让你轻松打包下载 nHentai 本子的用户脚本，并支持一些镜像站
@@ -1553,7 +1601,6 @@
 - [oyuyue/nplayer](https://github.com/oyuyue/nplayer) - 🚀 支持移动端、支持 SSR、支持直播，可以接入任何流媒体。高性能的弹幕系统。高度可定制，所有图标、主题色等都可以替换，并且提供了内置组件方便二次开发。无第三方运行时依赖。
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [LussacZheng/dandanplay-resource-service](https://github.com/LussacZheng/dandanplay-resource-service) - 弹弹play 资源搜索节点 API 实现，基于 Cloudflare Workers, Deno Deploy Golang 或 Rust 的四种实现。 || API implementations for "dandanplay" resource search service.
 - [takayama-lily/oicq](https://github.com/takayama-lily/oicq) - Tencent QQ Bot Library for Node.js
 - [lyrio-dev/ui](https://github.com/lyrio-dev/ui) - The web frontend of Lyrio, which powers LibreOJ
 - [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
@@ -1589,10 +1636,12 @@
 
 ## Vue 
 
+- [JakHuang/form-generator](https://github.com/JakHuang/form-generator) - :sparkles:Element UI表单设计及代码生成器
+- [One-Studio/CSGO-Toolbox](https://github.com/One-Studio/CSGO-Toolbox) - CSGO工具箱：一个为CSGO游戏的各个方面带来便利的工具集合
 - [fzf404/Monit](https://github.com/fzf404/Monit) - 用于展示各种信息的桌面小组件
 - [realByg/cfworker-kv-image-hosting](https://github.com/realByg/cfworker-kv-image-hosting) - Cloudflare workers KV 图床
 - [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
-- [GuMengYu/v-player](https://github.com/GuMengYu/v-player) - 🪗 一个美观简约的Material Design 3 (Material You) 风格网易云音乐播放器pc客户端
+- [GuMengYu/music-you](https://github.com/GuMengYu/music-you) - 🪗 一个美观简约的Material Design 3 (Material You) 风格网易云音乐播放器pc客户端
 - [5aaee9/Dnsflare](https://github.com/5aaee9/Dnsflare) - Edit cloudflare domain dns settings
 - [LightNovelShelf/ebook_reader](https://github.com/LightNovelShelf/ebook_reader) - Epub阅读器的前端部分
 - [leon-kfd/Dashboard](https://github.com/leon-kfd/Dashboard) - Custom your personal browser start page from some configurable components.
