@@ -229,7 +229,7 @@
 - [xplusky/AnohanaDesktop](https://github.com/xplusky/AnohanaDesktop) - 那朵花（未闻花名）动态桌面，好看的桌面飘落花朵效果，有彩蛋！Anohana dynamic desktop, falling flowers! !
 - [Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP) - 一个基于 UWP 平台的第三方酷安客户端
 - [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) - Xbox下载助手，支持Xbox、微软商店、PS、NS、EA Desktop & Origin、战网国际服、Epic下载加速，修复Steam商店社区访问。
-- [copyliu/bililive_dm](https://github.com/copyliu/bililive_dm) - B站直播彈幕工具
+- [copyliu/bililive_dm](https://github.com/copyliu/bililive_dm) - B站弹幕姬 - B站直播彈幕工具
 - [project-inki/inki](https://github.com/project-inki/inki) - NoteTaker, Notebook, PDF Editor of Next Generation. (Under Development)
 - [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
 - [dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub) - github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题
@@ -316,7 +316,7 @@
 - [Menci/simple-sandbox](https://github.com/Menci/simple-sandbox) - A simple Linux sandbox with Node.js API.
 - [GengGode/GenshinImpact_AutoTrack_DLL](https://github.com/GengGode/GenshinImpact_AutoTrack_DLL) - 能够从原神中获取角色的位置、朝向以及视角的实时数据，通过图像算法获取，并非读内存。The real-time data of the position, orientation and angle of view of the character can be obtained from the Genshin Impact, which can be obtained through the i
 - [userElaina/Multiple-Keys-for-1-File](https://github.com/userElaina/Multiple-Keys-for-1-File) - 多文件多密钥加密成一个大文件. 给一个正确的密钥,可以提取对应文件. 用于在受到胁迫的情况下隐藏文件.
-- [grommunio/gromox](https://github.com/grommunio/gromox) - Groupware server backend with MAPI/HTTP, RPC/HTTP, IMAP, POP3 and PHP-MAPI support for the grommunio Distribution
+- [grommunio/gromox](https://github.com/grommunio/gromox) - :kaaba: Groupware server backend with MAPI/HTTP, RPC/HTTP, IMAP, POP3 and PHP-MAPI support for the grommunio Distribution
 - [Nambers/MiraiCP](https://github.com/Nambers/MiraiCP) - c++ SDK of Mirai
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 - [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate) - Collection of undergraduate course homework and projects
@@ -354,7 +354,7 @@
 - [yui540/Cowardly-Witch](https://github.com/yui540/Cowardly-Witch) - 『臆病な魔女は、Webサイトに魔法をかけた。』
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [azpanel/azpanel](https://github.com/azpanel/azpanel) - 可能是东半球最好用的azure非官方面板 Probably the best azure unofficial panel in the Eastern Hemisphere
-- [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace/Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体
+- [subframe7536/Maple-font](https://github.com/subframe7536/Maple-font) - Open source monospace / Nerd-Font font with round corner and ligatures for IDE and command line. 带连字和圆角的等宽字体和控制台字体
 - [xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom) - A theme for HomeLede and Openwrt.
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
 - [adrian-fuertes/typora-notion-theme](https://github.com/adrian-fuertes/typora-notion-theme) - A beautiful, Notion-inspired Typora theme
@@ -811,7 +811,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1763-Stars](https://github.com/RealPeha/This-Repo-Has-1763-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1764-Stars](https://github.com/RealPeha/This-Repo-Has-1764-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
@@ -1178,7 +1178,7 @@
 - [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
 - [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
 - [sudoskys/Tool-Asoul-Music](https://github.com/sudoskys/Tool-Asoul-Music) - 哔哩哔哩收藏夹 Rss 提取音频|一键部署|可本地运行|自动Flac元数据|TG机器人|TG频道|自动搜索筛选| A tool for tg channal delivery,and it can help you to deliver the audio file by asking bilibili api.
-- [fslongjin/This-repo-has-1374-stars](https://github.com/fslongjin/This-repo-has-1374-stars) - 这个仓库有1374个star，不信你试试
+- [fslongjin/This-repo-has-1373-stars](https://github.com/fslongjin/This-repo-has-1373-stars) - 这个仓库有1373个star，不信你试试
 - [SuperNG6/docker-qbittorrent](https://github.com/SuperNG6/docker-qbittorrent) - docker qBittorren
 - [JackonYang/maya](https://github.com/JackonYang/maya) - 骂丫--对骂机器人。君子动口不动手，科技改变骂丫
 - [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。
@@ -1191,7 +1191,7 @@
 - [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 方舟像素字体 - 开源的泛中日韩像素字体 / Ark pixel font - Open source Pan-CJK pixel font
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具，节约时间创造价值
 - [GhostStar/Arknights-Armada](https://github.com/GhostStar/Arknights-Armada) - 明日方舟修改器 / Arknights Cheat
-- [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - Official Notion SDK rewritten in Python (sync + async)
+- [ramnes/notion-sdk-py](https://github.com/ramnes/notion-sdk-py) - The official Notion API client library, but rewritten in Python! (sync + async)
 - [biliup/biliup](https://github.com/biliup/biliup) - 全自动录播、投稿工具，也支持twitch、ytb频道搬运。提供分p上传b站接口
 - [yanglbme/geetest-crack](https://github.com/yanglbme/geetest-crack) - 🔨 Geetest Crack | 从 JavaScript 层面一步步破解极验「鼠标点击+滑块滑动」​各种加密参数
 - [GamerNoTitle/ArknightsInfrastructureScheduler](https://github.com/GamerNoTitle/ArknightsInfrastructureScheduler) - 【开发中】方舟基建排班助手，写着自己用的（每天摸一点，摸着摸着就出来了，哪天心情不好就弃坑:D）
@@ -1294,7 +1294,7 @@
 - [H-K-Y/Genshin_Impact_bot](https://github.com/H-K-Y/Genshin_Impact_bot) - 原神bot，这是一个基于nonebot和HoshinoBot的原神娱乐及信息查询插件，包含原神抽卡，丘丘语翻译，找资源点等功能
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [jalenchuh/url-submit](https://github.com/jalenchuh/url-submit) - 🚀 自动提取 sitemap 中的链接，并利用 API 进行推送，提升网站收录速度。
+- [jalenzz/url-submit](https://github.com/jalenzz/url-submit) - 🚀 自动提取 sitemap 中的链接，并利用 API 进行推送，提升网站收录速度。
 - [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron) - CYaRon: Yet Another Random Olympic-iNformatics test data generator
 - [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) - Web path scanner
 - [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
@@ -1309,7 +1309,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 98 stars and 155 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 100 stars and 160 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1344,7 +1344,6 @@
 ## Rust 
 
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [zu1k/zlib-searcher](https://github.com/zu1k/zlib-searcher) - search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - AutoCorrect is a linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -1404,7 +1403,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [Mingtu2019/Kindle-Filebrowser](https://github.com/Mingtu2019/Kindle-Filebrowser) - 
 - [tossp/redpill-tool-chain](https://github.com/tossp/redpill-tool-chain) - 这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。
-- [klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
+- [stupidloud/nanopi-openwrt](https://github.com/stupidloud/nanopi-openwrt) - Openwrt for Nanopi R1S R2S R4S R5S 香橙派 R1 Plus 固件编译 纯净版与大杂烩
 - [HougeLangley/archzfs-iso](https://github.com/HougeLangley/archzfs-iso) - Build-in zfs Archlinux Live ISO
 - [theVakhovskeIsTaken/holoiso](https://github.com/theVakhovskeIsTaken/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
@@ -1498,6 +1497,7 @@
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2) - ⛅️ The CLI for Cloudflare Workers®
+- [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid.
 - [KerryCodes/leggo](https://github.com/KerryCodes/leggo) - 一款拖拽式前端表单生成低代码工具～
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [ocsjs/ocsjs](https://github.com/ocsjs/ocsjs) - OCS 网课助手，网课脚本，帮助大学生解决网课难题 ，目前支持网课：超星学习通，知道智慧树  ， 支持脚本猫以及油猴脚本运行。
