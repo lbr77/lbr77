@@ -100,6 +100,7 @@
 - [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [acidanthera/Lilu](https://github.com/acidanthera/Lilu) - Arbitrary kext and process patching on macOS
 - [Sucareto/Arduino-Aime-Reader](https://github.com/Sucareto/Arduino-Aime-Reader) - 使用 Arduino 制作的 Aime 兼容读卡器。
+- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [GengGode/GenshinImpact_TianLi](https://github.com/GengGode/GenshinImpact_TianLi) - 原神 · 天理，原神最好的外置终端
 - [raspberrypi/quake3](https://github.com/raspberrypi/quake3) - 
 - [lxc/lxc](https://github.com/lxc/lxc) - LXC - Linux Containers
@@ -203,7 +204,7 @@
 - [Richasy/Work-Timer](https://github.com/Richasy/Work-Timer) - 正向计时器
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
 - [foxofice/sub_share](https://github.com/foxofice/sub_share) - 字幕共享计划
-- [yiyungent/QQBotHub](https://github.com/yiyungent/QQBotHub) - 琪琪 机器人 平台 | 日常生活学习工作 工具集 | QQ、Telegram、微信、钉钉、浏览器自动化、打卡
+- [yiyungent/KnifeHub](https://github.com/yiyungent/KnifeHub) - 工具平台 | 日常生活/学习/工作/开发 工具集 | QQ、Telegram、微信、钉钉、浏览器自动化、打卡、QQ频道
 - [Awbugl/Andreal](https://github.com/Awbugl/Andreal) - 基于Konata的开源AndreaBot，主要为Arcaea玩家提供服务。
 - [KonataDev/Konata.Core](https://github.com/KonataDev/Konata.Core) - QQ(Android) protocol core implemented with pure C#.
 - [anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core) - 💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：
@@ -549,6 +550,7 @@
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [NakanoMikuOrg/arch-guide](https://github.com/NakanoMikuOrg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
 - [sapicd/sapic](https://github.com/sapicd/sapic) - sapic(picbed) - 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee、S3等，支持自定义扩展。
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [GlacierLab/ApexAdaptive100Plus](https://github.com/GlacierLab/ApexAdaptive100Plus) - Use 100+ Fps For Adaptive Resolution In Apex:Legend
@@ -660,7 +662,6 @@
 - [One-Studio/better-github-api](https://github.com/One-Studio/better-github-api) - 基于 gh-proxy + Jsdelivr+ cnpmjs + cloudflare workers 的 GitHub Serverless API 工具。
 - [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy) - A docker registry proxy run on cloudflare worker.
 - [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
-- [solstice23/refined-now-playing-netease](https://github.com/solstice23/refined-now-playing-netease) - BetterNCM 插件 - 沉浸式播放界面 网易云音乐美化
 - [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
 - [makeding/aria2b](https://github.com/makeding/aria2b) - aria2 自动 ban 掉迅雷等吸血客户端的脚本 (aria2_ban_thunder)
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀
@@ -842,7 +843,7 @@
 - [Tsuk1ko/cq-picsearcher-bot](https://github.com/Tsuk1ko/cq-picsearcher-bot) - 🤖 基于 saucenao / ascii2d / whatanime 的搜图机器人
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [Schwarzkopf-Henkal/Chat-Room-Lite](https://github.com/Schwarzkopf-Henkal/Chat-Room-Lite) - 
-- [RealPeha/This-Repo-Has-1760-Stars](https://github.com/RealPeha/This-Repo-Has-1760-Stars) - Yes, it's true :purple_heart:
+- [RealPeha/This-Repo-Has-1759-Stars](https://github.com/RealPeha/This-Repo-Has-1759-Stars) - Yes, it's true :purple_heart:
 - [PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 - [Fechin/hexo-theme-diaspora](https://github.com/Fechin/hexo-theme-diaspora) - Hexo theme, Blog theme, Clean, Responsive theme
 - [volantis-x/hexo-theme-volantis](https://github.com/volantis-x/hexo-theme-volantis) - A Wonderful Theme for Hexo.
@@ -1040,7 +1041,7 @@
 - [MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) - Xiaomi Mobile Phone Kernel OpenSource
 - [chinaBerg/awesome-canvas](https://github.com/chinaBerg/awesome-canvas) - Canvas资源库大全中文版。An awesome Canvas packages and resources.
 - [DreamFerry/cloudflare-block-bad-bot-ruleset](https://github.com/DreamFerry/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
-- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - A fantastic app to provide auto-scrolling lyrics for Spotify (and Lyricify 3 supports more apps: iTunes, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic). 一款为 Spotify 提供滚动歌词的软件。(iTunes、M
+- [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - A fantastic app to provide auto-scrolling lyrics for Spotify (iTunes, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic are only supported by Lyricify 3). 一款为 Spotify 提供滚动歌词的软件。(iTunes、Mus
 - [SurviveSJTU/SurviveSJTUManual](https://github.com/SurviveSJTU/SurviveSJTUManual) - 更新2008年版本的《上海交通大学生存手册》gitbook发布于https://survivesjtu.gitbook.io/survivesjtumanual/
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [ouuan/luogu-motaki](https://github.com/ouuan/luogu-motaki) - 服务端-客户端架构的洛谷冬日绘板工具
@@ -1082,7 +1083,6 @@
 - [phodal/tangping](https://github.com/phodal/tangping) - 躺平即正义。Nothing is true, everything is permitted
 - [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
 - [zyzmzyz/free-nodes](https://github.com/zyzmzyz/free-nodes) - 自由之梦资源组翻墙节点
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - （VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装
 - [Kyomotoi/AnimeThesaurus](https://github.com/Kyomotoi/AnimeThesaurus) - hso!
 - [P3TERX/IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2) - Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
@@ -1181,21 +1181,20 @@
 - [sudoskys/MoeGoe](https://github.com/sudoskys/MoeGoe) - Executable file for VITS inference   ---SERVER
 - [BGmi/BGmi](https://github.com/BGmi/BGmi) - BGmi is a cli tool with Web UI for subscribed bangumi.
 - [shilapi/JudgeOfTwitter](https://github.com/shilapi/JudgeOfTwitter) - A simple tool to find out the social circle of those twitter users you dont like.
-- [sudoskys/Openaibot](https://github.com/sudoskys/Openaibot) - 🤖 Use Opanai's Api to replica chatGPT's feature|在 Telegram/QQ/多种IM 上使用 openai *API* 复刻 chatGPT 对话/续写 |Async | 👋 支持上下文对话 | ⚡️一键部署 sh&docker |  📦Provide Api Server|🎤 Azure/VITS语音支持
+- [sudoskys/Openaibot](https://github.com/sudoskys/Openaibot) - 🤖 Chat With GPT3 (Waiting ChatGPT)|在 Telegram/QQ/Discord 上使用 openai *API* 实现 类似 chatGPT 的对话/续写 |Async | 👋 Supports continuous conversations | ⚡️一键部署 sh&docker |  📦Provide Api Server|🎤 Azure/VITS Voice
 - [BlackWatch0/JDspyder](https://github.com/BlackWatch0/JDspyder) - 京东预约&抢购脚本，可以自定义商品链接
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-- [A2C29K9/OlivaBiliLive](https://github.com/A2C29K9/OlivaBiliLive) - 可插件化管理的B站直播间机器人
+- [HsiangNianian/OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive) - 可插件化管理的B站直播间机器人
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [Klingefjord/chatgpt-telegram](https://github.com/Klingefjord/chatgpt-telegram) - A telegram bot for ChatGPT
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [Xm798/Genshin-Dailynote-Reminder](https://github.com/Xm798/Genshin-Dailynote-Reminder) - 原神上班提醒小助手，检查体力树脂、委托、派遣、宝钱、参量质变仪等情况并发送提醒。 ｜ Check and push the status of the Genshin Impact resin, commissions, expeditions, home coins and transformer.
 - [noDRM/DeDRM_tools](https://github.com/noDRM/DeDRM_tools) - DeDRM tools for ebooks
-- [rev1si0n/lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/自动化辅助框架，你的工作从未如此简单快捷。
+- [rev1si0n/lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程控制/自动化辅助框架，你的工作从未如此简单快捷。
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
 - [reycn/cubox-to-notion](https://github.com/reycn/cubox-to-notion) - A slight but fast synchronization tool for Notions users to utilize Cubox.
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
-- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
@@ -1240,10 +1239,10 @@
 - [RimoChan/sese-engine](https://github.com/RimoChan/sese-engine) - 【sese-engine】新时代的搜索引擎！
 - [RanKKI/BangumiBot](https://github.com/RanKKI/BangumiBot) - Highly customisable automatic project to follow & watch Anime, works well with media libraries such as Jellyfin
 - [sudoskys/Tool-Asoul-Music](https://github.com/sudoskys/Tool-Asoul-Music) - 哔哩哔哩收藏夹 Rss 提取音频|一键部署|可本地运行|自动Flac元数据|TG机器人|TG频道|自动搜索筛选| A tool for tg channal delivery,and it can help you to deliver the audio file by asking bilibili api.
-- [fslongjin/This-repo-has-1382-stars](https://github.com/fslongjin/This-repo-has-1382-stars) - 这个仓库有1382个star，不信你试试
+- [fslongjin/This-repo-has-1381-stars](https://github.com/fslongjin/This-repo-has-1381-stars) - 这个仓库有1381个star，不信你试试
 - [SuperNG6/docker-qbittorrent](https://github.com/SuperNG6/docker-qbittorrent) - docker qBittorren
 - [JackonYang/maya](https://github.com/JackonYang/maya) - 骂丫--对骂机器人。君子动口不动手，科技改变骂丫
-- [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。
+- [CMHopeSunshine/LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) - 小派蒙！基于Nonebot2的原神QQ机器人，包括但不限于UID面板查询、抽卡记录分析、游戏攻略图鉴、实时便签、原石札记、群聊学习、群管等功能。/ LittlePamon! Genshin Impact multifunctional QQ bot based on Nonebot2.
 - [7eu7d7/GenshinMidi](https://github.com/7eu7d7/GenshinMidi) - 根据midi自动生成原神音游谱
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 - [tgbot-collection/SearchGram](https://github.com/tgbot-collection/SearchGram) - 🔠 Search Telegram chat history even if you're using CJK.
@@ -1434,6 +1433,7 @@
 
 ## SCSS 
 
+- [solstice23/refined-now-playing-netease](https://github.com/solstice23/refined-now-playing-netease) - BetterNCM 插件 - 沉浸式播放界面 网易云音乐美化
 - [iCyris/Magia](https://github.com/iCyris/Magia) - 🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises
 - [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 - [BlueSkyXN-Backup/Ali-FigureBed](https://github.com/BlueSkyXN-Backup/Ali-FigureBed) - ALi图床，20220412 发现接口又寄了
@@ -1459,7 +1459,7 @@
 - [helloSystem/ISO](https://github.com/helloSystem/ISO) - helloSystem Live and installation ISO
 - [cokemine/warp.sh](https://github.com/cokemine/warp.sh) - WARP but with BoringTun
 - [ArronYin/embyonekey](https://github.com/ArronYin/embyonekey) - 群辉emby套件版服务端一点五键白嫖
-- [unkits/clash](https://github.com/unkits/clash) - A http/transparent proxy container based on clash.
+- [islens/clash](https://github.com/islens/clash) - A http/transparent proxy container based on clash.
 - [yc9559/uperf](https://github.com/yc9559/uperf) - Userspace performance controller for android
 - [TimeRainStarSky/MMPack](https://github.com/TimeRainStarSky/MMPack) - 
 - [Sammy970/OrangeFox_Compile](https://github.com/Sammy970/OrangeFox_Compile) - Compile Orangefox Recovery🦊 for your Device
@@ -1478,7 +1478,6 @@
 - [Clansty/arch-build](https://github.com/Clansty/arch-build) - 基于 GitHub Actions 自动按需构建 AUR 软件包
 - [hedzr/bash.sh](https://github.com/hedzr/bash.sh) - main entry template of your first bash script file
 - [DavidPisces/ReduceMIUI](https://github.com/DavidPisces/ReduceMIUI) - MIUI精简计划
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [littleplus/TencentAgentRemove](https://github.com/littleplus/TencentAgentRemove) - Remove Tencent Cloud Agent Completely.
 - [RedPill-TTG/redpill-load](https://github.com/RedPill-TTG/redpill-load) - RedPill Loader Generator
 - [Forest10/hexo-deploy-upyun-action](https://github.com/Forest10/hexo-deploy-upyun-action) - 自动化部署到又拍云. 增量更新
@@ -1498,6 +1497,7 @@
 - [myfreeer/aria2-build-msys2](https://github.com/myfreeer/aria2-build-msys2) - aria2 build scripts on msys2 with custom patches.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu) - Arch Linux Repository for Education
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - （VLESS+TCP+TLS/VLESS+TCP+xtls-rprx-vision/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS/Hysteria）+伪装站点、八合一共存脚本，支持多内核安装
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [P3TERX/wireguard-go-builder](https://github.com/P3TERX/wireguard-go-builder) - Compiling the wireguard-go binary from source. With this binary, users are able to create WireGuard sessions without installing the kernel module.
 - [P3TERX/Aria2-Pro-Core](https://github.com/P3TERX/Aria2-Pro-Core) - Aria2 static binaries for GNU/Linux with some powerful feature patches. |  破解无限线程 防掉线程优化 静态编译 二进制文件 增强版
@@ -1661,7 +1661,7 @@
 - [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT) - A Genshin Impact chatbot in Tencent QQ / 原神Q群助手
 - [momocow/cloudflare-worker-leetcode-progress](https://github.com/momocow/cloudflare-worker-leetcode-progress) - A library for serving LeetCode progress as a SVG on Cloudflare Workers.
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 Golang 自托管评论系统 | A Selfhosted Comment System
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 Golang 自托管评论系统 | Your self-hosted comment system
 - [trekhleb/js-image-carver](https://github.com/trekhleb/js-image-carver) - 🌅 Content-aware image resizer and object remover based on Seam Carving algorithm
 - [lukeed/worktop](https://github.com/lukeed/worktop) - The next generation web framework for Cloudflare Workers
 - [xiaoyang-sde/reflare](https://github.com/xiaoyang-sde/reflare) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
