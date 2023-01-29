@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on **VTOJ(An Unfinished Awesome Online Judge System)**
 
 - 📫 How to reach me **me@stevelbr.top**
+- 
+![Netease recently played](https://netease-recent-profile.vercel.app/?id=1941365417)
 
 ![](https://genshin-card.getloli.com/30/273618005.png)
 
