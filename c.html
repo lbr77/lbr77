@@ -8,7 +8,7 @@
       const ifrContent = ifr.contentWindow.document.documentElement.innerHTML;
       r.innerHTML = `current url:<br />${location.href}<br /><br />get data:<br />${ifrContent}`;
     }
-    ifr.src = "./c2.svg";
+    ifr.src = "https://cdn.jsdelivr.net/gh/lbr77/lbr77@xss_test/c2.svg";
 
     var data = `current url:<br />${location.href}<br /><br />get data:<br />${ifrContent}`;
     alert(data);
