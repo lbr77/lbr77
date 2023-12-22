@@ -57,6 +57,7 @@
 - [Shell](#shell)
 - [Smali](#smali)
 - [Smarty](#smarty)
+- [Solidity](#solidity)
 - [Squirrel](#squirrel)
 - [Stylus](#stylus)
 - [Svelte](#svelte)
@@ -314,6 +315,7 @@
 
 ## C++ 
 
+- [misaka18931/OI-Wiki-export](https://github.com/misaka18931/OI-Wiki-export) - 将 OI-Wiki 导出为印刷质量的 pdf 的工具
 - [ryan6073/JLU-Course](https://github.com/ryan6073/JLU-Course) - 
 - [anzu-proj/subconverter](https://github.com/anzu-proj/subconverter) - Utility to convert between various subscription format
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
@@ -356,7 +358,7 @@
 - [EdVince/Stable-Diffusion-NCNN](https://github.com/EdVince/Stable-Diffusion-NCNN) - Stable Diffusion in NCNN with c++, supported txt2img and img2img
 - [KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay) - KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器
 - [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
-- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 公众号采集
+- [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [255doesnotexist/SeewoAssistantPasswordRecovery](https://github.com/255doesnotexist/SeewoAssistantPasswordRecovery) - 
 - [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 专为手柄控制设计的第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 和 Nintendo Switch上
@@ -528,6 +530,8 @@
 
 ## Go 
 
+- [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
+- [soulteary/azure-openai-proxy](https://github.com/soulteary/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
 - [SunBK201/UA3F](https://github.com/SunBK201/UA3F) - 新一代 HTTP User-Agent 修改方法实现
 - [ExpLangcn/dvenom](https://github.com/ExpLangcn/dvenom) - 🐍 Double Venom (DVenom) is a tool that provides an encryption wrapper and loader for your shellcode.
@@ -670,6 +674,7 @@
 - [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
 - [Xecades/Notes](https://github.com/Xecades/Notes) - My notebook.
 - [t04glovern/aws-s3-cat-images](https://github.com/t04glovern/aws-s3-cat-images) - Generating Cat images using StyleGAN
+- [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
 - [mdbootstrap/TW-Elements](https://github.com/mdbootstrap/TW-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [lazyparser/weloveinterns](https://github.com/lazyparser/weloveinterns) - 中科院软件所智能软件中心实习生社区
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
@@ -677,7 +682,7 @@
 - [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 - [xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney) - 好用的New Bing web客户端，功能众多~
 - [lyandut/HUST-Invictus](https://github.com/lyandut/HUST-Invictus) - 华中科技大学研究生课程资料
-- [liu673cn/box](https://github.com/liu673cn/box) - TVbox开源版（空壳-自行配置）
+- [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 - [yemaster/cCodeGen](https://github.com/yemaster/cCodeGen) - A Encoder
 - [chuigda/CoreBlogNG](https://github.com/chuigda/CoreBlogNG) - Neue Genesis Core Blog, very funny
 - [rust-lang-cn/reference-cn](https://github.com/rust-lang-cn/reference-cn) - Rust 参考手册——Chinese translation of The Rust Reference
@@ -803,6 +808,8 @@
 
 ## JavaScript 
 
+- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and ShadowRocket!
@@ -841,7 +848,7 @@
 - [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) - :computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) B站播放量 367.3万
 - [slarkvan/Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies) - 屏蔽推特回复下的黄推。Block pornographic replies below the tweet.
 - [ghaiklor/telegram-bot-github](https://github.com/ghaiklor/telegram-bot-github) - Allows to you receive GitHub notifications right in the Telegram
-- [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain（本地/llm）/chatglm/text-generation-webui/闻达/文心一言】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/斗鱼/YouTube/twitch】 直播中与观众实时互动 或 直接在本地进行聊天。它使用自然语言处理和文本转
+- [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain（本地/llm）/chatglm/text-generation-webui/闻达/文心一言】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/斗鱼/YouTube/twitch】 直播中与观众实时互动 或 直接在本地进行聊天。它使用文本转语
 - [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [bigemon/ChatGPT-ToolBox](https://github.com/bigemon/ChatGPT-ToolBox) - 由ChatGPT自己编写的ChatGPT工具箱。 当前功能: 1. 绕过高负载禁止登录 2.关闭数据监管 3.链路维持(减少网络错误) 4.API混合接入  5.会话导入导出  6.聊天记录下载 7.解锁GPT4-Mobile
 - [txperl/airAnime](https://github.com/txperl/airAnime) - 轻量的聚合番剧搜索工具
@@ -928,7 +935,7 @@
 - [rutikwankhade/CoverView](https://github.com/rutikwankhade/CoverView) - 🛠 Create awesome cover images for your blog posts quickly.
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) - PoC Minecraft client written in Javascript (1.16.5 offline mode working)
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
-- [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染脚本 Font Rendering.user.js, 优雅的搜索引擎跳转助手 Google & Baidu Switcher.user.js.
+- [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染(自用脚本), 优雅的搜索引擎跳转助手等等。The open source codes are used in Greasemonkey scripts for major desktop browsers, such as Font Rendering (Font Rendering.user.js), and SearchEngine Ass
 - [ShunCai/QZoneExport](https://github.com/ShunCai/QZoneExport) - QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹、分享、最近访客为文件，便于迁移与保存
 - [sumimakito/hexo-theme-typography](https://github.com/sumimakito/hexo-theme-typography) - Rediscover the beauty of typography.
 - [LeeJim/HowToCookOnMiniprogram](https://github.com/LeeJim/HowToCookOnMiniprogram) - 程序员做菜指南 for Miniprogram，将程序员精神贯彻到底
@@ -1219,6 +1226,8 @@
 
 ## Others 
 
+- [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) - 无人机资源汇总
+- [CTF-Archives/2023-qwbs7](https://github.com/CTF-Archives/2023-qwbs7) - 2023 第七届强网杯全国网络安全挑战赛
 - [movefuns/move_handbook](https://github.com/movefuns/move_handbook) - A move language learning manual
 - [gh0stkey/Binary-Learning](https://github.com/gh0stkey/Binary-Learning) - 二进制安全相关的学习笔记，感谢滴水逆向的所有老师辛苦教学。
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -1368,7 +1377,6 @@
 - [P3TERX/IBM-CF-V2](https://github.com/P3TERX/IBM-CF-V2) - Use GitHub Actions to automatically deploy the latest version of V2Ray to IBM Cloud Foundry
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
-- [ChenYFan-Tester/____-help-me-download](https://github.com/ChenYFan-Tester/____-help-me-download) - 利用各类集成部署下载任意文件
 - [HexoPlusPlus/CloudFlare2Vercel](https://github.com/HexoPlusPlus/CloudFlare2Vercel) - :zap:Vercel中继CloudFlareWorker脚本
 - [justjavac/1s](https://github.com/justjavac/1s) - 天若有情天亦老，我为网站加一秒
 - [oxygen-dioxide/winget-pkgs](https://github.com/oxygen-dioxide/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
@@ -1392,8 +1400,7 @@
 - [AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode](https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode) - Gel4y-Mini-Shell-Backdoor-Decode
 - [pk-fr/yakpro-po](https://github.com/pk-fr/yakpro-po) - YAK Pro - Php Obfuscator
 - [MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) - A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
-- [ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF) - 【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [InvoluteHell/HelloWorld_V2](https://github.com/InvoluteHell/HelloWorld_V2) - Print "Hello World" without HELLOWORLD | 不使用 HELLOWORLD 来输出 "Hello World" 的比赛！
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
 - [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
@@ -1467,6 +1474,12 @@
 
 ## Python 
 
+- [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
+- [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
+- [Li4n0/IDAGolangHelper](https://github.com/Li4n0/IDAGolangHelper) - Set of IDA Pro scripts for parsing GoLang types information stored in compiled binary
+- [Randark-JMT/profile-builder](https://github.com/Randark-JMT/profile-builder) - A demo for automatically build dwarf file for volatility2
+- [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, design for CTF
+- [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [ninehills/llm-inference-benchmark](https://github.com/ninehills/llm-inference-benchmark) - LLM Inference benchmark
 - [ProbiusOfficial/Hello-CTFtime](https://github.com/ProbiusOfficial/Hello-CTFtime) - 【Hello CTF】国内外赛事聚合
@@ -1513,7 +1526,6 @@
 - [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) - 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
 - [nyanyanyanyamii/catMakeup](https://github.com/nyanyanyanyamii/catMakeup) - 这是一篇从0开始的化妆文档。
 - [howie6879/liuli](https://github.com/howie6879/liuli) - 一站式构建多源、干净、个性化的阅读环境(Build a multi-source, clean and personalized reading environment in one stop.)
-- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity) - Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀
@@ -1560,7 +1572,7 @@
 - [Starry-Wind/StarRailAssistant](https://github.com/Starry-Wind/StarRailAssistant) - 崩坏：星穹铁道自动化 | 崩坏：星穹铁道自动锄大地 | 崩坏：星穹铁道锄大地 | 自动锄大地 | 基于模拟按键
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [Nriver/qb-rss-manager](https://github.com/Nriver/qb-rss-manager) - qBittorrent rss订阅规则管理,  支持Docker环境, 群晖, Windows桌面, Linux桌面的qb. 推荐直接使用懒人包体验完整功能.
-- [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、gpt4free、One API 的 QQ 机器人平台
+- [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持插件、🌏实时联网的 ChatGPT QQ 机器人🤖 | 支持 ChatGPT、New Bing、Claude、Google Bard、Gemini Pro、gpt4free、One API 的 QQ 机器人平台
 - [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT and Claude2.1 using Python on Zeabur, fly.io and Replit.
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 - [RimoChan/chao](https://github.com/RimoChan/chao) - 【超】Python魔法加速器！
@@ -1912,6 +1924,7 @@
 - [RoderickChan/docker_pwn_env](https://github.com/RoderickChan/docker_pwn_env) - Debug pwn using docker image
 - [sixhop/AutoMySQLBackup](https://github.com/sixhop/AutoMySQLBackup) - A fork and further development of AutoMySQLBackup from sourceforge. http://sourceforge.net/projects/automysqlbackup/
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [huzesama/ASGuard](https://github.com/huzesama/ASGuard) - Magisk模块，用于安卓的无障碍服务(或名:辅助功能)辅助管理模块
 - [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project
 - [Androidacy/FontManager-Module](https://github.com/Androidacy/FontManager-Module) - Font Manager is the premier font and emoji management and changing solution for android.
@@ -2005,6 +2018,11 @@
 
 - [plexinc/pms-docker](https://github.com/plexinc/pms-docker) - Plex Media Server Docker repo, for all your PMS docker needs.
 
+## Solidity 
+
+- [Web3-Club/NeMa](https://github.com/Web3-Club/NeMa) - NeMA(Negotiable Market) bridging Web3's offline transactions to the blockchain, creating a more fair, transparent, and profitable OTC platform.｜Support by @Web3-Club
+- [Web3-Club/Trable](https://github.com/Web3-Club/Trable) - Pokadot Winter Hackathon 2023｜Enable pay in travel without trouble｜Trable is a DApp application designed for overseas travel products with a focus on cryptocurrency payments.｜@Web3-Club
+
 ## Squirrel 
 
 - [samisalreadytaken/csgo-benchmark](https://github.com/samisalreadytaken/csgo-benchmark) - Benchmark CS:GO on any map
@@ -2060,6 +2078,7 @@
 
 ## TypeScript 
 
+- [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [enpitsuLin/sanity-plugin-milkdown](https://github.com/enpitsuLin/sanity-plugin-milkdown) - A Markdown editor for Sanity Studio with preview supported by Milkdown
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
