@@ -1,0 +1,1 @@
+比较方法 1 if block[3,0] > block[1,2] else 0
