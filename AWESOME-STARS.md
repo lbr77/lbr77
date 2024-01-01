@@ -110,6 +110,8 @@
 
 ## C 
 
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
+- [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
 - [sabrogden/Ditto](https://github.com/sabrogden/Ditto) - Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.
 - [ufrisk/MemProcFS](https://github.com/ufrisk/MemProcFS) - MemProcFS
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator
@@ -319,6 +321,8 @@
 
 ## C++ 
 
+- [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [YtFlow/YtFlowApp](https://github.com/YtFlow/YtFlowApp) - A network proxy running on Universal Windows Platform, powered by YtFlowCore.
 - [unicode-org/icu](https://github.com/unicode-org/icu) - The home of the ICU project source code.
 - [misaka18931/OI-Wiki-export](https://github.com/misaka18931/OI-Wiki-export) - 将 OI-Wiki 导出为印刷质量的 pdf 的工具
@@ -535,6 +539,7 @@
 
 ## Go 
 
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [kenwoodjw/TG_GEMINI_BOT](https://github.com/kenwoodjw/TG_GEMINI_BOT) - 
 - [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
 - [soulteary/azure-openai-proxy](https://github.com/soulteary/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
@@ -816,6 +821,7 @@
 
 ## JavaScript 
 
+- [X1r0z/exp10it](https://github.com/X1r0z/exp10it) - X1r0z Blog
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [sheep-realms/Echo-Live](https://github.com/sheep-realms/Echo-Live) - 一款基于 Echo 的用于无声系虚拟主播直播的仿视觉小说对话框 OBS 插件
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -943,7 +949,7 @@
 - [rutikwankhade/CoverView](https://github.com/rutikwankhade/CoverView) - 🛠 Create awesome cover images for your blog posts quickly.
 - [michaljaz/webmc](https://github.com/michaljaz/webmc) - PoC Minecraft client written in Javascript (1.16.5 offline mode working)
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
-- [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染(自用脚本), 优雅的搜索引擎跳转助手等等。The open source codes are used in Greasemonkey scripts for major desktop browsers, such as Font Rendering (Font Rendering.user.js), and SearchEngine Ass
+- [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - 该项目开源代码用于主流浏览器的油猴脚本，包含字体渲染(自用脚本), 优雅的搜索引擎助手等等。The open source codes are used in Greasemonkey scripts for desktop browsers, such as Font Rendering (Font Rendering.user.js), and Search Engine Assistant 
 - [ShunCai/QZoneExport](https://github.com/ShunCai/QZoneExport) - QQ空间导出助手，用于备份QQ空间的说说、日志、私密日记、相册、视频、留言板、QQ好友、收藏夹、分享、最近访客为文件，便于迁移与保存
 - [sumimakito/hexo-theme-typography](https://github.com/sumimakito/hexo-theme-typography) - Rediscover the beauty of typography.
 - [LeeJim/HowToCookOnMiniprogram](https://github.com/LeeJim/HowToCookOnMiniprogram) - 程序员做菜指南 for Miniprogram，将程序员精神贯彻到底
@@ -1223,6 +1229,7 @@
 
 ## Nix 
 
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL(2) [maintainer=@nzbr]
 - [clansty/netease-music-sync](https://github.com/clansty/netease-music-sync) - 自动将网易云的歌单同步到本地
 
 ## Objective-C 
@@ -1749,7 +1756,7 @@
 - [minisoftwarelab/imap-Image-to-PDF-Converter-Application-For-Windows](https://github.com/minisoftwarelab/imap-Image-to-PDF-Converter-Application-For-Windows) - This is an "Image to PDF Converter" (open source) software build for Windows. You can convert your image files to PDF(Portable Document Format) files using this software. Just select your image files 
 - [opq-osc/opqqq-plugin](https://github.com/opq-osc/opqqq-plugin) - OPQBot 即开即用的插件，自定义表情、早晚安、Vtuber/Pcr/原神 运势等（兼容 nonebot-plugin 原项目配置）
 - [ArknightsAutoHelper/ArknightsAutoHelper](https://github.com/ArknightsAutoHelper/ArknightsAutoHelper) - Arknights Auto Helper based on ADB and Python   |  基于python的明日方舟护肝助手
-- [hgjazhgj/FGO-py](https://github.com/hgjazhgj/FGO-py) - 全自动免配置跨平台开箱即用的Fate/Grand Order助手.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?
+- [hgjazhgj/FGO-py](https://github.com/hgjazhgj/FGO-py) - 自动每周任务新登场! 全自动免配置跨平台开箱即用的Fate/Grand Order助手.启动脚本,上床睡觉,养肝护发,满加成圣诞了解一下?
 - [Mufanc/Genshin-SmartFishingRod](https://github.com/Mufanc/Genshin-SmartFishingRod) - 原神⭐钓鱼辅助工具 | 自动收竿、校准游标
 - [Darknights-dev/Darknights-server](https://github.com/Darknights-dev/Darknights-server) - Darknights
 - [ybsdegit/captcha_qq](https://github.com/ybsdegit/captcha_qq) - 腾讯防水墙滑动验证码破解
@@ -1816,7 +1823,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 140 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 141 stars and 172 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1857,6 +1864,7 @@
 
 ## Rust 
 
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -2064,6 +2072,7 @@
 
 ## Swift 
 
+- [Lessica/Reveil](https://github.com/Lessica/Reveil) - Bringing back the most advanced system and security analysis tool.
 - [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS
@@ -2101,6 +2110,9 @@
 
 ## TypeScript 
 
+- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
+- [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
+- [gridaco/cors.sh](https://github.com/gridaco/cors.sh) - Sick of CORS Errors?
 - [PrinOrange/nextjs-lexical-blog](https://github.com/PrinOrange/nextjs-lexical-blog) - This is a sleek and efficient web blog project, built with Next.js + MDX + TailwindCSS. You can write your blog posts in Markdown and easily deploy them on Vercel.
 - [Simon-He95/v-component-prompter](https://github.com/Simon-He95/v-component-prompter) - 动态提供自定义组件的属性和事件 ｜ Dynamically provide properties and events for custom components
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
@@ -2352,6 +2364,7 @@
 
 ## Vue 
 
+- [journey-ad/pixiv-viewer](https://github.com/journey-ad/pixiv-viewer) - 又一个Pixiv阅览工具
 - [MirageNetwork/MirageServer](https://github.com/MirageNetwork/MirageServer) - 蜃境：基于Headscale修改的带WebUI开源版本Tailscale控制器
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [mitian233/event-hp](https://github.com/mitian233/event-hp) - VueConf event homepage Vite + Vue3 + TailwindCSS remastered
