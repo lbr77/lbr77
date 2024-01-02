@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm LiBr</h1>
 
-- Now majors in software engineering at JLU,China.
 - In my academic pursuits, I explore the domains of Web 2.0, Web 3.0, artificial intelligence, and cybersecurity.
 
 - How to reach me **contact#nvme0n1p.dev**
