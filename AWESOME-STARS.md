@@ -136,7 +136,6 @@
 - [Gibtnix/MSIKLM](https://github.com/Gibtnix/MSIKLM) - Control the SteelSeries keyboard of your MSI gaming notebook with Linux
 - [Zxilly/UA2F](https://github.com/Zxilly/UA2F) - Change User-Agent to F-words on OpenWRT router to prevent being detected.
 - [CHN-beta/xmurp-ua](https://github.com/CHN-beta/xmurp-ua) - 在 OpenWrt 上修改 HTTP 流量的 UA
-- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [marek-g/kobo-kernel-2.6.35.3-marek](https://github.com/marek-g/kobo-kernel-2.6.35.3-marek) - Kernel for kobo glo, mini, touch (imx507) with changes for running X11
@@ -344,7 +343,7 @@
 - [alex47/BreezeBlurred](https://github.com/alex47/BreezeBlurred) - BreezeBlurred is a fork of KDE Breeze window decoration written in Qt C++
 - [THMonster/kcm-colorful](https://github.com/THMonster/kcm-colorful) - Make your KDE Plasma colorful.
 - [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs
-- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Stable Diffusion XL 1.0 Base on a Raspberry Pi Zero 2 (or in 298MB of RAM)
+- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Lightweight inference library for ONNX files, written in C++. It can run SDXL on a RPI Zero 2 but also Mistral 7B on desktops and servers.
 - [SirusDoma/MaiSense](https://github.com/SirusDoma/MaiSense) - Touch Sensor Emulation for SDEY - 💦 Touchlaundry Disco
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
@@ -373,7 +372,7 @@
 - [TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot) - 微信HOOK、微信机器人   wxhook，数据库解密 微信公众号采集 微信公众号爬虫，企业微信HOOK
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [255doesnotexist/SeewoAssistantPasswordRecovery](https://github.com/255doesnotexist/SeewoAssistantPasswordRecovery) - 
-- [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、XBox 和 Nintendo Switch上
+- [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
 - [donovan6000/Universal-IFR-Extractor](https://github.com/donovan6000/Universal-IFR-Extractor) - Utility that can extract the internal forms represenation from both EFI and UEFI modules.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
 - [MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM) - NCM 软件插件管理器
@@ -1198,7 +1197,6 @@
 - [KieronQuinn/AmbientMusicMod](https://github.com/KieronQuinn/AmbientMusicMod) - Port of Now Playing from Pixels to other Android devices
 - [ysy950803/FiveGSwitcher](https://github.com/ysy950803/FiveGSwitcher) - 给MIUI开发一个5G快捷开关。
 - [mzdluo123/TxCaptchaHelper](https://github.com/mzdluo123/TxCaptchaHelper) - 腾讯滑动验证码助手
-- [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 - [helloklf/vtools](https://github.com/helloklf/vtools) - 一个集高级重启、应用安装自动点击、CPU调频等多项功能于一体的工具箱。
 - [FuckAntiAddiction/BiligameAddictionNotLimited](https://github.com/FuckAntiAddiction/BiligameAddictionNotLimited) - B站游戏防沉迷不限制，关键字:B站游戏 BiliBili游戏 实名认证 防沉迷
 - [mzdluo123/AntiSetu](https://github.com/mzdluo123/AntiSetu) - 这么多setu机器人当然要有一个antisetu机器人啦
@@ -1250,6 +1248,7 @@
 
 ## Objective-C 
 
+- [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
 - [0x36/weightBufs](https://github.com/0x36/weightBufs) - ANE kernel r/w exploit for iOS 15 and macOS 12
 - [KJCracks/Clutch](https://github.com/KJCracks/Clutch) - Fast iOS executable dumper
 - [finogeeks/FinClipSDK](https://github.com/finogeeks/FinClipSDK) - FinClip 核心 SDK 插件，用于小程序基础的 API 与组件调用  / Core SDK for FinClip
@@ -1260,10 +1259,10 @@
 
 ## Others 
 
+- [Jpinsoft/DeepSound](https://github.com/Jpinsoft/DeepSound) - Official DeepSound repository migrated from jpinsoft.net. DeepSound is a freeware steganography tool and audio converter that hides secret data into audio files. The application also enables you to ex
 - [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok免拔卡解锁最新支持 iPhone （iOS 17.3） 、TikTok（V32.8.0）、TikTok TestFlight，支持更换地区 、发布视频 、 直播 、点赞评论、私聊等！
 - [Byxs20/PuzzleSolver](https://github.com/Byxs20/PuzzleSolver) - 一款针对CTF竞赛MISC的工具~
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-- [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) - 无人机资源汇总
 - [CTF-Archives/2023-qwbs7](https://github.com/CTF-Archives/2023-qwbs7) - 2023 第七届强网杯全国网络安全挑战赛
 - [movefuns/move_handbook](https://github.com/movefuns/move_handbook) - A move language learning manual
 - [gh0stkey/Binary-Learning](https://github.com/gh0stkey/Binary-Learning) - 二进制安全相关的学习笔记，感谢滴水逆向的所有老师辛苦教学。
@@ -1288,7 +1287,6 @@
 - [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) - SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址
 - [OysterQAQ/ACG2vec](https://github.com/OysterQAQ/ACG2vec) - ACG2vec (Anime Comics Games to vector) are committed to creating a playground that combines ACG and Deep learning.（文本语义检索、以图搜图、语义搜图、图片超分辨率）
 - [gitzboy/testremote](https://github.com/gitzboy/testremote) - (Free GPT Chinese Mirror List)免费GPT国内镜像列表
-- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) - :books: 网安类绝版图书
 - [BetterNCM/UwU](https://github.com/BetterNCM/UwU) - 
 - [satsshark/TwitterUnofficialAPI](https://github.com/satsshark/TwitterUnofficialAPI) - Twitter's internal API (unofficial). This module has been utilized by multiple Twitter bots. This module offers numerous additional benefits compared to the official Twitter APIs, including the abilit
 - [ProbiusOfficial/SecToolKit](https://github.com/ProbiusOfficial/SecToolKit) - Cybersecurity tool repository / Wiki 收录常用 / 前沿 的CTF和渗透工具以及其 官方/使用 文档，致力于让每个工具都能发挥作用ww，不管你是萌新还是领域从业者希望你都能在这里找到适合你的工具或者获得一定的启发。
@@ -1433,6 +1431,7 @@
 
 ## PHP 
 
+- [icewolf-sec/PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP) - 使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀
 - [codehub666/94list](https://github.com/codehub666/94list) - 百度网盘分享链接分析渲染列表辅助下载开源程序
 - [iamjazz/Md5collision](https://github.com/iamjazz/Md5collision) - Md5碰撞生成器
 - [AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode](https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode) - Gel4y-Mini-Shell-Backdoor-Decode
@@ -1477,7 +1476,7 @@
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
 - [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
-- [for05/Oneindex](https://github.com/for05/Oneindex) - Onedrive Directory Index
+- [nov23e/Oneindex](https://github.com/nov23e/Oneindex) - Onedrive Directory Index
 - [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Example projects using Vercel platform. Using Node.js, PHP and others.
 - [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
 - [kasuganosoras/Pigeon](https://github.com/kasuganosoras/Pigeon) - 💬 一个轻量化的留言板 / 记事本 / 社交系统 / 博客。人类的本质是……咕咕咕？
@@ -1512,6 +1511,9 @@
 
 ## Python 
 
+- [SentineLabs/AlphaGolang](https://github.com/SentineLabs/AlphaGolang) - IDApython Scripts for Analyzing Golang Binaries
+- [Accenture/VulFi](https://github.com/Accenture/VulFi) - IDA Pro plugin for query based searching within the binary useful mainly for vulnerability research.
+- [crypto101/book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
 - [Cnily03/ctf-bot](https://github.com/Cnily03/ctf-bot) - A discord bot for CTF crafting based on Pycord.
 - [H4ckF0rFun/Fuck-Lesson](https://github.com/H4ckF0rFun/Fuck-Lesson) - 吉林大学抢课脚本
 - [mit-han-lab/dlg](https://github.com/mit-han-lab/dlg) - [NeurIPS 2019] Deep Leakage From Gradients
@@ -1567,7 +1569,7 @@
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) - A collection of robotics simulation environments for reinforcement learning
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-- [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza.
+- [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi) - MiniAGI is a simple general-purpose autonomous agent based on the OpenAI API.
 - [aju22/DQN-2048](https://github.com/aju22/DQN-2048) - Implementation of Deep Q-network to play game 2048 using Tensorflow2.0/Keras and PyGame
 - [272437543/DQN_2048](https://github.com/272437543/DQN_2048) - DQN play &lt;2048&gt; game
 - [michaelbaluja/rl-2048](https://github.com/michaelbaluja/rl-2048) - This project utilizes reinforcement learning with non-linear function approximation to play the game 2048.
@@ -1585,7 +1587,7 @@
 - [Samueli924/chaoxing](https://github.com/Samueli924/chaoxing) - 超星学习通/超星尔雅/泛雅超星全自动无人值守完成任务点
 - [nyanyanyanyamii/catMakeup](https://github.com/nyanyanyanyamii/catMakeup) - 这是一篇从0开始的化妆文档。
 - [howie6879/liuli](https://github.com/howie6879/liuli) - 一站式构建多源、干净、个性化的阅读环境(Build a multi-source, clean and personalized reading environment in one stop.)
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [llSourcell/Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity) - Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
@@ -1653,7 +1655,6 @@
 - [kitUIN/nonebot-plugin-ncm](https://github.com/kitUIN/nonebot-plugin-ncm) - ✨ 基于go-cqhttp与nonebot2的 网易云 无损音乐 点歌/下载 ✨
 - [realByg/office-user-bot](https://github.com/realByg/office-user-bot) - 用 Telegram bot 创建 Office 账号
 - [madwind/flexget_qbittorrent_mod](https://github.com/madwind/flexget_qbittorrent_mod) - flexget qbittorrent删种、辅种 自动签到 插件
-- [apachecn/CDNDrive](https://github.com/apachecn/CDNDrive) - :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
 - [NekoAria/YetAnotherPicSearch](https://github.com/NekoAria/YetAnotherPicSearch) - Yet another picture search plugin for nonebot2
 - [Morizeyao/GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese) - Chinese version of GPT2 training code, using BERT tokenizer.
 - [miyouzi/aniGamerPlus](https://github.com/miyouzi/aniGamerPlus) - 巴哈姆特動畫瘋自動下載工具，支援命令行
@@ -1854,7 +1855,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 142 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 146 stars and 172 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1871,7 +1872,7 @@
 
 ## QML 
 
-- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/粘贴/批量导入图片，段落排版/排除水印，扫描/生成二维码。内置多国语言库。
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
 
 ## Rich Text Format 
 
@@ -1895,6 +1896,7 @@
 
 ## Rust 
 
+- [naim94a/lumen](https://github.com/naim94a/lumen) - A private Lumina server for IDA Pro
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -2059,7 +2061,7 @@
 - [myfreeer/aria2-build-msys2](https://github.com/myfreeer/aria2-build-msys2) - aria2 build scripts on msys2 with custom patches.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [arch4edu/arch4edu](https://github.com/arch4edu/arch4edu) - Arch Linux Repository for Education
-- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hy2、sing-box 八合一一键脚本
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [P3TERX/wireguard-go-builder](https://github.com/P3TERX/wireguard-go-builder) - Compiling the wireguard-go binary from source. With this binary, users are able to create WireGuard sessions without installing the kernel module.
 - [P3TERX/Aria2-Pro-Core](https://github.com/P3TERX/Aria2-Pro-Core) - Aria2 static binaries for GNU/Linux with some powerful feature patches. |  破解无限线程 防掉线程优化 静态编译 二进制文件 增强版
@@ -2144,6 +2146,7 @@
 
 ## TypeScript 
 
+- [sek-consulting/solid-ui](https://github.com/sek-consulting/solid-ui) - Beautifully designed components built with Kobalte & TailwindCSS.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 - [mnixry/logflare-sse](https://github.com/mnixry/logflare-sse) - A Cloudflare Worker transforming logflare.app logs to SSE/JSON Stream/WebSocket for easy self-hosted logging.
