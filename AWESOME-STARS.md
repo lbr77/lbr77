@@ -109,6 +109,7 @@
 
 ## C 
 
+- [N1ghtu/RWCTF6th-RIPTC](https://github.com/N1ghtu/RWCTF6th-RIPTC) - Exploit for Real World CTF 6th RIPTC.
 - [Lakr233/libssh2-spm](https://github.com/Lakr233/libssh2-spm) - Swift package for libssh2, automatically tracked on release tags.
 - [mchome/dogcom](https://github.com/mchome/dogcom) - Drcom-generic implementation in C.
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
@@ -605,7 +606,7 @@
 - [Akegarasu/qmsg-unpacker](https://github.com/Akegarasu/qmsg-unpacker) - unpack msgcontent in qq msg3.0.db
 - [fumiama/unibase2n](https://github.com/fumiama/unibase2n) - generate base2^n starting from any position in unicode table
 - [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram downloader/tools written in Golang
-- [Mmx233/BitSrunLoginGo](https://github.com/Mmx233/BitSrunLoginGo) - 深澜校园网登录程序 Go 语言版，适用于路由器、windows、linux 等。提供对 OpenWrt、Docker、Go Module 的支持
+- [Mmx233/BitSrunLoginGo](https://github.com/Mmx233/BitSrunLoginGo) - 深澜校园网登录程序 Go 语言版，适用于路由器、Windows、Linux 等。提供对 OpenWrt、Docker、Go Module 的支持
 - [casbin/casdoor](https://github.com/casbin/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [genshen/wssocks-plugin-ustb](https://github.com/genshen/wssocks-plugin-ustb) - accessing internal network of USTB and BUPT outside school. USTB 与 BUPT 网络访问代理工具，可在校外无缝连接校内网络(网站、ssh、git、vnc、win远程桌面等)
@@ -748,6 +749,7 @@
 
 ## Haskell 
 
+- [23prime/oeis2](https://github.com/23prime/oeis2) - Interface for Online Encyclopedia of Integer Sequences (OEIS).
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
@@ -829,6 +831,7 @@
 
 ## JavaScript 
 
+- [Littlefean/CodingPersonality](https://github.com/Littlefean/CodingPersonality) - 16型人格测试（程序员版本）整活项目、测试你的编程思维习惯
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [tencent-connect/bot-docs](https://github.com/tencent-connect/bot-docs) - QQ频道机器人文档
 - [X1r0z/exp10it](https://github.com/X1r0z/exp10it) - X1r0z Blog
@@ -1225,7 +1228,6 @@
 - [mchome/openwrt-dogcom](https://github.com/mchome/openwrt-dogcom) - openwrt dogcom
 - [ghostplant/ubuntu-pe](https://github.com/ghostplant/ubuntu-pe) - Ubuntu Live PE for CD and USB, supporting Ubuntu Installation and Windows Installation.
 - [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
-- [yaya131/AX6-AX3600_Almighty-Edition_Config](https://github.com/yaya131/AX6-AX3600_Almighty-Edition_Config) - 此版本是全能版本，也是自定义版本，包含无NSS的AX6和AX3600的编译配置，涵盖机型：AX6-5.15-AX3600-5.15-AX9000-5.15，想要榨干路由器性能和内存的朋友可以尝试刷入。支持已刷WEB升级的openwrt固件，刷入方式：首选恢复出厂设置，然后再系统升级不保留配置刷入。全能版每天都会拉取最新源码更新
 
 ## Markdown 
 
@@ -1511,6 +1513,8 @@
 
 ## Python 
 
+- [pymanopt/pymanopt](https://github.com/pymanopt/pymanopt) - Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
+- [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU) - 16-bit CPU for Excel, and related files
 - [SentineLabs/AlphaGolang](https://github.com/SentineLabs/AlphaGolang) - IDApython Scripts for Analyzing Golang Binaries
 - [Accenture/VulFi](https://github.com/Accenture/VulFi) - IDA Pro plugin for query based searching within the binary useful mainly for vulnerability research.
 - [crypto101/book](https://github.com/crypto101/book) - Crypto 101, the introductory book on cryptography.
@@ -1671,7 +1675,7 @@
 - [LlmKira/MoeGoe](https://github.com/LlmKira/MoeGoe) - 🌻Executable file for VITS inference   ----FastApi Server
 - [BGmi/BGmi](https://github.com/BGmi/BGmi) - [looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi.
 - [shilapi/JudgeOfTwitter](https://github.com/shilapi/JudgeOfTwitter) - A simple tool to find out the social circle of those twitter users you dont like.
-- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 Docker Deploy
+- [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - 🚧V4🚧⚡️ Build Your Own ChatGptBot|🧀 Discord/Slack/Kook/Telegram |🍓 复刻 ChatGpt 架构 |⛓ ToolCall/FunctionCall|🔖  Plugin Support | 🌻 Docker Deploy
 - [BlackWatch0/JDspyder](https://github.com/BlackWatch0/JDspyder) - 京东预约&抢购脚本，可以自定义商品链接
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 - [HsiangNianian/OlivaBiliLive](https://github.com/HsiangNianian/OlivaBiliLive) - 可插件化管理的B站直播间机器人 | A Bilibili live room robot that can be managed by plugins.
@@ -1855,7 +1859,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 146 stars and 172 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 147 stars and 172 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -1982,7 +1986,7 @@
 
 ## Shell 
 
-- [Esonhugh/CreateHackingEnv](https://github.com/Esonhugh/CreateHackingEnv) - vscode workspace folder based hacking environment. configured with full-customized. Happy Hacking
+- [Esonhugh/WeaponizedVSCode](https://github.com/Esonhugh/WeaponizedVSCode) - vscode workspace folder based hacking environment. configured with full-customized. Happy Hacking
 - [Lakr233/openssl-spm](https://github.com/Lakr233/openssl-spm) - Swift Package for OpenSSL with prebuilt XCFramework
 - [KittyKatt/screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [RoderickChan/docker_pwn_env](https://github.com/RoderickChan/docker_pwn_env) - Debug pwn using docker image
@@ -2049,6 +2053,7 @@
 - [Forest10/hexo-deploy-upyun-action](https://github.com/Forest10/hexo-deploy-upyun-action) - 自动化部署到又拍云. 增量更新
 - [soulteary/docker-sso-server](https://github.com/soulteary/docker-sso-server) - Lightweight 🪶 self-hosted SSO server, resource utilization rate is &lt;1% CPU, MEM &lt;15 M
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+- [yaya131/AX6-AX3600_Almighty-Edition_Config](https://github.com/yaya131/AX6-AX3600_Almighty-Edition_Config) - 此版本是全能版本，也是自定义版本，包含无NSS的AX6和AX3600的编译配置，涵盖机型：AX6-5.15-AX3600-5.15-AX9000-5.15，想要榨干路由器性能和内存的朋友可以尝试刷入。支持已刷WEB升级的openwrt固件，刷入方式：首选恢复出厂设置，然后再系统升级不保留配置刷入。全能版每天都会拉取最新源码更新
 - [amefs/quickbox-lite](https://github.com/amefs/quickbox-lite) - Lightweigt QuickBox
 - [yaya131/Openwrt_Beta](https://github.com/yaya131/Openwrt_Beta) - 主要更新AX6！其他AX3600和AX9000暂时无更新，每个版本对应固件名称及大小不一样，看清楚下载。不搞多神秘什么本地编译啥的，涵盖的机型-AX6-AX3600-AX9000。部分插件源码均拉取原作者最新的。Boos4721源编译的固件特别说明： 管理地址：10.10.10.1 登陆密码：boos 无线密码：1234567890  新增恢复5.10内核固件的支持！目前仅AX6和AX3600：项
 - [Menci/build-archlinux-package](https://github.com/Menci/build-archlinux-package) - GitHub Action to build Archlinux / Manjaro package with Docker, for AMD64 or ARM64
@@ -2088,7 +2093,7 @@
 ## Solidity 
 
 - [Web3-Club/NeMa](https://github.com/Web3-Club/NeMa) - NeMA(Negotiable Market) bridging Web3's offline transactions to the blockchain, creating a more fair, transparent, and profitable OTC platform.｜Support by @Web3-Club
-- [Web3-Club/Trable](https://github.com/Web3-Club/Trable) - ICP Hackathon 2023｜Enable pay in travel without trouble｜Trable is a DApp application designed for overseas travel products with a focus on cryptocurrency payments.｜@Web3-Club
+- [Web3-Club/Trable](https://github.com/Web3-Club/Trable) - Enable pay in travel without trouble｜Trable is a DApp application designed for overseas travel products with a focus on cryptocurrency payments.｜@Web3-Club
 
 ## Squirrel 
 
