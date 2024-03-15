@@ -111,6 +111,8 @@
 
 ## C 
 
+- [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [quiet/quiet](https://github.com/quiet/quiet) - Transmit data with sound. Includes binaries for soundcards and .wav files.
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [OrkWard/texttracker-web](https://github.com/OrkWard/texttracker-web) - 
 - [Yesterday17/ProgramDesignHomework](https://github.com/Yesterday17/ProgramDesignHomework) - 《程序设计基础课程设计》（2018 级）
@@ -227,7 +229,7 @@
 
 ## C# # 
 
-- [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+- [KonataDev/Lagrange.Core](https://github.com/KonataDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 - [LorisYounger/VPet](https://github.com/LorisYounger/VPet) - 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
 - [libxzr/FastbootEnhance](https://github.com/libxzr/FastbootEnhance) - A user-friendly Fastboot ToolBox & Payload Dumper for Windows
@@ -331,6 +333,8 @@
 
 ## C++ 
 
+- [troldal/OpenXLSX](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 第三方阿里云盘桌面应用客户端
 - [H4ckF0rFun/HoldingHands](https://github.com/H4ckF0rFun/HoldingHands) - 
 - [PS3-4K-Pro/PS3-4K-Pro](https://github.com/PS3-4K-Pro/PS3-4K-Pro) - The Ultimate PS3™ Experience.
@@ -344,7 +348,7 @@
 - [anzu-proj/subconverter](https://github.com/anzu-proj/subconverter) - Utility to convert between various subscription format
 - [mamba-org/mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 - [Yeuoly/0xUBypass](https://github.com/Yeuoly/0xUBypass) - AntiAV shellcode loader
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it opera
 - [Andy-K-Sparklight/Ari](https://github.com/Andy-K-Sparklight/Ari) - When will we be able to create the world again? Guess not. Netease is ruining everything.
 - [code4lala/drcom-jlu-qt](https://github.com/code4lala/drcom-jlu-qt) - drcom for jlu in qt cross platform
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
@@ -513,7 +517,7 @@
 
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - server status & toolbox app using Flutter
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox app using Flutter
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
@@ -766,7 +770,6 @@
 - [Closty/duanwangzhi](https://github.com/Closty/duanwangzhi) - Shorten your links without serves because it based on Cloudflare workers function with minimalist style.Hope u like:)
 - [AyagawaSeirin/PandownloadFake](https://github.com/AyagawaSeirin/PandownloadFake) - 虚假的Pandownload验证“服务器”
 - [maple3142/GDIndex](https://github.com/maple3142/GDIndex) - A Google Drive Index built with Vue Running on CloudFlare Workers
-- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 - [LiuChangFreeman/OneIndexServerless](https://github.com/LiuChangFreeman/OneIndexServerless) - Serverless version of OneIndex, which can be deployed on aliyun.com
 - [shw2018/hexo-blog-fly](https://github.com/shw2018/hexo-blog-fly) - This is my personal blog repository.  Now,it is open for everyone to download and modify. If it can help you to build your blog or you like the repo, could you give me a star ! Thank you!
 
@@ -853,10 +856,12 @@
 - [luoye663/e5](https://github.com/luoye663/e5) - e5续订
 - [Macuyiko/minecraft-python](https://github.com/Macuyiko/minecraft-python) - A Jython driven plugin and interpreter system for Minecraft (on top of Spigot)
 - [HMCL-dev/HMCL](https://github.com/HMCL-dev/HMCL) - A Minecraft Launcher which is multi-functional, cross-platform and popular
+- [neoascetic/rawgithack](https://github.com/neoascetic/rawgithack) - Serves files from github, bitbucket and gitlab, but with the correct content types
 
 ## JavaScript 
 
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - The Internet OS!
+- [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS!
 - [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
 - [AlanDecode/Typecho-Theme-VOID](https://github.com/AlanDecode/Typecho-Theme-VOID) - 🐒 猴子打字机原理的产物
 - [Littlefean/CodingPersonality](https://github.com/Littlefean/CodingPersonality) - 16型人格测试（程序员版本）整活项目、测试你的编程思维习惯
@@ -1190,6 +1195,7 @@
 
 ## Kotlin 
 
+- [CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon) - ⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！
 - [Ium-Lab/Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer) - 用于直接安装apk.1以及其他apk文件
 - [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [aistra0528/Hail](https://github.com/aistra0528/Hail) - 冻结 Android 应用 Freeze Android apps
@@ -1240,6 +1246,7 @@
 
 ## Lua 
 
+- [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [lisaac/luci-app-dockerman](https://github.com/lisaac/luci-app-dockerman) - Docker Manager interface for LuCI
 - [qbcore-framework/qb-adminmenu](https://github.com/qbcore-framework/qb-adminmenu) - Admin Menu Using MenuV
@@ -1290,6 +1297,8 @@
 
 ## Others 
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- [Arinue/CTF-NetA](https://github.com/Arinue/CTF-NetA) - CTF-NetA是一款专门针对CTF比赛的网络流量分析工具，可以对常见的网络流量进行分析，快速自动获取flag。
 - [ProbiusOfficial/CTF-OS](https://github.com/ProbiusOfficial/CTF-OS) - 【Hello CTF】专为CTF比赛封装的虚拟机，基于工具集封装多个版本和系统，更多选择，开箱即用。比赛愉快！
 - [ProbiusOfficial/FittingRoom](https://github.com/ProbiusOfficial/FittingRoom) - 这是什么？女装！存一下！
 - [Aabyss-Team/Ban-Hacker-IP-Plan](https://github.com/Aabyss-Team/Ban-Hacker-IP-Plan) - 国内恶意IP封禁计划，还赛博空间一片朗朗乾坤
@@ -1544,13 +1553,14 @@
 - [arch3rPro/PST-Bucket](https://github.com/arch3rPro/PST-Bucket) - Scoop-Buket for Penetration Suite Toolkit
 - [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV) - A Project dedicated to making GPU Partitioning on Windows easier!
 - [freemansoft/win10-storage-spaces](https://github.com/freemansoft/win10-storage-spaces) - Scripts for creating an destroying Fault Tolerant multi-tier storage spaces on Windows 10
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. Th
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows e
 - [chawyehsu/dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
 - [Tsuk1ko/fuck-qq-with-win10-taskbar-on-top](https://github.com/Tsuk1ko/fuck-qq-with-win10-taskbar-on-top) - dddd
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## Python 
 
+- [ryo-ma/gpt-assistants-api-ui](https://github.com/ryo-ma/gpt-assistants-api-ui) - 💬 OpenAI Assistants API chat UI  🛠️ It works easily by setting the ASSISTANT ID  📁 Supports file upload and file download 🪟 Support to Azure OpenAI
 - [opendilab/LLMRiddles](https://github.com/opendilab/LLMRiddles) - Open-Source Reproduction/Demo of the LLM Riddles Game
 - [R4gd0ll/I-Wanna-Get-All](https://github.com/R4gd0ll/I-Wanna-Get-All) - OA漏洞利用工具
 - [xmcp/xmpaint](https://github.com/xmcp/xmpaint) - 处理有向图的有力工具
@@ -1592,7 +1602,7 @@
 - [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
 - [Li4n0/IDAGolangHelper](https://github.com/Li4n0/IDAGolangHelper) - Set of IDA Pro scripts for parsing GoLang types information stored in compiled binary
 - [CTF-Archives/profile-builder](https://github.com/CTF-Archives/profile-builder) - A demo for automatically build dwarf file for volatility2
-- [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, design for CTF
+- [Marven11/Fenjing](https://github.com/Marven11/Fenjing) - 专为CTF设计的Jinja2 SSTI全自动绕WAF脚本 | A Jinja2 SSTI cracker for bypassing WAF, designed for CTF
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) - Volatility 3.0 development
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [ninehills/llm-inference-benchmark](https://github.com/ninehills/llm-inference-benchmark) - LLM Inference benchmark
@@ -1910,7 +1920,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 152 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 153 stars and 176 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -2017,7 +2027,7 @@
 
 ## SCSS 
 
-- [lbr77/blog-by-astro](https://github.com/lbr77/blog-by-astro) - 
+- [lbr77/blog-by-astro](https://github.com/lbr77/blog-by-astro) - Astro实现的博客。
 - [lbr77/homepage](https://github.com/lbr77/homepage) - 
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [iCyris/Magia](https://github.com/iCyris/Magia) - 🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises
@@ -2046,6 +2056,7 @@
 
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows in a Docker container.
 - [dglt1/optimus-switch-sddm](https://github.com/dglt1/optimus-switch-sddm) - easy installer for optimus-switch for SDDM, sets up nvidia PRIME and also allows for easy switching between intel/nvidia (prime mode) and intel only mode where nvidia gpu is powered down and no longer
 - [Esonhugh/WeaponizedVSCode](https://github.com/Esonhugh/WeaponizedVSCode) - vscode workspace folder based hacking environment. configured with full-customized. Happy Hacking
 - [Lakr233/openssl-spm](https://github.com/Lakr233/openssl-spm) - Swift Package for OpenSSL with prebuilt XCFramework
@@ -2152,6 +2163,7 @@
 
 ## Solidity 
 
+- [AmazingAng/WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) - 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。Now supports English! 官网: https://wtf.academy
 - [Web3-Club/NeMa](https://github.com/Web3-Club/NeMa) - NeMA(Negotiable Market) bridging Web3's offline transactions to the blockchain, creating a more fair, transparent, and profitable OTC platform.｜Support by @Web3-Club
 - [Web3-Club/Trable](https://github.com/Web3-Club/Trable) - Enable pay in travel without trouble｜Trable is a DApp application designed for overseas travel products with a focus on cryptocurrency payments.｜@Web3-Club
 
@@ -2211,10 +2223,14 @@
 
 ## TypeScript 
 
+- [chrononeko/chronocat](https://github.com/chrononeko/chronocat) - 模块化的 Satori 框架
+- [kuizuo/chaoxing-sign](https://github.com/kuizuo/chaoxing-sign) - 超星学习通网页版在线签到，采用 nuxt 全栈框架实现协议复现。支持所有签到类型以及自动签到。
+- [cxOrz/chaoxing-sign-cli](https://github.com/cxOrz/chaoxing-sign-cli) - 超星学习通签到：支持普通签到、拍照签到、手势签到、位置签到、二维码签到，支持自动监测、QQ机器人签到与推送。
+- [reorproject/reor](https://github.com/reorproject/reor) - AI note-taking app that runs models locally.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
-- [mnixry/binutils-wasm](https://github.com/mnixry/binutils-wasm) - GNU/Binutils WebAssembly Build: Unleashing binary operations for the browser and node.
+- [mnixry/binutils-wasm](https://github.com/mnixry/binutils-wasm) - GNU/Binutils WebAssembly Build: Unleashing binary operations for the browser and node, with Assembler / Disassembler online.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy) - Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns.
 - [sek-consulting/solid-ui](https://github.com/sek-consulting/solid-ui) - Beautifully designed components built with Kobalte & TailwindCSS.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -2226,7 +2242,7 @@
 - [productiveops/dokemon](https://github.com/productiveops/dokemon) - Docker Container Management GUI
 - [gridaco/cors.sh](https://github.com/gridaco/cors.sh) - Sick of CORS Errors?
 - [PrinOrange/nextjs-lexical-blog](https://github.com/PrinOrange/nextjs-lexical-blog) - This is a sleek and efficient web blog project, built with Next.js + MDX + TailwindCSS. You can write your blog posts in Markdown and easily deploy them on Vercel.
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [Simon-He95/v-component-prompter](https://github.com/Simon-He95/v-component-prompter) - 动态提供自定义组件的属性和事件 ｜ Dynamically provide properties and events for custom components
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
@@ -2468,6 +2484,7 @@
 
 ## Vim Script 
 
+- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [bilibili/vim-vide](https://github.com/bilibili/vim-vide) - Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！
 
