@@ -840,7 +840,7 @@
 - [SakuraKoi/DgLabUnlocker](https://github.com/SakuraKoi/DgLabUnlocker) - DG-Lab Unlocker 某APP的奇怪xposed模块
 - [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon
 - [libxzr/OplusHideZoomWindow](https://github.com/libxzr/OplusHideZoomWindow) - Xposed | Magic to hide zoom window from screenshots & screen-records
-- [QuanQuan-CHO/Bilibili-Genshin-Impact-Live-Grab-Tool](https://github.com/QuanQuan-CHO/Bilibili-Genshin-Impact-Live-Grab-Tool) - B站原神直播活动抢原石脚本
+- [liqwang/Bilibili-Genshin-Impact-Live-Grab-Tool](https://github.com/liqwang/Bilibili-Genshin-Impact-Live-Grab-Tool) - B站原神直播活动抢原石脚本
 - [hanbings/flows](https://github.com/hanbings/flows) - 🌊 Flows / Fluocean - 洋流 低耦合 OAuth 客户端授权辅助工具库，支持常见 OAuth 平台，海纳百川，有容乃大！Low-coupling OAuth client authorization auxiliary tool library, supports common OAuth platforms, and is tolerant to all rivers, and
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.19/1.20) server implementation in modding environment using Mixin. ⚡
@@ -873,7 +873,7 @@
 - [UnknownDomainGames/Engine](https://github.com/UnknownDomainGames/Engine) - Build your game with mods，用模组构建你的游戏。
 - [kaaass/ZerotierFix](https://github.com/kaaass/ZerotierFix) - An unofficial Zerotier Android client patched from official client
 - [670848654/SakuraAnime](https://github.com/670848654/SakuraAnime) - 使用jsoup爬取樱花动漫(Yhdm)、嘶哩嘶哩(SiliSili)部分内容编写的第三方Android客户端。
-- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.20.4 Fishing bot for Minecraft
+- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.20.6 Fishing bot for Minecraft
 - [ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend) - Enjoy programming while playing a game.
 - [88250/symphony](https://github.com/88250/symphony) - 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。A modern community (forum/Q&A/BBS/SNS/blog) system platform implemented in Java. https://ld246.com
 - [niefy/wx-api](https://github.com/niefy/wx-api) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
@@ -1229,7 +1229,7 @@
 - [linyiLYi/pose-monitor](https://github.com/linyiLYi/pose-monitor) - “让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示
 - [woctezuma/stable-diffusion-colab](https://github.com/woctezuma/stable-diffusion-colab) - Colab notebook for Stable Diffusion Hyper-SDXL.
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
-- [qiaolinwang/VITS-Paimon](https://github.com/qiaolinwang/VITS-Paimon) - Implementation of the VITS model using Genshin Impact datasets
+- [qiaolinwang/VITS](https://github.com/qiaolinwang/VITS) - Implementation of the VITS model
 - [hhiim/Lacan](https://github.com/hhiim/Lacan) - 利用四层LSTM生成拉康精神分析黑话，用于讽刺（但过拟合……
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [ProblemFactory/GenshinArtScanner](https://github.com/ProblemFactory/GenshinArtScanner) - Yet Another Genshin Impact Artifact Scanner
@@ -1988,7 +1988,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 158 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 159 stars and 176 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
