@@ -118,6 +118,7 @@
 
 ## C 
 
+- [CTCaer/hekate](https://github.com/CTCaer/hekate) - hekate - A GUI based Nintendo Switch Bootloader
 - [Physics365/991CN-X-CW-Decompilation](https://github.com/Physics365/991CN-X-CW-Decompilation) - 991CN X 反编译及资料整理
 - [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 - [wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly) - 助力每一位RT队员，快速生成免杀木马
@@ -170,7 +171,7 @@
 - [Mixiaoxiao/Arduino-HomeKit-ESP8266](https://github.com/Mixiaoxiao/Arduino-HomeKit-ESP8266) - Native Apple HomeKit accessory implementation for the ESP8266 Arduino core.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [Gibtnix/MSIKLM](https://github.com/Gibtnix/MSIKLM) - Control the SteelSeries keyboard of your MSI gaming notebook with Linux
-- [Zxilly/UA2F](https://github.com/Zxilly/UA2F) - Change User-Agent to F-words on OpenWRT router to prevent being detected.
+- [Zxilly/UA2F](https://github.com/Zxilly/UA2F) - Change User-Agent to F-words on OpenWRT router to prevent being detected. Fast.
 - [CHN-beta/xmurp-ua](https://github.com/CHN-beta/xmurp-ua) - 在 OpenWrt 上修改 HTTP 流量的 UA
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
@@ -250,6 +251,7 @@
 
 ## C# # 
 
+- [MInggongK/Penetration-mining-src](https://github.com/MInggongK/Penetration-mining-src) - 一款集成了H3C,致远，泛微，万户，帆软，海康威视，金蝶云星空，畅捷通，Struts等多个RCE漏洞利用工具
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [Scighost/Starward](https://github.com/Scighost/Starward) - Game Launcher for miHoYo  -  米家游戏启动器
@@ -360,6 +362,7 @@
 
 ## C++ 
 
+- [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) - 
 - [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze #includes in C and C++ source files
 - [MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework) - 基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition
@@ -369,7 +372,7 @@
 - [zhuzichu520/FluentUI](https://github.com/zhuzichu520/FluentUI) - FluentUI for QML
 - [upx/upx](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables
 - [troldal/OpenXLSX](https://github.com/troldal/OpenXLSX) - A C++ library for reading, writing, creating and modifying Microsoft Excel® (.xlsx) files.
-- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [H4ckF0rFun/HoldingHands](https://github.com/H4ckF0rFun/HoldingHands) - 
 - [PS3-4K-Pro/PS3-4K-Pro](https://github.com/PS3-4K-Pro/PS3-4K-Pro) - The Ultimate PS3™ Experience.
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
@@ -604,6 +607,7 @@
 
 ## Go 
 
+- [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [M0nster3/OneLong](https://github.com/M0nster3/OneLong) - 简化前期信息收集的繁重任务，协助红队人员快速的信息收集，达到一条龙的效果
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
@@ -647,7 +651,7 @@
 - [shiyunjin/lan-expose](https://github.com/shiyunjin/lan-expose) - 在封禁 443,80 端口的情况下,开放访问网站,无需在地址栏输入端口
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [saltosystems/winrt-go](https://github.com/saltosystems/winrt-go) - 
-- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
+- [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [caddy-dns/cloudflare](https://github.com/caddy-dns/cloudflare) - Caddy module: dns.providers.cloudflare
 - [mariocandela/beelzebub](https://github.com/mariocandela/beelzebub) - A secure low code honeypot framework, leveraging AI for System Virtualization.
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
@@ -1260,6 +1264,7 @@
 
 ## Jupyter Notebook 
 
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [shansongliu/M2UGen](https://github.com/shansongliu/M2UGen) - This is the official repository for M2UGen
@@ -1379,7 +1384,6 @@
 ## Objective-C 
 
 - [opa334/TrollStore](https://github.com/opa334/TrollStore) - Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple
-- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 15+
 - [0x36/weightBufs](https://github.com/0x36/weightBufs) - ANE kernel r/w exploit for iOS 15 and macOS 12
 - [KJCracks/Clutch](https://github.com/KJCracks/Clutch) - Fast iOS executable dumper
 - [finogeeks/FinClipSDK](https://github.com/finogeeks/FinClipSDK) - FinClip 核心 SDK 插件，用于小程序基础的 API 与组件调用  / Core SDK for FinClip
@@ -1390,12 +1394,13 @@
 
 ## Others 
 
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXp/POC,大部分漏洞来源网络，目前收集整理了700多个poc/exp，长期更新。
+- [CTF-Archives/2024CISCN-Finals-AWDP](https://github.com/CTF-Archives/2024CISCN-Finals-AWDP) - 第十七届全国大学生信息安全竞赛创新实践能力赛决赛 - AWDP
 - [ziyao233/khay](https://github.com/ziyao233/khay) - Wayland compositors are over urbanization. | Wayland 混成器还是过于城市化了
 - [LanYunDev/InjectLib_bak](https://github.com/LanYunDev/InjectLib_bak) - ⚠️ 仅存放surge crack到Releases (随缘更新)
 - [JLU-NightsWatch/JLU-Courses](https://github.com/JLU-NightsWatch/JLU-Courses) - 吉林大学软件学院全部课程资料分享
 - [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
 - [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet
-- [xcanwin/CVE-2024-4577-PHP-RCE](https://github.com/xcanwin/CVE-2024-4577-PHP-RCE) - 
 - [yuezih/King-of-Pigeon](https://github.com/yuezih/King-of-Pigeon) - 计算机保研简历与文书实用模板
 - [veo/vshell](https://github.com/veo/vshell) - vshell 是一款安全对抗模拟、红队工具。提供隧道代理和隐蔽通道，模拟长期潜伏攻击者的策略和技术
 - [BiliUniverse/Universe](https://github.com/BiliUniverse/Universe) - 哔哩哔哩流媒体平台功能增强系列模块
@@ -1414,7 +1419,7 @@
 - [Aabyss-Team/Ban-Hacker-IP-Plan](https://github.com/Aabyss-Team/Ban-Hacker-IP-Plan) - 国内恶意IP封禁计划，还赛博空间一片朗朗乾坤
 - [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 云盘桌面应用客户端
 - [SunsetMkt/awesome-tunneling](https://github.com/SunsetMkt/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
-- [biliticket/BHYG](https://github.com/biliticket/BHYG) - B站 会员购 抢票 脚本
+- [ZianTT/BHYG](https://github.com/ZianTT/BHYG) - B站 会员购 抢票 脚本
 - [Jpinsoft/DeepSound](https://github.com/Jpinsoft/DeepSound) - Official DeepSound repository migrated from jpinsoft.net. DeepSound is a freeware steganography tool and audio converter that hides secret data into audio files. The application also enables you to ex
 - [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
 - [Byxs20/PuzzleSolver](https://github.com/Byxs20/PuzzleSolver) - 一款针对CTF竞赛MISC的工具~
@@ -1580,6 +1585,7 @@
 
 ## PHP 
 
+- [m3m0r7/php-os](https://github.com/m3m0r7/php-os) - An operating system written in PHP
 - [DasSecurity-HatLab/AoiAWD](https://github.com/DasSecurity-HatLab/AoiAWD) - AoiAWD-专为比赛设计，便携性好，低权限运行的EDR系统。
 - [leohearts/awd-watchbird](https://github.com/leohearts/awd-watchbird) - A powerful PHP WAF for AWD
 - [CTF-Archives/VNCTF2024-OnlyLocalSql](https://github.com/CTF-Archives/VNCTF2024-OnlyLocalSql) - VNCTF2024 - Misc - OnlyLocalSql - Source Code
@@ -1666,6 +1672,9 @@
 
 ## Python 
 
+- [dr0op/WeblogicScan](https://github.com/dr0op/WeblogicScan) - 增强版WeblogicScan、检测结果更精确、插件化、添加CVE-2019-2618，CVE-2019-2729检测，Python3支持
+- [epinna/tplmap](https://github.com/epinna/tplmap) - Server-Side Template Injection and Code Injection Detection and Exploitation Tool
+- [vladko312/SSTImap](https://github.com/vladko312/SSTImap) - Automatic SSTI detection tool with interactive interface
 - [JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC, MIPS, RISC-V 64, and 
 - [tna0y/Python-random-module-cracker](https://github.com/tna0y/Python-random-module-cracker) - Predict python's random module generated values.
 - [RsaCtfTool/RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data
@@ -1681,8 +1690,8 @@
 - [bilibili/Index-1.9B](https://github.com/bilibili/Index-1.9B) - A SOTA lightweight multilingual LLM
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [OSPG/binwalk](https://github.com/OSPG/binwalk) - Firmware Analysis Tool
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [rtcatc/Packer-Fuzzer](https://github.com/rtcatc/Packer-Fuzzer) - Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.
+- [xcanwin/CVE-2024-4577-PHP-RCE](https://github.com/xcanwin/CVE-2024-4577-PHP-RCE) - 
 - [WangYihang/UsbKeyboardDataHacker](https://github.com/WangYihang/UsbKeyboardDataHacker) - USB键盘流量包取证工具 , 用于恢复用户的击键信息
 - [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS) - CVE-2024-32640 | Automated SQLi Exploitation PoC
 - [W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE) - Exploiting XXE Vulnerabilities on Microsoft SharePoint Server and Cloud via Confused URL Parsing
@@ -2080,7 +2089,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 170 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 179 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -2106,6 +2115,7 @@
 
 ## Ruby 
 
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [david942j/seccomp-tools](https://github.com/david942j/seccomp-tools) - Provide powerful tools for seccomp analysis
@@ -2361,6 +2371,8 @@
 
 ## Swift 
 
+- [Lessica/TrollFools](https://github.com/Lessica/TrollFools) - In-place tweak injection with insert_dylib and ChOma.
+- [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant, animated gradient views.
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -2376,6 +2388,7 @@
 - [SakurasoftLtd/tachiyomi-ios](https://github.com/SakurasoftLtd/tachiyomi-ios) - iOS port of the Tachiyomi manga reader.
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [starkdmi/BrightXDR](https://github.com/starkdmi/BrightXDR) - Free and Open Source alternative to Vivid macOS application to extend Apple XDR display brightness from 500 up to 1600 nits.
+- [XITRIX/iTorrent](https://github.com/XITRIX/iTorrent) - Torrent client for iOS 16+
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore) - AltStore is an alternative app store for non-jailbroken iOS devices.
 - [Lakr233/Kimis](https://github.com/Lakr233/Kimis) - Kimis is a client for Misskey built with pure UIKit for quality.
 - [caidukai/sms-interception](https://github.com/caidukai/sms-interception) - 拥有自己的短信拦截器
@@ -2404,6 +2417,7 @@
 
 ## TypeScript 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [RSSNext/follow](https://github.com/RSSNext/follow) - [WIP] Next generation information browser
 - [yixiaojiu/bilibili-bangumi-component](https://github.com/yixiaojiu/bilibili-bangumi-component) - 展示 bilibili 与 Bangumi 追番列表的 WebComponent 组件
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
