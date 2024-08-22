@@ -119,6 +119,7 @@
 
 ## C 
 
+- [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [relalis/macos-btrfs](https://github.com/relalis/macos-btrfs) - BTRFS filesystem plugin for macOS
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC) - 
 - [H4K6/CVE-2023-0179-PoC](https://github.com/H4K6/CVE-2023-0179-PoC) - 针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，该漏洞在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。
@@ -256,6 +257,7 @@
 
 ## C# # 
 
+- [CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater) - EAapp模拟器 By Misaka_Mikoto_01 And CrazyZhang666
 - [wh0amitz/SharpRODC](https://github.com/wh0amitz/SharpRODC) - To audit the security of read-only domain controllers
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [MInggongK/Penetration-mining-src](https://github.com/MInggongK/Penetration-mining-src) - 一款集成了H3C,致远，泛微，万户，帆软，海康威视，金蝶云星空，畅捷通，Struts等多个RCE漏洞利用工具
@@ -403,7 +405,7 @@
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices
 - [alex47/BreezeBlurred](https://github.com/alex47/BreezeBlurred) - BreezeBlurred is a fork of KDE Breeze window decoration written in Qt C++
 - [THMonster/kcm-colorful](https://github.com/THMonster/kcm-colorful) - Make your KDE Plasma colorful.
-- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4
+- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
 - [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Lightweight inference library for ONNX files, written in C++. It can run SDXL on a RPI Zero 2 but also Mistral 7B on desktops and servers.
 - [SirusDoma/MaiSense](https://github.com/SirusDoma/MaiSense) - Touch Sensor Emulation for SDEY - 💦 Touchlaundry Disco
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
@@ -968,7 +970,6 @@
 - [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and Shadowrocket!
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [USTC-Hackergame/hackergame2023-writeups](https://github.com/USTC-Hackergame/hackergame2023-writeups) - Hackergame 2023 的官方与非官方题解
 - [bodyno/universal-react-starter-kit](https://github.com/bodyno/universal-react-starter-kit) - 服务端渲染的 React 手脚架。使用 React, Redux, and React-Router！一个简单优美的脚手架
 - [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
@@ -1365,7 +1366,7 @@
 
 - [mchome/openwrt-dogcom](https://github.com/mchome/openwrt-dogcom) - openwrt dogcom
 - [AsahiLinux/asahi-audio](https://github.com/AsahiLinux/asahi-audio) - Userspace audio for Asahi Linux
-- [ghostplant/ubuntu-pe](https://github.com/ghostplant/ubuntu-pe) - Ubuntu PE: A Portable and Energy-Saving Edition for Ubuntu LTS
+- [ghostplant/ubuntu-pe](https://github.com/ghostplant/ubuntu-pe) - Ubuntu PE: A Fast, Portable and Power-Saving edition for Ubuntu LTS
 - [SynoCommunity/spksrc](https://github.com/SynoCommunity/spksrc) - Cross compilation framework to create native packages for the Synology's NAS
 
 ## Markdown 
@@ -1401,7 +1402,7 @@
 
 ## Others 
 
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了900多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1000多个poc/exp，长期更新。
 - [CTF-Archives/2024CISCN-Finals-AWDP](https://github.com/CTF-Archives/2024CISCN-Finals-AWDP) - 第十七届全国大学生信息安全竞赛创新实践能力赛决赛 - AWDP
 - [ziyao233/khay](https://github.com/ziyao233/khay) - Wayland compositors are over urbanization. | Wayland 混成器还是过于城市化了
 - [LanYunDev/InjectLib_bak](https://github.com/LanYunDev/InjectLib_bak) - ⚠️ 仅存放surge crack到Releases (随缘更新)
@@ -1548,7 +1549,7 @@
 - [Angelic47/WTFPL](https://github.com/Angelic47/WTFPL) - DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [Menci/acme](https://github.com/Menci/acme) - Issue free SSL certs on GitHub Actions with acme.sh.
-- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [iffybug/reverse-interview-zh](https://github.com/iffybug/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [TooTallNate/node-http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent) - An HTTP(s) proxy `http.Agent` implementation for HTTP endpoints
 - [easychen/http-t-shirts](https://github.com/easychen/http-t-shirts) - Open source http status code T shirt  ·  http状态码系列T恤设计稿
@@ -1677,6 +1678,7 @@
 
 ## Python 
 
+- [AabyssZG/Docker-TCP-Scan](https://github.com/AabyssZG/Docker-TCP-Scan) - 旨在以攻促防，针对Docker TCP socket的开源利用工具
 - [yj94/BinarySpy](https://github.com/yj94/BinarySpy) - 一个手动或自动patch shellcode到二进制文件的免杀工具/A tool for manual or automatic patch shellcode into binary file oder to bypass AV.
 - [Cosmic-Excalibur/CTF-Codes](https://github.com/Cosmic-Excalibur/CTF-Codes) - 
 - [dr0op/WeblogicScan](https://github.com/dr0op/WeblogicScan) - 增强版WeblogicScan、检测结果更精确、插件化、添加CVE-2019-2618，CVE-2019-2729检测，Python3支持
@@ -1726,7 +1728,7 @@
 - [sekai-soft/code-launcher](https://github.com/sekai-soft/code-launcher) - Jetbrains Toolbox for VSCode!
 - [synacktiv/php_filter_chains_oracle_exploit](https://github.com/synacktiv/php_filter_chains_oracle_exploit) - A CLI to exploit parameters vulnerable to PHP filter chain error based oracle.
 - [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) - Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.
-- [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin) - 🐚 OpenDevin: Code Less, Make More
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [marcnewlin/hi_my_name_is_keyboard](https://github.com/marcnewlin/hi_my_name_is_keyboard) - 
 - [ptr-yudai/ptrlib](https://github.com/ptr-yudai/ptrlib) - Python library for CTFer
 - [kwanyun/StyleSketch](https://github.com/kwanyun/StyleSketch) - official repository of StyleSketch
@@ -1761,7 +1763,7 @@
 - [ustclug/hackergame](https://github.com/ustclug/hackergame) - Hackergame platform for 2018 and beyond
 - [NoSparkHere/hackergame](https://github.com/NoSparkHere/hackergame) - Hackergame platform customized for ZFun
 - [yangxy/PASD](https://github.com/yangxy/PASD) - [ECCV2024] Pixel-Aware Stable Diffusion for Realistic Image Super-Resolution and Personalized Stylization
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [Esonhugh/TicketMaster](https://github.com/Esonhugh/TicketMaster) - Here is useful scripts collections. You can forge tickets locally with secret keys or certificates. It's useful when you want backdoor/persistence with opsec
 - [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [Tokeii0/LovelyMem](https://github.com/Tokeii0/LovelyMem) - 基于Memprocfs和Volatility的可视化内存取证工具
@@ -2095,7 +2097,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 173 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 172 stars and 178 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -2112,6 +2114,7 @@
 
 ## Rich Text Format 
 
+- [winterant/oi](https://github.com/winterant/oi) - CSP-J/S/X, NOIP, NOI, IOI, 信息学奥林匹克竞赛历年真题收录 | QQ交流群529507453
 - [enkerewpo/OI-Public-Library](https://github.com/enkerewpo/OI-Public-Library) - OI / ACM essays and learning materials
 
 ## Roff 
@@ -2135,7 +2138,10 @@
 
 ## Rust 
 
-- [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM inference for mobile, desktop and server.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [mathetake/alvm](https://github.com/mathetake/alvm) - Run Linux ELF binary directly on macOS via hypervisor.framework
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM and StableDiffusion inference for mobile, desktop and server.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bee-san/Ares](https://github.com/bee-san/Ares) - Automated decoding of encrypted text without knowing the key or ciphers used
@@ -2429,6 +2435,7 @@
 
 ## TypeScript 
 
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and most Steam Game Servers.
 - [PhotonQuantum/tmexclude](https://github.com/PhotonQuantum/tmexclude) - Exclude undesired files (node_modules, target, etc) from your TimeMachine backup.
@@ -2620,7 +2627,7 @@
 - [imaegoo/pushoo](https://github.com/imaegoo/pushoo) - 💬 即时消息推送 Node SDK
 - [jianggaocheng/mihoyo-signin](https://github.com/jianggaocheng/mihoyo-signin) - 米游社app 自动签到
 - [liyupi/mianshiya](https://github.com/liyupi/mianshiya) - 持续维护的面试刷题网站，帮你拿到满意 offer！⭐️ 2024年最新Java面试题、前端面试题、C++面试题、Go面试题、Python面试题、测试面试题、运维面试题、后端面试题、操作系统面试题、计算机网络面试题、Redis面试题、MySQL数据库面试题、算法面试题、Spring面试题、JVM面试题、Java并发面试题、Linux面试题等几千道高频程序员求职必备八股文。💎 React 前端 + N
-- [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配
+- [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
 - [YunYouJun/valaxy](https://github.com/YunYouJun/valaxy) - 🌌 Next Generation Static Blog Framework (Beta) 下一代静态博客框架（支持页面/配置热重载）
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
