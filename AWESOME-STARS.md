@@ -371,6 +371,7 @@
 
 ## C++ 
 
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [vxCrypt0r/AMSI_VEH](https://github.com/vxCrypt0r/AMSI_VEH) - A Powershell AMSI Bypass technique via Vectored Exception Handler (VEH). This technique does not perform assembly instruction patching, function hooking or Import Address Table (IAT) modification.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation) - 
@@ -565,11 +566,11 @@
 ## Dart 
 
 - [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。
-- [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party GPT Client for OpenAI API.
+- [lollipopkit/flutter_gpt_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
 - [Predidit/oneAnime](https://github.com/Predidit/oneAnime) - 一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。
 - [authpass/authpass](https://github.com/authpass/authpass) - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible.
 - [JGeek00/adguard-home-manager](https://github.com/JGeek00/adguard-home-manager) - AdGuard Home client created with Flutter
-- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox app using Flutter
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
@@ -603,7 +604,6 @@
 ## EJS 
 
 - [zonemeen/netease-recent-profile](https://github.com/zonemeen/netease-recent-profile) - 🎧 在 Github Profile 上显示你在网易云音乐上的听歌记录
-- [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 - [TransparentLC/hexo-theme-akarin](https://github.com/TransparentLC/hexo-theme-akarin) - The theme of https://akarin.dev/
 - [miiiku/hexo-theme-flexblock](https://github.com/miiiku/hexo-theme-flexblock) - 一个卡片类拟态风格的Hexo主题
 - [nexmoe/hexo-theme-yet-the-books](https://github.com/nexmoe/hexo-theme-yet-the-books) - 还有书籍，🌙 始于外表，忠于文字。一个献给热爱思考者的博客主题。
@@ -615,6 +615,8 @@
 
 ## Go 
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
@@ -622,7 +624,7 @@
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [Luxcis/Jetbrains-Helper-Go](https://github.com/Luxcis/Jetbrains-Helper-Go) - 一个有助于提升Jetbrains服务商相关产品易用性的工具(GO语言版) 改写自https://github.com/NotoChen/Jetbrains-Help
 - [daeuniverse/outbound](https://github.com/daeuniverse/outbound) - URL-based proxy outbound.
-- [git-town/git-town](https://github.com/git-town/git-town) - Git made easy for teams
+- [git-town/git-town](https://github.com/git-town/git-town) - Git branches made easy
 - [layou233/NeverIdle](https://github.com/layou233/NeverIdle) - 资源定期浪费，可用于 Oracle 甲骨文保活。
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [05sec/Cardinal](https://github.com/05sec/Cardinal) - CTF🚩 AWD (Attack with Defense) 线下赛平台 / AWD platform - 欢迎 Star~ ✨
@@ -1133,7 +1135,7 @@
 - [detroitenglish/cloudflare-workers-webpack-boilerplate](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - A superbly simple, minimal-config template for building, bundling and deploying Cloudflare Workers with Webpack 🚀
 - [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
-- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 57 stars 7 forks.
+- [ouuan/This-repo-has-x-stars-y-forks-action](https://github.com/ouuan/This-repo-has-x-stars-y-forks-action) - 🤖 A GitHub Action to update this sentence for your repository: This repo has 58 stars 7 forks.
 - [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
 - [Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT) - 一个在 QQ 中运行的原神助手
 - [kidonng/anti-web-addiction](https://github.com/kidonng/anti-web-addiction) - 网络防沉迷浏览器扩展，防止人沉迷网络，切实保护人身心健康
@@ -1679,6 +1681,9 @@
 
 ## Python 
 
+- [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
+- [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063) - poc for CVE-2024-38063 (RCE in tcpip.sys)
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [lijiejie/GitHack](https://github.com/lijiejie/GitHack) - A `.git` folder disclosure exploit
 - [hiDaDeng/cntext](https://github.com/hiDaDeng/cntext) - 文本分析包，支持字数统计、可读性、文档相似度、情感分析在内的多种文本分析方法。chinese text sentiment analysis
 - [AabyssZG/Docker-TCP-Scan](https://github.com/AabyssZG/Docker-TCP-Scan) - 旨在以攻促防，针对Docker TCP socket的开源利用工具
@@ -1878,7 +1883,7 @@
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [Nriver/qb-rss-manager](https://github.com/Nriver/qb-rss-manager) - qBittorrent rss订阅规则管理,  支持Docker环境, 群晖, Windows桌面, Linux桌面的qb. 推荐直接使用懒人包体验完整功能.
 - [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT) - 😎高稳定性、🧩支持扩展、🦄多模态的 ChatGPT QQ / QQ频道 / One Bot 机器人🤖 | 支持 OpenAI GPT、GPT 4o、Claude、Gemini Pro、DeepSeek、Moonshot（Kimi）、gpt4free、One API、Ollama 的 QQ / QQ频道 / OneBot 机器人 / Agent 平台
-- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit.
+- [yym68686/ChatGPT-Telegram-Bot](https://github.com/yym68686/ChatGPT-Telegram-Bot) - TeleChat: 🤖️ an AI chat Telegram bot can Web Search Powered by GPT-3.5/4/4 Turbo/4o, DALL·E 3, Groq, Gemini 1.5 Pro/Flash and the official Claude2.1/3/3.5 API using Python on Zeabur, fly.io and Replit
 - [acheong08/EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
 - [RimoChan/chao](https://github.com/RimoChan/chao) - 【超】Python魔法加速器！
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
