@@ -648,7 +648,7 @@
 - [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
 - [soulteary/azure-openai-proxy](https://github.com/soulteary/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
-- [SunBK201/UA3F](https://github.com/SunBK201/UA3F) - Implementation of the new generation of HTTP User-Agent modification methodology.
+- [SunBK201/UA3F](https://github.com/SunBK201/UA3F) - Implementation of the next generation of HTTP User-Agent modification methodology.
 - [ExpLangcn/dvenom](https://github.com/ExpLangcn/dvenom) - 🐍 Double Venom (DVenom) is a tool that provides an encryption wrapper and loader for your shellcode.
 - [DrDonk/unlocker](https://github.com/DrDonk/unlocker) - VMware macOS utilities
 - [anaskhan96/soup](https://github.com/anaskhan96/soup) - Web Scraper in Go, similar to BeautifulSoup
@@ -969,7 +969,7 @@
 - [sheep-realms/Echo-Live](https://github.com/sheep-realms/Echo-Live) - 一款基于 Echo 的用于无声系虚拟主播直播的仿视觉小说对话框 OBS 插件
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [x-dr/telegraph-Image](https://github.com/x-dr/telegraph-Image) - 
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 - [sub-store-org/Sub-Store](https://github.com/sub-store-org/Sub-Store) - Advanced Subscription Manager for QX, Loon, Surge, Stash and Shadowrocket!
@@ -1125,7 +1125,6 @@
 - [BlueSkyXN/Comprehensive-Network-Defense](https://github.com/BlueSkyXN/Comprehensive-Network-Defense) - 垃圾IP记录，垃圾ASN列表，CF防火墙规则，宝塔防火墙规则等
 - [thelovekesh/ghost-v4-on-heroku](https://github.com/thelovekesh/ghost-v4-on-heroku) - Deploy the latest ghost v4 on Heroku
 - [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) - M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [pixiv-cat/pixivcat-cloudflare-workers](https://github.com/pixiv-cat/pixivcat-cloudflare-workers) - Pixiv.cat on Cloudflare Workers
 - [Menci/deploy-certificate-to-aliyun](https://github.com/Menci/deploy-certificate-to-aliyun) - GitHub Action to Deploy SSL certificate to Aliyun Certificates Service (and use in CDN).
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
@@ -1145,6 +1144,7 @@
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - Bundle web files into a single image
 - [HCLonely/live2dNodeApi](https://github.com/HCLonely/live2dNodeApi) - Live2D 看板娘脚本的基于 Nodejs 的后端 Api.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer) - genshin wish history analyzer
 - [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 - [Zfour/Butterfly-leancloud-zanplus](https://github.com/Zfour/Butterfly-leancloud-zanplus) - 基于leancloud的hexo butterfly主题添加点赞功能
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -1162,6 +1162,7 @@
 - [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured) - 不仅仅是冷冰冰的链接（Not just link）
 - [ChenYFan/ClientWorker](https://github.com/ChenYFan/ClientWorker) - 用规则驱动黑科技 || 一个基于规则的前端路由拦截器 || A simple, globally hijacked, easily customizable, Service Worker-based front-end worker
 - [186526/aka](https://github.com/186526/aka) - A simple and fast short URL service running on Cloudflare Worker
+- [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一个可爱而现代的 Hexo 主题
 - [MadeBaruna/paimon-moe](https://github.com/MadeBaruna/paimon-moe) - Your best Genshin Impact companion! Help you plan what to farm with ascension calculator and database. Also track your progress with todo and wish counter.
 - [SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest) - AutoJs6-based ant forest energy auto-collect script (基于 AutoJs6 的蚂蚁森林能量自动收取脚本)
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
@@ -1700,7 +1701,7 @@
 - [tna0y/Python-random-module-cracker](https://github.com/tna0y/Python-random-module-cracker) - Predict python's random module generated values.
 - [RsaCtfTool/RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) - RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data
 - [Vu1nT0tal/IoT-vulhub](https://github.com/Vu1nT0tal/IoT-vulhub) - IoT固件漏洞复现环境
-- [daisylab-bit/torchattack](https://github.com/daisylab-bit/torchattack) - 🛡 A set of adversarial attacks in PyTorch
+- [spencerwooo/torchattack](https://github.com/spencerwooo/torchattack) - 🛡 A set of adversarial attacks in PyTorch
 - [bigb0x/CVE-2024-31982](https://github.com/bigb0x/CVE-2024-31982) - POC for CVE-2024-31982: XWiki Platform Remote Code Execution  &gt; 14.10.20
 - [Threekiii/Awesome-Redteam](https://github.com/Threekiii/Awesome-Redteam) - 一个攻防知识仓库 Red Teaming and Offensive Security
 - [DIG-Beihang/AISafety](https://github.com/DIG-Beihang/AISafety) - 
@@ -2033,6 +2034,7 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
 - [yaronzz/BaiduYunToAliYun](https://github.com/yaronzz/BaiduYunToAliYun) - 同步百度云网盘到阿里云
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
 - [y3oj/y3oj](https://github.com/y3oj/y3oj) - Yet another simple, lightweight and maintainable online judge for middle schools
 - [Hawaii-ol/arknights_minor_bypass](https://github.com/Hawaii-ol/arknights_minor_bypass) - Scripts that help you bypass Arknights' anti-addiction system. 明日方舟防沉迷破解，未成年人的第一款松果皮肤
 - [kaaass/beancount_bot](https://github.com/kaaass/beancount_bot) - A telegram bot designed for Beancount
@@ -2109,7 +2111,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 177 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 178 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -2236,7 +2238,6 @@
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [miiiku/own-blog](https://github.com/miiiku/own-blog) - 自己的一个独立博客，想想写写瞎设计
-- [Candinya/Kratos-Rebirth](https://github.com/Candinya/Kratos-Rebirth) - 一个可爱而现代的 Hexo 主题
 - [chanshiyucx/aurora](https://github.com/chanshiyucx/aurora) - An awesome blog theme
 
 ## Scala 
@@ -2405,7 +2406,7 @@
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer) - Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具
 - [Lessica/TrollFools](https://github.com/Lessica/TrollFools) - In-place tweak injection with insert_dylib and ChOma.
-- [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant, animated gradient views.
+- [Lakr233/ColorfulX](https://github.com/Lakr233/ColorfulX) - ColorfulX is a high-performance library designed for creating vibrant & animated mesh gradient views.
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -2455,7 +2456,7 @@
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and most Steam Game Servers.
 - [PhotonQuantum/tmexclude](https://github.com/PhotonQuantum/tmexclude) - Exclude undesired files (node_modules, target, etc) from your TimeMachine backup.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [yixiaojiu/bilibili-bangumi-component](https://github.com/yixiaojiu/bilibili-bangumi-component) - 展示 bilibili 与 Bangumi 追番列表的 WebComponent 组件
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [yaklang/yakit](https://github.com/yaklang/yakit) - Cyber Security ALL-IN-ONE Platform
@@ -2681,7 +2682,6 @@
 - [bangbang93/minecraft-proxy](https://github.com/bangbang93/minecraft-proxy) - Reverse proxy Minecraft. With full forge support.
 - [memset0/memset0](https://github.com/memset0/memset0) - Hi 👋 memset0 here!
 - [wormtql/genshin_panel](https://github.com/wormtql/genshin_panel) - 原神面板计算器, Genshin Impact attribute calculator
-- [voderl/genshin-gacha-analyzer](https://github.com/voderl/genshin-gacha-analyzer) - genshin wish history analyzer
 - [kwhitley/itty-router](https://github.com/kwhitley/itty-router) - A little router.
 - [ganlvtech/phaser-catch-the-cat](https://github.com/ganlvtech/phaser-catch-the-cat) - An HTML5 game 'Catch The Cat' powered by Phaser 3
 - [extend-luogu/extend-luogu](https://github.com/extend-luogu/extend-luogu) - 大型网络游戏服务器加强插件，增添各种~~炫酷魔法~~。
