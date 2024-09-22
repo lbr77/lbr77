@@ -437,7 +437,7 @@
 - [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
 - [donovan6000/Universal-IFR-Extractor](https://github.com/donovan6000/Universal-IFR-Extractor) - Utility that can extract the internal forms represenation from both EFI and UEFI modules.
 - [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) - A C++ header-only HTTP/HTTPS server and client library
-- [MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM) - NCM 软件插件管理器
+- [std-microblock/BetterNCM](https://github.com/std-microblock/BetterNCM) - NCM 软件插件管理器
 - [opentx/opentx](https://github.com/opentx/opentx) - OpenTX custom firmware for Transmitters
 - [chrisant996/clink](https://github.com/chrisant996/clink) - Bash's powerful command line editing in cmd.exe
 - [matrixcascade/PSnip](https://github.com/matrixcascade/PSnip) - ScreenSnapshot tool for arts
@@ -657,7 +657,7 @@
 - [RTXUX/hackergame-mail-api](https://github.com/RTXUX/hackergame-mail-api) - 
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 - [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy) - Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure OpenAI API request. Support GPT-4,Embeddings,Langchain. Adapter from OpenAI to Azure OpenAI.
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌 自托管评论系统 | Your Self-hosted Comment System.
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 - [miru-project/bt-server](https://github.com/miru-project/bt-server) - 🔮 Miru BT server
 - [wucongyou/go-jlu-drcom-client](https://github.com/wucongyou/go-jlu-drcom-client) - 
 - [shiyunjin/lan-expose](https://github.com/shiyunjin/lan-expose) - 在封禁 443,80 端口的情况下,开放访问网站,无需在地址栏输入端口
@@ -831,13 +831,13 @@
 - [stisla/stisla](https://github.com/stisla/stisla) - Free Bootstrap Admin Template
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
 - [schwarzeni/leetcode-binarytree-edit](https://github.com/schwarzeni/leetcode-binarytree-edit) - LeetCode 二叉树输入数组可视化编辑
-- [project-trans/MtF-wiki](https://github.com/project-trans/MtF-wiki) - MtF.wiki is a free, open, and continuously updating transgender female knowledge integration site.
 - [ioccc-src/winner](https://github.com/ioccc-src/winner) - Winners of the International Obfuscated C Code Contest
 - [useblue/Cloudreve-Heroku](https://github.com/useblue/Cloudreve-Heroku) - Cloureve on Heroku with Redis
 - [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [hvnobug/hexo-external-link](https://github.com/hvnobug/hexo-external-link) - 😀一个Hexo插件，解决外链跳转问题
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
 - [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 - [ouuan/fake-luogu-paintboard-server](https://github.com/ouuan/fake-luogu-paintboard-server) - 模拟洛谷冬日绘板服务器，可用于测试脚本。
 - [827652549/my-chrome-plugin](https://github.com/827652549/my-chrome-plugin) - 自定义谷歌插件
@@ -964,6 +964,7 @@
 - [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024
 - [AlanDecode/Typecho-Theme-VOID](https://github.com/AlanDecode/Typecho-Theme-VOID) - 🐒 猴子打字机原理的产物
 - [Littlefean/CodingPersonality](https://github.com/Littlefean/CodingPersonality) - 16型人格测试（程序员版本）整活项目、测试你的编程思维习惯
+- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
 - [mljs/ml](https://github.com/mljs/ml) - Machine learning tools in JavaScript
 - [tencent-connect/bot-docs](https://github.com/tencent-connect/bot-docs) - QQ频道机器人文档
 - [sheep-realms/Echo-Live](https://github.com/sheep-realms/Echo-Live) - 一款基于 Echo 的用于无声系虚拟主播直播的仿视觉小说对话框 OBS 插件
@@ -1277,6 +1278,7 @@
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [shansongliu/M2UGen](https://github.com/shansongliu/M2UGen) - This is the official repository for M2UGen
 - [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook) - 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
@@ -1297,6 +1299,7 @@
 
 ## Kotlin 
 
+- [zhufucdev/MotionEmulator](https://github.com/zhufucdev/MotionEmulator) - Xposed enabled location simulator with sensor support.
 - [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices
 - [capntrips/KernelFlasher](https://github.com/capntrips/KernelFlasher) - Kernel Flasher is an Android app to flash, backup, and restore kernels.
 - [YZune/CourseAdapter](https://github.com/YZune/CourseAdapter) - 
@@ -1377,6 +1380,7 @@
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [project-trans/MtF-wiki](https://github.com/project-trans/MtF-wiki) - MtF.wiki is a free, open, and continuously updating transgender female knowledge integration site.
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 
 ## Move 
@@ -1432,10 +1436,9 @@
 - [ProbiusOfficial/FittingRoom](https://github.com/ProbiusOfficial/FittingRoom) - 这是什么？女装！存一下！
 - [Aabyss-Team/Ban-Hacker-IP-Plan](https://github.com/Aabyss-Team/Ban-Hacker-IP-Plan) - 国内恶意IP封禁计划，还赛博空间一片朗朗乾坤
 - [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 云盘桌面应用客户端
-- [SunsetMkt/awesome-tunneling](https://github.com/SunsetMkt/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [A-SunsetMkt-Forks/awesome-tunneling](https://github.com/A-SunsetMkt-Forks/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [ZianTT/BHYG](https://github.com/ZianTT/BHYG) - B站 会员购 抢票 脚本
 - [Jpinsoft/DeepSound](https://github.com/Jpinsoft/DeepSound) - Official DeepSound repository migrated from jpinsoft.net. DeepSound is a freeware steganography tool and audio converter that hides secret data into audio files. The application also enables you to ex
-- [Semporia/TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock) - TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！
 - [Byxs20/PuzzleSolver](https://github.com/Byxs20/PuzzleSolver) - 一款针对CTF竞赛MISC的工具~
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) - 无人机资源汇总
@@ -1684,6 +1687,8 @@
 
 ## Python 
 
+- [Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) - Repository for the Paper (AAAI 2024, Oral) --- Visual Adversarial Examples Jailbreak Large Language Models
+- [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [B1ue1nWh1te/Poseidon](https://github.com/B1ue1nWh1te/Poseidon) - 海神波塞冬工具对常用的链上交互操作进行了封装，使得开发者能够便捷地与任何以太坊同构链交互，主要用于在CTF比赛中攻克Blockchain方向的题目。
 - [junaire/run.cu](https://github.com/junaire/run.cu) - Compile & run a single CUDA file on the cloud GPUs
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
@@ -1760,7 +1765,6 @@
 - [maple3142/My-CTF-Challenges](https://github.com/maple3142/My-CTF-Challenges) - Challenges I created for CTF competitions.
 - [MakiNaruto/Automatic_ticket_purchase](https://github.com/MakiNaruto/Automatic_ticket_purchase) - 大麦网抢票脚本
 - [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
 - [rocky/python-uncompyle6](https://github.com/rocky/python-uncompyle6) - A cross-version Python bytecode decompiler
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [pymanopt/pymanopt](https://github.com/pymanopt/pymanopt) - Python toolbox for optimization on Riemannian manifolds with support for automatic differentiation
@@ -2104,14 +2108,13 @@
 - [2X-ercha/Twikoo-Magic](https://github.com/2X-ercha/Twikoo-Magic) - Twikoo自定义表情列表 | HexoPlusPlus自定义表情列表（其实基于OwO的项目都可以用的啦）
 - [GamerNoTitle/Valine-Magic](https://github.com/GamerNoTitle/Valine-Magic) - ✨Valine/MiniValine/Waline（已兼容新版写法，直接使用MiniValine同样的链接即可）自定义表情列表，为你的表情库“喜加亿”
 - [vcheckzen/FODI](https://github.com/vcheckzen/FODI) - Fast OneDrive Index，OneDrive 秒级列表程序
-- [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
 - [zaxtyson/Anime-API](https://github.com/zaxtyson/Anime-API) - 通过本地 Web 接口获取第三方网站的动漫和弹幕资源, 支持扩展
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 178 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 176 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -2206,7 +2209,7 @@
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 - [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [MicroCBer/BetterNCM-Installer](https://github.com/MicroCBer/BetterNCM-Installer) - 一键安装 Better 系软件
+- [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) - 一键安装 Better 系软件
 - [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) - [not actively maintained] Mount your Microsoft OneDrive storage as FUSE filesystem.
 - [Absolucy/asar-rs](https://github.com/Absolucy/asar-rs) - Asar archive parsing in Rust
 - [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
@@ -2264,7 +2267,7 @@
 - [CatMe0w/zouxian](https://github.com/CatMe0w/zouxian) - Permanent Apple Intelligence + Xcode Predictive Code Completion for Chinese-market Mac computers
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way!
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
-- [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
+- [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck) - Linux应急处置/信息搜集/漏洞检测工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程/供应链/服务器风险等13类70+项检查
 - [amalmurali47/git_rce](https://github.com/amalmurali47/git_rce) - Exploit PoC for CVE-2024-32002
 - [SteamDatabase/Protobufs](https://github.com/SteamDatabase/Protobufs) - 👑 Automatically tracked Steam, CS2, Dota 2, Deadlock, TF2 protobufs.
@@ -2299,7 +2302,7 @@
 - [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
 - [rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts) - 集合多个去广告hosts并去重
 - [spiritLHLS/Oracle-server-keep-alive-script](https://github.com/spiritLHLS/Oracle-server-keep-alive-script) - 服务器资源占用脚本(甲骨文服务器保活脚本)(Oracle Server Keep Alive Script)
-- [garywill/linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️ (也欢迎关注B站 https://space.bilibili.com/2123686105 )
+- [garywill/linux-router](https://github.com/garywill/linux-router) - Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6. Can also be used for routing VM/containers 🛰️
 - [Lancenas/Actions-Lean-OpenWrt](https://github.com/Lancenas/Actions-Lean-OpenWrt) - .config导入编译
 - [Fmstrat/winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
@@ -2525,7 +2528,7 @@
 - [electron/electron-quick-start-typescript](https://github.com/electron/electron-quick-start-typescript) - Clone to try a simple Electron app (in TypeScript)
 - [lbr77/gv-to-telegram](https://github.com/lbr77/gv-to-telegram) - 将google voice上收到的短信转发到telegram，从而避免打开网页或app收验证码。
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
+- [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Come join the best place on the internet to learn AI skills. Use code "aicodetranslator" for an extra 20% off.
 - [ikun-svelte/ikun-ui](https://github.com/ikun-svelte/ikun-ui) - 🐔A Svelte.js based UnoCSS UI library that allows you to make  websites
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
@@ -2591,7 +2594,7 @@
 - [galacean/engine](https://github.com/galacean/engine) - A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
 - [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
-- [sst/open-next](https://github.com/sst/open-next) - Open source Next.js serverless adapter
+- [sst/open-next](https://github.com/sst/open-next) - Open-source Next.js adapter for AWS
 - [thien-do/memos-pub](https://github.com/thien-do/memos-pub) - Markdown Blogging, Without Setup or Signup
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [octokit/auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript
