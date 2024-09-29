@@ -90,7 +90,7 @@
 
 ## Astro 
 
-- [saicaca/fuwari](https://github.com/saicaca/fuwari) - A static blog template built with Astro.
+- [saicaca/fuwari](https://github.com/saicaca/fuwari) - ✨A static blog template built with Astro.
 - [pseudoyu/yu-tools](https://github.com/pseudoyu/yu-tools) - 我的个人工具箱 (设备, macOS 软件, iOS Apps...)
 
 ## AutoHotkey 
@@ -119,6 +119,8 @@
 
 ## C 
 
+- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
+- [positive-security/send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [relalis/macos-btrfs](https://github.com/relalis/macos-btrfs) - BTRFS filesystem plugin for macOS
 - [TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC) - 
@@ -406,7 +408,7 @@
 - [alex47/BreezeBlurred](https://github.com/alex47/BreezeBlurred) - BreezeBlurred is a fork of KDE Breeze window decoration written in Qt C++
 - [THMonster/kcm-colorful](https://github.com/THMonster/kcm-colorful) - Make your KDE Plasma colorful.
 - [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
-- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Lightweight inference library for ONNX files, written in C++. It can run SDXL on a RPI Zero 2 but also Mistral 7B on desktops and servers.
+- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Lightweight inference library for ONNX files, written in C++. It can run Stable Diffusion XL 1.0 on a RPI Zero 2 (or in 298MB of RAM) but also Mistral 7B on desktops and servers. ARM, x86, WASM, RISC-
 - [SirusDoma/MaiSense](https://github.com/SirusDoma/MaiSense) - Touch Sensor Emulation for SDEY - 💦 Touchlaundry Disco
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
 - [cloudflare/workerd](https://github.com/cloudflare/workerd) - The JavaScript / Wasm runtime that powers Cloudflare Workers
@@ -692,7 +694,7 @@
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 Go Captcha is a behavior security CAPTCHA, which implements text click verification, slide verification and rotation verification.
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 - [iyear/pure-live-core](https://github.com/iyear/pure-live-core) - ✨ Make Live Pure Again
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [develar/app-builder](https://github.com/develar/app-builder) - Generic helper tool to build app in a distributable format
@@ -792,7 +794,6 @@
 - [twikoojs/twikoo-netlify](https://github.com/twikoojs/twikoo-netlify) - Deploy twikoo to Netlify
 - [Ruanxingzhi/bzojch](https://github.com/Ruanxingzhi/bzojch) - BZOJ离线题库
 - [Cnily03/cnily.me](https://github.com/Cnily03/cnily.me) - My personal static website powered by Hugo.
-- [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
 - [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
 - [yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php) - A tool to get the download link of the Baidu netdisk / 一个获取百度网盘分享链接下载地址的工具
 - [Xecades/Notes](https://github.com/Xecades/Notes) - My notebook.
@@ -1404,16 +1405,16 @@
 - [0x36/weightBufs](https://github.com/0x36/weightBufs) - ANE kernel r/w exploit for iOS 15 and macOS 12
 - [KJCracks/Clutch](https://github.com/KJCracks/Clutch) - Fast iOS executable dumper
 - [finogeeks/FinClipSDK](https://github.com/finogeeks/FinClipSDK) - FinClip 核心 SDK 插件，用于小程序基础的 API 与组件调用  / Core SDK for FinClip
-- [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
+- [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 - [Lakr233/ActivateMac](https://github.com/Lakr233/ActivateMac) - Show MS Windows style activation dialog on my screen.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 
 ## Others 
 
-- [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) - 
+- [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) - iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.
 - [0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki) - linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频
-- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1000多个poc/exp，长期更新。
+- [wy876/POC](https://github.com/wy876/POC) - 收集整理漏洞EXP/POC,大部分漏洞来源网络，目前收集整理了1100多个poc/exp，长期更新。
 - [CTF-Archives/2024CISCN-Finals-AWDP](https://github.com/CTF-Archives/2024CISCN-Finals-AWDP) - 第十七届全国大学生信息安全竞赛创新实践能力赛决赛 - AWDP
 - [ziyao233/khay](https://github.com/ziyao233/khay) - Wayland compositors are over urbanization. | Wayland 混成器还是过于城市化了
 - [LanYunDev/InjectLib_bak](https://github.com/LanYunDev/InjectLib_bak) - ⚠️ 仅存放surge crack到Releases (随缘更新)
@@ -1689,7 +1690,7 @@
 
 - [Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) - Repository for the Paper (AAAI 2024, Oral) --- Visual Adversarial Examples Jailbreak Large Language Models
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
-- [B1ue1nWh1te/Poseidon](https://github.com/B1ue1nWh1te/Poseidon) - 海神波塞冬工具对常用的链上交互操作进行了封装，使得开发者能够便捷地与任何以太坊同构链交互，主要用于在CTF比赛中攻克Blockchain方向的题目。
+- [B1ue1nWh1te/Poseidon](https://github.com/B1ue1nWh1te/Poseidon) - 海神波塞冬，工具对常用的链上交互操作进行了封装，使得开发者能够便捷地与任何以太坊同构链交互，主要用于在CTF比赛中攻克Blockchain方向的题目。
 - [junaire/run.cu](https://github.com/junaire/run.cu) - Compile & run a single CUDA file on the cloud GPUs
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063) - poc for CVE-2024-38063 (RCE in tcpip.sys)
@@ -1776,6 +1777,7 @@
 - [Esonhugh/WeaponizedVSCode](https://github.com/Esonhugh/WeaponizedVSCode) - A VSCode Workspace based hacking environment utils. Starting your Note-Driven Hacking experience. Checkout the following link to sample of HackThebox mist.htb
 - [H4ckF0rFun/Fuck-Lesson](https://github.com/H4ckF0rFun/Fuck-Lesson) - 吉林大学抢课脚本
 - [mit-han-lab/dlg](https://github.com/mit-han-lab/dlg) - [NeurIPS 2019] Deep Leakage From Gradients
+- [jianchang512/stt](https://github.com/jianchang512/stt) - Voice Recognition to Text Tool / 一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式
 - [oskaerik/theevalgame](https://github.com/oskaerik/theevalgame) - Test your Python skills!
 - [ustclug/hackergame](https://github.com/ustclug/hackergame) - Hackergame platform for 2018 and beyond
 - [NoSparkHere/hackergame](https://github.com/NoSparkHere/hackergame) - Hackergame platform customized for ZFun
@@ -2114,7 +2116,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 176 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 171 stars and 175 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -2155,6 +2157,7 @@
 
 ## Rust 
 
+- [blockscout/blockscout-rs](https://github.com/blockscout/blockscout-rs) - Microservices for blockscout indexer
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [mathetake/alvm](https://github.com/mathetake/alvm) - Run Linux ELF binary directly on macOS via hypervisor.framework
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
@@ -2594,12 +2597,12 @@
 - [galacean/engine](https://github.com/galacean/engine) - A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
 - [askorama/orama](https://github.com/askorama/orama) - 🌌  Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service!
 - [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
-- [sst/open-next](https://github.com/sst/open-next) - Open-source Next.js adapter for AWS
+- [opennextjs/opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) - Open-source Next.js adapter for AWS
 - [thien-do/memos-pub](https://github.com/thien-do/memos-pub) - Markdown Blogging, Without Setup or Signup
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [octokit/auth-app.js](https://github.com/octokit/auth-app.js) - GitHub App authentication for JavaScript
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) - ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 - [KerryCodes/leggo](https://github.com/KerryCodes/leggo) - 一款拖拽式前端表单生成低代码工具～
