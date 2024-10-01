@@ -119,6 +119,7 @@
 
 ## C 
 
+- [n0b0dyCN/RedisModules-ExecuteCommand](https://github.com/n0b0dyCN/RedisModules-ExecuteCommand) - Tools, utilities and scripts to help you write redis modules!
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [positive-security/send-my](https://github.com/positive-security/send-my) - Upload arbitrary data via Apple's Find My network.
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
@@ -261,7 +262,6 @@
 
 - [CrazyZhang666/EAappEmulater](https://github.com/CrazyZhang666/EAappEmulater) - EAapp模拟器 By Misaka_Mikoto_01 And CrazyZhang666
 - [wh0amitz/SharpRODC](https://github.com/wh0amitz/SharpRODC) - To audit the security of read-only domain controllers
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [MInggongK/Penetration-mining-src](https://github.com/MInggongK/Penetration-mining-src) - 一款集成了H3C,致远，泛微，万户，帆软，海康威视，金蝶云星空，畅捷通，Struts等多个RCE漏洞利用工具
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
@@ -373,6 +373,7 @@
 
 ## C++ 
 
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [vxCrypt0r/AMSI_VEH](https://github.com/vxCrypt0r/AMSI_VEH) - A Powershell AMSI Bypass technique via Vectored Exception Handler (VEH). This technique does not perform assembly instruction patching, function hooking or Import Address Table (IAT) modification.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
@@ -1688,6 +1689,7 @@
 
 ## Python 
 
+- [Dliv3/redis-rogue-server](https://github.com/Dliv3/redis-rogue-server) - Redis 4.x/5.x RCE
 - [Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) - Repository for the Paper (AAAI 2024, Oral) --- Visual Adversarial Examples Jailbreak Large Language Models
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [B1ue1nWh1te/Poseidon](https://github.com/B1ue1nWh1te/Poseidon) - 海神波塞冬，工具对常用的链上交互操作进行了封装，使得开发者能够便捷地与任何以太坊同构链交互，主要用于在CTF比赛中攻克Blockchain方向的题目。
@@ -1839,7 +1841,7 @@
 - [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
 - [utiasDSL/gym-pybullet-drones](https://github.com/utiasDSL/gym-pybullet-drones) - PyBullet Gymnasium environments for single and multi-agent reinforcement learning of quadcopter control
 - [zxqfl/generalscnn](https://github.com/zxqfl/generalscnn) - Convolutional neural network for playing generals.io
-- [google/mozc-devices](https://github.com/google/mozc-devices) - Automatically exported from code.google.com/p/mozc-morse
+- [google/mozc-devices](https://github.com/google/mozc-devices) - Circuit diagrams and firmware source code for Gboard DIY keyboards
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [yinan-c/RSS-GPT](https://github.com/yinan-c/RSS-GPT) - Using ChatGPT to summarize your personalized RSS feeds
 - [TechCiel/Reachee](https://github.com/TechCiel/Reachee) - 
