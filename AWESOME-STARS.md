@@ -119,6 +119,7 @@
 
 ## C 
 
+- [robalb/x86-64-playground](https://github.com/robalb/x86-64-playground) - Run, learn, and debug x86-64 Assembly code directly from your browser
 - [misaka18931/jlu-drcom-client.nix](https://github.com/misaka18931/jlu-drcom-client.nix) - Net Authentication Client for JiLin University as NixOS module
 - [janmojzis/tinyssh](https://github.com/janmojzis/tinyssh) - TinySSH is small server (less than 100000 words of code)
 - [n0b0dyCN/RedisModules-ExecuteCommand](https://github.com/n0b0dyCN/RedisModules-ExecuteCommand) - Tools, utilities and scripts to help you write redis modules!
@@ -376,7 +377,10 @@
 
 ## C++ 
 
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+- [Hirasawa-Yui01/Works](https://github.com/Hirasawa-Yui01/Works) - 
+- [gzc/WebBench](https://github.com/gzc/WebBench) - Web Bench is very simple tool for benchmarking WWW or proxy servers.
+- [varwara/CVE-2024-35250](https://github.com/varwara/CVE-2024-35250) - PoC for the Untrusted Pointer Dereference in the ks.sys driver
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [vxCrypt0r/AMSI_VEH](https://github.com/vxCrypt0r/AMSI_VEH) - A Powershell AMSI Bypass technique via Vectored Exception Handler (VEH). This technique does not perform assembly instruction patching, function hooking or Import Address Table (IAT) modification.
 - [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
@@ -583,7 +587,7 @@
 - [zsakvo/BiliMusic](https://github.com/zsakvo/BiliMusic) - Bilibili，Music！
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
-- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。
+- [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 - [CiyuTeam/Ciyu](https://github.com/CiyuTeam/Ciyu) - 词遇是一个通过阅读推荐来完成单词间隔重复记忆的开源产品。新推荐的文章总会含有需要巩固的已规划词，用户可以在流畅的阅读中不失记忆的高效性。
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
@@ -621,12 +625,14 @@
 
 ## Go 
 
+- [Mikubill/transfer](https://github.com/Mikubill/transfer) - 🍭 集合多个API的大文件传输工具.
+- [Esonhugh/ProxyInBrowser](https://github.com/Esonhugh/ProxyInBrowser) - Open Source XSS exploitation tool. using http proxy to access the browser which executed this project. [Engineering Experimental]
 - [NHAS/reverse_ssh](https://github.com/NHAS/reverse_ssh) - SSH based reverse shell
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [M0nster3/OneLong](https://github.com/M0nster3/OneLong) - 简化前期信息收集的繁重任务，协助红队人员快速的信息收集，达到一条龙的效果
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [Luxcis/Jetbrains-Helper-Go](https://github.com/Luxcis/Jetbrains-Helper-Go) - 一个有助于提升Jetbrains服务商相关产品易用性的工具(GO语言版) 改写自https://github.com/NotoChen/Jetbrains-Help
@@ -699,7 +705,7 @@
 - [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
 - [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 Go Captcha is a behavior security CAPTCHA, which implements text click verification, slide verification and rotation verification.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [iyear/pure-live-core](https://github.com/iyear/pure-live-core) - ✨ Make Live Pure Again
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [develar/app-builder](https://github.com/develar/app-builder) - Generic helper tool to build app in a distributable format
@@ -793,6 +799,7 @@
 
 ## HTML 
 
+- [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [kaist-hacking/CVE-2023-6702](https://github.com/kaist-hacking/CVE-2023-6702) - Chrome Renderer 1day RCE via Type Confusion in Async Stack Trace (v8ctf submission)
 - [iofeqkurrc42/jetbra-server-go](https://github.com/iofeqkurrc42/jetbra-server-go) - 
 - [AmazingRise/hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) - Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.
@@ -951,6 +958,7 @@
 
 ## JavaScript 
 
+- [mattiasw/ExifReader](https://github.com/mattiasw/ExifReader) - A JavaScript Exif info parser.
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [Nicolasking007/Scriptable](https://github.com/Nicolasking007/Scriptable) - Scriptable - widgets - iOS
@@ -1110,6 +1118,7 @@
 - [hexojs/hexo-renderer-inferno](https://github.com/hexojs/hexo-renderer-inferno) - Inferno.js JSX renderer for Hexo
 - [arcxingye/EatKano](https://github.com/arcxingye/EatKano) - H5 Games
 - [kanasimi/work_crawler](https://github.com/kanasimi/work_crawler) - Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalke
+- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
 - [windowjs/windowjs](https://github.com/windowjs/windowjs) - Window.js is an open-source Javascript runtime for desktop graphics programming.
 - [sockjs/sockjs-node](https://github.com/sockjs/sockjs-node) - WebSocket emulation - Node.js server
@@ -1281,6 +1290,7 @@
 
 ## Jupyter Notebook 
 
+- [tomerfiliba-org/reedsolomon](https://github.com/tomerfiliba-org/reedsolomon) - ⏳🛡 Pythonic universal errors-and-erasures Reed-Solomon codec to protect your data from errors and bitrot. Includes a future-proof zero-dependencies pure-python implementation 🔮 and an optional speed-o
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [verazuo/jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.
@@ -1694,6 +1704,7 @@
 
 ## Python 
 
+- [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) - A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches and common tags.
 - [mnixry/outline-authentik-groupsync](https://github.com/mnixry/outline-authentik-groupsync) - Synchronize group assignments between an Outline document and Authentik using Outline webhooks.
 - [cr4n5/XiaoYuanKouSuan](https://github.com/cr4n5/XiaoYuanKouSuan) - 小猿口算_已达到0.00s
@@ -2126,7 +2137,7 @@
 - [corpnewt/gibMacOS](https://github.com/corpnewt/gibMacOS) - Py2/py3 script that can download macOS components direct from Apple
 - [arkane-systems/genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [lbr77/lbr77](https://github.com/lbr77/lbr77) - 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 175 stars and 175 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 177 stars and 174 forks 🌟
 - [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 - [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [xmcp/ACFan](https://github.com/xmcp/ACFan) - 名副其实的自动AC机
@@ -2412,7 +2423,6 @@
 
 - [saicaca/hexo-theme-vivia](https://github.com/saicaca/hexo-theme-vivia) - A clean and minimalist theme for Hexo.
 - [XPoet/hexo-theme-keep](https://github.com/XPoet/hexo-theme-keep) - :rainbow: A simple and light theme for Hexo. It makes you more focused on writing.
-- [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) - 🦋 A Hexo Theme: Butterfly
 - [YunYouJun/hexo-theme-yun](https://github.com/YunYouJun/hexo-theme-yun) - ☁️ A fast & light & lovely theme for Hexo. 一个对可爱自以为是的 Hexo 主题。
 - [2X-ercha/2X-ercha.github.io](https://github.com/2X-ercha/2X-ercha.github.io) - ercha's blog
 
@@ -2474,6 +2484,7 @@
 
 ## TypeScript 
 
+- [jehna/humanify](https://github.com/jehna/humanify) - Deobfuscate Javascript code using ChatGPT
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Free, Secure, Distributed, Modern Control Panel for Minecraft and most Steam Game Servers.
@@ -2612,7 +2623,7 @@
 - [transitive-bullshit/chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) - Twitter bot powered by OpenAI's ChatGPT API. It's aliveeeee 🤖
 - [koishijs/chatgpt-bot](https://github.com/koishijs/chatgpt-bot) - AI conversation based on ChatGPT | 基于 ChatGPT 的 AI 对话机器人
 - [galacean/engine](https://github.com/galacean/engine) - A typescript interactive engine, support 2D, 3D, animation, physics, built on WebGL and glTF.
-- [askorama/orama](https://github.com/askorama/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
+- [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  A complete search engine and RAG pipeline in your browser, server or edge network with support for full-text, vector, and hybrid search in less than 2kb.
 - [vue-terminal/vue-termui](https://github.com/vue-terminal/vue-termui) - The Modern Terminal UI Framework
 - [opennextjs/opennextjs-aws](https://github.com/opennextjs/opennextjs-aws) - Open-source Next.js adapter for AWS
 - [thien-do/memos-pub](https://github.com/thien-do/memos-pub) - Markdown Blogging, Without Setup or Signup
