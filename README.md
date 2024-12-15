@@ -2,8 +2,6 @@
 
 - How to reach me:  **me#nvme0n1p.dev**
 
-- My resume: [Resume](https://github.com/lbr77/Resume/releases/latest)
-
 ![](https://moe-counter.glitch.me/get/@lbr77)
 
 ![](https://github-readme-stats.vercel.app/api?username=lbr77&count_private=true&show_icons=true&theme=buefy)
