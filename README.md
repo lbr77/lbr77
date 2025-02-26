@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm LiBr</h1>
 
 - How to reach me:  **me#nvme0n1p.dev**
-- [My Resume](https://cdn.nvme0n1p.dev/Resume.pdf)
 
+ 
 ![](https://moe-counter.glitch.me/get/@lbr77)
 
 ![](https://github-readme-stats.vercel.app/api?username=lbr77&count_private=true&show_icons=true&theme=buefy)
