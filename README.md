@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm LiBr</h1>
 
-- How to reach me:  **me#nvme0n1p.dev**
+- **me#nvme0n1p.dev**
 
  
 ![](https://moe-counter.glitch.me/get/@lbr77)
