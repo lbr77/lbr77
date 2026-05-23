@@ -5,7 +5,6 @@
  
 ![](https://count.getloli.com/@lbr77)
 
-![](https://github-readme-stats.vercel.app/api?username=lbr77&count_private=true&show_icons=true&theme=buefy)
 
 
 <details><summary>Code Times from 2020.10</summary>
