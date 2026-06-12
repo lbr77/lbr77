@@ -2,7 +2,6 @@
 
 - **me#nvme0n1p.dev**
 
-[Resume](https://resume.nvme0n1p.dev)
  
 ![](https://count.getloli.com/@lbr77)
 
